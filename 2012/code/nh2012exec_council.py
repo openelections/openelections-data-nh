@@ -114,15 +114,25 @@ for sheet in sheets:
                         else:
                             results_dict[district][town][candidate]=int(value)
                 elif(town.lower()=='totals'):
-                    for col in cols_dict:
-                        candidate=cols_dict[col]
-                        if(candidate in candidate_dict):
-                            fmt=wb.xf_list[ws.cell_xf_index(row,col)]
-                            bold=wb.font_list[fmt.font_index].bold
-                            if(bold==1):
-                                candidate_dict[candidate]['Winner']=True
-                            else:
-                                candidate_dict[candidate]['Winner']=False
+                    print district, row, ws.row(row),cols_dict.keys()
+#                    for col in cols_dict:
+#                        candidate=cols_dict[col]
+#                        if(candidate in candidate_dict):
+#                            fmt=wb.xf_list[ws.cell_xf_index(row,col)]
+#                            bold=wb.font_list[fmt.font_index].bold
+#                            if(bold==1):
+#                                candidate_dict[candidate]['Winner']=True
+#                            else:
+#                                candidate_dict[candidate]['Winner']=False
+                    winning_total=max([int(ws.cell(row,col).value) for col in range(offset+1,offset+len(candidate_dict)+1)])
+                    winning_col=[col for col in range(offset+1,offset+len(candidate_dict)+1)
+                                 if int(ws.cell(row,col).value)==winning_total][0]
+                    for col in range(offset+1,offset+len(candidate_dict)+1):
+                        candidate=cols_dict[col-offset]
+                        if(col==winning_col):
+                            candidate_dict[candidate]['Winner']=True
+                        else:
+                            candidate_dict[candidate]['Winner']=False
         elif(start_flag==1):
             start_flag=2
     # Clean up multiple wards into one set of results per town
