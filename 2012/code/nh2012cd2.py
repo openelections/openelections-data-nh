@@ -33,7 +33,7 @@ candidates=['Bass','Kuster','Macia','Scatter']
 candidate_dict={'Bass':{'name':'Charles Bass' ,
                         'party':'R',
                         'winner':False},
-                'Kuster' :{'name':'Ann McLane Kuster,',
+                'Kuster' :{'name':'Ann McLane Kuster',
                            'party':'D',
                            'winner':True},
                 'Macia' :{'name':'Hardy Macia',
