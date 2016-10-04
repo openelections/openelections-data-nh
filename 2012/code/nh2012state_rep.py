@@ -32,7 +32,7 @@ f.close()
 results_dict=dict()
 
 import csv
-csvfile=open(rep_dir+'/20121106__nh__general__town__state__rep.csv','wb')
+csvfile=open(rep_dir+'/20121106__nh__general__state__house__town.csv','wb')
 csvwriter=csv.writer(csvfile)
 csvwriter.writerow(['town',
                     'county', 
@@ -94,20 +94,21 @@ for url in urls:
                         party_code=value.split(',')[-1]
                         party_code=re.sub('\s+','',party_code)
                         candidate_dict[candidate]=dict()
-                        if(party_code=='r'):
-                            candidate_dict[candidate]['Party']='REP'
-                        elif(party_code=='rtc'):
-                            candidate_dict[candidate]['Party']='RTC'
-                        elif(party_code=='d'):
-                            candidate_dict[candidate]['Party']='DEM'
-                        elif(party_code=='lib'):
-                            candidate_dict[candidate]['Party']='LIB'
-                        elif(party_code=='con'):
-                            candidate_dict[candidate]['Party']='CON'
-                        elif(party_code=='und' or party_code=='i' or 
-                        party_code=='i.m.' or party_code=='d&r' or 
-                        party_code=='ind' or party_code=='i&r'  or party_code=='u&r'):
-                            candidate_dict[candidate]['Party']='IND'
+#                        if(party_code=='r'):
+#                            candidate_dict[candidate]['Party']='REP'
+#                        elif(party_code=='rtc'):
+#                            candidate_dict[candidate]['Party']='RTC'
+#                        elif(party_code=='d'):
+#                            candidate_dict[candidate]['Party']='DEM'
+#                        elif(party_code=='lib'):
+#                            candidate_dict[candidate]['Party']='LIB'
+#                        elif(party_code=='con'):
+#                            candidate_dict[candidate]['Party']='CON'
+#                        elif(party_code=='und' or party_code=='i' or 
+#                        party_code=='i.m.' or party_code=='d&r' or 
+#                        party_code=='ind' or party_code=='i&r'  or party_code=='u&r'):
+#                            candidate_dict[candidate]['Party']='IND'
+                        candidate_dict[candidate]['Party']=party_code.upper()
                         cols_dict[col]=candidate
                 #print candidate_dict.keys()
                 header_row=0

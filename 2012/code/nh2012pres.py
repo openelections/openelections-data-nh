@@ -26,10 +26,10 @@ results_dict=dict()
 cols_dict=dict()
 candidates=['Romney','Obama','Johnson','Goode','Paul','Stein','Scatter']
 candidate_dict={'Romney':{'name':'Mitt Romney' ,
-                          'party':'REP',
+                          'party':'R',
                           'winner':False},
                 'Obama' :{'name':'Barack Obama',
-                          'party':'DEM',
+                          'party':'D',
                           'winner':True},
                 'Johnson' :{'name':'Gary Johnson',
                             'party':'LIB',
@@ -98,7 +98,7 @@ for town in towns:
         del results_dict[ward]
 
 import csv
-csvfile=open(rep_dir+'/20121106__nh__general__town__pres.csv','wb')
+csvfile=open(rep_dir+'/20121106__nh__general__president__town.csv','wb')
 csvwriter=csv.writer(csvfile)
 csvwriter.writerow(['town',
                     'county',

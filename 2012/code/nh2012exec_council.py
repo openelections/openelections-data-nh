@@ -27,7 +27,7 @@ f.close()
 results_dict=dict()
 
 import csv
-csvfile=open(rep_dir+'/20121106__nh__general__town__exec_council.csv','wb')
+csvfile=open(rep_dir+'/20121106__nh__general__executive__council__town.csv','wb')
 csvwriter=csv.writer(csvfile)
 csvwriter.writerow(['town',
                     'county', 
@@ -73,17 +73,19 @@ for sheet in sheets:
                         candidate_dict[candidate]['Party']='IND'
                     else:
                         candidate=re.search('.*(?=\s*,)',value).group(0)
+                        candidate=re.sub('\s+',' ',candidate)
                         party_code=re.search('(?<=,).*',value).group(0)
                         party_code=re.sub('\s+','',party_code)
                         candidate_dict[candidate]=dict()
-                        if(party_code=='r'):
-                            candidate_dict[candidate]['Party']='REP'
-                        elif(party_code=='d'):
-                            candidate_dict[candidate]['Party']='DEM'
-                        elif(party_code=='lib'):
-                            candidate_dict[candidate]['Party']='LIB'
-                        elif(party_code=='con'):
-                            candidate_dict[candidate]['Party']='CON'
+#                        if(party_code=='r'):
+#                            candidate_dict[candidate]['Party']='REP'
+#                        elif(party_code=='d'):
+#                            candidate_dict[candidate]['Party']='DEM'
+#                        elif(party_code=='lib'):
+#                            candidate_dict[candidate]['Party']='LIB'
+#                        elif(party_code=='con'):
+#                            candidate_dict[candidate]['Party']='CON'
+                        candidate_dict[candidate]['Party']=party_code.upper()
                     cols_dict[col]=candidate
         except:
             pass    

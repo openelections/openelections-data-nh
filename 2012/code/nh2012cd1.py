@@ -31,10 +31,10 @@ results_dict=dict()
 cols_dict=dict()
 candidates=['Guinta','Shea-Porter','Kelly','Scatter']
 candidate_dict={'Guinta':{'name':'Frank C. Guinta' ,
-                          'party':'REP',
+                          'party':'R',
                           'winner':False},
                 'Shea-Porter' :{'name':'Carol Shea-Porter',
-                                'party':'DEM',
+                                'party':'D',
                                 'winner':True},
                 'Kelly' :{'name':'Brendan Kelly',
                           'party':'LIB',
@@ -95,7 +95,7 @@ for town in results_dict.keys():
     results_dict[town]['county']=county_dict[town]
 
 import csv
-csvfile=open(rep_dir+'/20121106__nh__general__town__cd1.csv','wb')
+csvfile=open(rep_dir+'/20121106__nh__general__house__1__town.csv','wb')
 csvwriter=csv.writer(csvfile)
 csvwriter.writerow(['town',
                     'county', 
