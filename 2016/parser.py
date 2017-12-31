@@ -5,7 +5,7 @@ import requests
 counties = ['Carroll', 'Cheshire', 'Coos', 'Grafton', 'Hillsborough', 'Merrimack', 'Rockingham', 'Strafford Sullivan', 'Belknap']
 senate_counties = ['Belknap', 'Carroll', 'Cheshire', 'Coos', 'Grafton', 'Hillsborough', 'Merrimack', 'Rockingham', 'Strafford', 'Sullivan']
 offices = ['President', 'Governor', 'USS']
-house_offices = ['Congressional District 1', 'Congressional District 2']#, 'Executive Council', 'State Senate', 'House']
+house_offices = ['Congressional District 1', 'Congressional District 2']
 exec_council_offices = ['1', '2', '3', '4', '5']
 state_senate_districts = ['1', '2', '3-4', '5-6', '7-8','9-11', '12-15', '16-18','19-21', '22-24']
 results = []
