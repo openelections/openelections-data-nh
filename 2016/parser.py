@@ -170,5 +170,5 @@ for county in senate_counties:
 
 csvfile=open('20161108__nh__general__town.csv','wb')
 csvwriter=csv.writer(csvfile)
-csvwriter.writerow(['county', 'town', 'office', 'district', 'party', 'candidate', 'votes'])
+csvwriter.writerow(['county', 'town', 'office', 'party', 'candidate', 'votes'])
 csvwriter.writerows(results)
