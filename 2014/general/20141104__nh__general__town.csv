@@ -61,7 +61,7 @@ Belknap,Laconia Wd 3,State House District No. 3,D,Miller,382.0
 Belknap,Laconia Wd 3,State House District No. 3,D,Huot,484.0
 Belknap,Laconia Wd 3,State House District No. 3,D,Baxley,342.0
 Belknap,Laconia Wd 3,State House District No. 3,D,Dawson,407.0
-Belknap,Laconia Wd 3,State House District No. 3,,Scatter, 
+Belknap,Laconia Wd 3,State House District No. 3,,Scatter,
 Belknap,Laconia Wd 4,State House District No. 3,D,Miller,274.0
 Belknap,Laconia Wd 4,State House District No. 3,D,Huot,363.0
 Belknap,Laconia Wd 4,State House District No. 3,D,Baxley,250.0
@@ -96,7 +96,7 @@ Belknap,Gilmanton,State House District No. 5,R,Varney,736.0
 Belknap,Gilmanton,State House District No. 5,R,Russell,867.0
 Belknap,Gilmanton,State House District No. 5,D,Chase,615.0
 Belknap,Gilmanton,State House District No. 5,D,Brown,478.0
-Belknap,Gilmanton,State House District No. 5,,Scatter, 
+Belknap,Gilmanton,State House District No. 5,,Scatter,
 Belknap,Belmont,State House District No. 6,R,Sylvia,1217.0
 Belknap,Belmont,State House District No. 6,R,Lebreche,1314.0
 Belknap,Belmont,State House District No. 6,D,Cormier,922.0
@@ -125,7 +125,7 @@ Belknap,Laconia Wd 2,State House District No. 9,D,Arsenault,348.0
 Belknap,Laconia Wd 2,State House District No. 9,,Scatter,
 Belknap,Laconia Wd 3,State House District No. 9,R,Fisher,411.0
 Belknap,Laconia Wd 3,State House District No. 9,D,Arsenault,500.0
-Belknap,Laconia Wd 3,State House District No. 9,,Scatter, 
+Belknap,Laconia Wd 3,State House District No. 9,,Scatter,
 Belknap,Laconia Wd 4,State House District No. 9,R,Fisher,343.0
 Belknap,Laconia Wd 4,State House District No. 9,D,Arsenault,383.0
 Belknap,Laconia Wd 4,State House District No. 9,,Scatter,1.0
@@ -357,12 +357,12 @@ Cheshire,Keene Ward 1,State House District No. 4,,Scatter,3.0
 Cheshire,Keene Ward 2,State House District No. 5,D,Bordenet,1187.0
 Cheshire,Keene Ward 2,State House District No. 5,,Scatter,7.0
 Cheshire,Keene Ward 3,State House District No. 6,D,Robertson,1169.0
-Cheshire,Keene Ward 3,State House District No. 6,,Scatter, 
+Cheshire,Keene Ward 3,State House District No. 6,,Scatter,
 Cheshire,Keene Ward 4,State House District No. 7,D,Johnsen,1169.0
 Cheshire,Keene Ward 4,State House District No. 7,,Scatter,5.0
 Cheshire,Keene Ward 5,State House District No. 8,R,Hansel,879.0
 Cheshire,Keene Ward 5,State House District No. 8,D,Chase,930.0
-Cheshire,Keene Ward 5,State House District No. 8,,Scatter, 
+Cheshire,Keene Ward 5,State House District No. 8,,Scatter,
 Cheshire,Dublin,State House District No. 9,R,Creekmore,290.0
 Cheshire,Dublin,State House District No. 9,R,Bussiere,287.0
 Cheshire,Dublin,State House District No. 9,D,Ley,419.0
@@ -849,7 +849,7 @@ Grafton,Wentworth,State House District No. 16,D,Friedrich,128.0
 Grafton,Wentworth,State House District No. 16,,Scatter,1.0
 Grafton,Alexandria,State House District No. 17,R,Darrow,354.0
 Grafton,Alexandria,State House District No. 17,D,Mulholland,250.0
-Grafton,Alexandria,State House District No. 17,,Scatter, 
+Grafton,Alexandria,State House District No. 17,,Scatter,
 Grafton,Alexandria,State House District No. 17,,Rottenecker,1.0
 Grafton,Ashland,State House District No. 17,R,Darrow,376.0
 Grafton,Ashland,State House District No. 17,D,Mulholland,333.0
@@ -862,7 +862,7 @@ Grafton,Bridgewater,State House District No. 17,,Rottenecker,
 Grafton,Bristol,State House District No. 17,R,Darrow,589.0
 Grafton,Bristol,State House District No. 17,D,Mulholland,451.0
 Grafton,Bristol,State House District No. 17,,Scatter,1.0
-Grafton,Bristol,State House District No. 17,,Rottenecker, 
+Grafton,Bristol,State House District No. 17,,Rottenecker,
 Grafton,Enfield,State House District No. 17,R,Darrow,647.0
 Grafton,Enfield,State House District No. 17,D,Mulholland,972.0
 Grafton,Enfield,State House District No. 17,,Scatter,
@@ -959,7 +959,7 @@ Hillsborough,Bedford,State House District No. 7,R,Peterson,5490.0
 Hillsborough,Bedford,State House District No. 7,D,Hanauer,2966.0
 Hillsborough,Bedford,State House District No. 7,D,Browne,2820.0
 Hillsborough,Bedford,State House District No. 7,D,Dupuis,2910.0
-Hillsborough,Bedford,State House District No. 7,,Scatter, 
+Hillsborough,Bedford,State House District No. 7,,Scatter,
 Hillsborough,Manchester Ward 1,State House District No. 8,R,Rosa,1466.0
 Hillsborough,Manchester Ward 1,State House District No. 8,R,Lachance,1834.0
 Hillsborough,Manchester Ward 1,State House District No. 8,D,Goley,2014.0
@@ -1115,14 +1115,14 @@ Hillsborough,Nashua Ward 5,State House District No. 32,R,Palmer,1652.0
 Hillsborough,Nashua Ward 5,State House District No. 32,D,Pedersen,1533.0
 Hillsborough,Nashua Ward 5,State House District No. 32,R,Labrecque,1473.0
 Hillsborough,Nashua Ward 5,State House District No. 32,D,MacAuslan,1298.0
-Hillsborough,Nashua Ward 5,State House District No. 32,, Scatter,14.0
+Hillsborough,Nashua Ward 5,State House District No. 32,,Scatter,14.0
 Hillsborough,Nashua Ward 6,State House District No. 33,R,Simoneau,1020.0
 Hillsborough,Nashua Ward 6,State House District No. 33,R,Reed,951.0
 Hillsborough,Nashua Ward 6,State House District No. 33,R,Saunders,967.0
 Hillsborough,Nashua Ward 6,State House District No. 33,D,Guerette,1055.0
 Hillsborough,Nashua Ward 6,State House District No. 33,D,Booras,1055.0
 Hillsborough,Nashua Ward 6,State House District No. 33,d,Gidge,1340.0
-Hillsborough,Nashua Ward 6,State House District No. 33,, Scatter,12.0
+Hillsborough,Nashua Ward 6,State House District No. 33,,Scatter,12.0
 Hillsborough,Nashua Ward 7,State House District No. 34,R,Twombly,1118.0
 Hillsborough,Nashua Ward 7,State House District No. 34,R,Erickson,998.0
 Hillsborough,Nashua Ward 7,State House District No. 34,R,Hogan,1100.0
@@ -1413,10 +1413,10 @@ Merrimack,Hopkinton,State House District No. 10,IND,Luneau,1546.0
 Merrimack,Hopkinton,State House District No. 10,,Scatter,16.0
 Merrimack,Concord Ward 1,State House District No. 11,R,Tasker,674.0
 Merrimack,Concord Ward 1,State House District No. 11,D,Shurtleff,829.0
-Merrimack,Concord Ward 1,State House District No. 11,,Scatter, 
+Merrimack,Concord Ward 1,State House District No. 11,,Scatter,
 Merrimack,Concord Ward 2,State House District No. 12,R,Moore,502.0
 Merrimack,Concord Ward 2,State House District No. 12,D,Henle,745.0
-Merrimack,Concord Ward 2,State House District No. 12,,Scatter, 
+Merrimack,Concord Ward 2,State House District No. 12,,Scatter,
 Merrimack,Concord Ward 3,State House District No. 13,D,Frazer,847.0
 Merrimack,Concord Ward 3,State House District No. 13,,Scatter,29.0
 Merrimack,Concord Ward 4,State House District No. 14,D,MacKay,984.0
@@ -1429,7 +1429,7 @@ Merrimack,Concord Ward 8,State House District No. 17,R,Wood,540.0
 Merrimack,Concord Ward 8,State House District No. 17,D,Patten,761.0
 Merrimack,Concord Ward 8,State House District No. 17,,Scatter,2.0
 Merrimack,Concord Ward 9,State House District No. 18,D,Bradley,826.0
-Merrimack,Concord Ward 9,State House District No. 18,,Scatter, 
+Merrimack,Concord Ward 9,State House District No. 18,,Scatter,
 Merrimack,Concord Ward 10,State House District No. 19,D,Bartlett,1387.0
 Merrimack,Concord Ward 10,State House District No. 19,,Scatter,14.0
 Merrimack,Chichester,State House District No. 20,R,Seaworth,558.0
@@ -1523,7 +1523,7 @@ Merrimack,Concord Ward 3,State House District No. 27,,Scatter,10.0
 Merrimack,Concord Ward 4,State House District No. 27,R,McConaha,413.0
 Merrimack,Concord Ward 4,State House District No. 27,D,Rice,672.0
 Merrimack,Concord Ward 4,State House District No. 27,D,Gile,858.0
-Merrimack,Concord Ward 4,State House District No. 27,,Scatter, 
+Merrimack,Concord Ward 4,State House District No. 27,,Scatter,
 Merrimack,Concord Ward 6,State House District No. 27,R,McConaha,396.0
 Merrimack,Concord Ward 6,State House District No. 27,D,Rice,611.0
 Merrimack,Concord Ward 6,State House District No. 27,D,Gile,686.0
@@ -1574,7 +1574,7 @@ Rockingham,Nottingham,State House District No. 2,,Scatter,7.0
 Rockingham,Raymond,State House District No. 3,R,Matthews,1967.0
 Rockingham,Raymond,State House District No. 3,R,Hoelzel,2015.0
 Rockingham,Raymond,State House District No. 3,R,Kappler,2011.0
-Rockingham,Raymond,State House District No. 3,, Scatter,126.0
+Rockingham,Raymond,State House District No. 3,,Scatter,126.0
 Rockingham,Auburn,State House District No. 4,R,True,1288.0
 Rockingham,Auburn,State House District No. 4,R,Devine,1331.0
 Rockingham,Auburn,State House District No. 4,R,Gannon,1396.0
@@ -1730,10 +1730,10 @@ Rockingham,Exeter,State House District No. 18,R,Nicholson,2589.0
 Rockingham,Exeter,State House District No. 18,R,Ferraro,2613.0
 Rockingham,Exeter,State House District No. 18,R,Goeman,2227.0
 Rockingham,Exeter,State House District No. 18,R,Lourenco,2232.0
-Rockingham,Exeter,State House District No. 18,D,Simpson ,3316.0
-Rockingham,Exeter,State House District No. 18,D,Berrien ,3269.0
-Rockingham,Exeter,State House District No. 18,D,Francese ,3239.0
-Rockingham,Exeter,State House District No. 18,D,Heffron ,3301.0
+Rockingham,Exeter,State House District No. 18,D,Simpson,3316.0
+Rockingham,Exeter,State House District No. 18,D,Berrien,3269.0
+Rockingham,Exeter,State House District No. 18,D,Francese,3239.0
+Rockingham,Exeter,State House District No. 18,D,Heffron,3301.0
 Rockingham,Exeter,State House District No. 18,,Scatter,
 Rockingham,Stratham,State House District No. 19,R,Ward,1709.0
 Rockingham,Stratham,State House District No. 19,R,Abrami,1940.0
@@ -2083,7 +2083,7 @@ Sullivan,Plainfield,State House District No. 1,R,Wenz,277.0
 Sullivan,Plainfield,State House District No. 1,R,Walker,323.0
 Sullivan,Plainfield,State House District No. 1,D,Schmidt,614.0
 Sullivan,Plainfield,State House District No. 1,D,Oxenham,641.0
-Sullivan,Plainfield,State House District No. 1,,Scatter, 
+Sullivan,Plainfield,State House District No. 1,,Scatter,
 Sullivan,Springfield,State House District No. 1,R,Wenz,258.0
 Sullivan,Springfield,State House District No. 1,R,Walker,280.0
 Sullivan,Springfield,State House District No. 1,D,Schmidt,232.0
@@ -2183,21 +2183,21 @@ Sullivan,Lempster,State House District No. 11,,Scatter,0.0
 Sullivan,Washington,State House District No. 11,R,Smith,292.0
 Sullivan,Washington,State House District No. 11,D,Wooddell,155.0
 Sullivan,Washington,State House District No. 11,,Scatter,0.0
-,Atkinson and Gilmanton Ac. Gt.,State Senate District 1,R,Mark Evans, --
-,Atkinson and Gilmanton Ac. Gt.,State Senate District 1,D,Jeff Woodburn, --
-,Atkinson and Gilmanton Ac. Gt.,State Senate District 1,,Scatter, --
+,Atkinson and Gilmanton Ac. Gt.,State Senate District 1,R,Mark Evans,--
+,Atkinson and Gilmanton Ac. Gt.,State Senate District 1,D,Jeff Woodburn,--
+,Atkinson and Gilmanton Ac. Gt.,State Senate District 1,,Scatter,--
 ,Bath,State Senate District 1,R,Mark Evans,213.0
 ,Bath,State Senate District 1,D,Jeff Woodburn,191.0
 ,Bath,State Senate District 1,,Scatter,0.0
 ,Benton,State Senate District 1,R,Mark Evans,73.0
 ,Benton,State Senate District 1,D,Jeff Woodburn,49.0
 ,Benton,State Senate District 1,,Scatter,0.0
-,Bean's Grant,State Senate District 1,R,Mark Evans, --
-,Bean's Grant,State Senate District 1,D,Jeff Woodburn, --
-,Bean's Grant,State Senate District 1,,Scatter, --
-,Bean's Purchase,State Senate District 1,R,Mark Evans, --
-,Bean's Purchase,State Senate District 1,D,Jeff Woodburn, --
-,Bean's Purchase,State Senate District 1,,Scatter, --
+,Bean's Grant,State Senate District 1,R,Mark Evans,--
+,Bean's Grant,State Senate District 1,D,Jeff Woodburn,--
+,Bean's Grant,State Senate District 1,,Scatter,--
+,Bean's Purchase,State Senate District 1,R,Mark Evans,--
+,Bean's Purchase,State Senate District 1,D,Jeff Woodburn,--
+,Bean's Purchase,State Senate District 1,,Scatter,--
 ,Berlin,State Senate District 1,R,Mark Evans,809.0
 ,Berlin,State Senate District 1,D,Jeff Woodburn,1834.0
 ,Berlin,State Senate District 1,,Scatter,1.0
@@ -2210,9 +2210,9 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Carroll,State Senate District 1,R,Mark Evans,130.0
 ,Carroll,State Senate District 1,D,Jeff Woodburn,200.0
 ,Carroll,State Senate District 1,,Scatter,0.0
-,Chandler's Purchase,State Senate District 1,R,Mark Evans, --
-,Chandler's Purchase,State Senate District 1,D,Jeff Woodburn, --
-,Chandler's Purchase,State Senate District 1,,Scatter, --
+,Chandler's Purchase,State Senate District 1,R,Mark Evans,--
+,Chandler's Purchase,State Senate District 1,D,Jeff Woodburn,--
+,Chandler's Purchase,State Senate District 1,,Scatter,--
 ,Clarksville,State Senate District 1,R,Mark Evans,55.0
 ,Clarksville,State Senate District 1,D,Jeff Woodburn,54.0
 ,Clarksville,State Senate District 1,,Scatter,0.0
@@ -2222,18 +2222,18 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Columbia,State Senate District 1,R,Mark Evans,102.0
 ,Columbia,State Senate District 1,D,Jeff Woodburn,133.0
 ,Columbia,State Senate District 1,,Scatter,0.0
-,Crawford's Purchase,State Senate District 1,R,Mark Evans, --
-,Crawford's Purchase,State Senate District 1,D,Jeff Woodburn, --
-,Crawford's Purchase,State Senate District 1,,Scatter, --
-,Cutt's Grant,State Senate District 1,R,Mark Evans, --
-,Cutt's Grant,State Senate District 1,D,Jeff Woodburn, --
-,Cutt's Grant,State Senate District 1,,Scatter, --
+,Crawford's Purchase,State Senate District 1,R,Mark Evans,--
+,Crawford's Purchase,State Senate District 1,D,Jeff Woodburn,--
+,Crawford's Purchase,State Senate District 1,,Scatter,--
+,Cutt's Grant,State Senate District 1,R,Mark Evans,--
+,Cutt's Grant,State Senate District 1,D,Jeff Woodburn,--
+,Cutt's Grant,State Senate District 1,,Scatter,--
 ,Dalton,State Senate District 1,R,Mark Evans,113.0
 ,Dalton,State Senate District 1,D,Jeff Woodburn,215.0
 ,Dalton,State Senate District 1,,Scatter,0.0
-,Dix's Grant,State Senate District 1,R,Mark Evans, --
-,Dix's Grant,State Senate District 1,D,Jeff Woodburn, --
-,Dix's Grant,State Senate District 1,,Scatter, --
+,Dix's Grant,State Senate District 1,R,Mark Evans,--
+,Dix's Grant,State Senate District 1,D,Jeff Woodburn,--
+,Dix's Grant,State Senate District 1,,Scatter,--
 ,Dixville,State Senate District 1,R,Mark Evans,3.0
 ,Dixville,State Senate District 1,D,Jeff Woodburn,2.0
 ,Dixville,State Senate District 1,,Scatter,0.0
@@ -2246,9 +2246,9 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Errol,State Senate District 1,R,Mark Evans,71.0
 ,Errol,State Senate District 1,D,Jeff Woodburn,68.0
 ,Errol,State Senate District 1,,Scatter,0.0
-,Erving's Location,State Senate District 1,R,Mark Evans, --
-,Erving's Location,State Senate District 1,D,Jeff Woodburn, --
-,Erving's Location,State Senate District 1,,Scatter, --
+,Erving's Location,State Senate District 1,R,Mark Evans,--
+,Erving's Location,State Senate District 1,D,Jeff Woodburn,--
+,Erving's Location,State Senate District 1,,Scatter,--
 ,Franconia,State Senate District 1,R,Mark Evans,201.0
 ,Franconia,State Senate District 1,D,Jeff Woodburn,381.0
 ,Franconia,State Senate District 1,,Scatter,0.0
@@ -2258,15 +2258,15 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Green's Grant,State Senate District 1,R,Mark Evans,0.0
 ,Green's Grant,State Senate District 1,D,Jeff Woodburn,1.0
 ,Green's Grant,State Senate District 1,,Scatter,0.0
-,Hadley's Purchase,State Senate District 1,R,Mark Evans, --
-,Hadley's Purchase,State Senate District 1,D,Jeff Woodburn, --
-,Hadley's Purchase,State Senate District 1,,Scatter, --
+,Hadley's Purchase,State Senate District 1,R,Mark Evans,--
+,Hadley's Purchase,State Senate District 1,D,Jeff Woodburn,--
+,Hadley's Purchase,State Senate District 1,,Scatter,--
 ,Jefferson,State Senate District 1,R,Mark Evans,167.0
 ,Jefferson,State Senate District 1,D,Jeff Woodburn,255.0
 ,Jefferson,State Senate District 1,,Scatter,1.0
-,Kilkenny,State Senate District 1,R,Mark Evans, --
-,Kilkenny,State Senate District 1,D,Jeff Woodburn, --
-,Kilkenny,State Senate District 1,,Scatter, --
+,Kilkenny,State Senate District 1,R,Mark Evans,--
+,Kilkenny,State Senate District 1,D,Jeff Woodburn,--
+,Kilkenny,State Senate District 1,,Scatter,--
 ,Lancaster,State Senate District 1,R,Mark Evans,434.0
 ,Lancaster,State Senate District 1,D,Jeff Woodburn,669.0
 ,Lancaster,State Senate District 1,,Scatter,0.0
@@ -2282,18 +2282,18 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Littleton,State Senate District 1,R,Mark Evans,798.0
 ,Littleton,State Senate District 1,D,Jeff Woodburn,1139.0
 ,Littleton,State Senate District 1,,Scatter,1.0
-,Livermore,State Senate District 1,R,Mark Evans, --
-,Livermore,State Senate District 1,D,Jeff Woodburn, --
-,Livermore,State Senate District 1,,Scatter, --
-,Low and Burbank's Grant,State Senate District 1,R,Mark Evans, --
-,Low and Burbank's Grant,State Senate District 1,D,Jeff Woodburn, --
-,Low and Burbank's Grant,State Senate District 1,,Scatter, --
+,Livermore,State Senate District 1,R,Mark Evans,--
+,Livermore,State Senate District 1,D,Jeff Woodburn,--
+,Livermore,State Senate District 1,,Scatter,--
+,Low and Burbank's Grant,State Senate District 1,R,Mark Evans,--
+,Low and Burbank's Grant,State Senate District 1,D,Jeff Woodburn,--
+,Low and Burbank's Grant,State Senate District 1,,Scatter,--
 ,Lyman,State Senate District 1,R,Mark Evans,113.0
 ,Lyman,State Senate District 1,D,Jeff Woodburn,127.0
 ,Lyman,State Senate District 1,,Scatter,0.0
-,Martin's Location,State Senate District 1,R,Mark Evans, --
-,Martin's Location,State Senate District 1,D,Jeff Woodburn, --
-,Martin's Location,State Senate District 1,,Scatter, --
+,Martin's Location,State Senate District 1,R,Mark Evans,--
+,Martin's Location,State Senate District 1,D,Jeff Woodburn,--
+,Martin's Location,State Senate District 1,,Scatter,--
 ,Milan,State Senate District 1,R,Mark Evans,214.0
 ,Milan,State Senate District 1,D,Jeff Woodburn,270.0
 ,Milan,State Senate District 1,,Scatter,0.0
@@ -2306,24 +2306,24 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Northumberland,State Senate District 1,R,Mark Evans,242.0
 ,Northumberland,State Senate District 1,D,Jeff Woodburn,411.0
 ,Northumberland,State Senate District 1,,Scatter,0.0
-,Odell,State Senate District 1,R,Mark Evans, --
-,Odell,State Senate District 1,D,Jeff Woodburn, --
-,Odell,State Senate District 1,,Scatter, --
-,Pinkham's Grant,State Senate District 1,R,Mark Evans, --
-,Pinkham's Grant,State Senate District 1,D,Jeff Woodburn, --
-,Pinkham's Grant,State Senate District 1,,Scatter, --
+,Odell,State Senate District 1,R,Mark Evans,--
+,Odell,State Senate District 1,D,Jeff Woodburn,--
+,Odell,State Senate District 1,,Scatter,--
+,Pinkham's Grant,State Senate District 1,R,Mark Evans,--
+,Pinkham's Grant,State Senate District 1,D,Jeff Woodburn,--
+,Pinkham's Grant,State Senate District 1,,Scatter,--
 ,Pittsburg,State Senate District 1,R,Mark Evans,208.0
 ,Pittsburg,State Senate District 1,D,Jeff Woodburn,159.0
 ,Pittsburg,State Senate District 1,,Scatter,0.0
 ,Randolph,State Senate District 1,R,Mark Evans,43.0
 ,Randolph,State Senate District 1,D,Jeff Woodburn,147.0
 ,Randolph,State Senate District 1,,Scatter,0.0
-,Sargent's Purchase,State Senate District 1,R,Mark Evans, --
-,Sargent's Purchase,State Senate District 1,D,Jeff Woodburn, --
-,Sargent's Purchase,State Senate District 1,,Scatter, --
-,Second College Grant,State Senate District 1,R,Mark Evans, --
-,Second College Grant,State Senate District 1,D,Jeff Woodburn, --
-,Second College Grant,State Senate District 1,,Scatter, --
+,Sargent's Purchase,State Senate District 1,R,Mark Evans,--
+,Sargent's Purchase,State Senate District 1,D,Jeff Woodburn,--
+,Sargent's Purchase,State Senate District 1,,Scatter,--
+,Second College Grant,State Senate District 1,R,Mark Evans,--
+,Second College Grant,State Senate District 1,D,Jeff Woodburn,--
+,Second College Grant,State Senate District 1,,Scatter,--
 ,Shelburne,State Senate District 1,R,Mark Evans,85.0
 ,Shelburne,State Senate District 1,D,Jeff Woodburn,112.0
 ,Shelburne,State Senate District 1,,Scatter,0.0
@@ -2336,15 +2336,15 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Stratford,State Senate District 1,R,Mark Evans,57.0
 ,Stratford,State Senate District 1,D,Jeff Woodburn,131.0
 ,Stratford,State Senate District 1,,Scatter,0.0
-,Success,State Senate District 1,R,Mark Evans, --
-,Success,State Senate District 1,D,Jeff Woodburn, --
-,Success,State Senate District 1,,Scatter, --
+,Success,State Senate District 1,R,Mark Evans,--
+,Success,State Senate District 1,D,Jeff Woodburn,--
+,Success,State Senate District 1,,Scatter,--
 ,Sugar Hill,State Senate District 1,R,Mark Evans,124.0
 ,Sugar Hill,State Senate District 1,D,Jeff Woodburn,191.0
 ,Sugar Hill,State Senate District 1,,Scatter,0.0
-,Thompson & Meserve's Pur.,State Senate District 1,R,Mark Evans, --
-,Thompson & Meserve's Pur.,State Senate District 1,D,Jeff Woodburn, --
-,Thompson & Meserve's Pur.,State Senate District 1,,Scatter, --
+,Thompson & Meserve's Pur.,State Senate District 1,R,Mark Evans,--
+,Thompson & Meserve's Pur.,State Senate District 1,D,Jeff Woodburn,--
+,Thompson & Meserve's Pur.,State Senate District 1,,Scatter,--
 ,Thornton,State Senate District 1,R,Mark Evans,466.0
 ,Thornton,State Senate District 1,D,Jeff Woodburn,487.0
 ,Thornton,State Senate District 1,,Scatter,0.0
@@ -2840,7 +2840,7 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Nashua Ward 5,State Senate District 12,,Scatter,2.0
 ,New Ipswich,State Senate District 12,R,Kevin A. Avard,1244.0
 ,New Ipswich,State Senate District 12,D,Peggy Gilmour,585.0
-,New Ipswich,State Senate District 12,,Scatter, 
+,New Ipswich,State Senate District 12,,Scatter,
 ,Rindge,State Senate District 12,R,Kevin A. Avard,1271.0
 ,Rindge,State Senate District 12,D,Peggy Gilmour,786.0
 ,Rindge,State Senate District 12,,Scatter,0.0
@@ -3041,16 +3041,16 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Portsmouth Ward 5,State Senate District 21,,Scatter,3.0
 ,Atkinson,State Senate District 22,R,Chuck Morse,2178.0
 ,Atkinson,State Senate District 22,D,Richard J. O'Shaughnessy,895.0
-,Atkinson,State Senate District 22,,Scatter ,1.0
+,Atkinson,State Senate District 22,,Scatter,1.0
 ,Pelham,State Senate District 22,R,Chuck Morse,2896.0
 ,Pelham,State Senate District 22,D,Richard J. O'Shaughnessy,1371.0
-,Pelham,State Senate District 22,,Scatter ,1.0
+,Pelham,State Senate District 22,,Scatter,1.0
 ,Plaistow,State Senate District 22,R,Chuck Morse,1771.0
 ,Plaistow,State Senate District 22,D,Richard J. O'Shaughnessy,865.0
-,Plaistow,State Senate District 22,,Scatter ,1.0
+,Plaistow,State Senate District 22,,Scatter,1.0
 ,Salem,State Senate District 22,R,Chuck Morse,6083.0
 ,Salem,State Senate District 22,D,Richard J. O'Shaughnessy,3646.0
-,Salem,State Senate District 22,,Scatter ,8.0
+,Salem,State Senate District 22,,Scatter,8.0
 ,Brentwood,State Senate District 23,R,Russell Prescott,1051.0
 ,Brentwood,State Senate District 23,D,Donna Schlachman,728.0
 ,Brentwood,State Senate District 23,,Scatter,1.0
@@ -3548,7 +3548,7 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Concord Ward 1,Executive Council District 2,,Scatter,4.0
 ,Concord Ward 2,Executive Council District 2,R,Timothy P. Dillon,508.0
 ,Concord Ward 2,Executive Council District 2,D,Colin Van Ostern,759.0
-,Concord Ward 2,Executive Council District 2,,Scatter, 
+,Concord Ward 2,Executive Council District 2,,Scatter,
 ,Concord Ward 3,Executive Council District 2,R,Timothy P. Dillon,374.0
 ,Concord Ward 3,Executive Council District 2,D,Colin Van Ostern,733.0
 ,Concord Ward 3,Executive Council District 2,,Scatter,0.0
@@ -3950,7 +3950,7 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Pittsfield,Executive Council District 4,,Scatter,3.0
 ,Amherst,Executive Council District 5,R,Dave Wheeler,3042.0
 ,Amherst,Executive Council District 5,D,Diane Sheehan,2276.0
-,Amherst,Executive Council District 5,,Scatter, 
+,Amherst,Executive Council District 5,,Scatter,
 ,Antrim,Executive Council District 5,R,Dave Wheeler,539.0
 ,Antrim,Executive Council District 5,D,Diane Sheehan,501.0
 ,Antrim,Executive Council District 5,,Scatter,1.0
@@ -4016,7 +4016,7 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Nashua Ward 2,Executive Council District 5,,Scatter,1.0
 ,Nashua Ward 3,Executive Council District 5,R,Dave Wheeler,1279.0
 ,Nashua Ward 3,Executive Council District 5,D,Diane Sheehan,1462.0
-,Nashua Ward 3,Executive Council District 5,,Scatter, 
+,Nashua Ward 3,Executive Council District 5,,Scatter,
 ,Nashua Ward 4,Executive Council District 5,R,Dave Wheeler,610.0
 ,Nashua Ward 4,Executive Council District 5,D,Diane Sheehan,978.0
 ,Nashua Ward 4,Executive Council District 5,,Scatter,2.0
@@ -4160,7 +4160,7 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Exeter,Congressional District 1,,Scatter,
 ,Farmington,Congressional District 1,R,Frank C. Guinta,1000.0
 ,Farmington,Congressional District 1,D,Carol Shea-Porter,876.0
-,Farmington,Congressional District 1,,Scatter, 
+,Farmington,Congressional District 1,,Scatter,
 ,Freedom,Congressional District 1,R,Frank C. Guinta,354.0
 ,Freedom,Congressional District 1,D,Carol Shea-Porter,367.0
 ,Freedom,Congressional District 1,,Scatter,1.0
@@ -4446,9 +4446,9 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Bath,Congressional District 2,R,Marilinda Garcia,208.0
 ,Bath,Congressional District 2,D,Ann McLane Kuster,203.0
 ,Bath,Congressional District 2,,Scatter,1.0
-,Bean's Grant,Congressional District 2,R,Marilinda Garcia, --
-,Bean's Grant,Congressional District 2,D,Ann McLane Kuster, --
-,Bean's Grant,Congressional District 2,,Scatter, --
+,Bean's Grant,Congressional District 2,R,Marilinda Garcia,--
+,Bean's Grant,Congressional District 2,D,Ann McLane Kuster,--
+,Bean's Grant,Congressional District 2,,Scatter,--
 ,Bean's Purchase,Congressional District 2,R,Marilinda Garcia,0.0
 ,Bean's Purchase,Congressional District 2,D,Ann McLane Kuster,0.0
 ,Bean's Purchase,Congressional District 2,,Scatter,0.0
@@ -4497,9 +4497,9 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Center Harbor,Congressional District 2,R,Marilinda Garcia,284.0
 ,Center Harbor,Congressional District 2,D,Ann McLane Kuster,245.0
 ,Center Harbor,Congressional District 2,,Scatter,1.0
-,Chandler's Purchase,Congressional District 2,R,Marilinda Garcia, --
-,Chandler's Purchase,Congressional District 2,D,Ann McLane Kuster, --
-,Chandler's Purchase,Congressional District 2,,Scatter, --
+,Chandler's Purchase,Congressional District 2,R,Marilinda Garcia,--
+,Chandler's Purchase,Congressional District 2,D,Ann McLane Kuster,--
+,Chandler's Purchase,Congressional District 2,,Scatter,--
 ,Charlestown,Congressional District 2,R,Marilinda Garcia,594.0
 ,Charlestown,Congressional District 2,D,Ann McLane Kuster,821.0
 ,Charlestown,Congressional District 2,,Scatter,4.0
@@ -4560,15 +4560,15 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Cornish,Congressional District 2,R,Marilinda Garcia,304.0
 ,Cornish,Congressional District 2,D,Ann McLane Kuster,463.0
 ,Cornish,Congressional District 2,,Scatter,0.0
-,Crawford's Purchase,Congressional District 2,R,Marilinda Garcia, --
-,Crawford's Purchase,Congressional District 2,D,Ann McLane Kuster, --
-,Crawford's Purchase,Congressional District 2,,Scatter, --
+,Crawford's Purchase,Congressional District 2,R,Marilinda Garcia,--
+,Crawford's Purchase,Congressional District 2,D,Ann McLane Kuster,--
+,Crawford's Purchase,Congressional District 2,,Scatter,--
 ,Croydon,Congressional District 2,R,Marilinda Garcia,183.0
 ,Croydon,Congressional District 2,D,Ann McLane Kuster,118.0
 ,Croydon,Congressional District 2,,Scatter,0.0
-,Cutt's Grant,Congressional District 2,R,Marilinda Garcia, --
-,Cutt's Grant,Congressional District 2,D,Ann McLane Kuster, --
-,Cutt's Grant,Congressional District 2,,Scatter, --
+,Cutt's Grant,Congressional District 2,R,Marilinda Garcia,--
+,Cutt's Grant,Congressional District 2,D,Ann McLane Kuster,--
+,Cutt's Grant,Congressional District 2,,Scatter,--
 ,Dalton,Congressional District 2,R,Marilinda Garcia,166.0
 ,Dalton,Congressional District 2,D,Ann McLane Kuster,156.0
 ,Dalton,Congressional District 2,,Scatter,0.0
@@ -4662,9 +4662,9 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Groton,Congressional District 2,R,Marilinda Garcia,112.0
 ,Groton,Congressional District 2,D,Ann McLane Kuster,99.0
 ,Groton,Congressional District 2,,Scatter,2.0
-,Hadley's Purchase,Congressional District 2,R,Marilinda Garcia, --
-,Hadley's Purchase,Congressional District 2,D,Ann McLane Kuster, --
-,Hadley's Purchase,Congressional District 2,,Scatter, --
+,Hadley's Purchase,Congressional District 2,R,Marilinda Garcia,--
+,Hadley's Purchase,Congressional District 2,D,Ann McLane Kuster,--
+,Hadley's Purchase,Congressional District 2,,Scatter,--
 ,Hancock,Congressional District 2,R,Marilinda Garcia,365.0
 ,Hancock,Congressional District 2,D,Ann McLane Kuster,581.0
 ,Hancock,Congressional District 2,,Scatter,3.0
@@ -4725,9 +4725,9 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Keene - Ward 5,Congressional District 2,R,Marilinda Garcia,660.0
 ,Keene - Ward 5,Congressional District 2,D,Ann McLane Kuster,1151.0
 ,Keene - Ward 5,Congressional District 2,,Scatter,2.0
-,Kilkenny,Congressional District 2,R,Marilinda Garcia, --
-,Kilkenny,Congressional District 2,D,Ann McLane Kuster, --
-,Kilkenny,Congressional District 2,,Scatter, --
+,Kilkenny,Congressional District 2,R,Marilinda Garcia,--
+,Kilkenny,Congressional District 2,D,Ann McLane Kuster,--
+,Kilkenny,Congressional District 2,,Scatter,--
 ,Lancaster,Congressional District 2,R,Marilinda Garcia,516.0
 ,Lancaster,Congressional District 2,D,Ann McLane Kuster,564.0
 ,Lancaster,Congressional District 2,,Scatter,5.0
@@ -4761,15 +4761,15 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Littleton,Congressional District 2,R,Marilinda Garcia,911.0
 ,Littleton,Congressional District 2,D,Ann McLane Kuster,1034.0
 ,Littleton,Congressional District 2,,Scatter,0.0
-,Livermore,Congressional District 2,R,Marilinda Garcia, --
-,Livermore,Congressional District 2,D,Ann McLane Kuster, --
-,Livermore,Congressional District 2,,Scatter, --
+,Livermore,Congressional District 2,R,Marilinda Garcia,--
+,Livermore,Congressional District 2,D,Ann McLane Kuster,--
+,Livermore,Congressional District 2,,Scatter,--
 ,Loudon,Congressional District 2,R,Marilinda Garcia,1103.0
 ,Loudon,Congressional District 2,D,Ann McLane Kuster,986.0
 ,Loudon,Congressional District 2,,Scatter,2.0
-,Low & Burbank's Grant,Congressional District 2,R,Marilinda Garcia, --
-,Low & Burbank's Grant,Congressional District 2,D,Ann McLane Kuster, --
-,Low & Burbank's Grant,Congressional District 2,,Scatter, --
+,Low & Burbank's Grant,Congressional District 2,R,Marilinda Garcia,--
+,Low & Burbank's Grant,Congressional District 2,D,Ann McLane Kuster,--
+,Low & Burbank's Grant,Congressional District 2,,Scatter,--
 ,Lyman,Congressional District 2,R,Marilinda Garcia,116.0
 ,Lyman,Congressional District 2,D,Ann McLane Kuster,125.0
 ,Lyman,Congressional District 2,,Scatter,0.0
@@ -4785,9 +4785,9 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Marlow,Congressional District 2,R,Marilinda Garcia,117.0
 ,Marlow,Congressional District 2,D,Ann McLane Kuster,176.0
 ,Marlow,Congressional District 2,,Scatter,0.0
-,Martin's Location,Congressional District 2,R,Marilinda Garcia, --
-,Martin's Location,Congressional District 2,D,Ann McLane Kuster, --
-,Martin's Location,Congressional District 2,,Scatter, --
+,Martin's Location,Congressional District 2,R,Marilinda Garcia,--
+,Martin's Location,Congressional District 2,D,Ann McLane Kuster,--
+,Martin's Location,Congressional District 2,,Scatter,--
 ,Mason,Congressional District 2,R,Marilinda Garcia,338.0
 ,Mason,Congressional District 2,D,Ann McLane Kuster,249.0
 ,Mason,Congressional District 2,,Scatter,0.0
@@ -4860,9 +4860,9 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Northwood,Congressional District 2,R,Marilinda Garcia,830.0
 ,Northwood,Congressional District 2,D,Ann McLane Kuster,847.0
 ,Northwood,Congressional District 2,,Scatter,7.0
-,Odell,Congressional District 2,R,Marilinda Garcia, --
-,Odell,Congressional District 2,D,Ann McLane Kuster, --
-,Odell,Congressional District 2,,Scatter, --
+,Odell,Congressional District 2,R,Marilinda Garcia,--
+,Odell,Congressional District 2,D,Ann McLane Kuster,--
+,Odell,Congressional District 2,,Scatter,--
 ,Orange,Congressional District 2,R,Marilinda Garcia,53.0
 ,Orange,Congressional District 2,D,Ann McLane Kuster,71.0
 ,Orange,Congressional District 2,,Scatter,0.0
@@ -4881,9 +4881,9 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Piermont,Congressional District 2,R,Marilinda Garcia,116.0
 ,Piermont,Congressional District 2,D,Ann McLane Kuster,176.0
 ,Piermont,Congressional District 2,,Scatter,0.0
-,Pinkham's Grant,Congressional District 2,R,Marilinda Garcia, --
-,Pinkham's Grant,Congressional District 2,D,Ann McLane Kuster, --
-,Pinkham's Grant,Congressional District 2,,Scatter, --
+,Pinkham's Grant,Congressional District 2,R,Marilinda Garcia,--
+,Pinkham's Grant,Congressional District 2,D,Ann McLane Kuster,--
+,Pinkham's Grant,Congressional District 2,,Scatter,--
 ,Pittsburg,Congressional District 2,R,Marilinda Garcia,211.0
 ,Pittsburg,Congressional District 2,D,Ann McLane Kuster,137.0
 ,Pittsburg,Congressional District 2,,Scatter,0.0
@@ -4917,12 +4917,12 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Salisbury,Congressional District 2,R,Marilinda Garcia,287.0
 ,Salisbury,Congressional District 2,D,Ann McLane Kuster,279.0
 ,Salisbury,Congressional District 2,,Scatter,1.0
-,Sargent's Purchase,Congressional District 2,R,Marilinda Garcia, --
-,Sargent's Purchase,Congressional District 2,D,Ann McLane Kuster, --
-,Sargent's Purchase,Congressional District 2,,Scatter, --
-,Second College Grant,Congressional District 2,R,Marilinda Garcia, --
-,Second College Grant,Congressional District 2,D,Ann McLane Kuster, --
-,Second College Grant,Congressional District 2,,Scatter, --
+,Sargent's Purchase,Congressional District 2,R,Marilinda Garcia,--
+,Sargent's Purchase,Congressional District 2,D,Ann McLane Kuster,--
+,Sargent's Purchase,Congressional District 2,,Scatter,--
+,Second College Grant,Congressional District 2,R,Marilinda Garcia,--
+,Second College Grant,Congressional District 2,D,Ann McLane Kuster,--
+,Second College Grant,Congressional District 2,,Scatter,--
 ,Sharon,Congressional District 2,R,Marilinda Garcia,76.0
 ,Sharon,Congressional District 2,D,Ann McLane Kuster,117.0
 ,Sharon,Congressional District 2,,Scatter,0.0
@@ -4944,9 +4944,9 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Stratford,Congressional District 2,R,Marilinda Garcia,67.0
 ,Stratford,Congressional District 2,D,Ann McLane Kuster,118.0
 ,Stratford,Congressional District 2,,Scatter,0.0
-,Success,Congressional District 2,R,Marilinda Garcia, --
-,Success,Congressional District 2,D,Ann McLane Kuster, --
-,Success,Congressional District 2,,Scatter, --
+,Success,Congressional District 2,R,Marilinda Garcia,--
+,Success,Congressional District 2,D,Ann McLane Kuster,--
+,Success,Congressional District 2,,Scatter,--
 ,Sugar Hill,Congressional District 2,R,Marilinda Garcia,126.0
 ,Sugar Hill,Congressional District 2,D,Ann McLane Kuster,194.0
 ,Sugar Hill,Congressional District 2,,Scatter,0.0
@@ -4968,9 +4968,9 @@ Sullivan,Washington,State House District No. 11,,Scatter,0.0
 ,Temple,Congressional District 2,R,Marilinda Garcia,322.0
 ,Temple,Congressional District 2,D,Ann McLane Kuster,344.0
 ,Temple,Congressional District 2,,Scatter,2.0
-,Thomp. and Mes's Pur.,Congressional District 2,R,Marilinda Garcia, --
-,Thomp. and Mes's Pur.,Congressional District 2,D,Ann McLane Kuster, --
-,Thomp. and Mes's Pur.,Congressional District 2,,Scatter, --
+,Thomp. and Mes's Pur.,Congressional District 2,R,Marilinda Garcia,--
+,Thomp. and Mes's Pur.,Congressional District 2,D,Ann McLane Kuster,--
+,Thomp. and Mes's Pur.,Congressional District 2,,Scatter,--
 ,Thornton,Congressional District 2,R,Marilinda Garcia,434.0
 ,Thornton,Congressional District 2,D,Ann McLane Kuster,547.0
 ,Thornton,Congressional District 2,,Scatter,2.0
@@ -6268,7 +6268,7 @@ Coos,Odell,U.S. Senate,R,Scott P. Brown,0.0
 Coos,Odell,U.S. Senate,D,Jeanne Shaheen,0.0
 Coos,Odell,U.S. Senate,,Scatter,
 Coos,Pinkham's Grant,U.S. Senate,R,Scott P. Brown,0.0
-Coos,Pinkham's Grant,U.S. Senate,D,Jeanne Shaheen, 
+Coos,Pinkham's Grant,U.S. Senate,D,Jeanne Shaheen,
 Coos,Pinkham's Grant,U.S. Senate,,Scatter,
 Coos,Pittsburg,U.S. Senate,R,Scott P. Brown,208.0
 Coos,Pittsburg,U.S. Senate,D,Jeanne Shaheen,154.0
@@ -6308,598 +6308,598 @@ Coos,Whitefield,U.S. Senate,D,Jeanne Shaheen,450.0
 Coos,Whitefield,U.S. Senate,,Scatter,1.0
 Grafton,Alexandria,U.S. Senate,R,Scott P. Brown,342.0
 Grafton,Alexandria,U.S. Senate,D,Jeanne Shaheen,317.0
-Grafton,Alexandria,U.S. Senate,,Scatter ,2.0
+Grafton,Alexandria,U.S. Senate,,Scatter,2.0
 Grafton,Ashland,U.S. Senate,R,Scott P. Brown,345.0
 Grafton,Ashland,U.S. Senate,D,Jeanne Shaheen,417.0
-Grafton,Ashland,U.S. Senate,,Scatter ,3.0
+Grafton,Ashland,U.S. Senate,,Scatter,3.0
 Grafton,Bath,U.S. Senate,R,Scott P. Brown,210.0
 Grafton,Bath,U.S. Senate,D,Jeanne Shaheen,202.0
-Grafton,Bath,U.S. Senate,,Scatter ,4.0
+Grafton,Bath,U.S. Senate,,Scatter,4.0
 Grafton,Benton,U.S. Senate,R,Scott P. Brown,66.0
 Grafton,Benton,U.S. Senate,D,Jeanne Shaheen,56.0
-Grafton,Benton,U.S. Senate,,Scatter ,0.0
+Grafton,Benton,U.S. Senate,,Scatter,0.0
 Grafton,Bethlehem,U.S. Senate,R,Scott P. Brown,373.0
 Grafton,Bethlehem,U.S. Senate,D,Jeanne Shaheen,619.0
-Grafton,Bethlehem,U.S. Senate,,Scatter ,5.0
+Grafton,Bethlehem,U.S. Senate,,Scatter,5.0
 Grafton,Bridgewater,U.S. Senate,R,Scott P. Brown,293.0
 Grafton,Bridgewater,U.S. Senate,D,Jeanne Shaheen,234.0
-Grafton,Bridgewater,U.S. Senate,,Scatter ,0.0
+Grafton,Bridgewater,U.S. Senate,,Scatter,0.0
 Grafton,Bristol,U.S. Senate,R,Scott P. Brown,588.0
 Grafton,Bristol,U.S. Senate,D,Jeanne Shaheen,540.0
-Grafton,Bristol,U.S. Senate,,Scatter ,4.0
+Grafton,Bristol,U.S. Senate,,Scatter,4.0
 Grafton,Campton,U.S. Senate,R,Scott P. Brown,532.0
 Grafton,Campton,U.S. Senate,D,Jeanne Shaheen,757.0
-Grafton,Campton,U.S. Senate,,Scatter ,6.0
+Grafton,Campton,U.S. Senate,,Scatter,6.0
 Grafton,Canaan,U.S. Senate,R,Scott P. Brown,491.0
 Grafton,Canaan,U.S. Senate,D,Jeanne Shaheen,751.0
-Grafton,Canaan,U.S. Senate,,Scatter ,5.0
+Grafton,Canaan,U.S. Senate,,Scatter,5.0
 Grafton,Dorchester,U.S. Senate,R,Scott P. Brown,77.0
 Grafton,Dorchester,U.S. Senate,D,Jeanne Shaheen,70.0
-Grafton,Dorchester,U.S. Senate,,Scatter ,4.0
+Grafton,Dorchester,U.S. Senate,,Scatter,4.0
 Grafton,Easton,U.S. Senate,R,Scott P. Brown,51.0
 Grafton,Easton,U.S. Senate,D,Jeanne Shaheen,95.0
-Grafton,Easton,U.S. Senate,,Scatter ,1.0
+Grafton,Easton,U.S. Senate,,Scatter,1.0
 Grafton,Ellsworth,U.S. Senate,R,Scott P. Brown,15.0
 Grafton,Ellsworth,U.S. Senate,D,Jeanne Shaheen,26.0
-Grafton,Ellsworth,U.S. Senate,,Scatter ,0.0
+Grafton,Ellsworth,U.S. Senate,,Scatter,0.0
 Grafton,Enfield,U.S. Senate,R,Scott P. Brown,623.0
 Grafton,Enfield,U.S. Senate,D,Jeanne Shaheen,1072.0
-Grafton,Enfield,U.S. Senate,,Scatter ,5.0
+Grafton,Enfield,U.S. Senate,,Scatter,5.0
 Grafton,Franconia,U.S. Senate,R,Scott P. Brown,205.0
 Grafton,Franconia,U.S. Senate,D,Jeanne Shaheen,391.0
-Grafton,Franconia,U.S. Senate,,Scatter ,2.0
+Grafton,Franconia,U.S. Senate,,Scatter,2.0
 Grafton,Grafton,U.S. Senate,R,Scott P. Brown,245.0
 Grafton,Grafton,U.S. Senate,D,Jeanne Shaheen,255.0
-Grafton,Grafton,U.S. Senate,,Scatter ,
+Grafton,Grafton,U.S. Senate,,Scatter,
 Grafton,Groton,U.S. Senate,R,Scott P. Brown,113.0
 Grafton,Groton,U.S. Senate,D,Jeanne Shaheen,100.0
-Grafton,Groton,U.S. Senate,,Scatter ,2.0
+Grafton,Groton,U.S. Senate,,Scatter,2.0
 Grafton,Hanover,U.S. Senate,R,Scott P. Brown,1042.0
 Grafton,Hanover,U.S. Senate,D,Jeanne Shaheen,3652.0
-Grafton,Hanover,U.S. Senate,,Scatter ,11.0
+Grafton,Hanover,U.S. Senate,,Scatter,11.0
 Grafton,Haverhill,U.S. Senate,R,Scott P. Brown,663.0
 Grafton,Haverhill,U.S. Senate,D,Jeanne Shaheen,629.0
-Grafton,Haverhill,U.S. Senate,,Scatter ,3.0
+Grafton,Haverhill,U.S. Senate,,Scatter,3.0
 Grafton,Hebron,U.S. Senate,R,Scott P. Brown,192.0
 Grafton,Hebron,U.S. Senate,D,Jeanne Shaheen,120.0
-Grafton,Hebron,U.S. Senate,,Scatter ,0.0
+Grafton,Hebron,U.S. Senate,,Scatter,0.0
 Grafton,Holderness,U.S. Senate,R,Scott P. Brown,387.0
 Grafton,Holderness,U.S. Senate,D,Jeanne Shaheen,564.0
-Grafton,Holderness,U.S. Senate,,Scatter ,0.0
+Grafton,Holderness,U.S. Senate,,Scatter,0.0
 Grafton,Landaff,U.S. Senate,R,Scott P. Brown,84.0
 Grafton,Landaff,U.S. Senate,D,Jeanne Shaheen,94.0
-Grafton,Landaff,U.S. Senate,,Scatter ,0.0
+Grafton,Landaff,U.S. Senate,,Scatter,0.0
 Grafton,Lebanon Ward 1,U.S. Senate,R,Scott P. Brown,485.0
 Grafton,Lebanon Ward 1,U.S. Senate,D,Jeanne Shaheen,1066.0
-Grafton,Lebanon Ward 1,U.S. Senate,,Scatter ,4.0
+Grafton,Lebanon Ward 1,U.S. Senate,,Scatter,4.0
 Grafton,Lebanon Ward 2,U.S. Senate,R,Scott P. Brown,409.0
 Grafton,Lebanon Ward 2,U.S. Senate,D,Jeanne Shaheen,1123.0
-Grafton,Lebanon Ward 2,U.S. Senate,,Scatter ,7.0
+Grafton,Lebanon Ward 2,U.S. Senate,,Scatter,7.0
 Grafton,Lebanon Ward 3,U.S. Senate,R,Scott P. Brown,487.0
 Grafton,Lebanon Ward 3,U.S. Senate,D,Jeanne Shaheen,1141.0
-Grafton,Lebanon Ward 3,U.S. Senate,,Scatter ,4.0
+Grafton,Lebanon Ward 3,U.S. Senate,,Scatter,4.0
 Grafton,Lincoln,U.S. Senate,R,Scott P. Brown,246.0
 Grafton,Lincoln,U.S. Senate,D,Jeanne Shaheen,268.0
-Grafton,Lincoln,U.S. Senate,,Scatter ,4.0
+Grafton,Lincoln,U.S. Senate,,Scatter,4.0
 Grafton,Lisbon,U.S. Senate,R,Scott P. Brown,211.0
 Grafton,Lisbon,U.S. Senate,D,Jeanne Shaheen,226.0
-Grafton,Lisbon,U.S. Senate,,Scatter ,4.0
+Grafton,Lisbon,U.S. Senate,,Scatter,4.0
 Grafton,Littleton,U.S. Senate,R,Scott P. Brown,907.0
 Grafton,Littleton,U.S. Senate,D,Jeanne Shaheen,1074.0
-Grafton,Littleton,U.S. Senate,,Scatter ,5.0
+Grafton,Littleton,U.S. Senate,,Scatter,5.0
 Grafton,Livermore,U.S. Senate,R,Scott P. Brown,0.0
 Grafton,Livermore,U.S. Senate,D,Jeanne Shaheen,0.0
-Grafton,Livermore,U.S. Senate,,Scatter ,0.0
+Grafton,Livermore,U.S. Senate,,Scatter,0.0
 Grafton,Lyman,U.S. Senate,R,Scott P. Brown,111.0
 Grafton,Lyman,U.S. Senate,D,Jeanne Shaheen,131.0
-Grafton,Lyman,U.S. Senate,,Scatter ,0.0
+Grafton,Lyman,U.S. Senate,,Scatter,0.0
 Grafton,Lyme,U.S. Senate,R,Scott P. Brown,202.0
 Grafton,Lyme,U.S. Senate,D,Jeanne Shaheen,683.0
-Grafton,Lyme,U.S. Senate,,Scatter ,0.0
+Grafton,Lyme,U.S. Senate,,Scatter,0.0
 Grafton,Monroe,U.S. Senate,R,Scott P. Brown,188.0
 Grafton,Monroe,U.S. Senate,D,Jeanne Shaheen,146.0
-Grafton,Monroe,U.S. Senate,,Scatter ,0.0
+Grafton,Monroe,U.S. Senate,,Scatter,0.0
 Grafton,Orange,U.S. Senate,R,Scott P. Brown,58.0
 Grafton,Orange,U.S. Senate,D,Jeanne Shaheen,69.0
-Grafton,Orange,U.S. Senate,,Scatter ,0.0
+Grafton,Orange,U.S. Senate,,Scatter,0.0
 Grafton,Orford,U.S. Senate,R,Scott P. Brown,172.0
 Grafton,Orford,U.S. Senate,D,Jeanne Shaheen,321.0
-Grafton,Orford,U.S. Senate,,Scatter ,0.0
+Grafton,Orford,U.S. Senate,,Scatter,0.0
 Grafton,Piermont,U.S. Senate,R,Scott P. Brown,109.0
 Grafton,Piermont,U.S. Senate,D,Jeanne Shaheen,186.0
-Grafton,Piermont,U.S. Senate,,Scatter ,0.0
+Grafton,Piermont,U.S. Senate,,Scatter,0.0
 Grafton,Plymouth,U.S. Senate,R,Scott P. Brown,624.0
 Grafton,Plymouth,U.S. Senate,D,Jeanne Shaheen,1221.0
-Grafton,Plymouth,U.S. Senate,,Scatter ,12.0
+Grafton,Plymouth,U.S. Senate,,Scatter,12.0
 Grafton,Rumney,U.S. Senate,R,Scott P. Brown,293.0
 Grafton,Rumney,U.S. Senate,D,Jeanne Shaheen,312.0
-Grafton,Rumney,U.S. Senate,,Scatter ,2.0
+Grafton,Rumney,U.S. Senate,,Scatter,2.0
 Grafton,Sugar Hill,U.S. Senate,R,Scott P. Brown,123.0
 Grafton,Sugar Hill,U.S. Senate,D,Jeanne Shaheen,204.0
-Grafton,Sugar Hill,U.S. Senate,,Scatter ,1.0
+Grafton,Sugar Hill,U.S. Senate,,Scatter,1.0
 Grafton,Thornton,U.S. Senate,R,Scott P. Brown,420.0
 Grafton,Thornton,U.S. Senate,D,Jeanne Shaheen,574.0
-Grafton,Thornton,U.S. Senate,,Scatter ,1.0
+Grafton,Thornton,U.S. Senate,,Scatter,1.0
 Grafton,Warren,U.S. Senate,R,Scott P. Brown,156.0
 Grafton,Warren,U.S. Senate,D,Jeanne Shaheen,178.0
-Grafton,Warren,U.S. Senate,,Scatter ,1.0
+Grafton,Warren,U.S. Senate,,Scatter,1.0
 Grafton,Waterville Valley,U.S. Senate,R,Scott P. Brown,84.0
 Grafton,Waterville Valley,U.S. Senate,D,Jeanne Shaheen,108.0
-Grafton,Waterville Valley,U.S. Senate,,Scatter ,0.0
+Grafton,Waterville Valley,U.S. Senate,,Scatter,0.0
 Grafton,Wentworth,U.S. Senate,R,Scott P. Brown,206.0
 Grafton,Wentworth,U.S. Senate,D,Jeanne Shaheen,183.0
-Grafton,Wentworth,U.S. Senate,,Scatter ,2.0
+Grafton,Wentworth,U.S. Senate,,Scatter,2.0
 Grafton,Woodstock,U.S. Senate,R,Scott P. Brown,226.0
 Grafton,Woodstock,U.S. Senate,D,Jeanne Shaheen,321.0
-Grafton,Woodstock,U.S. Senate,,Scatter ,3.0
+Grafton,Woodstock,U.S. Senate,,Scatter,3.0
 Hillsborough,Amherst,U.S. Senate,R,Scott P. Brown,3019.0
 Hillsborough,Amherst,U.S. Senate,D,Jeanne Shaheen,2559.0
-Hillsborough,Amherst,U.S. Senate,,Scatter ,24.0
+Hillsborough,Amherst,U.S. Senate,,Scatter,24.0
 Hillsborough,Antrim,U.S. Senate,R,Scott P. Brown,468.0
 Hillsborough,Antrim,U.S. Senate,D,Jeanne Shaheen,593.0
-Hillsborough,Antrim,U.S. Senate,,Scatter ,9.0
+Hillsborough,Antrim,U.S. Senate,,Scatter,9.0
 Hillsborough,Bedford,U.S. Senate,R,Scott P. Brown,5935.0
 Hillsborough,Bedford,U.S. Senate,D,Jeanne Shaheen,3599.0
-Hillsborough,Bedford,U.S. Senate,,Scatter ,36.0
+Hillsborough,Bedford,U.S. Senate,,Scatter,36.0
 Hillsborough,Bennington,U.S. Senate,R,Scott P. Brown,261.0
 Hillsborough,Bennington,U.S. Senate,D,Jeanne Shaheen,250.0
-Hillsborough,Bennington,U.S. Senate,,Scatter ,4.0
+Hillsborough,Bennington,U.S. Senate,,Scatter,4.0
 Hillsborough,Brookline,U.S. Senate,R,Scott P. Brown,1232.0
 Hillsborough,Brookline,U.S. Senate,D,Jeanne Shaheen,914.0
-Hillsborough,Brookline,U.S. Senate,,Scatter ,10.0
+Hillsborough,Brookline,U.S. Senate,,Scatter,10.0
 Hillsborough,Deering,U.S. Senate,R,Scott P. Brown,365.0
 Hillsborough,Deering,U.S. Senate,D,Jeanne Shaheen,334.0
-Hillsborough,Deering,U.S. Senate,,Scatter ,4.0
+Hillsborough,Deering,U.S. Senate,,Scatter,4.0
 Hillsborough,Francestown,U.S. Senate,R,Scott P. Brown,351.0
 Hillsborough,Francestown,U.S. Senate,D,Jeanne Shaheen,407.0
-Hillsborough,Francestown,U.S. Senate,,Scatter ,4.0
+Hillsborough,Francestown,U.S. Senate,,Scatter,4.0
 Hillsborough,Goffstown,U.S. Senate,R,Scott P. Brown,3275.0
 Hillsborough,Goffstown,U.S. Senate,D,Jeanne Shaheen,2899.0
-Hillsborough,Goffstown,U.S. Senate,,Scatter ,24.0
+Hillsborough,Goffstown,U.S. Senate,,Scatter,24.0
 Hillsborough,Greenfield,U.S. Senate,R,Scott P. Brown,314.0
 Hillsborough,Greenfield,U.S. Senate,D,Jeanne Shaheen,346.0
-Hillsborough,Greenfield,U.S. Senate,,Scatter ,5.0
+Hillsborough,Greenfield,U.S. Senate,,Scatter,5.0
 Hillsborough,Greenville,U.S. Senate,R,Scott P. Brown,284.0
 Hillsborough,Greenville,U.S. Senate,D,Jeanne Shaheen,304.0
-Hillsborough,Greenville,U.S. Senate,,Scatter ,1.0
+Hillsborough,Greenville,U.S. Senate,,Scatter,1.0
 Hillsborough,Hancock,U.S. Senate,R,Scott P. Brown,373.0
 Hillsborough,Hancock,U.S. Senate,D,Jeanne Shaheen,593.0
-Hillsborough,Hancock,U.S. Senate,,Scatter ,1.0
+Hillsborough,Hancock,U.S. Senate,,Scatter,1.0
 Hillsborough,Hillsborough,U.S. Senate,R,Scott P. Brown,856.0
 Hillsborough,Hillsborough,U.S. Senate,D,Jeanne Shaheen,985.0
-Hillsborough,Hillsborough,U.S. Senate,,Scatter ,1.0
+Hillsborough,Hillsborough,U.S. Senate,,Scatter,1.0
 Hillsborough,Hollis,U.S. Senate,R,Scott P. Brown,2122.0
 Hillsborough,Hollis,U.S. Senate,D,Jeanne Shaheen,1731.0
-Hillsborough,Hollis,U.S. Senate,,Scatter ,8.0
+Hillsborough,Hollis,U.S. Senate,,Scatter,8.0
 Hillsborough,Hudson,U.S. Senate,R,Scott P. Brown,4717.0
 Hillsborough,Hudson,U.S. Senate,D,Jeanne Shaheen,3504.0
-Hillsborough,Hudson,U.S. Senate,,Scatter ,47.0
+Hillsborough,Hudson,U.S. Senate,,Scatter,47.0
 Hillsborough,Litchfield,U.S. Senate,R,Scott P. Brown,1863.0
 Hillsborough,Litchfield,U.S. Senate,D,Jeanne Shaheen,1326.0
-Hillsborough,Litchfield,U.S. Senate,,Scatter ,11.0
+Hillsborough,Litchfield,U.S. Senate,,Scatter,11.0
 Hillsborough,Lyndeborough,U.S. Senate,R,Scott P. Brown,369.0
 Hillsborough,Lyndeborough,U.S. Senate,D,Jeanne Shaheen,372.0
-Hillsborough,Lyndeborough,U.S. Senate,,Scatter ,7.0
+Hillsborough,Lyndeborough,U.S. Senate,,Scatter,7.0
 Hillsborough,Manchester Ward 1,U.S. Senate,R,Scott P. Brown,1859.0
 Hillsborough,Manchester Ward 1,U.S. Senate,D,Jeanne Shaheen,2147.0
-Hillsborough,Manchester Ward 1,U.S. Senate,,Scatter ,7.0
+Hillsborough,Manchester Ward 1,U.S. Senate,,Scatter,7.0
 Hillsborough,Manchester Ward 2,U.S. Senate,R,Scott P. Brown,1441.0
 Hillsborough,Manchester Ward 2,U.S. Senate,D,Jeanne Shaheen,1737.0
-Hillsborough,Manchester Ward 2,U.S. Senate,,Scatter ,13.0
+Hillsborough,Manchester Ward 2,U.S. Senate,,Scatter,13.0
 Hillsborough,Manchester Ward 3,U.S. Senate,R,Scott P. Brown,646.0
 Hillsborough,Manchester Ward 3,U.S. Senate,D,Jeanne Shaheen,948.0
-Hillsborough,Manchester Ward 3,U.S. Senate,,Scatter ,12.0
+Hillsborough,Manchester Ward 3,U.S. Senate,,Scatter,12.0
 Hillsborough,Manchester Ward 4,U.S. Senate,R,Scott P. Brown,794.0
 Hillsborough,Manchester Ward 4,U.S. Senate,D,Jeanne Shaheen,1179.0
-Hillsborough,Manchester Ward 4,U.S. Senate,,Scatter ,19.0
+Hillsborough,Manchester Ward 4,U.S. Senate,,Scatter,19.0
 Hillsborough,Manchester Ward 5,U.S. Senate,R,Scott P. Brown,582.0
 Hillsborough,Manchester Ward 5,U.S. Senate,D,Jeanne Shaheen,881.0
-Hillsborough,Manchester Ward 5,U.S. Senate,,Scatter ,10.0
+Hillsborough,Manchester Ward 5,U.S. Senate,,Scatter,10.0
 Hillsborough,Manchester Ward 6,U.S. Senate,R,Scott P. Brown,1630.0
 Hillsborough,Manchester Ward 6,U.S. Senate,D,Jeanne Shaheen,1606.0
-Hillsborough,Manchester Ward 6,U.S. Senate,,Scatter ,21.0
+Hillsborough,Manchester Ward 6,U.S. Senate,,Scatter,21.0
 Hillsborough,Manchester Ward 7,U.S. Senate,R,Scott P. Brown,962.0
 Hillsborough,Manchester Ward 7,U.S. Senate,D,Jeanne Shaheen,1259.0
-Hillsborough,Manchester Ward 7,U.S. Senate,,Scatter ,12.0
+Hillsborough,Manchester Ward 7,U.S. Senate,,Scatter,12.0
 Hillsborough,Manchester Ward 8,U.S. Senate,R,Scott P. Brown,1725.0
 Hillsborough,Manchester Ward 8,U.S. Senate,D,Jeanne Shaheen,1588.0
-Hillsborough,Manchester Ward 8,U.S. Senate,,Scatter ,8.0
+Hillsborough,Manchester Ward 8,U.S. Senate,,Scatter,8.0
 Hillsborough,Manchester Ward 9,U.S. Senate,R,Scott P. Brown,1097.0
 Hillsborough,Manchester Ward 9,U.S. Senate,D,Jeanne Shaheen,1473.0
-Hillsborough,Manchester Ward 9,U.S. Senate,,Scatter ,10.0
+Hillsborough,Manchester Ward 9,U.S. Senate,,Scatter,10.0
 Hillsborough,Manchester Ward 10,U.S. Senate,R,Scott P. Brown,1146.0
 Hillsborough,Manchester Ward 10,U.S. Senate,D,Jeanne Shaheen,1440.0
-Hillsborough,Manchester Ward 10,U.S. Senate,,Scatter ,9.0
+Hillsborough,Manchester Ward 10,U.S. Senate,,Scatter,9.0
 Hillsborough,Manchester Ward 11,U.S. Senate,R,Scott P. Brown,745.0
 Hillsborough,Manchester Ward 11,U.S. Senate,D,Jeanne Shaheen,981.0
-Hillsborough,Manchester Ward 11,U.S. Senate,,Scatter ,31.0
+Hillsborough,Manchester Ward 11,U.S. Senate,,Scatter,31.0
 Hillsborough,Manchester Ward 12,U.S. Senate,R,Scott P. Brown,1172.0
 Hillsborough,Manchester Ward 12,U.S. Senate,D,Jeanne Shaheen,1279.0
-Hillsborough,Manchester Ward 12,U.S. Senate,,Scatter ,15.0
+Hillsborough,Manchester Ward 12,U.S. Senate,,Scatter,15.0
 Hillsborough,Mason,U.S. Senate,R,Scott P. Brown,346.0
 Hillsborough,Mason,U.S. Senate,D,Jeanne Shaheen,252.0
-Hillsborough,Mason,U.S. Senate,,Scatter ,0.0
+Hillsborough,Mason,U.S. Senate,,Scatter,0.0
 Hillsborough,Merrimack,U.S. Senate,R,Scott P. Brown,5480.0
 Hillsborough,Merrimack,U.S. Senate,D,Jeanne Shaheen,4403.0
-Hillsborough,Merrimack,U.S. Senate,,Scatter ,0.0
+Hillsborough,Merrimack,U.S. Senate,,Scatter,0.0
 Hillsborough,Milford,U.S. Senate,R,Scott P. Brown,2618.0
 Hillsborough,Milford,U.S. Senate,D,Jeanne Shaheen,2716.0
-Hillsborough,Milford,U.S. Senate,,Scatter ,37.0
+Hillsborough,Milford,U.S. Senate,,Scatter,37.0
 Hillsborough,Mont Vernon,U.S. Senate,R,Scott P. Brown,555.0
 Hillsborough,Mont Vernon,U.S. Senate,D,Jeanne Shaheen,545.0
-Hillsborough,Mont Vernon,U.S. Senate,,Scatter ,5.0
+Hillsborough,Mont Vernon,U.S. Senate,,Scatter,5.0
 Hillsborough,Nashua Ward 1,U.S. Senate,R,Scott P. Brown,1917.0
 Hillsborough,Nashua Ward 1,U.S. Senate,D,Jeanne Shaheen,1953.0
-Hillsborough,Nashua Ward 1,U.S. Senate,,Scatter ,11.0
+Hillsborough,Nashua Ward 1,U.S. Senate,,Scatter,11.0
 Hillsborough,Nashua Ward 2,U.S. Senate,R,Scott P. Brown,1507.0
 Hillsborough,Nashua Ward 2,U.S. Senate,D,Jeanne Shaheen,1563.0
-Hillsborough,Nashua Ward 2,U.S. Senate,,Scatter ,19.0
+Hillsborough,Nashua Ward 2,U.S. Senate,,Scatter,19.0
 Hillsborough,Nashua Ward 3,U.S. Senate,R,Scott P. Brown,1322.0
 Hillsborough,Nashua Ward 3,U.S. Senate,D,Jeanne Shaheen,1539.0
-Hillsborough,Nashua Ward 3,U.S. Senate,,Scatter ,0.0
+Hillsborough,Nashua Ward 3,U.S. Senate,,Scatter,0.0
 Hillsborough,Nashua Ward 4,U.S. Senate,R,Scott P. Brown,597.0
 Hillsborough,Nashua Ward 4,U.S. Senate,D,Jeanne Shaheen,1077.0
-Hillsborough,Nashua Ward 4,U.S. Senate,,Scatter ,10.0
+Hillsborough,Nashua Ward 4,U.S. Senate,,Scatter,10.0
 Hillsborough,Nashua Ward 5,U.S. Senate,R,Scott P. Brown,1891.0
 Hillsborough,Nashua Ward 5,U.S. Senate,D,Jeanne Shaheen,1853.0
-Hillsborough,Nashua Ward 5,U.S. Senate,,Scatter ,10.0
+Hillsborough,Nashua Ward 5,U.S. Senate,,Scatter,10.0
 Hillsborough,Nashua Ward 6,U.S. Senate,R,Scott P. Brown,1049.0
 Hillsborough,Nashua Ward 6,U.S. Senate,D,Jeanne Shaheen,1511.0
-Hillsborough,Nashua Ward 6,U.S. Senate,,Scatter ,12.0
+Hillsborough,Nashua Ward 6,U.S. Senate,,Scatter,12.0
 Hillsborough,Nashua Ward 7,U.S. Senate,R,Scott P. Brown,1110.0
 Hillsborough,Nashua Ward 7,U.S. Senate,D,Jeanne Shaheen,1391.0
-Hillsborough,Nashua Ward 7,U.S. Senate,,Scatter ,12.0
+Hillsborough,Nashua Ward 7,U.S. Senate,,Scatter,12.0
 Hillsborough,Nashua Ward 8,U.S. Senate,R,Scott P. Brown,1504.0
 Hillsborough,Nashua Ward 8,U.S. Senate,D,Jeanne Shaheen,1614.0
-Hillsborough,Nashua Ward 8,U.S. Senate,,Scatter ,14.0
+Hillsborough,Nashua Ward 8,U.S. Senate,,Scatter,14.0
 Hillsborough,Nashua Ward 9,U.S. Senate,R,Scott P. Brown,1564.0
 Hillsborough,Nashua Ward 9,U.S. Senate,D,Jeanne Shaheen,1647.0
-Hillsborough,Nashua Ward 9,U.S. Senate,,Scatter ,11.0
+Hillsborough,Nashua Ward 9,U.S. Senate,,Scatter,11.0
 Hillsborough,New Boston,U.S. Senate,R,Scott P. Brown,1287.0
 Hillsborough,New Boston,U.S. Senate,D,Jeanne Shaheen,1071.0
-Hillsborough,New Boston,U.S. Senate,,Scatter ,6.0
+Hillsborough,New Boston,U.S. Senate,,Scatter,6.0
 Hillsborough,New Ipswich,U.S. Senate,R,Scott P. Brown,1279.0
 Hillsborough,New Ipswich,U.S. Senate,D,Jeanne Shaheen,571.0
-Hillsborough,New Ipswich,U.S. Senate,,Scatter ,15.0
+Hillsborough,New Ipswich,U.S. Senate,,Scatter,15.0
 Hillsborough,Pelham,U.S. Senate,R,Scott P. Brown,2949.0
 Hillsborough,Pelham,U.S. Senate,D,Jeanne Shaheen,1640.0
-Hillsborough,Pelham,U.S. Senate,,Scatter ,13.0
+Hillsborough,Pelham,U.S. Senate,,Scatter,13.0
 Hillsborough,Peterborough,U.S. Senate,R,Scott P. Brown,995.0
 Hillsborough,Peterborough,U.S. Senate,D,Jeanne Shaheen,1878.0
-Hillsborough,Peterborough,U.S. Senate,,Scatter ,6.0
+Hillsborough,Peterborough,U.S. Senate,,Scatter,6.0
 Hillsborough,Sharon,U.S. Senate,R,Scott P. Brown,81.0
 Hillsborough,Sharon,U.S. Senate,D,Jeanne Shaheen,117.0
-Hillsborough,Sharon,U.S. Senate,,Scatter ,0.0
+Hillsborough,Sharon,U.S. Senate,,Scatter,0.0
 Hillsborough,Temple,U.S. Senate,R,Scott P. Brown,318.0
 Hillsborough,Temple,U.S. Senate,D,Jeanne Shaheen,354.0
-Hillsborough,Temple,U.S. Senate,,Scatter ,4.0
+Hillsborough,Temple,U.S. Senate,,Scatter,4.0
 Hillsborough,Weare,U.S. Senate,R,Scott P. Brown,1762.0
 Hillsborough,Weare,U.S. Senate,D,Jeanne Shaheen,1402.0
-Hillsborough,Weare,U.S. Senate,,Scatter ,25.0
+Hillsborough,Weare,U.S. Senate,,Scatter,25.0
 Hillsborough,Wilton,U.S. Senate,R,Scott P. Brown,741.0
 Hillsborough,Wilton,U.S. Senate,D,Jeanne Shaheen,830.0
-Hillsborough,Wilton,U.S. Senate,,Scatter ,7.0
+Hillsborough,Wilton,U.S. Senate,,Scatter,7.0
 Hillsborough,Windsor,U.S. Senate,R,Scott P. Brown,54.0
 Hillsborough,Windsor,U.S. Senate,D,Jeanne Shaheen,30.0
-Hillsborough,Windsor,U.S. Senate,,Scatter ,0.0
+Hillsborough,Windsor,U.S. Senate,,Scatter,0.0
 Merrimack,Allenstown,U.S. Senate,R,Scott P. Brown,642.0
 Merrimack,Allenstown,U.S. Senate,D,Jeanne Shaheen,748.0
-Merrimack,Allenstown,U.S. Senate,,Scatter ,6.0
+Merrimack,Allenstown,U.S. Senate,,Scatter,6.0
 Merrimack,Andover,U.S. Senate,R,Scott P. Brown,368.0
 Merrimack,Andover,U.S. Senate,D,Jeanne Shaheen,583.0
-Merrimack,Andover,U.S. Senate,,Scatter ,5.0
+Merrimack,Andover,U.S. Senate,,Scatter,5.0
 Merrimack,Boscawen,U.S. Senate,R,Scott P. Brown,513.0
 Merrimack,Boscawen,U.S. Senate,D,Jeanne Shaheen,717.0
-Merrimack,Boscawen,U.S. Senate,,Scatter ,3.0
+Merrimack,Boscawen,U.S. Senate,,Scatter,3.0
 Merrimack,Bow,U.S. Senate,R,Scott P. Brown,1769.0
 Merrimack,Bow,U.S. Senate,D,Jeanne Shaheen,2033.0
-Merrimack,Bow,U.S. Senate,,Scatter ,0.0
+Merrimack,Bow,U.S. Senate,,Scatter,0.0
 Merrimack,Bradford,U.S. Senate,R,Scott P. Brown,345.0
 Merrimack,Bradford,U.S. Senate,D,Jeanne Shaheen,380.0
-Merrimack,Bradford,U.S. Senate,,Scatter ,7.0
+Merrimack,Bradford,U.S. Senate,,Scatter,7.0
 Merrimack,Canterbury,U.S. Senate,R,Scott P. Brown,433.0
 Merrimack,Canterbury,U.S. Senate,D,Jeanne Shaheen,763.0
-Merrimack,Canterbury,U.S. Senate,,Scatter ,5.0
+Merrimack,Canterbury,U.S. Senate,,Scatter,5.0
 Merrimack,Chichester,U.S. Senate,R,Scott P. Brown,567.0
 Merrimack,Chichester,U.S. Senate,D,Jeanne Shaheen,550.0
-Merrimack,Chichester,U.S. Senate,,Scatter ,7.0
+Merrimack,Chichester,U.S. Senate,,Scatter,7.0
 Merrimack,Concord Ward 1,U.S. Senate,R,Scott P. Brown,507.0
 Merrimack,Concord Ward 1,U.S. Senate,D,Jeanne Shaheen,1043.0
-Merrimack,Concord Ward 1,U.S. Senate,,Scatter ,4.0
+Merrimack,Concord Ward 1,U.S. Senate,,Scatter,4.0
 Merrimack,Concord Ward 2,U.S. Senate,R,Scott P. Brown,476.0
 Merrimack,Concord Ward 2,U.S. Senate,D,Jeanne Shaheen,881.0
-Merrimack,Concord Ward 2,U.S. Senate,,Scatter ,4.0
+Merrimack,Concord Ward 2,U.S. Senate,,Scatter,4.0
 Merrimack,Concord Ward 3,U.S. Senate,R,Scott P. Brown,378.0
 Merrimack,Concord Ward 3,U.S. Senate,D,Jeanne Shaheen,798.0
-Merrimack,Concord Ward 3,U.S. Senate,,Scatter ,2.0
+Merrimack,Concord Ward 3,U.S. Senate,,Scatter,2.0
 Merrimack,Concord Ward 4,U.S. Senate,R,Scott P. Brown,366.0
 Merrimack,Concord Ward 4,U.S. Senate,D,Jeanne Shaheen,1005.0
-Merrimack,Concord Ward 4,U.S. Senate,,Scatter ,0.0
+Merrimack,Concord Ward 4,U.S. Senate,,Scatter,0.0
 Merrimack,Concord Ward 5,U.S. Senate,R,Scott P. Brown,633.0
 Merrimack,Concord Ward 5,U.S. Senate,D,Jeanne Shaheen,1359.0
-Merrimack,Concord Ward 5,U.S. Senate,,Scatter ,10.0
+Merrimack,Concord Ward 5,U.S. Senate,,Scatter,10.0
 Merrimack,Concord Ward 6,U.S. Senate,R,Scott P. Brown,363.0
 Merrimack,Concord Ward 6,U.S. Senate,D,Jeanne Shaheen,827.0
-Merrimack,Concord Ward 6,U.S. Senate,,Scatter ,9.0
+Merrimack,Concord Ward 6,U.S. Senate,,Scatter,9.0
 Merrimack,Concord Ward 7,U.S. Senate,R,Scott P. Brown,616.0
 Merrimack,Concord Ward 7,U.S. Senate,D,Jeanne Shaheen,1392.0
-Merrimack,Concord Ward 7,U.S. Senate,,Scatter ,2.0
+Merrimack,Concord Ward 7,U.S. Senate,,Scatter,2.0
 Merrimack,Concord Ward 8,U.S. Senate,R,Scott P. Brown,504.0
 Merrimack,Concord Ward 8,U.S. Senate,D,Jeanne Shaheen,889.0
-Merrimack,Concord Ward 8,U.S. Senate,,Scatter ,5.0
+Merrimack,Concord Ward 8,U.S. Senate,,Scatter,5.0
 Merrimack,Concord Ward 9,U.S. Senate,R,Scott P. Brown,462.0
 Merrimack,Concord Ward 9,U.S. Senate,D,Jeanne Shaheen,817.0
-Merrimack,Concord Ward 9,U.S. Senate,,Scatter ,5.0
+Merrimack,Concord Ward 9,U.S. Senate,,Scatter,5.0
 Merrimack,Concord Ward 10,U.S. Senate,R,Scott P. Brown,838.0
 Merrimack,Concord Ward 10,U.S. Senate,D,Jeanne Shaheen,1323.0
-Merrimack,Concord Ward 10,U.S. Senate,,Scatter ,1.0
+Merrimack,Concord Ward 10,U.S. Senate,,Scatter,1.0
 Merrimack,Danbury,U.S. Senate,R,Scott P. Brown,211.0
 Merrimack,Danbury,U.S. Senate,D,Jeanne Shaheen,249.0
-Merrimack,Danbury,U.S. Senate,,Scatter ,4.0
+Merrimack,Danbury,U.S. Senate,,Scatter,4.0
 Merrimack,Dunbarton,U.S. Senate,R,Scott P. Brown,721.0
 Merrimack,Dunbarton,U.S. Senate,D,Jeanne Shaheen,594.0
-Merrimack,Dunbarton,U.S. Senate,,Scatter ,1.0
+Merrimack,Dunbarton,U.S. Senate,,Scatter,1.0
 Merrimack,Epsom,U.S. Senate,R,Scott P. Brown,911.0
 Merrimack,Epsom,U.S. Senate,D,Jeanne Shaheen,818.0
-Merrimack,Epsom,U.S. Senate,,Scatter ,4.0
+Merrimack,Epsom,U.S. Senate,,Scatter,4.0
 Merrimack,Franklin Ward 1,U.S. Senate,R,Scott P. Brown,395.0
 Merrimack,Franklin Ward 1,U.S. Senate,D,Jeanne Shaheen,459.0
-Merrimack,Franklin Ward 1,U.S. Senate,,Scatter ,10.0
+Merrimack,Franklin Ward 1,U.S. Senate,,Scatter,10.0
 Merrimack,Franklin Ward 2,U.S. Senate,R,Scott P. Brown,312.0
 Merrimack,Franklin Ward 2,U.S. Senate,D,Jeanne Shaheen,319.0
-Merrimack,Franklin Ward 2,U.S. Senate,,Scatter ,8.0
+Merrimack,Franklin Ward 2,U.S. Senate,,Scatter,8.0
 Merrimack,Franklin Ward 3,U.S. Senate,R,Scott P. Brown,414.0
 Merrimack,Franklin Ward 3,U.S. Senate,D,Jeanne Shaheen,520.0
-Merrimack,Franklin Ward 3,U.S. Senate,,Scatter ,9.0
+Merrimack,Franklin Ward 3,U.S. Senate,,Scatter,9.0
 Merrimack,Henniker,U.S. Senate,R,Scott P. Brown,721.0
 Merrimack,Henniker,U.S. Senate,D,Jeanne Shaheen,1037.0
-Merrimack,Henniker,U.S. Senate,,Scatter ,3.0
+Merrimack,Henniker,U.S. Senate,,Scatter,3.0
 Merrimack,Hill,U.S. Senate,R,Scott P. Brown,187.0
 Merrimack,Hill,U.S. Senate,D,Jeanne Shaheen,187.0
-Merrimack,Hill,U.S. Senate,,Scatter ,1.0
+Merrimack,Hill,U.S. Senate,,Scatter,1.0
 Merrimack,Hooksett,U.S. Senate,R,Scott P. Brown,2763.0
 Merrimack,Hooksett,U.S. Senate,D,Jeanne Shaheen,2315.0
-Merrimack,Hooksett,U.S. Senate,,Scatter ,0.0
+Merrimack,Hooksett,U.S. Senate,,Scatter,0.0
 Merrimack,Hopkinton,U.S. Senate,R,Scott P. Brown,1097.0
 Merrimack,Hopkinton,U.S. Senate,D,Jeanne Shaheen,1882.0
-Merrimack,Hopkinton,U.S. Senate,,Scatter ,8.0
+Merrimack,Hopkinton,U.S. Senate,,Scatter,8.0
 Merrimack,Loudon,U.S. Senate,R,Scott P. Brown,1104.0
 Merrimack,Loudon,U.S. Senate,D,Jeanne Shaheen,1010.0
-Merrimack,Loudon,U.S. Senate,,Scatter ,4.0
+Merrimack,Loudon,U.S. Senate,,Scatter,4.0
 Merrimack,New London,U.S. Senate,R,Scott P. Brown,1014.0
 Merrimack,New London,U.S. Senate,D,Jeanne Shaheen,1201.0
-Merrimack,New London,U.S. Senate,,Scatter ,1.0
+Merrimack,New London,U.S. Senate,,Scatter,1.0
 Merrimack,Newbury,U.S. Senate,R,Scott P. Brown,526.0
 Merrimack,Newbury,U.S. Senate,D,Jeanne Shaheen,517.0
-Merrimack,Newbury,U.S. Senate,,Scatter ,4.0
+Merrimack,Newbury,U.S. Senate,,Scatter,4.0
 Merrimack,Northfield,U.S. Senate,R,Scott P. Brown,715.0
 Merrimack,Northfield,U.S. Senate,D,Jeanne Shaheen,812.0
-Merrimack,Northfield,U.S. Senate,,Scatter ,7.0
+Merrimack,Northfield,U.S. Senate,,Scatter,7.0
 Merrimack,Pembroke,U.S. Senate,R,Scott P. Brown,1241.0
 Merrimack,Pembroke,U.S. Senate,D,Jeanne Shaheen,1430.0
-Merrimack,Pembroke,U.S. Senate,,Scatter ,10.0
+Merrimack,Pembroke,U.S. Senate,,Scatter,10.0
 Merrimack,Pittsfield,U.S. Senate,R,Scott P. Brown,642.0
 Merrimack,Pittsfield,U.S. Senate,D,Jeanne Shaheen,571.0
-Merrimack,Pittsfield,U.S. Senate,,Scatter ,8.0
+Merrimack,Pittsfield,U.S. Senate,,Scatter,8.0
 Merrimack,Salisbury,U.S. Senate,R,Scott P. Brown,276.0
 Merrimack,Salisbury,U.S. Senate,D,Jeanne Shaheen,295.0
-Merrimack,Salisbury,U.S. Senate,,Scatter ,2.0
+Merrimack,Salisbury,U.S. Senate,,Scatter,2.0
 Merrimack,Sutton,U.S. Senate,R,Scott P. Brown,439.0
 Merrimack,Sutton,U.S. Senate,D,Jeanne Shaheen,480.0
-Merrimack,Sutton,U.S. Senate,,Scatter ,1.0
+Merrimack,Sutton,U.S. Senate,,Scatter,1.0
 Merrimack,Warner,U.S. Senate,R,Scott P. Brown,490.0
 Merrimack,Warner,U.S. Senate,D,Jeanne Shaheen,767.0
-Merrimack,Warner,U.S. Senate,,Scatter ,8.0
+Merrimack,Warner,U.S. Senate,,Scatter,8.0
 Merrimack,Webster,U.S. Senate,R,Scott P. Brown,357.0
 Merrimack,Webster,U.S. Senate,D,Jeanne Shaheen,452.0
-Merrimack,Webster,U.S. Senate,,Scatter ,0.0
+Merrimack,Webster,U.S. Senate,,Scatter,0.0
 Merrimack,Wilmot,U.S. Senate,R,Scott P. Brown,281.0
 Merrimack,Wilmot,U.S. Senate,D,Jeanne Shaheen,390.0
-Merrimack,Wilmot,U.S. Senate,,Scatter ,3.0
+Merrimack,Wilmot,U.S. Senate,,Scatter,3.0
 Rockingham,Atkinson,U.S. Senate,R,Scott P. Brown,2023.0
 Rockingham,Atkinson,U.S. Senate,D,Jeanne Shaheen,1180.0
-Rockingham,Atkinson,U.S. Senate,,Scatter ,5.0
+Rockingham,Atkinson,U.S. Senate,,Scatter,5.0
 Rockingham,Auburn,U.S. Senate,R,Scott P. Brown,1440.0
 Rockingham,Auburn,U.S. Senate,D,Jeanne Shaheen,967.0
-Rockingham,Auburn,U.S. Senate,,Scatter ,5.0
+Rockingham,Auburn,U.S. Senate,,Scatter,5.0
 Rockingham,Brentwood,U.S. Senate,R,Scott P. Brown,1011.0
 Rockingham,Brentwood,U.S. Senate,D,Jeanne Shaheen,817.0
-Rockingham,Brentwood,U.S. Senate,,Scatter ,7.0
+Rockingham,Brentwood,U.S. Senate,,Scatter,7.0
 Rockingham,Candia,U.S. Senate,R,Scott P. Brown,1097.0
 Rockingham,Candia,U.S. Senate,D,Jeanne Shaheen,739.0
-Rockingham,Candia,U.S. Senate,,Scatter ,9.0
+Rockingham,Candia,U.S. Senate,,Scatter,9.0
 Rockingham,Chester,U.S. Senate,R,Scott P. Brown,1183.0
 Rockingham,Chester,U.S. Senate,D,Jeanne Shaheen,750.0
-Rockingham,Chester,U.S. Senate,,Scatter ,0.0
+Rockingham,Chester,U.S. Senate,,Scatter,0.0
 Rockingham,Danville,U.S. Senate,R,Scott P. Brown,967.0
 Rockingham,Danville,U.S. Senate,D,Jeanne Shaheen,630.0
-Rockingham,Danville,U.S. Senate,,Scatter ,3.0
+Rockingham,Danville,U.S. Senate,,Scatter,3.0
 Rockingham,Deerfield,U.S. Senate,R,Scott P. Brown,1099.0
 Rockingham,Deerfield,U.S. Senate,D,Jeanne Shaheen,845.0
-Rockingham,Deerfield,U.S. Senate,,Scatter ,8.0
+Rockingham,Deerfield,U.S. Senate,,Scatter,8.0
 Rockingham,Derry,U.S. Senate,R,Scott P. Brown,5867.0
 Rockingham,Derry,U.S. Senate,D,Jeanne Shaheen,4319.0
-Rockingham,Derry,U.S. Senate,,Scatter ,0.0
+Rockingham,Derry,U.S. Senate,,Scatter,0.0
 Rockingham,East Kingston,U.S. Senate,R,Scott P. Brown,704.0
 Rockingham,East Kingston,U.S. Senate,D,Jeanne Shaheen,412.0
-Rockingham,East Kingston,U.S. Senate,,Scatter ,4.0
+Rockingham,East Kingston,U.S. Senate,,Scatter,4.0
 Rockingham,Epping,U.S. Senate,R,Scott P. Brown,1204.0
 Rockingham,Epping,U.S. Senate,D,Jeanne Shaheen,1188.0
-Rockingham,Epping,U.S. Senate,,Scatter ,7.0
+Rockingham,Epping,U.S. Senate,,Scatter,7.0
 Rockingham,Exeter,U.S. Senate,R,Scott P. Brown,2641.0
 Rockingham,Exeter,U.S. Senate,D,Jeanne Shaheen,3885.0
-Rockingham,Exeter,U.S. Senate,,Scatter ,0.0
+Rockingham,Exeter,U.S. Senate,,Scatter,0.0
 Rockingham,Fremont,U.S. Senate,R,Scott P. Brown,1052.0
 Rockingham,Fremont,U.S. Senate,D,Jeanne Shaheen,699.0
-Rockingham,Fremont,U.S. Senate,,Scatter ,11.0
+Rockingham,Fremont,U.S. Senate,,Scatter,11.0
 Rockingham,Greenland,U.S. Senate,R,Scott P. Brown,905.0
 Rockingham,Greenland,U.S. Senate,D,Jeanne Shaheen,961.0
-Rockingham,Greenland,U.S. Senate,,Scatter ,5.0
+Rockingham,Greenland,U.S. Senate,,Scatter,5.0
 Rockingham,Hampstead,U.S. Senate,R,Scott P. Brown,2444.0
 Rockingham,Hampstead,U.S. Senate,D,Jeanne Shaheen,1380.0
-Rockingham,Hampstead,U.S. Senate,,Scatter ,12.0
+Rockingham,Hampstead,U.S. Senate,,Scatter,12.0
 Rockingham,Hampton,U.S. Senate,R,Scott P. Brown,3776.0
 Rockingham,Hampton,U.S. Senate,D,Jeanne Shaheen,3272.0
-Rockingham,Hampton,U.S. Senate,,Scatter ,14.0
+Rockingham,Hampton,U.S. Senate,,Scatter,14.0
 Rockingham,Hampton Falls,U.S. Senate,R,Scott P. Brown,745.0
 Rockingham,Hampton Falls,U.S. Senate,D,Jeanne Shaheen,401.0
-Rockingham,Hampton Falls,U.S. Senate,,Scatter ,2.0
+Rockingham,Hampton Falls,U.S. Senate,,Scatter,2.0
 Rockingham,Kensington,U.S. Senate,R,Scott P. Brown,569.0
 Rockingham,Kensington,U.S. Senate,D,Jeanne Shaheen,461.0
-Rockingham,Kensington,U.S. Senate,,Scatter ,1.0
+Rockingham,Kensington,U.S. Senate,,Scatter,1.0
 Rockingham,Kingston,U.S. Senate,R,Scott P. Brown,1397.0
 Rockingham,Kingston,U.S. Senate,D,Jeanne Shaheen,962.0
-Rockingham,Kingston,U.S. Senate,,Scatter ,8.0
+Rockingham,Kingston,U.S. Senate,,Scatter,8.0
 Rockingham,Londonderry,U.S. Senate,R,Scott P. Brown,5185.0
 Rockingham,Londonderry,U.S. Senate,D,Jeanne Shaheen,3646.0
-Rockingham,Londonderry,U.S. Senate,,Scatter ,39.0
+Rockingham,Londonderry,U.S. Senate,,Scatter,39.0
 Rockingham,New Castle,U.S. Senate,R,Scott P. Brown,345.0
 Rockingham,New Castle,U.S. Senate,D,Jeanne Shaheen,330.0
-Rockingham,New Castle,U.S. Senate,,Scatter ,0.0
+Rockingham,New Castle,U.S. Senate,,Scatter,0.0
 Rockingham,Newfields,U.S. Senate,R,Scott P. Brown,415.0
 Rockingham,Newfields,U.S. Senate,D,Jeanne Shaheen,422.0
-Rockingham,Newfields,U.S. Senate,,Scatter ,2.0
+Rockingham,Newfields,U.S. Senate,,Scatter,2.0
 Rockingham,Newington,U.S. Senate,R,Scott P. Brown,261.0
 Rockingham,Newington,U.S. Senate,D,Jeanne Shaheen,206.0
-Rockingham,Newington,U.S. Senate,,Scatter ,1.0
+Rockingham,Newington,U.S. Senate,,Scatter,1.0
 Rockingham,Newmarket,U.S. Senate,R,Scott P. Brown,1330.0
 Rockingham,Newmarket,U.S. Senate,D,Jeanne Shaheen,2095.0
-Rockingham,Newmarket,U.S. Senate,,Scatter ,10.0
+Rockingham,Newmarket,U.S. Senate,,Scatter,10.0
 Rockingham,Newton,U.S. Senate,R,Scott P. Brown,1037.0
 Rockingham,Newton,U.S. Senate,D,Jeanne Shaheen,671.0
-Rockingham,Newton,U.S. Senate,,Scatter ,0.0
+Rockingham,Newton,U.S. Senate,,Scatter,0.0
 Rockingham,North Hampton,U.S. Senate,R,Scott P. Brown,1254.0
 Rockingham,North Hampton,U.S. Senate,D,Jeanne Shaheen,1023.0
-Rockingham,North Hampton,U.S. Senate,,Scatter ,3.0
+Rockingham,North Hampton,U.S. Senate,,Scatter,3.0
 Rockingham,Northwood,U.S. Senate,R,Scott P. Brown,842.0
 Rockingham,Northwood,U.S. Senate,D,Jeanne Shaheen,866.0
-Rockingham,Northwood,U.S. Senate,,Scatter ,4.0
+Rockingham,Northwood,U.S. Senate,,Scatter,4.0
 Rockingham,Nottingham,U.S. Senate,R,Scott P. Brown,1009.0
 Rockingham,Nottingham,U.S. Senate,D,Jeanne Shaheen,986.0
-Rockingham,Nottingham,U.S. Senate,,Scatter ,8.0
+Rockingham,Nottingham,U.S. Senate,,Scatter,8.0
 Rockingham,Plaistow,U.S. Senate,R,Scott P. Brown,1702.0
 Rockingham,Plaistow,U.S. Senate,D,Jeanne Shaheen,1029.0
-Rockingham,Plaistow,U.S. Senate,,Scatter ,5.0
+Rockingham,Plaistow,U.S. Senate,,Scatter,5.0
 Rockingham,Portsmouth Ward 1,U.S. Senate,R,Scott P. Brown,546.0
 Rockingham,Portsmouth Ward 1,U.S. Senate,D,Jeanne Shaheen,1307.0
-Rockingham,Portsmouth Ward 1,U.S. Senate,,Scatter ,2.0
+Rockingham,Portsmouth Ward 1,U.S. Senate,,Scatter,2.0
 Rockingham,Portsmouth Ward 2,U.S. Senate,R,Scott P. Brown,591.0
 Rockingham,Portsmouth Ward 2,U.S. Senate,D,Jeanne Shaheen,1538.0
-Rockingham,Portsmouth Ward 2,U.S. Senate,,Scatter ,3.0
+Rockingham,Portsmouth Ward 2,U.S. Senate,,Scatter,3.0
 Rockingham,Portsmouth Ward 3,U.S. Senate,R,Scott P. Brown,637.0
 Rockingham,Portsmouth Ward 3,U.S. Senate,D,Jeanne Shaheen,1078.0
-Rockingham,Portsmouth Ward 3,U.S. Senate,,Scatter ,7.0
+Rockingham,Portsmouth Ward 3,U.S. Senate,,Scatter,7.0
 Rockingham,Portsmouth Ward 4,U.S. Senate,R,Scott P. Brown,655.0
 Rockingham,Portsmouth Ward 4,U.S. Senate,D,Jeanne Shaheen,959.0
-Rockingham,Portsmouth Ward 4,U.S. Senate,,Scatter ,5.0
+Rockingham,Portsmouth Ward 4,U.S. Senate,,Scatter,5.0
 Rockingham,Portsmouth Ward 5,U.S. Senate,R,Scott P. Brown,591.0
 Rockingham,Portsmouth Ward 5,U.S. Senate,D,Jeanne Shaheen,1346.0
-Rockingham,Portsmouth Ward 5,U.S. Senate,,Scatter ,6.0
+Rockingham,Portsmouth Ward 5,U.S. Senate,,Scatter,6.0
 Rockingham,Raymond,U.S. Senate,R,Scott P. Brown,1887.0
 Rockingham,Raymond,U.S. Senate,D,Jeanne Shaheen,1373.0
-Rockingham,Raymond,U.S. Senate,,Scatter ,50.0
+Rockingham,Raymond,U.S. Senate,,Scatter,50.0
 Rockingham,Rye,U.S. Senate,R,Scott P. Brown,1558.0
 Rockingham,Rye,U.S. Senate,D,Jeanne Shaheen,1508.0
-Rockingham,Rye,U.S. Senate,,Scatter ,8.0
+Rockingham,Rye,U.S. Senate,,Scatter,8.0
 Rockingham,Salem,U.S. Senate,R,Scott P. Brown,6174.0
 Rockingham,Salem,U.S. Senate,D,Jeanne Shaheen,3874.0
-Rockingham,Salem,U.S. Senate,,Scatter ,26.0
+Rockingham,Salem,U.S. Senate,,Scatter,26.0
 Rockingham,Sandown,U.S. Senate,R,Scott P. Brown,1424.0
 Rockingham,Sandown,U.S. Senate,D,Jeanne Shaheen,795.0
-Rockingham,Sandown,U.S. Senate,,Scatter ,1.0
+Rockingham,Sandown,U.S. Senate,,Scatter,1.0
 Rockingham,Seabrook,U.S. Senate,R,Scott P. Brown,1635.0
 Rockingham,Seabrook,U.S. Senate,D,Jeanne Shaheen,1021.0
-Rockingham,Seabrook,U.S. Senate,,Scatter ,5.0
+Rockingham,Seabrook,U.S. Senate,,Scatter,5.0
 Rockingham,South Hampton,U.S. Senate,R,Scott P. Brown,251.0
 Rockingham,South Hampton,U.S. Senate,D,Jeanne Shaheen,180.0
-Rockingham,South Hampton,U.S. Senate,,Scatter ,0.0
+Rockingham,South Hampton,U.S. Senate,,Scatter,0.0
 Rockingham,Stratham,U.S. Senate,R,Scott P. Brown,1862.0
 Rockingham,Stratham,U.S. Senate,D,Jeanne Shaheen,1752.0
-Rockingham,Stratham,U.S. Senate,,Scatter ,3.0
+Rockingham,Stratham,U.S. Senate,,Scatter,3.0
 Rockingham,Windham,U.S. Senate,R,Scott P. Brown,3741.0
 Rockingham,Windham,U.S. Senate,D,Jeanne Shaheen,2061.0
-Rockingham,Windham,U.S. Senate,,Scatter ,11.0
+Rockingham,Windham,U.S. Senate,,Scatter,11.0
 Strafford,Barrington,U.S. Senate,R,Scott P. Brown,1623.0
 Strafford,Barrington,U.S. Senate,D,Jeanne Shaheen,1801.0
-Strafford,Barrington,U.S. Senate,,Scatter ,18.0
+Strafford,Barrington,U.S. Senate,,Scatter,18.0
 Strafford,Dover Ward 1,U.S. Senate,R,Scott P. Brown,519.0
 Strafford,Dover Ward 1,U.S. Senate,D,Jeanne Shaheen,1176.0
-Strafford,Dover Ward 1,U.S. Senate,,Scatter ,8.0
+Strafford,Dover Ward 1,U.S. Senate,,Scatter,8.0
 Strafford,Dover Ward 2,U.S. Senate,R,Scott P. Brown,562.0
 Strafford,Dover Ward 2,U.S. Senate,D,Jeanne Shaheen,1158.0
-Strafford,Dover Ward 2,U.S. Senate,,Scatter ,0.0
+Strafford,Dover Ward 2,U.S. Senate,,Scatter,0.0
 Strafford,Dover Ward 3,U.S. Senate,R,Scott P. Brown,1057.0
 Strafford,Dover Ward 3,U.S. Senate,D,Jeanne Shaheen,1319.0
-Strafford,Dover Ward 3,U.S. Senate,,Scatter ,4.0
+Strafford,Dover Ward 3,U.S. Senate,,Scatter,4.0
 Strafford,Dover Ward 4,U.S. Senate,R,Scott P. Brown,827.0
 Strafford,Dover Ward 4,U.S. Senate,D,Jeanne Shaheen,1221.0
-Strafford,Dover Ward 4,U.S. Senate,,Scatter ,8.0
+Strafford,Dover Ward 4,U.S. Senate,,Scatter,8.0
 Strafford,Dover Ward 5,U.S. Senate,R,Scott P. Brown,620.0
 Strafford,Dover Ward 5,U.S. Senate,D,Jeanne Shaheen,869.0
-Strafford,Dover Ward 5,U.S. Senate,,Scatter ,3.0
+Strafford,Dover Ward 5,U.S. Senate,,Scatter,3.0
 Strafford,Dover Ward 6,U.S. Senate,R,Scott P. Brown,747.0
 Strafford,Dover Ward 6,U.S. Senate,D,Jeanne Shaheen,892.0
-Strafford,Dover Ward 6,U.S. Senate,,Scatter ,1.0
+Strafford,Dover Ward 6,U.S. Senate,,Scatter,1.0
 Strafford,Durham,U.S. Senate,R,Scott P. Brown,1305.0
 Strafford,Durham,U.S. Senate,D,Jeanne Shaheen,2913.0
-Strafford,Durham,U.S. Senate,,Scatter ,13.0
+Strafford,Durham,U.S. Senate,,Scatter,13.0
 Strafford,Farmington,U.S. Senate,R,Scott P. Brown,959.0
 Strafford,Farmington,U.S. Senate,D,Jeanne Shaheen,912.0
-Strafford,Farmington,U.S. Senate,,Scatter ,0.0
+Strafford,Farmington,U.S. Senate,,Scatter,0.0
 Strafford,Lee,U.S. Senate,R,Scott P. Brown,718.0
 Strafford,Lee,U.S. Senate,D,Jeanne Shaheen,1184.0
-Strafford,Lee,U.S. Senate,,Scatter ,2.0
+Strafford,Lee,U.S. Senate,,Scatter,2.0
 Strafford,Madbury,U.S. Senate,R,Scott P. Brown,367.0
 Strafford,Madbury,U.S. Senate,D,Jeanne Shaheen,530.0
-Strafford,Madbury,U.S. Senate,,Scatter ,3.0
+Strafford,Madbury,U.S. Senate,,Scatter,3.0
 Strafford,Middleton,U.S. Senate,R,Scott P. Brown,330.0
 Strafford,Middleton,U.S. Senate,D,Jeanne Shaheen,257.0
-Strafford,Middleton,U.S. Senate,,Scatter ,3.0
+Strafford,Middleton,U.S. Senate,,Scatter,3.0
 Strafford,Milton,U.S. Senate,R,Scott P. Brown,807.0
 Strafford,Milton,U.S. Senate,D,Jeanne Shaheen,708.0
-Strafford,Milton,U.S. Senate,,Scatter ,6.0
+Strafford,Milton,U.S. Senate,,Scatter,6.0
 Strafford,New Durham,U.S. Senate,R,Scott P. Brown,628.0
 Strafford,New Durham,U.S. Senate,D,Jeanne Shaheen,501.0
-Strafford,New Durham,U.S. Senate,,Scatter ,3.0
+Strafford,New Durham,U.S. Senate,,Scatter,3.0
 Strafford,Rochester Ward 1,U.S. Senate,R,Scott P. Brown,875.0
 Strafford,Rochester Ward 1,U.S. Senate,D,Jeanne Shaheen,838.0
-Strafford,Rochester Ward 1,U.S. Senate,,Scatter ,5.0
+Strafford,Rochester Ward 1,U.S. Senate,,Scatter,5.0
 Strafford,Rochester Ward 2,U.S. Senate,R,Scott P. Brown,883.0
 Strafford,Rochester Ward 2,U.S. Senate,D,Jeanne Shaheen,867.0
-Strafford,Rochester Ward 2,U.S. Senate,,Scatter ,0.0
+Strafford,Rochester Ward 2,U.S. Senate,,Scatter,0.0
 Strafford,Rochester Ward 3,U.S. Senate,R,Scott P. Brown,796.0
 Strafford,Rochester Ward 3,U.S. Senate,D,Jeanne Shaheen,761.0
-Strafford,Rochester Ward 3,U.S. Senate,,Scatter ,10.0
+Strafford,Rochester Ward 3,U.S. Senate,,Scatter,10.0
 Strafford,Rochester Ward 4,U.S. Senate,R,Scott P. Brown,740.0
 Strafford,Rochester Ward 4,U.S. Senate,D,Jeanne Shaheen,797.0
-Strafford,Rochester Ward 4,U.S. Senate,,Scatter ,10.0
+Strafford,Rochester Ward 4,U.S. Senate,,Scatter,10.0
 Strafford,Rochester Ward 5,U.S. Senate,R,Scott P. Brown,786.0
 Strafford,Rochester Ward 5,U.S. Senate,D,Jeanne Shaheen,834.0
-Strafford,Rochester Ward 5,U.S. Senate,,Scatter ,6.0
+Strafford,Rochester Ward 5,U.S. Senate,,Scatter,6.0
 Strafford,Rochester Ward 6,U.S. Senate,R,Scott P. Brown,588.0
 Strafford,Rochester Ward 6,U.S. Senate,D,Jeanne Shaheen,712.0
-Strafford,Rochester Ward 6,U.S. Senate,,Scatter ,3.0
+Strafford,Rochester Ward 6,U.S. Senate,,Scatter,3.0
 Strafford,Rollinsford,U.S. Senate,R,Scott P. Brown,487.0
 Strafford,Rollinsford,U.S. Senate,D,Jeanne Shaheen,609.0
-Strafford,Rollinsford,U.S. Senate,,Scatter ,4.0
+Strafford,Rollinsford,U.S. Senate,,Scatter,4.0
 Strafford,Somersworth Ward 1,U.S. Senate,R,Scott P. Brown,426.0
 Strafford,Somersworth Ward 1,U.S. Senate,D,Jeanne Shaheen,456.0
-Strafford,Somersworth Ward 1,U.S. Senate,,Scatter ,3.0
+Strafford,Somersworth Ward 1,U.S. Senate,,Scatter,3.0
 Strafford,Somersworth Ward 2,U.S. Senate,R,Scott P. Brown,294.0
 Strafford,Somersworth Ward 2,U.S. Senate,D,Jeanne Shaheen,384.0
-Strafford,Somersworth Ward 2,U.S. Senate,,Scatter ,0.0
+Strafford,Somersworth Ward 2,U.S. Senate,,Scatter,0.0
 Strafford,Somersworth Ward 3,U.S. Senate,R,Scott P. Brown,295.0
 Strafford,Somersworth Ward 3,U.S. Senate,D,Jeanne Shaheen,364.0
-Strafford,Somersworth Ward 3,U.S. Senate,,Scatter ,11.0
+Strafford,Somersworth Ward 3,U.S. Senate,,Scatter,11.0
 Strafford,Somersworth Ward 4,U.S. Senate,R,Scott P. Brown,271.0
 Strafford,Somersworth Ward 4,U.S. Senate,D,Jeanne Shaheen,411.0
-Strafford,Somersworth Ward 4,U.S. Senate,,Scatter ,1.0
+Strafford,Somersworth Ward 4,U.S. Senate,,Scatter,1.0
 Strafford,Somersworth Ward 5,U.S. Senate,R,Scott P. Brown,155.0
 Strafford,Somersworth Ward 5,U.S. Senate,D,Jeanne Shaheen,285.0
-Strafford,Somersworth Ward 5,U.S. Senate,,Scatter ,0.0
+Strafford,Somersworth Ward 5,U.S. Senate,,Scatter,0.0
 Strafford,Strafford,U.S. Senate,R,Scott P. Brown,876.0
 Strafford,Strafford,U.S. Senate,D,Jeanne Shaheen,951.0
-Strafford,Strafford,U.S. Senate,,Scatter ,9.0
+Strafford,Strafford,U.S. Senate,,Scatter,9.0
 Sullivan,Acworth,U.S. Senate,R,Scott P. Brown,161.0
 Sullivan,Acworth,U.S. Senate,D,Jeanne Shaheen,230.0
 Sullivan,Acworth,U.S. Senate,,Scatter,0.0

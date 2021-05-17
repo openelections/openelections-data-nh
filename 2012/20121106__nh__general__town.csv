@@ -4838,8 +4838,8 @@ Troy,Cheshire,Executive Council,5,,Scatter,False,0
 Weare,Hillsborough,Executive Council,5,,Scatter,False,14
 Wilton,Hillsborough,Executive Council,5,,Scatter,False,0
 Windsor,Hillsborough,Executive Council,5,,Scatter,False,0
-Center Harbor,Belknap,State Representative,1,D,Gulick ,True,285
-New Hampton,Belknap,State Representative,1,D,Gulick ,True,694
+Center Harbor,Belknap,State Representative,1,D,Gulick,True,285
+New Hampton,Belknap,State Representative,1,D,Gulick,True,694
 Center Harbor,Belknap,State Representative,1,R,Quinney,False,373
 New Hampton,Belknap,State Representative,1,R,Quinney,False,525
 Center Harbor,Belknap,State Representative,1,,Scatter,False,0
@@ -4907,8 +4907,8 @@ Gilmanton,Belknap,State Representative,8,,Scatter,False,0
 Alton,Belknap,State Representative,8,D,Smith,False,1054
 Barnstead,Belknap,State Representative,8,D,Smith,False,991
 Gilmanton,Belknap,State Representative,8,D,Smith,False,836
-Belmont,Belknap,State Representative,9,D, Arsenault,True,1704
-Laconia,Belknap,State Representative,9,D, Arsenault,True,3821
+Belmont,Belknap,State Representative,9,D,Arsenault,True,1704
+Laconia,Belknap,State Representative,9,D,Arsenault,True,3821
 Belmont,Belknap,State Representative,9,R,Accornero,False,1566
 Laconia,Belknap,State Representative,9,R,Accornero,False,3258
 Belmont,Belknap,State Representative,9,,Scatter,False,5
@@ -5189,11 +5189,11 @@ Harrisville,Cheshire,State Representative,14,D,Young,True,447
 Jaffrey,Cheshire,State Representative,14,D,Young,True,1308
 Rindge,Cheshire,State Representative,14,D,Young,True,1267
 Roxbury,Cheshire,State Representative,14,D,Young,True,98
-Marlborough,Cheshire,State Representative,15,R, Thackston,False,342
-Richmond,Cheshire,State Representative,15,R, Thackston,False,308
-Swanzey,Cheshire,State Representative,15,R, Thackston,False,1292
-Troy,Cheshire,State Representative,15,R, Thackston,False,442
-Winchester,Cheshire,State Representative,15,R, Thackston,False,610
+Marlborough,Cheshire,State Representative,15,R,Thackston,False,342
+Richmond,Cheshire,State Representative,15,R,Thackston,False,308
+Swanzey,Cheshire,State Representative,15,R,Thackston,False,1292
+Troy,Cheshire,State Representative,15,R,Thackston,False,442
+Winchester,Cheshire,State Representative,15,R,Thackston,False,610
 Marlborough,Cheshire,State Representative,15,,Scatter,False,1
 Richmond,Cheshire,State Representative,15,,Scatter,False,1
 Swanzey,Cheshire,State Representative,15,,Scatter,False,4
@@ -6447,10 +6447,10 @@ Greenland,Rockingham,State Representative,31,,Scatter,False,2
 Newington,Rockingham,State Representative,31,,Scatter,False,1
 North Hampton,Rockingham,State Representative,31,,Scatter,False,1
 Portsmouth,Rockingham,State Representative,31,,Scatter,False,3
-Candia,Rockingham,State Representative,32,D, Mann,True,945
-Deerfield,Rockingham,State Representative,32,D, Mann,True,1229
-Northwood,Rockingham,State Representative,32,D, Mann,True,1236
-Nottingham,Rockingham,State Representative,32,D, Mann,True,1330
+Candia,Rockingham,State Representative,32,D,Mann,True,945
+Deerfield,Rockingham,State Representative,32,D,Mann,True,1229
+Northwood,Rockingham,State Representative,32,D,Mann,True,1236
+Nottingham,Rockingham,State Representative,32,D,Mann,True,1330
 Candia,Rockingham,State Representative,32,R,Gorman,False,1301
 Deerfield,Rockingham,State Representative,32,R,Gorman,False,1205
 Northwood,Rockingham,State Representative,32,R,Gorman,False,1018
@@ -6637,10 +6637,10 @@ Barrington,Strafford,State Representative,25,,Scatter,False,3
 Lee,Strafford,State Representative,25,,Scatter,False,0
 Barrington,Strafford,State Representative,25,R,Turcotte,False,2335
 Lee,Strafford,State Representative,25,R,Turcotte,False,895
-Cornish,Sullivan,State Representative,1,D, Lefebvre,True,506
-Grantham,Sullivan,State Representative,1,D, Lefebvre,True,1005
-Plainfield,Sullivan,State Representative,1,D, Lefebvre,True,817
-Springfield,Sullivan,State Representative,1,D, Lefebvre,True,297
+Cornish,Sullivan,State Representative,1,D,Lefebvre,True,506
+Grantham,Sullivan,State Representative,1,D,Lefebvre,True,1005
+Plainfield,Sullivan,State Representative,1,D,Lefebvre,True,817
+Springfield,Sullivan,State Representative,1,D,Lefebvre,True,297
 Cornish,Sullivan,State Representative,1,,Scatter,False,0
 Grantham,Sullivan,State Representative,1,,Scatter,False,0
 Plainfield,Sullivan,State Representative,1,,Scatter,False,1

@@ -8250,7 +8250,7 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Hart's Location,Congressional District 1,IND,Brendan Kelly,0
 ,Hart's Location,Congressional District 1,LIB,Robert Lombardo,0
 ,Hart's Location,Congressional District 1,IND,Shawn P. O'Connor,8
-,Hart's Location,Congressional District 1,,Scatter, 
+,Hart's Location,Congressional District 1,,Scatter,
 ,Hart's Location,Congressional District 1,,Ashooh,
 ,Hart's Location,Congressional District 1,,John Potucek,
 ,Hooksett,Congressional District 1,R,Frank Guinta,2809
@@ -8397,14 +8397,14 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Manchester - Ward 4,Congressional District 1,,Scatter,
 ,Manchester - Ward 4,Congressional District 1,,Ashooh,
 ,Manchester - Ward 4,Congressional District 1,,John Potucek,
-,Manchester - Ward 5 ,Congressional District 1,R,Frank Guinta,926
-,Manchester - Ward 5 ,Congressional District 1,D,Carol Shea-Porter,1473
-,Manchester - Ward 5 ,Congressional District 1,IND,Brendan Kelly,68
-,Manchester - Ward 5 ,Congressional District 1,LIB,Robert Lombardo,49
-,Manchester - Ward 5 ,Congressional District 1,IND,Shawn P. O'Connor,246
-,Manchester - Ward 5 ,Congressional District 1,,Scatter,9
-,Manchester - Ward 5 ,Congressional District 1,,Ashooh,1
-,Manchester - Ward 5 ,Congressional District 1,,John Potucek,
+,Manchester - Ward 5,Congressional District 1,R,Frank Guinta,926
+,Manchester - Ward 5,Congressional District 1,D,Carol Shea-Porter,1473
+,Manchester - Ward 5,Congressional District 1,IND,Brendan Kelly,68
+,Manchester - Ward 5,Congressional District 1,LIB,Robert Lombardo,49
+,Manchester - Ward 5,Congressional District 1,IND,Shawn P. O'Connor,246
+,Manchester - Ward 5,Congressional District 1,,Scatter,9
+,Manchester - Ward 5,Congressional District 1,,Ashooh,1
+,Manchester - Ward 5,Congressional District 1,,John Potucek,
 ,Manchester - Ward 6,Congressional District 1,R,Frank Guinta,2118
 ,Manchester - Ward 6,Congressional District 1,D,Carol Shea-Porter,2147
 ,Manchester - Ward 6,Congressional District 1,IND,Brendan Kelly,68
@@ -8889,22 +8889,22 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Atkinson,Congressional District 2,D,Ann McLane Kuster,1647
 ,Atkinson,Congressional District 2,IND,John J. Babiarz,184
 ,Atkinson,Congressional District 2,,Scatter,1
-,At. & Gil Ac. Gt,Congressional District 2,R,Jim Lawrence, --
-,At. & Gil Ac. Gt,Congressional District 2,D,Ann McLane Kuster, --
+,At. & Gil Ac. Gt,Congressional District 2,R,Jim Lawrence,--
+,At. & Gil Ac. Gt,Congressional District 2,D,Ann McLane Kuster,--
 ,At. & Gil Ac. Gt,Congressional District 2,IND,John J. Babiarz,
-,At. & Gil Ac. Gt,Congressional District 2,,Scatter, --
+,At. & Gil Ac. Gt,Congressional District 2,,Scatter,--
 ,Bath,Congressional District 2,R,Jim Lawrence,273
 ,Bath,Congressional District 2,D,Ann McLane Kuster,233
 ,Bath,Congressional District 2,IND,John J. Babiarz,29
 ,Bath,Congressional District 2,,Scatter,
-,Bean's Grant,Congressional District 2,R,Jim Lawrence, --
-,Bean's Grant,Congressional District 2,D,Ann McLane Kuster, --
+,Bean's Grant,Congressional District 2,R,Jim Lawrence,--
+,Bean's Grant,Congressional District 2,D,Ann McLane Kuster,--
 ,Bean's Grant,Congressional District 2,IND,John J. Babiarz,
-,Bean's Grant,Congressional District 2,,Scatter, --
-,Bean's Purchase,Congressional District 2,R,Jim Lawrence, --
-,Bean's Purchase,Congressional District 2,D,Ann McLane Kuster, --
+,Bean's Grant,Congressional District 2,,Scatter,--
+,Bean's Purchase,Congressional District 2,R,Jim Lawrence,--
+,Bean's Purchase,Congressional District 2,D,Ann McLane Kuster,--
 ,Bean's Purchase,Congressional District 2,IND,John J. Babiarz,
-,Bean's Purchase,Congressional District 2,,Scatter, --
+,Bean's Purchase,Congressional District 2,,Scatter,--
 ,Bennington,Congressional District 2,R,Jim Lawrence,370
 ,Bennington,Congressional District 2,D,Ann McLane Kuster,336
 ,Bennington,Congressional District 2,IND,John J. Babiarz,77
@@ -8965,10 +8965,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Center Harbor,Congressional District 2,D,Ann McLane Kuster,326
 ,Center Harbor,Congressional District 2,IND,John J. Babiarz,20
 ,Center Harbor,Congressional District 2,,Scatter,3
-,Chandler's Purchase,Congressional District 2,R,Jim Lawrence, --
-,Chandler's Purchase,Congressional District 2,D,Ann McLane Kuster, --
+,Chandler's Purchase,Congressional District 2,R,Jim Lawrence,--
+,Chandler's Purchase,Congressional District 2,D,Ann McLane Kuster,--
 ,Chandler's Purchase,Congressional District 2,IND,John J. Babiarz,
-,Chandler's Purchase,Congressional District 2,,Scatter, --
+,Chandler's Purchase,Congressional District 2,,Scatter,--
 ,Charlestown,Congressional District 2,R,Jim Lawrence,1042
 ,Charlestown,Congressional District 2,D,Ann McLane Kuster,1150
 ,Charlestown,Congressional District 2,IND,John J. Babiarz,108
@@ -9049,18 +9049,18 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Cornish,Congressional District 2,D,Ann McLane Kuster,573
 ,Cornish,Congressional District 2,IND,John J. Babiarz,45
 ,Cornish,Congressional District 2,,Scatter,
-,Crawford's Purchase,Congressional District 2,R,Jim Lawrence, --
-,Crawford's Purchase,Congressional District 2,D,Ann McLane Kuster, --
+,Crawford's Purchase,Congressional District 2,R,Jim Lawrence,--
+,Crawford's Purchase,Congressional District 2,D,Ann McLane Kuster,--
 ,Crawford's Purchase,Congressional District 2,IND,John J. Babiarz,
-,Crawford's Purchase,Congressional District 2,,Scatter, --
+,Crawford's Purchase,Congressional District 2,,Scatter,--
 ,Croydon,Congressional District 2,R,Jim Lawrence,246
 ,Croydon,Congressional District 2,D,Ann McLane Kuster,139
 ,Croydon,Congressional District 2,IND,John J. Babiarz,19
 ,Croydon,Congressional District 2,,Scatter,
-,Cutt's Grant,Congressional District 2,R,Jim Lawrence, --
-,Cutt's Grant,Congressional District 2,D,Ann McLane Kuster, --
+,Cutt's Grant,Congressional District 2,R,Jim Lawrence,--
+,Cutt's Grant,Congressional District 2,D,Ann McLane Kuster,--
 ,Cutt's Grant,Congressional District 2,IND,John J. Babiarz,
-,Cutt's Grant,Congressional District 2,,Scatter, --
+,Cutt's Grant,Congressional District 2,,Scatter,--
 ,Dalton,Congressional District 2,R,Jim Lawrence,252
 ,Dalton,Congressional District 2,D,Ann McLane Kuster,213
 ,Dalton,Congressional District 2,IND,John J. Babiarz,22
@@ -9077,10 +9077,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Deering,Congressional District 2,D,Ann McLane Kuster,395
 ,Deering,Congressional District 2,IND,John J. Babiarz,66
 ,Deering,Congressional District 2,,Scatter,2
-,Dix's Grant,Congressional District 2,R,Jim Lawrence, --
-,Dix's Grant,Congressional District 2,D,Ann McLane Kuster, --
+,Dix's Grant,Congressional District 2,R,Jim Lawrence,--
+,Dix's Grant,Congressional District 2,D,Ann McLane Kuster,--
 ,Dix's Grant,Congressional District 2,IND,John J. Babiarz,
-,Dix's Grant,Congressional District 2,,Scatter, --
+,Dix's Grant,Congressional District 2,,Scatter,--
 ,Dixville,Congressional District 2,R,Jim Lawrence,4
 ,Dixville,Congressional District 2,D,Ann McLane Kuster,4
 ,Dixville,Congressional District 2,IND,John J. Babiarz,0
@@ -9121,10 +9121,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Errol,Congressional District 2,D,Ann McLane Kuster,62
 ,Errol,Congressional District 2,IND,John J. Babiarz,8
 ,Errol,Congressional District 2,,Scatter,
-,Erving's Location,Congressional District 2,R,Jim Lawrence, --
-,Erving's Location,Congressional District 2,D,Ann McLane Kuster, --
+,Erving's Location,Congressional District 2,R,Jim Lawrence,--
+,Erving's Location,Congressional District 2,D,Ann McLane Kuster,--
 ,Erving's Location,Congressional District 2,IND,John J. Babiarz,
-,Erving's Location,Congressional District 2,,Scatter, --
+,Erving's Location,Congressional District 2,,Scatter,--
 ,Fitzwilliam,Congressional District 2,R,Jim Lawrence,565
 ,Fitzwilliam,Congressional District 2,D,Ann McLane Kuster,576
 ,Fitzwilliam,Congressional District 2,IND,John J. Babiarz,78
@@ -9185,10 +9185,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Groton,Congressional District 2,D,Ann McLane Kuster,118
 ,Groton,Congressional District 2,IND,John J. Babiarz,20
 ,Groton,Congressional District 2,,Scatter,
-,Hadley's Purchase,Congressional District 2,R,Jim Lawrence, --
-,Hadley's Purchase,Congressional District 2,D,Ann McLane Kuster, --
+,Hadley's Purchase,Congressional District 2,R,Jim Lawrence,--
+,Hadley's Purchase,Congressional District 2,D,Ann McLane Kuster,--
 ,Hadley's Purchase,Congressional District 2,IND,John J. Babiarz,
-,Hadley's Purchase,Congressional District 2,,Scatter, --
+,Hadley's Purchase,Congressional District 2,,Scatter,--
 ,Hancock,Congressional District 2,R,Jim Lawrence,456
 ,Hancock,Congressional District 2,D,Ann McLane Kuster,712
 ,Hancock,Congressional District 2,IND,John J. Babiarz,34
@@ -9269,10 +9269,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Keene - Ward 5,Congressional District 2,D,Ann McLane Kuster,1769
 ,Keene - Ward 5,Congressional District 2,IND,John J. Babiarz,101
 ,Keene - Ward 5,Congressional District 2,,Scatter,2
-,Kilkenny,Congressional District 2,R,Jim Lawrence, --
-,Kilkenny,Congressional District 2,D,Ann McLane Kuster, --
+,Kilkenny,Congressional District 2,R,Jim Lawrence,--
+,Kilkenny,Congressional District 2,D,Ann McLane Kuster,--
 ,Kilkenny,Congressional District 2,IND,John J. Babiarz,
-,Kilkenny,Congressional District 2,,Scatter, --
+,Kilkenny,Congressional District 2,,Scatter,--
 ,Lancaster,Congressional District 2,R,Jim Lawrence,765
 ,Lancaster,Congressional District 2,D,Ann McLane Kuster,741
 ,Lancaster,Congressional District 2,IND,John J. Babiarz,71
@@ -9317,18 +9317,18 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Littleton,Congressional District 2,D,Ann McLane Kuster,1344
 ,Littleton,Congressional District 2,IND,John J. Babiarz,115
 ,Littleton,Congressional District 2,,Scatter,2
-,Livermore,Congressional District 2,R,Jim Lawrence, --
-,Livermore,Congressional District 2,D,Ann McLane Kuster, --
+,Livermore,Congressional District 2,R,Jim Lawrence,--
+,Livermore,Congressional District 2,D,Ann McLane Kuster,--
 ,Livermore,Congressional District 2,IND,John J. Babiarz,
-,Livermore,Congressional District 2,,Scatter, --
+,Livermore,Congressional District 2,,Scatter,--
 ,Loudon,Congressional District 2,R,Jim Lawrence,1740
 ,Loudon,Congressional District 2,D,Ann McLane Kuster,1254
 ,Loudon,Congressional District 2,IND,John J. Babiarz,167
 ,Loudon,Congressional District 2,,Scatter,1
-,Low & Burbank's Grant,Congressional District 2,R,Jim Lawrence, --
-,Low & Burbank's Grant,Congressional District 2,D,Ann McLane Kuster, --
+,Low & Burbank's Grant,Congressional District 2,R,Jim Lawrence,--
+,Low & Burbank's Grant,Congressional District 2,D,Ann McLane Kuster,--
 ,Low & Burbank's Grant,Congressional District 2,IND,John J. Babiarz,
-,Low & Burbank's Grant,Congressional District 2,,Scatter, --
+,Low & Burbank's Grant,Congressional District 2,,Scatter,--
 ,Lyman,Congressional District 2,R,Jim Lawrence,160
 ,Lyman,Congressional District 2,D,Ann McLane Kuster,147
 ,Lyman,Congressional District 2,IND,John J. Babiarz,7
@@ -9349,10 +9349,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Marlow,Congressional District 2,D,Ann McLane Kuster,224
 ,Marlow,Congressional District 2,IND,John J. Babiarz,28
 ,Marlow,Congressional District 2,,Scatter,1
-,Martin's Location,Congressional District 2,R,Jim Lawrence, --
-,Martin's Location,Congressional District 2,D,Ann McLane Kuster, --
+,Martin's Location,Congressional District 2,R,Jim Lawrence,--
+,Martin's Location,Congressional District 2,D,Ann McLane Kuster,--
 ,Martin's Location,Congressional District 2,IND,John J. Babiarz,
-,Martin's Location,Congressional District 2,,Scatter, --
+,Martin's Location,Congressional District 2,,Scatter,--
 ,Mason,Congressional District 2,R,Jim Lawrence,452
 ,Mason,Congressional District 2,D,Ann McLane Kuster,313
 ,Mason,Congressional District 2,IND,John J. Babiarz,56
@@ -9449,10 +9449,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Northwood,Congressional District 2,D,Ann McLane Kuster,1063
 ,Northwood,Congressional District 2,IND,John J. Babiarz,155
 ,Northwood,Congressional District 2,,Scatter,2
-,Odell,Congressional District 2,R,Jim Lawrence, --
-,Odell,Congressional District 2,D,Ann McLane Kuster, --
+,Odell,Congressional District 2,R,Jim Lawrence,--
+,Odell,Congressional District 2,D,Ann McLane Kuster,--
 ,Odell,Congressional District 2,IND,John J. Babiarz,
-,Odell,Congressional District 2,,Scatter, --
+,Odell,Congressional District 2,,Scatter,--
 ,Orange,Congressional District 2,R,Jim Lawrence,73
 ,Orange,Congressional District 2,D,Ann McLane Kuster,85
 ,Orange,Congressional District 2,IND,John J. Babiarz,12
@@ -9480,7 +9480,7 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Pinkham's Grant,Congressional District 2,R,Jim Lawrence,1
 ,Pinkham's Grant,Congressional District 2,D,Ann McLane Kuster,3
 ,Pinkham's Grant,Congressional District 2,IND,John J. Babiarz,0
-,Pinkham's Grant,Congressional District 2,,Scatter, --
+,Pinkham's Grant,Congressional District 2,,Scatter,--
 ,Pittsburg,Congressional District 2,R,Jim Lawrence,290
 ,Pittsburg,Congressional District 2,D,Ann McLane Kuster,146
 ,Pittsburg,Congressional District 2,IND,John J. Babiarz,13
@@ -9525,14 +9525,14 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Salisbury,Congressional District 2,D,Ann McLane Kuster,322
 ,Salisbury,Congressional District 2,IND,John J. Babiarz,34
 ,Salisbury,Congressional District 2,,Scatter,
-,Sargent's Purchase,Congressional District 2,R,Jim Lawrence, --
-,Sargent's Purchase,Congressional District 2,D,Ann McLane Kuster, --
+,Sargent's Purchase,Congressional District 2,R,Jim Lawrence,--
+,Sargent's Purchase,Congressional District 2,D,Ann McLane Kuster,--
 ,Sargent's Purchase,Congressional District 2,IND,John J. Babiarz,
-,Sargent's Purchase,Congressional District 2,,Scatter, --
-,Second College Grant,Congressional District 2,R,Jim Lawrence, --
-,Second College Grant,Congressional District 2,D,Ann McLane Kuster, --
+,Sargent's Purchase,Congressional District 2,,Scatter,--
+,Second College Grant,Congressional District 2,R,Jim Lawrence,--
+,Second College Grant,Congressional District 2,D,Ann McLane Kuster,--
 ,Second College Grant,Congressional District 2,IND,John J. Babiarz,
-,Second College Grant,Congressional District 2,,Scatter, --
+,Second College Grant,Congressional District 2,,Scatter,--
 ,Sharon,Congressional District 2,R,Jim Lawrence,99
 ,Sharon,Congressional District 2,D,Ann McLane Kuster,135
 ,Sharon,Congressional District 2,IND,John J. Babiarz,12
@@ -9561,10 +9561,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Stratford,Congressional District 2,D,Ann McLane Kuster,137
 ,Stratford,Congressional District 2,IND,John J. Babiarz,22
 ,Stratford,Congressional District 2,,Scatter,
-,Success,Congressional District 2,R,Jim Lawrence, --
-,Success,Congressional District 2,D,Ann McLane Kuster, --
+,Success,Congressional District 2,R,Jim Lawrence,--
+,Success,Congressional District 2,D,Ann McLane Kuster,--
 ,Success,Congressional District 2,IND,John J. Babiarz,
-,Success,Congressional District 2,,Scatter, --
+,Success,Congressional District 2,,Scatter,--
 ,Sugar Hill,Congressional District 2,R,Jim Lawrence,165
 ,Sugar Hill,Congressional District 2,D,Ann McLane Kuster,242
 ,Sugar Hill,Congressional District 2,IND,John J. Babiarz,9
@@ -9593,10 +9593,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Temple,Congressional District 2,D,Ann McLane Kuster,411
 ,Temple,Congressional District 2,IND,John J. Babiarz,44
 ,Temple,Congressional District 2,,Scatter,3
-,Thomp. and Mes's Pur.,Congressional District 2,R,Jim Lawrence, --
-,Thomp. and Mes's Pur.,Congressional District 2,D,Ann McLane Kuster, --
+,Thomp. and Mes's Pur.,Congressional District 2,R,Jim Lawrence,--
+,Thomp. and Mes's Pur.,Congressional District 2,D,Ann McLane Kuster,--
 ,Thomp. and Mes's Pur.,Congressional District 2,IND,John J. Babiarz,
-,Thomp. and Mes's Pur.,Congressional District 2,,Scatter, --
+,Thomp. and Mes's Pur.,Congressional District 2,,Scatter,--
 ,Thornton,Congressional District 2,R,Jim Lawrence,625
 ,Thornton,Congressional District 2,D,Ann McLane Kuster,724
 ,Thornton,Congressional District 2,IND,John J. Babiarz,102
@@ -10702,7 +10702,7 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Carroll,State Senate District 1,R,Dolly McPhaul,213
 ,Carroll,State Senate District 1,D,Jeff Woodburn,242
 ,Carroll,State Senate District 1,,Scatter,8
-,Carroll,State Senate District 1,,, 
+,Carroll,State Senate District 1,,,
 ,Clarksville,State Senate District 1,R,Dolly McPhaul,89
 ,Clarksville,State Senate District 1,D,Jeff Woodburn,76
 ,Clarksville,State Senate District 1,,Scatter,1
@@ -10926,7 +10926,7 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Totals,State Senate District 3,R,Jeb Bradley,20091
 ,Totals,State Senate District 3,D,John R. White,11111
 ,Totals,State Senate District 3,,Scatter,19
-,,State Senate District 4,R,Bill O'Connor,State Senate District 4  
+,,State Senate District 4,R,Bill O'Connor,State Senate District 4
 ,,State Senate District 4,R,Bill O'Connor,"Bill O'Connor, r"
 ,,State Senate District 4,D,David H. Watters,"David H. Watters, d"
 ,,State Senate District 4,,Scatter,Scatter
@@ -11152,7 +11152,7 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Lempster,State Senate District 8,,Scatter,8
 ,Marlow,State Senate District 8,R,Ruth Ward,194
 ,Marlow,State Senate District 8,D,John Garvey,227
-,Marlow,State Senate District 8,,Scatter, 
+,Marlow,State Senate District 8,,Scatter,
 ,New London,State Senate District 8,R,Ruth Ward,1135
 ,New London,State Senate District 8,D,John Garvey,1730
 ,New London,State Senate District 8,,Scatter,1
@@ -11336,7 +11336,7 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Totals,State Senate District 12,R,Kevin Avard,15942
 ,Totals,State Senate District 12,D,Peggy Gilmour,15120
 ,Totals,State Senate District 12,,Scatter,21
-,,State Senate District 13,R,Joan M. Donahue,State Senate District 13 
+,,State Senate District 13,R,Joan M. Donahue,State Senate District 13
 ,Nashua Ward 3,State Senate District 13,R,Joan M. Donahue,1738
 ,Nashua Ward 3,State Senate District 13,D,Bette R. Lasky,2492
 ,Nashua Ward 3,State Senate District 13,,Scatter,7
@@ -11357,7 +11357,7 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Totals,State Senate District 13,R,Joan M. Donahue,9897
 ,Totals,State Senate District 13,D,Bette R. Lasky,14619
 ,Totals,State Senate District 13,,Scatter,25
-,,State Senate District 14,R,Sharon M. Carson,State Senate District 14 
+,,State Senate District 14,R,Sharon M. Carson,State Senate District 14
 ,Auburn,State Senate District 14,R,Sharon M. Carson,2204
 ,Auburn,State Senate District 14,D,Tammy Siekmann,992
 ,Auburn,State Senate District 14,,Scatter,1
@@ -11370,7 +11370,7 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Totals,State Senate District 14,R,Sharon M. Carson,17793
 ,Totals,State Senate District 14,D,Tammy Siekmann,9989
 ,Totals,State Senate District 14,,Scatter,26
-,,State Senate District 15,R,Jeff Newman,State Senate District 15 
+,,State Senate District 15,R,Jeff Newman,State Senate District 15
 ,Concord Ward 1,State Senate District 15,R,Jeff Newman,905
 ,Concord Ward 1,State Senate District 15,D,Dan Feltes,1305
 ,Concord Ward 1,State Senate District 15,,Scatter,1
@@ -11431,7 +11431,7 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Totals,State Senate District 16,R,Joe Duarte,14503
 ,Totals,State Senate District 16,D,Scott McGilvray,15118
 ,Totals,State Senate District 16,,Scatter,78
-,,State Senate District 17,R,John Reagan,State Senate District 17  
+,,State Senate District 17,R,John Reagan,State Senate District 17
 ,Allenstown,State Senate District 17,R,John Reagan,1248
 ,Allenstown,State Senate District 17,D,Nancy R.B. Fraher,810
 ,Chichester,State Senate District 17,R,John Reagan,865
@@ -11464,7 +11464,7 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Totals,State Senate District 17,R,John Reagan,18252
 ,Totals,State Senate District 17,D,Nancy R.B. Fraher,11522
 ,Totals,State Senate District 17,,Scatter,15
-,,State Senate District 18,R,Ross W. Terrio,State Senate District 18  
+,,State Senate District 18,R,Ross W. Terrio,State Senate District 18
 ,,State Senate District 18,R,Ross W. Terrio,"Ross W. Terrio, r"
 ,,State Senate District 18,D,Donna M. Soucy,"Donna M. Soucy, d"
 ,,State Senate District 18,,Scatter,Scatter
@@ -11554,18 +11554,18 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Totals,State Senate District 21,,Scatter,44
 ,Atkinson,State Senate District 22,R,Chuck  Morse,2955
 ,Atkinson,State Senate District 22,D,Richard J. O'Shaughnessy,1270
-,Atkinson,State Senate District 22,,Scatter ,2
+,Atkinson,State Senate District 22,,Scatter,2
 ,Pelham,State Senate District 22,R,Chuck  Morse,4426
 ,Pelham,State Senate District 22,D,Richard J. O'Shaughnessy,2452
-,Pelham,State Senate District 22,,Scatter ,3
+,Pelham,State Senate District 22,,Scatter,3
 ,Plaistow,State Senate District 22,R,Chuck  Morse,2519
 ,Plaistow,State Senate District 22,D,Richard J. O'Shaughnessy,1456
 ,Salem,State Senate District 22,R,Chuck  Morse,8817
 ,Salem,State Senate District 22,D,Richard J. O'Shaughnessy,6092
-,Salem,State Senate District 22,,Scatter ,1
+,Salem,State Senate District 22,,Scatter,1
 ,TOTALS,State Senate District 22,R,Chuck  Morse,18717
 ,TOTALS,State Senate District 22,D,Richard J. O'Shaughnessy,11270
-,TOTALS,State Senate District 22,,Scatter ,6
+,TOTALS,State Senate District 22,,Scatter,6
 ,,State Senate District 23,R,Bill Gannon,"Bill Gannon, r"
 ,,State Senate District 23,D,Alexis Simpson,"Alexis Simpson, d"
 ,,State Senate District 23,,Scatter,Scatter
@@ -11636,16 +11636,16 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Totals,State Senate District 24,D,Tom Sherman,16373
 ,Totals,State Senate District 24,,Scatter,38
 Belknap,Totals,State House District No. 1,R,Fraser,"Fraser, r"
-Belknap,Totals,State House District No. 1,D,Gulick ,"Gulick ,d"
+Belknap,Totals,State House District No. 1,D,Gulick,"Gulick ,d"
 Belknap,Totals,State House District No. 1,,Scatter,Scatter
 Belknap,Center Harbor,State House District No. 1,R,Fraser,368
-Belknap,Center Harbor,State House District No. 1,D,Gulick ,314
+Belknap,Center Harbor,State House District No. 1,D,Gulick,314
 Belknap,Center Harbor,State House District No. 1,,Scatter,1
 Belknap,New Hampton,State House District No. 1,R,Fraser,687
-Belknap,New Hampton,State House District No. 1,D,Gulick ,622
+Belknap,New Hampton,State House District No. 1,D,Gulick,622
 Belknap,New Hampton,State House District No. 1,,Scatter,3
 Belknap,Totals,State House District No. 1,R,Fraser,1055
-Belknap,Totals,State House District No. 1,D,Gulick ,936
+Belknap,Totals,State House District No. 1,D,Gulick,936
 Belknap,Totals,State House District No. 1,,Scatter,4
 Belknap,Gilford,State House District No. 2,R,Abear,2159
 Belknap,Gilford,State House District No. 2,R,Aldrich,2316
@@ -11873,7 +11873,7 @@ Carroll,Madison,State House District No. 3,,Scatter,5
 Carroll,Tamworth,State House District No. 3,R,McConkey,792
 Carroll,Tamworth,State House District No. 3,D,Knirk,668
 Carroll,Tamworth,State House District No. 3,D,Ticehurst,751
-Carroll,Tamworth,State House District No. 3,,Scatter, 
+Carroll,Tamworth,State House District No. 3,,Scatter,
 Carroll,Totals,State House District No. 3,R,McConkey,2217
 Carroll,Totals,State House District No. 3,D,Knirk,1852
 Carroll,Totals,State House District No. 3,D,Ticehurst,1831
@@ -12065,16 +12065,16 @@ Cheshire,TOTALS,State House District No. 3,R,D'Arcy,821
 Cheshire,TOTALS,State House District No. 3,D,Eaton,1113
 Cheshire,Keene Ward 1,State House District No. 4,D,Stallcop,1567
 Cheshire,Keene Ward 1,State House District No. 4,,Scatter,19
-Cheshire,Keene Ward 2,State House District No. 5,, , 
+Cheshire,Keene Ward 2,State House District No. 5,,,
 Cheshire,Keene Ward 2,State House District No. 5,D,Bordenet,1787
 Cheshire,Keene Ward 2,State House District No. 5,,Scatter,16
 Cheshire,Keene Ward 3,State House District No. 6,D,Meader,1630
-Cheshire,Keene Ward 3,State House District No. 6,, , 
+Cheshire,Keene Ward 3,State House District No. 6,,,
 Cheshire,Keene Ward 3,State House District No. 6,,Scatter,3
 Cheshire,Keene Ward 4,State House District No. 7,D,Johnsen,1742
 Cheshire,Keene Ward 4,State House District No. 7,,Scatter,22
 Cheshire,Keene Ward 5,State House District No. 8,D,Fenton,2100
-Cheshire,Keene Ward 5,State House District No. 8,, , 
+Cheshire,Keene Ward 5,State House District No. 8,,,
 Cheshire,Keene Ward 5,State House District No. 8,,Scatter,17
 Cheshire,Dublin,State House District No. 9,R,Mazerall,360
 Cheshire,Dublin,State House District No. 9,R,Creekmore,355
@@ -12102,7 +12102,7 @@ Cheshire,Marlborough,State House District No. 10,D,Shepardson,771
 Cheshire,Marlborough,State House District No. 10,,Scatter,2
 Cheshire,Troy,State House District No. 10,R,Bryans,482
 Cheshire,Troy,State House District No. 10,D,Shepardson,460
-Cheshire,Troy,State House District No. 10,,Scatter, 
+Cheshire,Troy,State House District No. 10,,Scatter,
 Cheshire,TOTALS,State House District No. 10,R,Bryans,827
 Cheshire,TOTALS,State House District No. 10,D,Shepardson,1231
 Cheshire,TOTALS,State House District No. 10,,Scatter,2
@@ -12367,7 +12367,7 @@ Grafton,TOTALS,State House District No. 1,R,Gilman,"Gilman, r"
 Grafton,TOTALS,State House District No. 1,D,Massimilla,"Massimilla, d"
 Grafton,TOTALS,State House District No. 1,D,Dotski,"Dotski, d"
 Grafton,TOTALS,State House District No. 1,,Scatter,Scatter
-Grafton,TOTALS,State House District No. 1,, , 
+Grafton,TOTALS,State House District No. 1,,,
 Grafton,Bethlehem,State House District No. 1,R,Hennessey,570
 Grafton,Bethlehem,State House District No. 1,R,Gilman,568
 Grafton,Bethlehem,State House District No. 1,D,Massimilla,732
@@ -12665,7 +12665,7 @@ Hillsborough,,State House District No. 1,R,Levesque,"Levesque, r"
 Hillsborough,,State House District No. 1,R,Fedolfi,"Fedolfi, r"
 Hillsborough,,State House District No. 1,D,Shattuck,"Shattuck, d"
 Hillsborough,,State House District No. 1,D,Porter,"Porter, d"
-Hillsborough,,State House District No. 1,, , 
+Hillsborough,,State House District No. 1,,,
 Hillsborough,,State House District No. 1,,Scattter,Scattter
 Hillsborough,Antrim,State House District No. 1,R,Levesque,685
 Hillsborough,Antrim,State House District No. 1,R,Fedolfi,626
@@ -12762,18 +12762,18 @@ Hillsborough,Goffstown,State House District No. 6,R,Pierce,3149
 Hillsborough,Goffstown,State House District No. 6,R,Rouillard,3270
 Hillsborough,Goffstown,State House District No. 6,R,Zaricki,2985
 Hillsborough,Goffstown,State House District No. 6,,,18
-Hillsborough,Goffstown,State House District No. 6,,, 
+Hillsborough,Goffstown,State House District No. 6,,,
 Hillsborough,Bedford,State House District No. 7,R,Gould,7426
 Hillsborough,Bedford,State House District No. 7,R,Graham,6554
 Hillsborough,Bedford,State House District No. 7,R,Murphy,6585
 Hillsborough,Bedford,State House District No. 7,R,Wolf,7345
-Hillsborough,Bedford,State House District No. 7,,, 
-Hillsborough,Bedford,State House District No. 7,, , 
+Hillsborough,Bedford,State House District No. 7,,,
+Hillsborough,Bedford,State House District No. 7,,,
 Hillsborough,Bedford,State House District No. 7,R,Gould,6590
 Hillsborough,Bedford,State House District No. 7,R,Graham,6211
 Hillsborough,Bedford,State House District No. 7,R,Murphy,4466
 Hillsborough,Bedford,State House District No. 7,R,Wolf,4457
-Hillsborough,Bedford,State House District No. 7,,, 
+Hillsborough,Bedford,State House District No. 7,,,
 Hillsborough,Bedford,State House District No. 7,,,66
 Hillsborough,Manchester Ward 1,State House District No. 8,R,Warden,1712
 Hillsborough,Manchester Ward 1,State House District No. 8,R,Lachance,2131
@@ -12795,12 +12795,12 @@ Hillsborough,Manchester Ward 4,State House District No. 11,R,Ghose,836
 Hillsborough,Manchester Ward 4,State House District No. 11,D,Walsh,1542
 Hillsborough,Manchester Ward 4,State House District No. 11,D,Edwards,1882
 Hillsborough,Manchester Ward 4,State House District No. 11,,Scatter,12
-Hillsborough,Manchester Ward 4,State House District No. 11,, , 
+Hillsborough,Manchester Ward 4,State House District No. 11,,,
 Hillsborough,Manchester Ward 5,State House District No. 12,R,Freeman,1126
 Hillsborough,Manchester Ward 5,State House District No. 12,D,Gregoire,1127
 Hillsborough,Manchester Ward 5,State House District No. 12,D,Bouldin,1340
 Hillsborough,Manchester Ward 5,State House District No. 12,,Scatter,8
-Hillsborough,Manchester Ward 5,State House District No. 12,,, 
+Hillsborough,Manchester Ward 5,State House District No. 12,,,
 Hillsborough,Recount,State House District No. 12,R,Freeman,1128
 Hillsborough,Recount,State House District No. 12,D,Gregoire,1122
 Hillsborough,Recount,State House District No. 12,D,Bouldin,1341
@@ -12809,7 +12809,7 @@ Hillsborough,Manchester Ward 6,State House District No. 13,R,Gagne,2363
 Hillsborough,Manchester Ward 6,State House District No. 13,D,O'Leary,2145
 Hillsborough,Manchester Ward 6,State House District No. 13,D,Monzon,1493
 Hillsborough,Manchester Ward 6,State House District No. 13,,Scatter,7
-Hillsborough,Manchester Ward 6,State House District No. 13,, , 
+Hillsborough,Manchester Ward 6,State House District No. 13,,,
 Hillsborough,Manchester Ward 7,State House District No. 14,R,Reif,1132
 Hillsborough,Manchester Ward 7,State House District No. 14,R,Cole,1400
 Hillsborough,Manchester Ward 7,State House District No. 14,D,Heath,1692
@@ -12820,7 +12820,7 @@ Hillsborough,Manchester Ward 8,State House District No. 15,R,McLean,1934
 Hillsborough,Manchester Ward 8,State House District No. 15,D,Katsiantonis,2204
 Hillsborough,Manchester Ward 8,State House District No. 15,D,Curran,1656
 Hillsborough,Manchester Ward 8,State House District No. 15,,Scatter,19
-Hillsborough,Manchester Ward 8,State House District No. 15,, , 
+Hillsborough,Manchester Ward 8,State House District No. 15,,,
 Hillsborough,Manchester Ward 9,State House District No. 16,R,Sullivan,1973
 Hillsborough,Manchester Ward 9,State House District No. 16,D,Shaw,1927
 Hillsborough,Manchester Ward 9,State House District No. 16,D,McCloskey,1543
@@ -12878,7 +12878,7 @@ Hillsborough,Milford,State House District No. 23,R,Biggie,2975
 Hillsborough,Milford,State House District No. 23,R,Burns,2841
 Hillsborough,Milford,State House District No. 23,R,Halstead,3489
 Hillsborough,Milford,State House District No. 23,R,Thornton,2864
-Hillsborough,Milford,State House District No. 23,, ,95
+Hillsborough,Milford,State House District No. 23,,,95
 Hillsborough,Peterborough,State House District No. 24,R,Carpenter,1419
 Hillsborough,Peterborough,State House District No. 24,D,Vann,2105
 Hillsborough,Peterborough,State House District No. 24,D,Leishman,2288
@@ -12972,7 +12972,7 @@ Hillsborough,Nashua Ward 5,State House District No. 32,R,Murotake,2362
 Hillsborough,Nashua Ward 5,State House District No. 32,D,Labrecque,2282
 Hillsborough,Nashua Ward 5,State House District No. 32,D,Hermansen,1926
 Hillsborough,Nashua Ward 5,State House District No. 32,D,Kelley,2310
-Hillsborough,Nashua Ward 5,State House District No. 32,, Scatter,9
+Hillsborough,Nashua Ward 5,State House District No. 32,,Scatter,9
 Hillsborough,Recount,State House District No. 32,R,Negron,2346
 Hillsborough,Recount,State House District No. 32,R,LeBrun,2462
 Hillsborough,Recount,State House District No. 32,R,Murotake,2360
@@ -12983,7 +12983,7 @@ Hillsborough,Nashua Ward 6,State House District No. 33,R,Scully,1855
 Hillsborough,Nashua Ward 6,State House District No. 33,D,King,1666
 Hillsborough,Nashua Ward 6,State House District No. 33,D,Booras,1539
 Hillsborough,Nashua Ward 6,State House District No. 33,D,Gidge,1842
-Hillsborough,Nashua Ward 6,State House District No. 33,,Scatter ,8
+Hillsborough,Nashua Ward 6,State House District No. 33,,Scatter,8
 Hillsborough,Nashua Ward 7,State House District No. 34,R,Whalen,1542
 Hillsborough,Nashua Ward 7,State House District No. 34,R,Hogan,1460
 Hillsborough,Nashua Ward 7,State House District No. 34,R,Twombly,1603
@@ -13039,7 +13039,7 @@ Hillsborough,TOTALS,State House District No 37,R,Jasper,9540
 Hillsborough,TOTALS,State House District No 37,R,Ober L.,7187
 Hillsborough,TOTALS,State House District No 37,R,Ober R.,8302
 Hillsborough,TOTALS,State House District No 37,R,Prout,7981
-Hillsborough,TOTALS,State House District No 37,,, 
+Hillsborough,TOTALS,State House District No 37,,,
 Hillsborough,Hudson,State House District No 37,R,Hellwig,4828
 Hillsborough,Hudson,State House District No 37,R,Jasper,3635
 Hillsborough,Hudson,State House District No 37,R,Ober L.,4541
@@ -13250,7 +13250,7 @@ Hillsborough,TOTALS,State House District No. 45,D,Beaulieu,5119
 Hillsborough,TOTALS,State House District No. 45,,Scatter,29
 Merrimack,corrections submitted by clerk,State House District No. 1,R,Copp,"Copp, r"
 Merrimack,corrections submitted by clerk,State House District No. 1,D,Broshek,"Broshek, d"
-Merrimack,corrections submitted by clerk,State House District No. 1,, , 
+Merrimack,corrections submitted by clerk,State House District No. 1,,,
 Merrimack,corrections submitted by clerk,State House District No. 1,,Scatter,Scatter
 Merrimack,Andover,State House District No. 1,R,Copp,636
 Merrimack,Andover,State House District No. 1,D,Broshek,715
@@ -13258,7 +13258,7 @@ Merrimack,Andover,State House District No. 1,,Scatter,1
 Merrimack,Danbury,State House District No. 1,R,Copp,363
 Merrimack,Danbury,State House District No. 1,D,Broshek,274
 Merrimack,Danbury,State House District No. 1,,Scatter,1
-Merrimack,Danbury,State House District No. 1,,, 
+Merrimack,Danbury,State House District No. 1,,,
 Merrimack,Salisbury,State House District No. 1,R,Copp,454
 Merrimack,Salisbury,State House District No. 1,D,Broshek,307
 Merrimack,Salisbury,State House District No. 1,,Scatter,0
@@ -13373,7 +13373,7 @@ Merrimack,Webster,State House District No. 7,D,Carson,517
 Merrimack,Webster,State House District No. 7,,Scatter,0
 Merrimack,TOTALS,State House District No. 7,R,Mendola,1295
 Merrimack,TOTALS,State House District No. 7,D,Carson,1483
-Merrimack,TOTALS,State House District No. 7,, ,0
+Merrimack,TOTALS,State House District No. 7,,,0
 Merrimack,TOTALS,State House District No. 7,,Scatter,0
 Merrimack,Boscawen,State House District No. 8,R,Forsythe,822
 Merrimack,Boscawen,State House District No. 8,D,Alicia,873
@@ -13382,17 +13382,17 @@ Merrimack,Canterbury,State House District No. 9,R,Moffett M.,632
 Merrimack,Canterbury,State House District No. 9,D,Saunderson,789
 Merrimack,Canterbury,State House District No. 9,D,Moffett H,860
 Merrimack,Canterbury,State House District No. 9,,Scatter,1
-Merrimack,Canterbury,State House District No. 9,, , 
+Merrimack,Canterbury,State House District No. 9,,,
 Merrimack,Loudon,State House District No. 9,R,Moffett M.,1790
 Merrimack,Loudon,State House District No. 9,D,Saunderson,1213
 Merrimack,Loudon,State House District No. 9,D,Moffett H,1270
 Merrimack,Loudon,State House District No. 9,,Scatter,2
-Merrimack,Loudon,State House District No. 9,, , 
+Merrimack,Loudon,State House District No. 9,,,
 Merrimack,TOTALS,State House District No. 9,R,Moffett M.,2422
 Merrimack,TOTALS,State House District No. 9,D,Saunderson,2002
 Merrimack,TOTALS,State House District No. 9,D,Moffett H,2130
 Merrimack,TOTALS,State House District No. 9,,Scatter,3
-Merrimack,TOTALS,State House District No. 9,, , 
+Merrimack,TOTALS,State House District No. 9,,,
 Merrimack,Concord Ward 5,State House District No. 10,R,French VI,695
 Merrimack,Concord Ward 5,State House District No. 10,R,Diamond,741
 Merrimack,Concord Ward 5,State House District No. 10,D,Wallner,1688
@@ -13405,7 +13405,7 @@ Merrimack,Hopkinton,State House District No. 10,D,Wallner,2030
 Merrimack,Hopkinton,State House District No. 10,D,Luneau,2260
 Merrimack,Hopkinton,State House District No. 10,D,Myler,2051
 Merrimack,Hopkinton,State House District No. 10,,Scatter,3
-Merrimack,Hopkinton,State House District No. 10,,, 
+Merrimack,Hopkinton,State House District No. 10,,,
 Merrimack,TOTALS,State House District No. 10,R,French VI,2168
 Merrimack,TOTALS,State House District No. 10,R,Diamond,2047
 Merrimack,TOTALS,State House District No. 10,D,Wallner,3718
@@ -13516,9 +13516,9 @@ Merrimack,Hooksett,State House District No. 24,R,Kotowski,3779
 Merrimack,Hooksett,State House District No. 24,R,Leavitt,3739
 Merrimack,Hooksett,State House District No. 24,R,Marple,3232
 Merrimack,Hooksett,State House District No. 24,R,Walsh,3876
-Merrimack,Hooksett,State House District No. 24,, , 
+Merrimack,Hooksett,State House District No. 24,,,
 Merrimack,Hooksett,State House District No. 24,,Scatter,0
-Merrimack,Hooksett,State House District No. 24,,, 
+Merrimack,Hooksett,State House District No. 24,,,
 Merrimack,Hooksett,State House District No. 24,R,Kotowski,2774
 Merrimack,Hooksett,State House District No. 24,R,Leavitt,2383
 Merrimack,Hooksett,State House District No. 24,R,Marple,2778
@@ -13604,7 +13604,7 @@ Merrimack,TOTALS,State House District No. 29,R,McGuire,3864
 Merrimack,TOTALS,State House District No. 29,D,Coolidge,2348
 Merrimack,TOTALS,State House District No. 29,,Scatter,3
 Rockingham,,State House District No. 1,R,Stone,"Stone, r"
-Rockingham,,State House District No. 1,, , 
+Rockingham,,State House District No. 1,,,
 Rockingham,,State House District No. 1,D,Smith,"Smith, d"
 Rockingham,,State House District No. 1,,Scatter,Scatter
 Rockingham,Northwood,State House District No. 1,R,Stone,1277
@@ -13753,11 +13753,11 @@ Rockingham,Brentwood,State House District No. 11,R,Cook,1223
 Rockingham,Brentwood,State House District No. 11,D,Wilson,1142
 Rockingham,Danville,State House District No. 12,R,Woitkun,1556
 Rockingham,Danville,State House District No. 12,D,Guilmette,823
-Rockingham,Danville,State House District No. 12,,, 
-Rockingham,,State House District No. 12,R,Woitkun, 
-Rockingham,,State House District No. 12,D,Guilmette, 
+Rockingham,Danville,State House District No. 12,,,
+Rockingham,,State House District No. 12,R,Woitkun,
+Rockingham,,State House District No. 12,D,Guilmette,
 Rockingham,,State House District No. 12,,,4
-Rockingham,,State House District No. 12,,, 
+Rockingham,,State House District No. 12,,,
 Rockingham,Hampstead,State House District No. 13,R,Green,2563
 Rockingham,Hampstead,State House District No. 13,R,Guthrie,3038
 Rockingham,Hampstead,State House District No. 13,R,Welch,2633
@@ -13805,8 +13805,8 @@ Rockingham,TOTALS,State House District No. 14,D,Cacciotti,2225
 Rockingham,TOTALS,State House District No. 14,D,Galloway,3030
 Rockingham,Newton,State House District No. 15,R,Allen,1441
 Rockingham,Newton,State House District No. 15,D,Michaels,1085
-Rockingham,Newton,State House District No. 15,, , 
-Rockingham,Newton,State House District No. 15,,Scatter, 
+Rockingham,Newton,State House District No. 15,,,
+Rockingham,Newton,State House District No. 15,,Scatter,
 Rockingham,East Kingston,State House District No. 16,R,Nigrello,967
 Rockingham,East Kingston,State House District No. 16,D,Carpenter,499
 Rockingham,Kensington,State House District No. 16,R,Nigrello,669
@@ -13864,7 +13864,7 @@ Rockingham,Hampton,State House District No. 21,D,Desrosiers,3837
 Rockingham,Hampton,State House District No. 21,D,Edgar,4186
 Rockingham,North Hampton,State House District No. 22,R,Marsh,1691
 Rockingham,North Hampton,State House District No. 22,D,Day,1270
-Rockingham,North Hampton,State House District No. 22,,Scatter, 
+Rockingham,North Hampton,State House District No. 22,,Scatter,
 Rockingham,Greenland,State House District No. 23,R,Page,1164
 Rockingham,Greenland,State House District No. 23,D,Malloy,1285
 Rockingham,Newington,State House District No. 23,R,Page,299
@@ -13884,12 +13884,12 @@ Rockingham,TOTALS,State House District No. 24,R,Erlebacher,1920
 Rockingham,TOTALS,State House District No. 24,D,Murray,2181
 Rockingham,TOTALS,State House District No. 24,D,Messmer,2249
 Rockingham,Portsmouth Ward 1,State House District No. 25,D,Pantelakos,1986
-Rockingham,Portsmouth Ward 2,State House District No. 26,, , 
+Rockingham,Portsmouth Ward 2,State House District No. 26,,,
 Rockingham,Portsmouth Ward 2,State House District No. 26,D,McBeath,2296
 Rockingham,Portsmouth Ward 3,State House District No. 27,D,Somssich,1582
-Rockingham,Portsmouth Ward 4,State House District No. 28,, , 
+Rockingham,Portsmouth Ward 4,State House District No. 28,,,
 Rockingham,Portsmouth Ward 4,State House District No. 28,D,Ward,1485
-Rockingham,Portsmouth Ward 5,State House District No. 29,, , 
+Rockingham,Portsmouth Ward 5,State House District No. 29,,,
 Rockingham,Portsmouth Ward 5,State House District No. 29,D,Gordon,1841
 Rockingham,Portsmouth Ward 1,State House District No. 30,R,Vyvyan,849
 Rockingham,Portsmouth Ward 1,State House District No. 30,D,Cali-Pitts,1664
@@ -14047,19 +14047,19 @@ Strafford,Rochester Ward 3,State House District No. 10,D,Dubois,1107
 Strafford,Rochester Ward 3,State House District No. 10,,Scatter,0
 Strafford,Rochester Ward 4,State House District No. 11,R,DeLemus,1069
 Strafford,Rochester Ward 4,State House District No. 11,D,Grassie,1175
-Strafford,Rochester Ward 4,State House District No. 11,, , 
+Strafford,Rochester Ward 4,State House District No. 11,,,
 Strafford,Rochester Ward 4,State House District No. 11,,Scatter,1
 Strafford,Rochester Ward 5,State House District No. 12,R,Scruton,1377
 Strafford,Rochester Ward 5,State House District No. 12,D,Hubbard,1019
 Strafford,Rochester Ward 5,State House District No. 12,,Scatter,2
 Strafford,Dover Ward 1,State House District No. 13,D,Epstein,1952
-Strafford,Dover Ward 1,State House District No. 13,,Scatter, 
+Strafford,Dover Ward 1,State House District No. 13,,Scatter,
 Strafford,Dover Ward 2,State House District No. 14,D,KransJr.,2039
 Strafford,Dover Ward 2,State House District No. 14,,Scatter,0
-Strafford,Dover Ward 15 (1),State House District No. 14,, ,"Colford, r"
+Strafford,Dover Ward 15 (1),State House District No. 14,,,"Colford, r"
 Strafford,Dover Ward 15 (1),State House District No. 14,D,KransJr.,"Opderbecke, d"
 Strafford,Dover Ward 15 (1),State House District No. 14,,Scatter,Scatter
-Strafford,Dover Ward 3,State House District No. 14,, ,1332
+Strafford,Dover Ward 3,State House District No. 14,,,1332
 Strafford,Dover Ward 3,State House District No. 14,D,KransJr.,1770
 Strafford,Dover Ward 3,State House District No. 14,,Scatter,0
 Strafford,Dover Ward 4,State House District No. 16,D,Frost,1913
