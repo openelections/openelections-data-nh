@@ -4856,7 +4856,7 @@ Hillsborough,Peterborough,USS,,,
 Hillsborough,Peterborough,USS,,,
 Hillsborough,Peterborough,USS,,,
 Hillsborough,Peterborough,USS,,,
-Hillsborough,Peterborough,USS,,,`
+Hillsborough,Peterborough,USS,,,
 Hillsborough,Sharon,USS,R,Ayotte,104
 Hillsborough,Sharon,USS,D,Hassan,129
 Hillsborough,Sharon,USS,LIB,Chabot,9
@@ -8889,22 +8889,22 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Atkinson,Congressional District 2,D,Ann McLane Kuster,1647
 ,Atkinson,Congressional District 2,IND,John J. Babiarz,184
 ,Atkinson,Congressional District 2,,Scatter,1
-,At. & Gil Ac. Gt,Congressional District 2,R,Jim Lawrence,--
-,At. & Gil Ac. Gt,Congressional District 2,D,Ann McLane Kuster,--
+,At. & Gil Ac. Gt,Congressional District 2,R,Jim Lawrence,
+,At. & Gil Ac. Gt,Congressional District 2,D,Ann McLane Kuster,
 ,At. & Gil Ac. Gt,Congressional District 2,IND,John J. Babiarz,
-,At. & Gil Ac. Gt,Congressional District 2,,Scatter,--
+,At. & Gil Ac. Gt,Congressional District 2,,Scatter,
 ,Bath,Congressional District 2,R,Jim Lawrence,273
 ,Bath,Congressional District 2,D,Ann McLane Kuster,233
 ,Bath,Congressional District 2,IND,John J. Babiarz,29
 ,Bath,Congressional District 2,,Scatter,
-,Bean's Grant,Congressional District 2,R,Jim Lawrence,--
-,Bean's Grant,Congressional District 2,D,Ann McLane Kuster,--
+,Bean's Grant,Congressional District 2,R,Jim Lawrence,
+,Bean's Grant,Congressional District 2,D,Ann McLane Kuster,
 ,Bean's Grant,Congressional District 2,IND,John J. Babiarz,
-,Bean's Grant,Congressional District 2,,Scatter,--
-,Bean's Purchase,Congressional District 2,R,Jim Lawrence,--
-,Bean's Purchase,Congressional District 2,D,Ann McLane Kuster,--
+,Bean's Grant,Congressional District 2,,Scatter,
+,Bean's Purchase,Congressional District 2,R,Jim Lawrence,
+,Bean's Purchase,Congressional District 2,D,Ann McLane Kuster,
 ,Bean's Purchase,Congressional District 2,IND,John J. Babiarz,
-,Bean's Purchase,Congressional District 2,,Scatter,--
+,Bean's Purchase,Congressional District 2,,Scatter,
 ,Bennington,Congressional District 2,R,Jim Lawrence,370
 ,Bennington,Congressional District 2,D,Ann McLane Kuster,336
 ,Bennington,Congressional District 2,IND,John J. Babiarz,77
@@ -8965,10 +8965,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Center Harbor,Congressional District 2,D,Ann McLane Kuster,326
 ,Center Harbor,Congressional District 2,IND,John J. Babiarz,20
 ,Center Harbor,Congressional District 2,,Scatter,3
-,Chandler's Purchase,Congressional District 2,R,Jim Lawrence,--
-,Chandler's Purchase,Congressional District 2,D,Ann McLane Kuster,--
+,Chandler's Purchase,Congressional District 2,R,Jim Lawrence,
+,Chandler's Purchase,Congressional District 2,D,Ann McLane Kuster,
 ,Chandler's Purchase,Congressional District 2,IND,John J. Babiarz,
-,Chandler's Purchase,Congressional District 2,,Scatter,--
+,Chandler's Purchase,Congressional District 2,,Scatter,
 ,Charlestown,Congressional District 2,R,Jim Lawrence,1042
 ,Charlestown,Congressional District 2,D,Ann McLane Kuster,1150
 ,Charlestown,Congressional District 2,IND,John J. Babiarz,108
@@ -9049,18 +9049,18 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Cornish,Congressional District 2,D,Ann McLane Kuster,573
 ,Cornish,Congressional District 2,IND,John J. Babiarz,45
 ,Cornish,Congressional District 2,,Scatter,
-,Crawford's Purchase,Congressional District 2,R,Jim Lawrence,--
-,Crawford's Purchase,Congressional District 2,D,Ann McLane Kuster,--
+,Crawford's Purchase,Congressional District 2,R,Jim Lawrence,
+,Crawford's Purchase,Congressional District 2,D,Ann McLane Kuster,
 ,Crawford's Purchase,Congressional District 2,IND,John J. Babiarz,
-,Crawford's Purchase,Congressional District 2,,Scatter,--
+,Crawford's Purchase,Congressional District 2,,Scatter,
 ,Croydon,Congressional District 2,R,Jim Lawrence,246
 ,Croydon,Congressional District 2,D,Ann McLane Kuster,139
 ,Croydon,Congressional District 2,IND,John J. Babiarz,19
 ,Croydon,Congressional District 2,,Scatter,
-,Cutt's Grant,Congressional District 2,R,Jim Lawrence,--
-,Cutt's Grant,Congressional District 2,D,Ann McLane Kuster,--
+,Cutt's Grant,Congressional District 2,R,Jim Lawrence,
+,Cutt's Grant,Congressional District 2,D,Ann McLane Kuster,
 ,Cutt's Grant,Congressional District 2,IND,John J. Babiarz,
-,Cutt's Grant,Congressional District 2,,Scatter,--
+,Cutt's Grant,Congressional District 2,,Scatter,
 ,Dalton,Congressional District 2,R,Jim Lawrence,252
 ,Dalton,Congressional District 2,D,Ann McLane Kuster,213
 ,Dalton,Congressional District 2,IND,John J. Babiarz,22
@@ -9077,10 +9077,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Deering,Congressional District 2,D,Ann McLane Kuster,395
 ,Deering,Congressional District 2,IND,John J. Babiarz,66
 ,Deering,Congressional District 2,,Scatter,2
-,Dix's Grant,Congressional District 2,R,Jim Lawrence,--
-,Dix's Grant,Congressional District 2,D,Ann McLane Kuster,--
+,Dix's Grant,Congressional District 2,R,Jim Lawrence,
+,Dix's Grant,Congressional District 2,D,Ann McLane Kuster,
 ,Dix's Grant,Congressional District 2,IND,John J. Babiarz,
-,Dix's Grant,Congressional District 2,,Scatter,--
+,Dix's Grant,Congressional District 2,,Scatter,
 ,Dixville,Congressional District 2,R,Jim Lawrence,4
 ,Dixville,Congressional District 2,D,Ann McLane Kuster,4
 ,Dixville,Congressional District 2,IND,John J. Babiarz,0
@@ -9121,10 +9121,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Errol,Congressional District 2,D,Ann McLane Kuster,62
 ,Errol,Congressional District 2,IND,John J. Babiarz,8
 ,Errol,Congressional District 2,,Scatter,
-,Erving's Location,Congressional District 2,R,Jim Lawrence,--
-,Erving's Location,Congressional District 2,D,Ann McLane Kuster,--
+,Erving's Location,Congressional District 2,R,Jim Lawrence,
+,Erving's Location,Congressional District 2,D,Ann McLane Kuster,
 ,Erving's Location,Congressional District 2,IND,John J. Babiarz,
-,Erving's Location,Congressional District 2,,Scatter,--
+,Erving's Location,Congressional District 2,,Scatter,
 ,Fitzwilliam,Congressional District 2,R,Jim Lawrence,565
 ,Fitzwilliam,Congressional District 2,D,Ann McLane Kuster,576
 ,Fitzwilliam,Congressional District 2,IND,John J. Babiarz,78
@@ -9185,10 +9185,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Groton,Congressional District 2,D,Ann McLane Kuster,118
 ,Groton,Congressional District 2,IND,John J. Babiarz,20
 ,Groton,Congressional District 2,,Scatter,
-,Hadley's Purchase,Congressional District 2,R,Jim Lawrence,--
-,Hadley's Purchase,Congressional District 2,D,Ann McLane Kuster,--
+,Hadley's Purchase,Congressional District 2,R,Jim Lawrence,
+,Hadley's Purchase,Congressional District 2,D,Ann McLane Kuster,
 ,Hadley's Purchase,Congressional District 2,IND,John J. Babiarz,
-,Hadley's Purchase,Congressional District 2,,Scatter,--
+,Hadley's Purchase,Congressional District 2,,Scatter,
 ,Hancock,Congressional District 2,R,Jim Lawrence,456
 ,Hancock,Congressional District 2,D,Ann McLane Kuster,712
 ,Hancock,Congressional District 2,IND,John J. Babiarz,34
@@ -9269,10 +9269,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Keene - Ward 5,Congressional District 2,D,Ann McLane Kuster,1769
 ,Keene - Ward 5,Congressional District 2,IND,John J. Babiarz,101
 ,Keene - Ward 5,Congressional District 2,,Scatter,2
-,Kilkenny,Congressional District 2,R,Jim Lawrence,--
-,Kilkenny,Congressional District 2,D,Ann McLane Kuster,--
+,Kilkenny,Congressional District 2,R,Jim Lawrence,
+,Kilkenny,Congressional District 2,D,Ann McLane Kuster,
 ,Kilkenny,Congressional District 2,IND,John J. Babiarz,
-,Kilkenny,Congressional District 2,,Scatter,--
+,Kilkenny,Congressional District 2,,Scatter,
 ,Lancaster,Congressional District 2,R,Jim Lawrence,765
 ,Lancaster,Congressional District 2,D,Ann McLane Kuster,741
 ,Lancaster,Congressional District 2,IND,John J. Babiarz,71
@@ -9317,18 +9317,18 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Littleton,Congressional District 2,D,Ann McLane Kuster,1344
 ,Littleton,Congressional District 2,IND,John J. Babiarz,115
 ,Littleton,Congressional District 2,,Scatter,2
-,Livermore,Congressional District 2,R,Jim Lawrence,--
-,Livermore,Congressional District 2,D,Ann McLane Kuster,--
+,Livermore,Congressional District 2,R,Jim Lawrence,
+,Livermore,Congressional District 2,D,Ann McLane Kuster,
 ,Livermore,Congressional District 2,IND,John J. Babiarz,
-,Livermore,Congressional District 2,,Scatter,--
+,Livermore,Congressional District 2,,Scatter,
 ,Loudon,Congressional District 2,R,Jim Lawrence,1740
 ,Loudon,Congressional District 2,D,Ann McLane Kuster,1254
 ,Loudon,Congressional District 2,IND,John J. Babiarz,167
 ,Loudon,Congressional District 2,,Scatter,1
-,Low & Burbank's Grant,Congressional District 2,R,Jim Lawrence,--
-,Low & Burbank's Grant,Congressional District 2,D,Ann McLane Kuster,--
+,Low & Burbank's Grant,Congressional District 2,R,Jim Lawrence,
+,Low & Burbank's Grant,Congressional District 2,D,Ann McLane Kuster,
 ,Low & Burbank's Grant,Congressional District 2,IND,John J. Babiarz,
-,Low & Burbank's Grant,Congressional District 2,,Scatter,--
+,Low & Burbank's Grant,Congressional District 2,,Scatter,
 ,Lyman,Congressional District 2,R,Jim Lawrence,160
 ,Lyman,Congressional District 2,D,Ann McLane Kuster,147
 ,Lyman,Congressional District 2,IND,John J. Babiarz,7
@@ -9349,10 +9349,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Marlow,Congressional District 2,D,Ann McLane Kuster,224
 ,Marlow,Congressional District 2,IND,John J. Babiarz,28
 ,Marlow,Congressional District 2,,Scatter,1
-,Martin's Location,Congressional District 2,R,Jim Lawrence,--
-,Martin's Location,Congressional District 2,D,Ann McLane Kuster,--
+,Martin's Location,Congressional District 2,R,Jim Lawrence,
+,Martin's Location,Congressional District 2,D,Ann McLane Kuster,
 ,Martin's Location,Congressional District 2,IND,John J. Babiarz,
-,Martin's Location,Congressional District 2,,Scatter,--
+,Martin's Location,Congressional District 2,,Scatter,
 ,Mason,Congressional District 2,R,Jim Lawrence,452
 ,Mason,Congressional District 2,D,Ann McLane Kuster,313
 ,Mason,Congressional District 2,IND,John J. Babiarz,56
@@ -9449,10 +9449,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Northwood,Congressional District 2,D,Ann McLane Kuster,1063
 ,Northwood,Congressional District 2,IND,John J. Babiarz,155
 ,Northwood,Congressional District 2,,Scatter,2
-,Odell,Congressional District 2,R,Jim Lawrence,--
-,Odell,Congressional District 2,D,Ann McLane Kuster,--
+,Odell,Congressional District 2,R,Jim Lawrence,
+,Odell,Congressional District 2,D,Ann McLane Kuster,
 ,Odell,Congressional District 2,IND,John J. Babiarz,
-,Odell,Congressional District 2,,Scatter,--
+,Odell,Congressional District 2,,Scatter,
 ,Orange,Congressional District 2,R,Jim Lawrence,73
 ,Orange,Congressional District 2,D,Ann McLane Kuster,85
 ,Orange,Congressional District 2,IND,John J. Babiarz,12
@@ -9480,7 +9480,7 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Pinkham's Grant,Congressional District 2,R,Jim Lawrence,1
 ,Pinkham's Grant,Congressional District 2,D,Ann McLane Kuster,3
 ,Pinkham's Grant,Congressional District 2,IND,John J. Babiarz,0
-,Pinkham's Grant,Congressional District 2,,Scatter,--
+,Pinkham's Grant,Congressional District 2,,Scatter,
 ,Pittsburg,Congressional District 2,R,Jim Lawrence,290
 ,Pittsburg,Congressional District 2,D,Ann McLane Kuster,146
 ,Pittsburg,Congressional District 2,IND,John J. Babiarz,13
@@ -9525,14 +9525,14 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Salisbury,Congressional District 2,D,Ann McLane Kuster,322
 ,Salisbury,Congressional District 2,IND,John J. Babiarz,34
 ,Salisbury,Congressional District 2,,Scatter,
-,Sargent's Purchase,Congressional District 2,R,Jim Lawrence,--
-,Sargent's Purchase,Congressional District 2,D,Ann McLane Kuster,--
+,Sargent's Purchase,Congressional District 2,R,Jim Lawrence,
+,Sargent's Purchase,Congressional District 2,D,Ann McLane Kuster,
 ,Sargent's Purchase,Congressional District 2,IND,John J. Babiarz,
-,Sargent's Purchase,Congressional District 2,,Scatter,--
-,Second College Grant,Congressional District 2,R,Jim Lawrence,--
-,Second College Grant,Congressional District 2,D,Ann McLane Kuster,--
+,Sargent's Purchase,Congressional District 2,,Scatter,
+,Second College Grant,Congressional District 2,R,Jim Lawrence,
+,Second College Grant,Congressional District 2,D,Ann McLane Kuster,
 ,Second College Grant,Congressional District 2,IND,John J. Babiarz,
-,Second College Grant,Congressional District 2,,Scatter,--
+,Second College Grant,Congressional District 2,,Scatter,
 ,Sharon,Congressional District 2,R,Jim Lawrence,99
 ,Sharon,Congressional District 2,D,Ann McLane Kuster,135
 ,Sharon,Congressional District 2,IND,John J. Babiarz,12
@@ -9561,10 +9561,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Stratford,Congressional District 2,D,Ann McLane Kuster,137
 ,Stratford,Congressional District 2,IND,John J. Babiarz,22
 ,Stratford,Congressional District 2,,Scatter,
-,Success,Congressional District 2,R,Jim Lawrence,--
-,Success,Congressional District 2,D,Ann McLane Kuster,--
+,Success,Congressional District 2,R,Jim Lawrence,
+,Success,Congressional District 2,D,Ann McLane Kuster,
 ,Success,Congressional District 2,IND,John J. Babiarz,
-,Success,Congressional District 2,,Scatter,--
+,Success,Congressional District 2,,Scatter,
 ,Sugar Hill,Congressional District 2,R,Jim Lawrence,165
 ,Sugar Hill,Congressional District 2,D,Ann McLane Kuster,242
 ,Sugar Hill,Congressional District 2,IND,John J. Babiarz,9
@@ -9593,10 +9593,10 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Temple,Congressional District 2,D,Ann McLane Kuster,411
 ,Temple,Congressional District 2,IND,John J. Babiarz,44
 ,Temple,Congressional District 2,,Scatter,3
-,Thomp. and Mes's Pur.,Congressional District 2,R,Jim Lawrence,--
-,Thomp. and Mes's Pur.,Congressional District 2,D,Ann McLane Kuster,--
+,Thomp. and Mes's Pur.,Congressional District 2,R,Jim Lawrence,
+,Thomp. and Mes's Pur.,Congressional District 2,D,Ann McLane Kuster,
 ,Thomp. and Mes's Pur.,Congressional District 2,IND,John J. Babiarz,
-,Thomp. and Mes's Pur.,Congressional District 2,,Scatter,--
+,Thomp. and Mes's Pur.,Congressional District 2,,Scatter,
 ,Thornton,Congressional District 2,R,Jim Lawrence,625
 ,Thornton,Congressional District 2,D,Ann McLane Kuster,724
 ,Thornton,Congressional District 2,IND,John J. Babiarz,102
