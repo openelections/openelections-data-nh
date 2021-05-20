@@ -11489,15 +11489,15 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Totals,State Senate District 18,D,Donna M. Soucy,13299
 ,Totals,State Senate District 18,,Scatter,37
 ,Derry,State Senate District 19,R,Regina Birdsell,8508
-,Derry,State Senate District 19,D,Kristi            St. Laurent,6501
+,Derry,State Senate District 19,D,Kristi St. Laurent,6501
 ,Hampstead,State Senate District 19,R,Regina Birdsell,3281
-,Hampstead,State Senate District 19,D,Kristi            St. Laurent,1718
+,Hampstead,State Senate District 19,D,Kristi St. Laurent,1718
 ,Hampstead,State Senate District 19,,Scatter,6
 ,Windham,State Senate District 19,R,Regina Birdsell,4716
-,Windham,State Senate District 19,D,Kristi            St. Laurent,3606
+,Windham,State Senate District 19,D,Kristi St. Laurent,3606
 ,Windham,State Senate District 19,,Scatter,6
 ,Totals,State Senate District 19,R,Regina Birdsell,16505
-,Totals,State Senate District 19,D,Kristi            St. Laurent,11825
+,Totals,State Senate District 19,D,Kristi St. Laurent,11825
 ,Totals,State Senate District 19,,Scatter,12
 ,Goffstown,State Senate District 20,R,Carla Gericke,4133
 ,Goffstown,State Senate District 20,D,Lou D'Allesandro,4929
@@ -11552,18 +11552,18 @@ Sullivan,Totals,President,,"Vakil, Kora Roberta Katz",45
 ,Totals,State Senate District 21,R,Peter Macdonald,10607
 ,Totals,State Senate District 21,D,Martha Fuller Clark,20883
 ,Totals,State Senate District 21,,Scatter,44
-,Atkinson,State Senate District 22,R,Chuck  Morse,2955
+,Atkinson,State Senate District 22,R,Chuck Morse,2955
 ,Atkinson,State Senate District 22,D,Richard J. O'Shaughnessy,1270
 ,Atkinson,State Senate District 22,,Scatter,2
-,Pelham,State Senate District 22,R,Chuck  Morse,4426
+,Pelham,State Senate District 22,R,Chuck Morse,4426
 ,Pelham,State Senate District 22,D,Richard J. O'Shaughnessy,2452
 ,Pelham,State Senate District 22,,Scatter,3
-,Plaistow,State Senate District 22,R,Chuck  Morse,2519
+,Plaistow,State Senate District 22,R,Chuck Morse,2519
 ,Plaistow,State Senate District 22,D,Richard J. O'Shaughnessy,1456
-,Salem,State Senate District 22,R,Chuck  Morse,8817
+,Salem,State Senate District 22,R,Chuck Morse,8817
 ,Salem,State Senate District 22,D,Richard J. O'Shaughnessy,6092
 ,Salem,State Senate District 22,,Scatter,1
-,TOTALS,State Senate District 22,R,Chuck  Morse,18717
+,TOTALS,State Senate District 22,R,Chuck Morse,18717
 ,TOTALS,State Senate District 22,D,Richard J. O'Shaughnessy,11270
 ,TOTALS,State Senate District 22,,Scatter,6
 ,,State Senate District 23,R,Bill Gannon,"Bill Gannon, r"
@@ -12130,11 +12130,11 @@ Cheshire,Swanzey,State House District No. 12,R,McConnell,1729
 Cheshire,Swanzey,State House District No. 12,D,Picanco,1324
 Cheshire,Swanzey,State House District No. 12,D,Faulkner,1747
 Cheshire,Swanzey,State House District No. 12,,Scatter,4
-Cheshire,TOTALS   (tie),State House District No. 12,R,Sainsbury,1859
-Cheshire,TOTALS   (tie),State House District No. 12,R,McConnell,2099
-Cheshire,TOTALS   (tie),State House District No. 12,D,Picanco,1516
-Cheshire,TOTALS   (tie),State House District No. 12,D,Faulkner,1969
-Cheshire,TOTALS   (tie),State House District No. 12,,Scatter,4
+Cheshire,TOTALS (tie),State House District No. 12,R,Sainsbury,1859
+Cheshire,TOTALS (tie),State House District No. 12,R,McConnell,2099
+Cheshire,TOTALS (tie),State House District No. 12,D,Picanco,1516
+Cheshire,TOTALS (tie),State House District No. 12,D,Faulkner,1969
+Cheshire,TOTALS (tie),State House District No. 12,,Scatter,4
 Cheshire,Winchester,State House District No. 13,R,Nutting,655
 Cheshire,Winchester,State House District No. 13,D,Parkhurst,1012
 Cheshire,Winchester,State House District No. 13,,Scatter,1
@@ -12715,28 +12715,28 @@ Hillsborough,Hancock,State House District No. 3,D,ManleySr.,811
 Hillsborough,Hancock,State House District No. 3,,Scatter,11
 Hillsborough,TOTALS,State House District No. 3,D,ManleySr.,1851
 Hillsborough,TOTALS,State House District No. 3,,Scatter,29
-Hillsborough,Francestown,State House District No.  4,R,Schwanke,399
-Hillsborough,Francestown,State House District No.  4,R,Hastings,445
-Hillsborough,Francestown,State House District No.  4,D,Williams,459
-Hillsborough,Francestown,State House District No.  4,D,Roberts,458
-Hillsborough,Greenville,State House District No.  4,R,Schwanke,412
-Hillsborough,Greenville,State House District No.  4,R,Hastings,403
-Hillsborough,Greenville,State House District No.  4,D,Williams,371
-Hillsborough,Greenville,State House District No.  4,D,Roberts,412
-Hillsborough,Lyndeborough,State House District No.  4,R,Schwanke,437
-Hillsborough,Lyndeborough,State House District No.  4,R,Hastings,483
-Hillsborough,Lyndeborough,State House District No.  4,D,Williams,454
-Hillsborough,Lyndeborough,State House District No.  4,D,Roberts,452
-Hillsborough,Lyndeborough,State House District No.  4,,Scatter,1
-Hillsborough,Wilton,State House District No.  4,R,Schwanke,908
-Hillsborough,Wilton,State House District No.  4,R,Hastings,938
-Hillsborough,Wilton,State House District No.  4,D,Williams,1035
-Hillsborough,Wilton,State House District No.  4,D,Roberts,1017
-Hillsborough,TOTALS,State House District No.  4,R,Schwanke,2156
-Hillsborough,TOTALS,State House District No.  4,R,Hastings,2269
-Hillsborough,TOTALS,State House District No.  4,D,Williams,2319
-Hillsborough,TOTALS,State House District No.  4,D,Roberts,2339
-Hillsborough,TOTALS,State House District No.  4,,Scatter,1
+Hillsborough,Francestown,State House District No. 4,R,Schwanke,399
+Hillsborough,Francestown,State House District No. 4,R,Hastings,445
+Hillsborough,Francestown,State House District No. 4,D,Williams,459
+Hillsborough,Francestown,State House District No. 4,D,Roberts,458
+Hillsborough,Greenville,State House District No. 4,R,Schwanke,412
+Hillsborough,Greenville,State House District No. 4,R,Hastings,403
+Hillsborough,Greenville,State House District No. 4,D,Williams,371
+Hillsborough,Greenville,State House District No. 4,D,Roberts,412
+Hillsborough,Lyndeborough,State House District No. 4,R,Schwanke,437
+Hillsborough,Lyndeborough,State House District No. 4,R,Hastings,483
+Hillsborough,Lyndeborough,State House District No. 4,D,Williams,454
+Hillsborough,Lyndeborough,State House District No. 4,D,Roberts,452
+Hillsborough,Lyndeborough,State House District No. 4,,Scatter,1
+Hillsborough,Wilton,State House District No. 4,R,Schwanke,908
+Hillsborough,Wilton,State House District No. 4,R,Hastings,938
+Hillsborough,Wilton,State House District No. 4,D,Williams,1035
+Hillsborough,Wilton,State House District No. 4,D,Roberts,1017
+Hillsborough,TOTALS,State House District No. 4,R,Schwanke,2156
+Hillsborough,TOTALS,State House District No. 4,R,Hastings,2269
+Hillsborough,TOTALS,State House District No. 4,D,Williams,2319
+Hillsborough,TOTALS,State House District No. 4,D,Roberts,2339
+Hillsborough,TOTALS,State House District No. 4,,Scatter,1
 Hillsborough,Mont Vernon,State House District No. 5,R,Griffin,725
 Hillsborough,Mont Vernon,State House District No. 5,R,Dickey,638
 Hillsborough,Mont Vernon,State House District No. 5,D,Woodbury,672
