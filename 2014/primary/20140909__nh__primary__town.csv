@@ -453,10 +453,10 @@ Carroll,Tamworth,State House District No. 7,D,Callis,0.0
 Carroll,Tamworth,State House District No. 7,D,Scatter,1.0
 Carroll,Brookfield,State House District No. 8,D,Hoag,26.0
 Carroll,Brookfield,State House District No. 8,D,Wright,0.0
-Carroll,Brookfield,State House District No. 8,D,Scatter, 
+Carroll,Brookfield,State House District No. 8,D,Scatter,
 Carroll,Effingham,State House District No. 8,D,Hoag,42.0
-Carroll,Effingham,State House District No. 8,D,Wright, 
-Carroll,Effingham,State House District No. 8,D,Scatter, 
+Carroll,Effingham,State House District No. 8,D,Wright,
+Carroll,Effingham,State House District No. 8,D,Scatter,
 Carroll,Moultonborough,State House District No. 8,D,Hoag,124.0
 Carroll,Moultonborough,State House District No. 8,D,Wright,0.0
 Carroll,Moultonborough,State House District No. 8,D,Scatter,9.0
@@ -873,7 +873,7 @@ Cheshire,Sullivan,State House District No. 3,R,Ward,34.0
 Cheshire,Sullivan,State House District No. 3,R,Eaton,
 Cheshire,Sullivan,State House District No. 3,R,Scatter,
 Cheshire,Keene Ward 1,State House District No. 4,R,Crawford,51.0
-Cheshire,Keene Ward 1,State House District No. 4,R,Pearson, 
+Cheshire,Keene Ward 1,State House District No. 4,R,Pearson,
 Cheshire,Keene Ward 1,State House District No. 4,R,Cleaveland,
 Cheshire,Keene Ward 1,State House District No. 4,R,Scatter,3.0
 Cheshire,Keene Ward 2,State House District No. 5,R,Bordenet,
@@ -889,7 +889,7 @@ Cheshire,Dublin,State House District No. 9,R,Creekmore,137.0
 Cheshire,Dublin,State House District No. 9,R,Ley,
 Cheshire,Dublin,State House District No. 9,R,Ames,
 Cheshire,Dublin,State House District No. 9,R,Scatter,5.0
-Cheshire,Dublin,State House District No. 9,R,Bussiere, 
+Cheshire,Dublin,State House District No. 9,R,Bussiere,
 Cheshire,Harrisville,State House District No. 9,R,Creekmore,56.0
 Cheshire,Harrisville,State House District No. 9,R,Ley,
 Cheshire,Harrisville,State House District No. 9,R,Ames,
@@ -934,11 +934,11 @@ Cheshire,Winchester,State House District No. 13,R,Scatter,10.0
 Cheshire,Dublin,State House District No. 14,R,"Sterling, Jr.",103.0
 Cheshire,Dublin,State House District No. 14,R,Melanson,44.0
 Cheshire,Dublin,State House District No. 14,R,Martin,
-Cheshire,Dublin,State House District No. 14,R,Scatter, 
+Cheshire,Dublin,State House District No. 14,R,Scatter,
 Cheshire,Fitzwilliam,State House District No. 14,R,"Sterling, Jr.",92.0
 Cheshire,Fitzwilliam,State House District No. 14,R,Melanson,60.0
 Cheshire,Fitzwilliam,State House District No. 14,R,Martin,
-Cheshire,Fitzwilliam,State House District No. 14,R,Scatter, 
+Cheshire,Fitzwilliam,State House District No. 14,R,Scatter,
 Cheshire,Harrisville,State House District No. 14,R,"Sterling, Jr.",27.0
 Cheshire,Harrisville,State House District No. 14,R,Melanson,33.0
 Cheshire,Harrisville,State House District No. 14,R,Martin,
@@ -962,7 +962,7 @@ Cheshire,Richmond,State House District No. 15,R,Thackston,76.0
 Cheshire,Richmond,State House District No. 15,R,Tatro,
 Cheshire,Richmond,State House District No. 15,R,Scatter,2.0
 Cheshire,Swanzey,State House District No. 15,R,Thackston,306.0
-Cheshire,Swanzey,State House District No. 15,R,Tatro, 
+Cheshire,Swanzey,State House District No. 15,R,Tatro,
 Cheshire,Swanzey,State House District No. 15,R,Scatter,5.0
 Cheshire,Troy,State House District No. 15,R,Thackston,86.0
 Cheshire,Troy,State House District No. 15,R,Tatro,
@@ -1385,7 +1385,7 @@ Coos,Thomp and Mes's Pur,State House District No. 6,R,Hatch,
 Coos,Thomp and Mes's Pur,State House District No. 6,R,Scatter,
 Coos,Thomp and Mes's Pur,State House District No. 6,R,Bruce Lary (w-in),
 Coos,Carroll,State House District No. 7,R,Rideout,66.0
-Coos,Carroll,State House District No. 7,R,Scatter, 
+Coos,Carroll,State House District No. 7,R,Scatter,
 Coos,Dalton,State House District No. 7,R,Rideout,66.0
 Coos,Dalton,State House District No. 7,R,Scatter,4.0
 Coos,Dummer,State House District No. 7,R,Rideout,21.0
@@ -2200,7 +2200,7 @@ Hillsborough,Nashua Ward 5,State House District No. 32,D,Summers,
 Hillsborough,Nashua Ward 5,State House District No. 32,D,LeBrun,1.0
 Hillsborough,Nashua Ward 5,State House District No. 32,D,Murotake,
 Hillsborough,Nashua Ward 5,State House District No. 32,D,Palmer,
-Hillsborough,Nashua Ward 5,State House District No. 32,D, Scatter,
+Hillsborough,Nashua Ward 5,State House District No. 32,D,Scatter,
 Hillsborough,Nashua Ward 6,State House District No. 33,D,Guerette,110.0
 Hillsborough,Nashua Ward 6,State House District No. 33,D,Booras,114.0
 Hillsborough,Nashua Ward 6,State House District No. 33,D,Gidge,134.0
@@ -2710,7 +2710,7 @@ Hillsborough,Nashua Ward 5,State House District No. 32,R,Palmer,323.0
 Hillsborough,Nashua Ward 5,State House District No. 32,R,Pedersen,1.0
 Hillsborough,Nashua Ward 5,State House District No. 32,R,Labrecque,0.0
 Hillsborough,Nashua Ward 5,State House District No. 32,R,MacAuslan,0.0
-Hillsborough,Nashua Ward 5,State House District No. 32,R, Scatter,7.0
+Hillsborough,Nashua Ward 5,State House District No. 32,R,Scatter,7.0
 Hillsborough,Nashua Ward 6,State House District No. 33,R,Simoneau,218.0
 Hillsborough,Nashua Ward 6,State House District No. 33,R,Reed,213.0
 Hillsborough,Nashua Ward 6,State House District No. 33,R,Saunders,191.0
@@ -3190,10 +3190,10 @@ Merrimack,Andover,State House District No. 1,R,Copp (w-in),17.0
 Merrimack,Andover,State House District No. 1,R,Scatter,13.0
 Merrimack,Danbury,State House District No. 1,R,Ratzki,22.0
 Merrimack,Danbury,State House District No. 1,R,Copp (w-in),39.0
-Merrimack,Danbury,State House District No. 1,R,Scatter, 
+Merrimack,Danbury,State House District No. 1,R,Scatter,
 Merrimack,Salisbury,State House District No. 1,R,Ratzki,0.0
 Merrimack,Salisbury,State House District No. 1,R,Copp (w-in),10.0
-Merrimack,Salisbury,State House District No. 1,R,Scatter, 
+Merrimack,Salisbury,State House District No. 1,R,Scatter,
 Merrimack,Franklin Ward 1,State House District No. 2,R,Horn,128.0
 Merrimack,Franklin Ward 1,State House District No. 2,R,French,160.0
 Merrimack,Franklin Ward 1,State House District No. 2,R,Natkiel,0.0
@@ -3455,7 +3455,7 @@ Rockingham,Nottingham,State House District No. 2,D,Scatter,
 Rockingham,Raymond,State House District No. 3,D,Matthews,6.0
 Rockingham,Raymond,State House District No. 3,D,Hoelzel,2.0
 Rockingham,Raymond,State House District No. 3,D,Kappler,1.0
-Rockingham,Raymond,State House District No. 3,D, Scatter,28.0
+Rockingham,Raymond,State House District No. 3,D,Scatter,28.0
 Rockingham,Auburn,State House District No. 4,D,Lister,88.0
 Rockingham,Auburn,State House District No. 4,D,D'Angelo,76.0
 Rockingham,Auburn,State House District No. 4,D,"Carrio, Sr.",
@@ -3534,7 +3534,7 @@ Rockingham,Windham,State House District No. 7,D,Samsel,1.0
 Rockingham,Windham,State House District No. 7,D,Bates,12.0
 Rockingham,Windham,State House District No. 7,D,Griffin,6.0
 Rockingham,Windham,State House District No. 7,D,Kolodziej,2.0
-Rockingham,Windham,State House District No. 7,D,Levell, 
+Rockingham,Windham,State House District No. 7,D,Levell,
 Rockingham,Windham,State House District No. 7,D,McMahon,2.0
 Rockingham,Windham,State House District No. 7,D,Fallon (w-in),30.0
 Rockingham,Windham,State House District No. 7,D,Scatter,2.0
@@ -3698,13 +3698,13 @@ Rockingham,Rye,State House District No. 24,D,Scatter,
 Rockingham,Portsmouth Ward 1,State House District No. 25,D,Pantelakos,180.0
 Rockingham,Portsmouth Ward 1,State House District No. 25,D,Scatter,
 Rockingham,Portsmouth Ward 2,State House District No. 26,D,McBeath,165.0
-Rockingham,Portsmouth Ward 2,State House District No. 26,D,Scatter, 
+Rockingham,Portsmouth Ward 2,State House District No. 26,D,Scatter,
 Rockingham,Portsmouth Ward 3,State House District No. 27,D,DiFranco,138.0
 Rockingham,Portsmouth Ward 3,State House District No. 27,D,Scatter,2.0
 Rockingham,Portsmouth Ward 4,State House District No. 28,D,Ward,106.0
 Rockingham,Portsmouth Ward 4,State House District No. 28,D,Scatter,2.0
 Rockingham,Portsmouth Ward 5,State House District No. 29,D,Gordon,177.0
-Rockingham,Portsmouth Ward 5,State House District No. 29,D,Scatter, 
+Rockingham,Portsmouth Ward 5,State House District No. 29,D,Scatter,
 Rockingham,Portsmouth Ward 1,State House District No. 30,D,Cali-Pitts,144.0
 Rockingham,Portsmouth Ward 1,State House District No. 30,D,Scatter,1.0
 Rockingham,Portsmouth Ward 2,State House District No. 30,D,Cali-Pitts,166.0
@@ -3835,7 +3835,7 @@ Rockingham,Nottingham,State House District No. 2,R,Scatter,6.0
 Rockingham,Raymond,State House District No. 3,R,Matthews,462.0
 Rockingham,Raymond,State House District No. 3,R,Hoelzel,539.0
 Rockingham,Raymond,State House District No. 3,R,Kappler,581.0
-Rockingham,Raymond,State House District No. 3,R, Scatter,16.0
+Rockingham,Raymond,State House District No. 3,R,Scatter,16.0
 Rockingham,Auburn,State House District No. 4,R,"Carrio, Sr.",82.0
 Rockingham,Auburn,State House District No. 4,R,Devine,209.0
 Rockingham,Auburn,State House District No. 4,R,Dumaine,263.0
@@ -3936,12 +3936,12 @@ Rockingham,Salem,State House District No. 8,R,Azarian,1290.0
 Rockingham,Salem,State House District No. 8,R,Barnes III,829.0
 Rockingham,Salem,State House District No. 8,R,Belanger,1341.0
 Rockingham,Salem,State House District No. 8,R,Bick,648.0
-Rockingham,Salem,State House District No. 8,R,Micklon, 
-Rockingham,Salem,State House District No. 8,R,Brouse, 
+Rockingham,Salem,State House District No. 8,R,Micklon,
+Rockingham,Salem,State House District No. 8,R,Brouse,
 Rockingham,Salem,State House District No. 8,R,Featherston,
 Rockingham,Salem,State House District No. 8,R,"Iannalfo, C.",
 Rockingham,Salem,State House District No. 8,R,"Iannalfo, D.",
-Rockingham,Salem,State House District No. 8,R,Scatter, 
+Rockingham,Salem,State House District No. 8,R,Scatter,
 Rockingham,Epping,State House District No. 9,R,Vose,284.0
 Rockingham,Epping,State House District No. 9,R,Antosz,183.0
 Rockingham,Epping,State House District No. 9,R,Harris,303.0
@@ -4241,25 +4241,25 @@ Strafford,Rochester Ward 6,State House District No. 8,D,Scatter,1.0
 Strafford,Rochester Ward 2,State House District No. 9,D,Tanner,19.0
 Strafford,Rochester Ward 2,State House District No. 9,D,Keans,130.0
 Strafford,Rochester Ward 2,State House District No. 9,D,Beaudoin,
-Strafford,Rochester Ward 2,State House District No. 9,D,Scatter, 
-Strafford,Rochester Ward 3,State House District No. 10,D,Groen, 
+Strafford,Rochester Ward 2,State House District No. 9,D,Scatter,
+Strafford,Rochester Ward 3,State House District No. 10,D,Groen,
 Strafford,Rochester Ward 3,State House District No. 10,D,Dubois,30.0
 Strafford,Rochester Ward 3,State House District No. 10,D,Scatter,3.0
 Strafford,Rochester Ward 4,State House District No. 11,D,Grassie,126.0
 Strafford,Rochester Ward 4,State House District No. 11,D,DeLemus,
-Strafford,Rochester Ward 4,State House District No. 11,D,Scatter, 
+Strafford,Rochester Ward 4,State House District No. 11,D,Scatter,
 Strafford,Rochester Ward 5,State House District No. 12,D,Hubbard,125.0
-Strafford,Rochester Ward 5,State House District No. 12,D,Knowles, 
+Strafford,Rochester Ward 5,State House District No. 12,D,Knowles,
 Strafford,Rochester Ward 5,State House District No. 12,D,Scatter,1.0
 Strafford,Dover Ward 1,State House District No. 13,D,Verschueren,162.0
-Strafford,Dover Ward 1,State House District No. 13,D,Bickford, 
-Strafford,Dover Ward 1,State House District No. 13,D,Scatter, 
+Strafford,Dover Ward 1,State House District No. 13,D,Bickford,
+Strafford,Dover Ward 1,State House District No. 13,D,Scatter,
 Strafford,Dover Ward 2,State House District No. 14,D,Baber,136.0
 Strafford,Dover Ward 2,State House District No. 14,D,Elia,3.0
 Strafford,Dover Ward 2,State House District No. 14,D,Scatter,1.0
 Strafford,Dover Ward 3,State House District No. 15,D,Gardner,173.0
 Strafford,Dover Ward 3,State House District No. 15,D,Coulp,
-Strafford,Dover Ward 3,State House District No. 15,D,Scatter, 
+Strafford,Dover Ward 3,State House District No. 15,D,Scatter,
 Strafford,Dover Ward 4,State House District No. 16,D,DiSesa,144.0
 Strafford,Dover Ward 4,State House District No. 16,D,Seiler,
 Strafford,Dover Ward 4,State House District No. 16,D,Scatter,
@@ -4776,7 +4776,7 @@ Sullivan,Cornish,State House District No. 9,R,Irwin,
 Sullivan,Cornish,State House District No. 9,R,Scatter,1.0
 Sullivan,Croydon,State House District No. 9,R,Howard,98.0
 Sullivan,Croydon,State House District No. 9,R,Irwin,1.0
-Sullivan,Croydon,State House District No. 9,R,Scatter, 
+Sullivan,Croydon,State House District No. 9,R,Scatter,
 Sullivan,Grantham,State House District No. 9,R,Howard,255.0
 Sullivan,Grantham,State House District No. 9,R,Irwin,
 Sullivan,Grantham,State House District No. 9,R,Scatter,1.0
@@ -4878,7 +4878,7 @@ Sullivan,Dixville,State Senate District 1,D,Evans,0.0
 Sullivan,Dixville,State Senate District 1,D,Scatter,0.0
 Sullivan,Dummer,State Senate District 1,D,Woodburn,7.0
 Sullivan,Dummer,State Senate District 1,D,Evans,0.0
-Sullivan,Dummer,State Senate District 1,D,Scatter, 
+Sullivan,Dummer,State Senate District 1,D,Scatter,
 Sullivan,Easton,State Senate District 1,D,Woodburn,18.0
 Sullivan,Easton,State Senate District 1,D,Evans,0.0
 Sullivan,Easton,State Senate District 1,D,Scatter,1.0
@@ -5139,7 +5139,7 @@ Sullivan,Low and Burbank's Grant,State Senate District 1,R,Scatter,
 Sullivan,Lyman,State Senate District 1,R,Evans,43.0
 Sullivan,Lyman,State Senate District 1,R,McPhaul,5.0
 Sullivan,Lyman,State Senate District 1,R,Woodburn,1.0
-Sullivan,Lyman,State Senate District 1,R,Scatter, 
+Sullivan,Lyman,State Senate District 1,R,Scatter,
 Sullivan,Martin's Location,State Senate District 1,R,Evans,0.0
 Sullivan,Martin's Location,State Senate District 1,R,McPhaul,0.0
 Sullivan,Martin's Location,State Senate District 1,R,Woodburn,
@@ -5155,7 +5155,7 @@ Sullivan,Millsfield,State Senate District 1,R,Scatter,
 Sullivan,Monroe,State Senate District 1,R,Evans,59.0
 Sullivan,Monroe,State Senate District 1,R,McPhaul,1.0
 Sullivan,Monroe,State Senate District 1,R,Woodburn,
-Sullivan,Monroe,State Senate District 1,R,Scatter, 
+Sullivan,Monroe,State Senate District 1,R,Scatter,
 Sullivan,Northumberland,State Senate District 1,R,Evans,116.0
 Sullivan,Northumberland,State Senate District 1,R,McPhaul,3.0
 Sullivan,Northumberland,State Senate District 1,R,Woodburn,
@@ -5565,7 +5565,7 @@ Sullivan,Conway,State Senate District 3,R,Bradley,561.0
 Sullivan,Conway,State Senate District 3,R,White,1.0
 Sullivan,Conway,State Senate District 3,R,Scatter,2.0
 Sullivan,Eaton,State Senate District 3,R,Bradley,62.0
-Sullivan,Eaton,State Senate District 3,R,White, 
+Sullivan,Eaton,State Senate District 3,R,White,
 Sullivan,Eaton,State Senate District 3,R,Scatter,
 Sullivan,Effingham,State Senate District 3,R,Bradley,127.0
 Sullivan,Effingham,State Senate District 3,R,White,
@@ -6268,7 +6268,7 @@ Sullivan,Sullivan,State Senate District 10,R,Kelly,
 Sullivan,Sullivan,State Senate District 10,R,Eaton (w-in),
 Sullivan,Sullivan,State Senate District 10,R,Scatter,3.0
 Sullivan,Surry,State Senate District 10,R,Kelly,
-Sullivan,Surry,State Senate District 10,R,Eaton (w-in), 
+Sullivan,Surry,State Senate District 10,R,Eaton (w-in),
 Sullivan,Surry,State Senate District 10,R,Scatter,
 Sullivan,Swanzey,State Senate District 10,R,Kelly,1.0
 Sullivan,Swanzey,State Senate District 10,R,Eaton (w-in),12.0
@@ -6299,7 +6299,7 @@ Sullivan,Milford,State Senate District 11,R,Dwyer,65.0
 Sullivan,Milford,State Senate District 11,R,Hynes,154.0
 Sullivan,Milford,State Senate District 11,R,Mooney,251.0
 Sullivan,Milford,State Senate District 11,R,"Tilton,d",
-Sullivan,Milford,State Senate District 11,R,Scatter, 
+Sullivan,Milford,State Senate District 11,R,Scatter,
 Sullivan,Wilton,State Senate District 11,R,Daniels,196.0
 Sullivan,Wilton,State Senate District 11,R,Dwyer,13.0
 Sullivan,Wilton,State Senate District 11,R,Hynes,58.0
@@ -6408,7 +6408,7 @@ Sullivan,Concord Ward 9,State Senate District 15,D,Scatter,1.0
 Sullivan,Concord Ward 10,State Senate District 15,D,Ardinger,162.0
 Sullivan,Concord Ward 10,State Senate District 15,D,Feltes,293.0
 Sullivan,Concord Ward 10,State Senate District 15,D,Harman,0.0
-Sullivan,Concord Ward 10,State Senate District 15,D,Scatter, 
+Sullivan,Concord Ward 10,State Senate District 15,D,Scatter,
 Sullivan,Henniker,State Senate District 15,D,Ardinger,49.0
 Sullivan,Henniker,State Senate District 15,D,Feltes,187.0
 Sullivan,Henniker,State Senate District 15,D,Harman,1.0
@@ -6893,16 +6893,16 @@ Sullivan,Portsmouth Ward 5,State Senate District 21,R,Clark,
 Sullivan,Portsmouth Ward 5,State Senate District 21,R,Scatter,1.0
 Sullivan,Atkinson,State Senate District 22,D,O'Shaughnessy (w-in),11.0
 Sullivan,Atkinson,State Senate District 22,D,Morse,6.0
-Sullivan,Atkinson,State Senate District 22,D,Scatter ,20.0
+Sullivan,Atkinson,State Senate District 22,D,Scatter,20.0
 Sullivan,Pelham,State Senate District 22,D,O'Shaughnessy (w-in),
 Sullivan,Pelham,State Senate District 22,D,Morse,
-Sullivan,Pelham,State Senate District 22,D,Scatter ,8.0
+Sullivan,Pelham,State Senate District 22,D,Scatter,8.0
 Sullivan,Plaistow,State Senate District 22,D,O'Shaughnessy (w-in),
 Sullivan,Plaistow,State Senate District 22,D,Morse,
-Sullivan,Plaistow,State Senate District 22,D,Scatter ,2.0
+Sullivan,Plaistow,State Senate District 22,D,Scatter,2.0
 Sullivan,Salem,State Senate District 22,D,O'Shaughnessy (w-in),58.0
 Sullivan,Salem,State Senate District 22,D,Morse,6.0
-Sullivan,Salem,State Senate District 22,D,Scatter ,6.0
+Sullivan,Salem,State Senate District 22,D,Scatter,6.0
 Sullivan,Brentwood,State Senate District 23,D,Schlachman,85.0
 Sullivan,Brentwood,State Senate District 23,D,Prescott,1.0
 Sullivan,Brentwood,State Senate District 23,D,Scatter,
@@ -6975,13 +6975,13 @@ Sullivan,Stratham,State Senate District 24,D,Kenda,
 Sullivan,Stratham,State Senate District 24,D,Stiles,1.0
 Sullivan,Stratham,State Senate District 24,D,Scatter,
 Sullivan,Atkinson,State Senate District 22,R,Morse,792.0
-Sullivan,Atkinson,State Senate District 22,R,Scatter ,10.0
+Sullivan,Atkinson,State Senate District 22,R,Scatter,10.0
 Sullivan,Pelham,State Senate District 22,R,Morse,673.0
-Sullivan,Pelham,State Senate District 22,R,Scatter ,3.0
+Sullivan,Pelham,State Senate District 22,R,Scatter,3.0
 Sullivan,Plaistow,State Senate District 22,R,Morse,503.0
-Sullivan,Plaistow,State Senate District 22,R,Scatter ,0.0
+Sullivan,Plaistow,State Senate District 22,R,Scatter,0.0
 Sullivan,Salem,State Senate District 22,R,Morse,2365.0
-Sullivan,Salem,State Senate District 22,R,Scatter ,9.0
+Sullivan,Salem,State Senate District 22,R,Scatter,9.0
 Sullivan,Brentwood,State Senate District 23,R,Prescott,394.0
 Sullivan,Brentwood,State Senate District 23,R,Schlachman,
 Sullivan,Brentwood,State Senate District 23,R,Scatter,3.0
@@ -7071,7 +7071,7 @@ Belknap,Gilmanton,U.S. Senate,D,Gerard Beloin,
 Belknap,Laconia Ward 1,U.S. Senate,D,Gerard Beloin,
 Belknap,Laconia Ward 2,U.S. Senate,D,Gerard Beloin,
 Belknap,Laconia Ward 3,U.S. Senate,D,Gerard Beloin,
-Belknap,Alton,U.S. Senate,D,Scott P. Brown, 
+Belknap,Alton,U.S. Senate,D,Scott P. Brown,
 Belknap,Barnstead,U.S. Senate,D,Scott P. Brown,1.0
 Belknap,Belmont,U.S. Senate,D,Scott P. Brown,
 Belknap,Center Harbor,U.S. Senate,D,Scott P. Brown,
@@ -8212,7 +8212,7 @@ Cheshire,Roxbury,U.S. Senate,D,Scatter,
 Cheshire,Stoddard,U.S. Senate,D,Scatter,
 Cheshire,Sullivan,U.S. Senate,D,Scatter,
 Cheshire,Surry,U.S. Senate,D,Scatter,
-Cheshire,Swanzey,U.S. Senate,D,Scatter, 
+Cheshire,Swanzey,U.S. Senate,D,Scatter,
 Cheshire,Troy,U.S. Senate,D,Scatter,
 Cheshire,Walpole,U.S. Senate,D,Scatter,
 Cheshire,Westmoreland,U.S. Senate,D,Scatter,
@@ -11991,7 +11991,7 @@ Merrimack,Hill,U.S. Senate,D,Robert D'Arcy,
 Merrimack,Hooksett,U.S. Senate,D,Robert D'Arcy,
 Merrimack,Concord Ward 7,U.S. Senate,D,Miro Dziedzic,
 Merrimack,Concord Ward 8,U.S. Senate,D,Miro Dziedzic,
-Merrimack,Concord Ward 9,U.S. Senate,D,Miro Dziedzic, 
+Merrimack,Concord Ward 9,U.S. Senate,D,Miro Dziedzic,
 Merrimack,Concord Ward 10,U.S. Senate,D,Miro Dziedzic,
 Merrimack,Danbury,U.S. Senate,D,Miro Dziedzic,
 Merrimack,Dunbarton,U.S. Senate,D,Miro Dziedzic,
@@ -12089,7 +12089,7 @@ Merrimack,Dunbarton,U.S. Senate,D,Scatter,1.0
 Merrimack,Epsom,U.S. Senate,D,Scatter,2.0
 Merrimack,Franklin Ward 1,U.S. Senate,D,Scatter,
 Merrimack,Franklin Ward 2,U.S. Senate,D,Scatter,2.0
-Merrimack,Franklin Ward 3,U.S. Senate,D,Scatter, 
+Merrimack,Franklin Ward 3,U.S. Senate,D,Scatter,
 Merrimack,Henniker,U.S. Senate,D,Scatter,1.0
 Merrimack,Hill,U.S. Senate,D,Scatter,1.0
 Merrimack,Hooksett,U.S. Senate,D,Scatter,1.0
@@ -12836,7 +12836,7 @@ Rockingham,Derry,U.S. Senate,D,Scatter,
 Rockingham,East Kingston,U.S. Senate,D,Scatter,
 Rockingham,Epping,U.S. Senate,D,Scatter,3.0
 Rockingham,Exeter,U.S. Senate,D,Scatter,
-Rockingham,Fremont,U.S. Senate,D,Scatter, 
+Rockingham,Fremont,U.S. Senate,D,Scatter,
 Rockingham,Greenland,U.S. Senate,D,Jeanne Shaheen,116.0
 Rockingham,Hampstead,U.S. Senate,D,Jeanne Shaheen,171.0
 Rockingham,Hampton,U.S. Senate,D,Jeanne Shaheen,497.0
@@ -13920,7 +13920,7 @@ Strafford,Rochester Ward 5,U.S. Senate,D,Bob Smith,2.0
 Strafford,Rochester Ward 6,U.S. Senate,D,Bob Smith,1.0
 Strafford,Rollinsford,U.S. Senate,D,Bob Smith,
 Strafford,Middleton,U.S. Senate,D,Scatter,2.0
-Strafford,Milton,U.S. Senate,D,Scatter, 
+Strafford,Milton,U.S. Senate,D,Scatter,
 Strafford,New Durham,U.S. Senate,D,Scatter,1.0
 Strafford,Rochester Ward 1,U.S. Senate,D,Scatter,
 Strafford,Rochester Ward 2,U.S. Senate,D,Scatter,
@@ -15306,7 +15306,7 @@ Cheshire,Chesterfield,Governor,D,Maggie Hassan,93.0
 Cheshire,Chesterfield,Governor,D,Clecia Terrio,2.0
 Cheshire,Chesterfield,Governor,D,Daniel J. Greene,
 Cheshire,Chesterfield,Governor,D,Walt Havenstein,
-Cheshire,Chesterfield,Governor,D,Andrew Hemingway, 
+Cheshire,Chesterfield,Governor,D,Andrew Hemingway,
 Cheshire,Chesterfield,Governor,D,Jonathan Smolin,
 Cheshire,Chesterfield,Governor,D,Scatter,
 Cheshire,Dublin,Governor,D,Ian Freeman,4.0
@@ -18588,7 +18588,7 @@ Rockingham,Fremont,Governor,D,Daniel J. Greene,
 Rockingham,Fremont,Governor,D,Walt Havenstein,
 Rockingham,Fremont,Governor,D,Andrew Hemingway,
 Rockingham,Fremont,Governor,D,Jonathan Smolin,
-Rockingham,Fremont,Governor,D,Scatter, 
+Rockingham,Fremont,Governor,D,Scatter,
 Rockingham,Greenland,Governor,D,Ian Freeman,5.0
 Rockingham,Greenland,Governor,D,Maggie Hassan,115.0
 Rockingham,Greenland,Governor,D,Clecia Terrio,3.0
@@ -18796,7 +18796,7 @@ Rockingham,Seabrook,Governor,D,Daniel J. Greene,
 Rockingham,Seabrook,Governor,D,Walt Havenstein,
 Rockingham,Seabrook,Governor,D,Andrew Hemingway,
 Rockingham,Seabrook,Governor,D,Jonathan Smolin,
-Rockingham,Seabrook,Governor,D,Scatter, 
+Rockingham,Seabrook,Governor,D,Scatter,
 Rockingham,South Hampton,Governor,D,Ian Freeman,
 Rockingham,South Hampton,Governor,D,Maggie Hassan,33.0
 Rockingham,South Hampton,Governor,D,Clecia Terrio,
@@ -19986,7 +19986,7 @@ Sullivan,Washington,Governor,R,Scatter,1.0
 ,Dover Ward 5,Congressional District 1,D,Brendan Kelly,
 ,Dover Ward 5,Congressional District 1,D,Scatter,
 ,Dover Ward 6,Congressional District 1,D,Carol Shea-Porter,141.0
-,Dover Ward 6,Congressional District 1,D,Frank C. Guinta, 
+,Dover Ward 6,Congressional District 1,D,Frank C. Guinta,
 ,Dover Ward 6,Congressional District 1,D,Dan Innis,
 ,Dover Ward 6,Congressional District 1,D,Everett Jabour,
 ,Dover Ward 6,Congressional District 1,D,Brendan Kelly,
@@ -20326,7 +20326,7 @@ Sullivan,Washington,Governor,R,Scatter,1.0
 ,Newton,Congressional District 1,D,Dan Innis,1.0
 ,Newton,Congressional District 1,D,Everett Jabour,
 ,Newton,Congressional District 1,D,Brendan Kelly,
-,Newton,Congressional District 1,D,Scatter, 
+,Newton,Congressional District 1,D,Scatter,
 ,North Hampton,Congressional District 1,D,Carol Shea-Porter,154.0
 ,North Hampton,Congressional District 1,D,Frank C. Guinta,1.0
 ,North Hampton,Congressional District 1,D,Dan Innis,1.0
@@ -20374,7 +20374,7 @@ Sullivan,Washington,Governor,R,Scatter,1.0
 ,Portsmouth Ward 4,Congressional District 1,D,Dan Innis,3.0
 ,Portsmouth Ward 4,Congressional District 1,D,Everett Jabour,
 ,Portsmouth Ward 4,Congressional District 1,D,Brendan Kelly,
-,Portsmouth Ward 4,Congressional District 1,D,Scatter, 
+,Portsmouth Ward 4,Congressional District 1,D,Scatter,
 ,Portsmouth Ward 5,Congressional District 1,D,Carol Shea-Porter,192.0
 ,Portsmouth Ward 5,Congressional District 1,D,Frank C. Guinta,1.0
 ,Portsmouth Ward 5,Congressional District 1,D,Dan Innis,1.0
@@ -20449,7 +20449,7 @@ Sullivan,Washington,Governor,R,Scatter,1.0
 ,Sandown,Congressional District 1,D,Scatter,1.0
 ,Sandwich,Congressional District 1,D,Carol Shea-Porter,127.0
 ,Sandwich,Congressional District 1,D,Frank C. Guinta,
-,Sandwich,Congressional District 1,D,Dan Innis, 
+,Sandwich,Congressional District 1,D,Dan Innis,
 ,Sandwich,Congressional District 1,D,Everett Jabour,
 ,Sandwich,Congressional District 1,D,Brendan Kelly,
 ,Sandwich,Congressional District 1,D,Scatter,0.0
@@ -21274,7 +21274,7 @@ Sullivan,Washington,Governor,R,Scatter,1.0
 ,Atkinson,Congressional District 2,D,Gary Lambert,3.0
 ,Atkinson,Congressional District 2,D,Jim Lawrence,
 ,Atkinson,Congressional District 2,D,Mike Little,
-,Atkinson,Congressional District 2,D,Scatter, 
+,Atkinson,Congressional District 2,D,Scatter,
 ,At. & Gil Ac. Gt,Congressional District 2,D,Ann McLane Kuster,
 ,At. & Gil Ac. Gt,Congressional District 2,D,Marilinda Garcia,
 ,At. & Gil Ac. Gt,Congressional District 2,D,Gary Lambert,
@@ -21777,7 +21777,7 @@ Sullivan,Washington,Governor,R,Scatter,1.0
 ,Hinsdale,Congressional District 2,D,Marilinda Garcia,1.0
 ,Hinsdale,Congressional District 2,D,Gary Lambert,
 ,Hinsdale,Congressional District 2,D,Jim Lawrence,
-,Hinsdale,Congressional District 2,D,Mike Little, 
+,Hinsdale,Congressional District 2,D,Mike Little,
 ,Hinsdale,Congressional District 2,D,Scatter,
 ,Holderness,Congressional District 2,D,Ann McLane Kuster,101.0
 ,Holderness,Congressional District 2,D,Marilinda Garcia,
@@ -24148,7 +24148,7 @@ Sullivan,Washington,Governor,R,Scatter,1.0
 ,Brookfield,Executive Council District 1,R,Scatter,1.0
 ,Cambridge,Executive Council District 1,R,Joseph D. Kenney,0.0
 ,Cambridge,Executive Council District 1,R,Michael J. Cryans,
-,Cambridge,Executive Council District 1,R,Scatter, 
+,Cambridge,Executive Council District 1,R,Scatter,
 ,Campton,Executive Council District 1,R,Joseph D. Kenney,225.0
 ,Campton,Executive Council District 1,R,Michael J. Cryans,1.0
 ,Campton,Executive Council District 1,R,Scatter,3.0

@@ -62,7 +62,7 @@ Rockingham,Exeter,U.S. House,1,DEM,Chris Pappas,5102
 Rockingham,Fremont,U.S. House,1,DEM,Chris Pappas,856
 Rockingham,Greenland,U.S. House,1,DEM,Chris Pappas,1324
 Rockingham,Hampstead,U.S. House,1,DEM,Chris Pappas,1734
-Rockingham,Hampton  ,U.S. House,1,DEM,Chris Pappas,4452
+Rockingham,Hampton,U.S. House,1,DEM,Chris Pappas,4452
 Rockingham,Hampton Falls,U.S. House,1,DEM,Chris Pappas,565
 Rockingham,Kensington,U.S. House,1,DEM,Chris Pappas,619
 Rockingham,Kingston,U.S. House,1,DEM,Chris Pappas,1258
@@ -112,7 +112,7 @@ Strafford,Somersworth Ward 2,U.S. House,1,DEM,Chris Pappas,463
 Strafford,Somersworth Ward 3,U.S. House,1,DEM,Chris Pappas,408
 Strafford,Somersworth Ward 4,U.S. House,1,DEM,Chris Pappas,500
 Strafford,Somersworth Ward 5,U.S. House,1,DEM,Chris Pappas,335
-Strafford,Strafford   ,U.S. House,1,DEM,Chris Pappas,1004
+Strafford,Strafford,U.S. House,1,DEM,Chris Pappas,1004
 Belknap,Center Harbor,U.S. House,2,DEM,Ann McLane Kuster,291
 Cheshire,Alstead,U.S. House,2,DEM,Ann McLane Kuster,530
 Cheshire,Chesterfield,U.S. House,2,DEM,Ann McLane Kuster,1113
@@ -204,7 +204,7 @@ Grafton,Sugar Hill,U.S. House,2,DEM,Ann McLane Kuster,243
 Grafton,Thornton,U.S. House,2,DEM,Ann McLane Kuster,681
 Grafton,Warren,U.S. House,2,DEM,Ann McLane Kuster,172
 Grafton,Waterville Valley,U.S. House,2,DEM,Ann McLane Kuster,148
-Grafton,Wentworth  ,U.S. House,2,DEM,Ann McLane Kuster,164
+Grafton,Wentworth,U.S. House,2,DEM,Ann McLane Kuster,164
 Grafton,Woodstock,U.S. House,2,DEM,Ann McLane Kuster,361
 Hillsborough,Amherst,U.S. House,2,DEM,Ann McLane Kuster,3484
 Hillsborough,Antrim,U.S. House,2,DEM,Ann McLane Kuster,631
@@ -215,7 +215,7 @@ Hillsborough,Francestown,U.S. House,2,DEM,Ann McLane Kuster,466
 Hillsborough,Greenfield,U.S. House,2,DEM,Ann McLane Kuster,413
 Hillsborough,Greenville,U.S. House,2,DEM,Ann McLane Kuster,328
 Hillsborough,Hancock,U.S. House,2,DEM,Ann McLane Kuster,695
-Hillsborough,Hillsborough  ,U.S. House,2,DEM,Ann McLane Kuster,1072
+Hillsborough,Hillsborough,U.S. House,2,DEM,Ann McLane Kuster,1072
 Hillsborough,Hollis,U.S. House,2,DEM,Ann McLane Kuster,2300
 Hillsborough,Hudson,U.S. House,2,DEM,Ann McLane Kuster,4216
 Hillsborough,Litchfield,U.S. House,2,DEM,Ann McLane Kuster,1620
@@ -223,7 +223,7 @@ Hillsborough,Lyndeborough,U.S. House,2,DEM,Ann McLane Kuster,424
 Hillsborough,Mason,U.S. House,2,DEM,Ann McLane Kuster,303
 Hillsborough,Milford,U.S. House,2,DEM,Ann McLane Kuster,3425
 Hillsborough,Mont Vernon,U.S. House,2,DEM,Ann McLane Kuster,729
-Hillsborough,Nashua Ward 1 ,U.S. House,2,DEM,Ann McLane Kuster,2476
+Hillsborough,Nashua Ward 1,U.S. House,2,DEM,Ann McLane Kuster,2476
 Hillsborough,Nashua Ward 2,U.S. House,2,DEM,Ann McLane Kuster,2089
 Hillsborough,Nashua Ward 3,U.S. House,2,DEM,Ann McLane Kuster,2091
 Hillsborough,Nashua Ward 4,U.S. House,2,DEM,Ann McLane Kuster,1386
@@ -248,7 +248,7 @@ Merrimack,Bow,U.S. House,2,DEM,Ann McLane Kuster,2450
 Merrimack,Bradford,U.S. House,2,DEM,Ann McLane Kuster,431
 Merrimack,Canterbury,U.S. House,2,DEM,Ann McLane Kuster,808
 Merrimack,Chichester,U.S. House,2,DEM,Ann McLane Kuster,563
-Merrimack,Concord Ward 1 ,U.S. House,2,DEM,Ann McLane Kuster,1165
+Merrimack,Concord Ward 1,U.S. House,2,DEM,Ann McLane Kuster,1165
 Merrimack,Concord Ward 10,U.S. House,2,DEM,Ann McLane Kuster,1491
 Merrimack,Concord Ward 2,U.S. House,2,DEM,Ann McLane Kuster,940
 Merrimack,Concord Ward 3,U.S. House,2,DEM,Ann McLane Kuster,854
@@ -294,7 +294,7 @@ Sullivan,Goshen,U.S. House,2,DEM,Ann McLane Kuster,147
 Sullivan,Grantham,U.S. House,2,DEM,Ann McLane Kuster,1234
 Sullivan,Langdon,U.S. House,2,DEM,Ann McLane Kuster,171
 Sullivan,Lempster,U.S. House,2,DEM,Ann McLane Kuster,218
-Sullivan,Newport ,U.S. House,2,DEM,Ann McLane Kuster,947
+Sullivan,Newport,U.S. House,2,DEM,Ann McLane Kuster,947
 Sullivan,Plainfield,U.S. House,2,DEM,Ann McLane Kuster,826
 Sullivan,Springfield,U.S. House,2,DEM,Ann McLane Kuster,325
 Sullivan,Sunapee,U.S. House,2,DEM,Ann McLane Kuster,901
@@ -363,7 +363,7 @@ Rockingham,Exeter,U.S. House,1,REP,Eddie Edwards,2604
 Rockingham,Fremont,U.S. House,1,REP,Eddie Edwards,1153
 Rockingham,Greenland,U.S. House,1,REP,Eddie Edwards,979
 Rockingham,Hampstead,U.S. House,1,REP,Eddie Edwards,2338
-Rockingham,Hampton  ,U.S. House,1,REP,Eddie Edwards,3769
+Rockingham,Hampton,U.S. House,1,REP,Eddie Edwards,3769
 Rockingham,Hampton Falls,U.S. House,1,REP,Eddie Edwards,704
 Rockingham,Kensington,U.S. House,1,REP,Eddie Edwards,542
 Rockingham,Kingston,U.S. House,1,REP,Eddie Edwards,1519
@@ -413,7 +413,7 @@ Strafford,Somersworth Ward 2,U.S. House,1,REP,Eddie Edwards,372
 Strafford,Somersworth Ward 3,U.S. House,1,REP,Eddie Edwards,350
 Strafford,Somersworth Ward 4,U.S. House,1,REP,Eddie Edwards,320
 Strafford,Somersworth Ward 5,U.S. House,1,REP,Eddie Edwards,218
-Strafford,Strafford   ,U.S. House,1,REP,Eddie Edwards,1022
+Strafford,Strafford,U.S. House,1,REP,Eddie Edwards,1022
 Belknap,Center Harbor,U.S. House,2,REP,Steven Negron,304
 Cheshire,Alstead,U.S. House,2,REP,Steven Negron,322
 Cheshire,Chesterfield,U.S. House,2,REP,Steven Negron,698
@@ -505,7 +505,7 @@ Grafton,Sugar Hill,U.S. House,2,REP,Steven Negron,128
 Grafton,Thornton,U.S. House,2,REP,Steven Negron,426
 Grafton,Warren,U.S. House,2,REP,Steven Negron,152
 Grafton,Waterville Valley,U.S. House,2,REP,Steven Negron,78
-Grafton,Wentworth  ,U.S. House,2,REP,Steven Negron,242
+Grafton,Wentworth,U.S. House,2,REP,Steven Negron,242
 Grafton,Woodstock,U.S. House,2,REP,Steven Negron,252
 Hillsborough,Amherst,U.S. House,2,REP,Steven Negron,2683
 Hillsborough,Antrim,U.S. House,2,REP,Steven Negron,522
@@ -516,7 +516,7 @@ Hillsborough,Francestown,U.S. House,2,REP,Steven Negron,411
 Hillsborough,Greenfield,U.S. House,2,REP,Steven Negron,304
 Hillsborough,Greenville,U.S. House,2,REP,Steven Negron,322
 Hillsborough,Hancock,U.S. House,2,REP,Steven Negron,378
-Hillsborough,Hillsborough  ,U.S. House,2,REP,Steven Negron,1143
+Hillsborough,Hillsborough,U.S. House,2,REP,Steven Negron,1143
 Hillsborough,Hollis,U.S. House,2,REP,Steven Negron,1893
 Hillsborough,Hudson,U.S. House,2,REP,Steven Negron,4870
 Hillsborough,Litchfield,U.S. House,2,REP,Steven Negron,1915
@@ -524,7 +524,7 @@ Hillsborough,Lyndeborough,U.S. House,2,REP,Steven Negron,362
 Hillsborough,Mason,U.S. House,2,REP,Steven Negron,372
 Hillsborough,Milford,U.S. House,2,REP,Steven Negron,2763
 Hillsborough,Mont Vernon,U.S. House,2,REP,Steven Negron,566
-Hillsborough,Nashua Ward 1 ,U.S. House,2,REP,Steven Negron,1910
+Hillsborough,Nashua Ward 1,U.S. House,2,REP,Steven Negron,1910
 Hillsborough,Nashua Ward 2,U.S. House,2,REP,Steven Negron,1391
 Hillsborough,Nashua Ward 3,U.S. House,2,REP,Steven Negron,1256
 Hillsborough,Nashua Ward 4,U.S. House,2,REP,Steven Negron,655
@@ -549,7 +549,7 @@ Merrimack,Bow,U.S. House,2,REP,Steven Negron,1729
 Merrimack,Bradford,U.S. House,2,REP,Steven Negron,336
 Merrimack,Canterbury,U.S. House,2,REP,Steven Negron,537
 Merrimack,Chichester,U.S. House,2,REP,Steven Negron,630
-Merrimack,Concord Ward 1 ,U.S. House,2,REP,Steven Negron,585
+Merrimack,Concord Ward 1,U.S. House,2,REP,Steven Negron,585
 Merrimack,Concord Ward 10,U.S. House,2,REP,Steven Negron,934
 Merrimack,Concord Ward 2,U.S. House,2,REP,Steven Negron,540
 Merrimack,Concord Ward 3,U.S. House,2,REP,Steven Negron,411
@@ -595,7 +595,7 @@ Sullivan,Goshen,U.S. House,2,REP,Steven Negron,173
 Sullivan,Grantham,U.S. House,2,REP,Steven Negron,584
 Sullivan,Langdon,U.S. House,2,REP,Steven Negron,131
 Sullivan,Lempster,U.S. House,2,REP,Steven Negron,279
-Sullivan,Newport ,U.S. House,2,REP,Steven Negron,1051
+Sullivan,Newport,U.S. House,2,REP,Steven Negron,1051
 Sullivan,Plainfield,U.S. House,2,REP,Steven Negron,384
 Sullivan,Springfield,U.S. House,2,REP,Steven Negron,334
 Sullivan,Sunapee,U.S. House,2,REP,Steven Negron,878
@@ -664,7 +664,7 @@ Rockingham,Exeter,U.S. House,1,LBT,Dan Belforti,82
 Rockingham,Fremont,U.S. House,1,LBT,Dan Belforti,41
 Rockingham,Greenland,U.S. House,1,LBT,Dan Belforti,38
 Rockingham,Hampstead,U.S. House,1,LBT,Dan Belforti,61
-Rockingham,Hampton  ,U.S. House,1,LBT,Dan Belforti,104
+Rockingham,Hampton,U.S. House,1,LBT,Dan Belforti,104
 Rockingham,Hampton Falls,U.S. House,1,LBT,Dan Belforti,19
 Rockingham,Kensington,U.S. House,1,LBT,Dan Belforti,18
 Rockingham,Kingston,U.S. House,1,LBT,Dan Belforti,39
@@ -714,7 +714,7 @@ Strafford,Somersworth Ward 2,U.S. House,1,LBT,Dan Belforti,13
 Strafford,Somersworth Ward 3,U.S. House,1,LBT,Dan Belforti,7
 Strafford,Somersworth Ward 4,U.S. House,1,LBT,Dan Belforti,7
 Strafford,Somersworth Ward 5,U.S. House,1,LBT,Dan Belforti,14
-Strafford,Strafford   ,U.S. House,1,LBT,Dan Belforti,0
+Strafford,Strafford,U.S. House,1,LBT,Dan Belforti,0
 Belknap,Center Harbor,U.S. House,2,LBT,Justin O'Donnell,13
 Cheshire,Alstead,U.S. House,2,LBT,Justin O'Donnell,23
 Cheshire,Chesterfield,U.S. House,2,LBT,Justin O'Donnell,30
@@ -806,7 +806,7 @@ Grafton,Sugar Hill,U.S. House,2,LBT,Justin O'Donnell,5
 Grafton,Thornton,U.S. House,2,LBT,Justin O'Donnell,26
 Grafton,Warren,U.S. House,2,LBT,Justin O'Donnell,18
 Grafton,Waterville Valley,U.S. House,2,LBT,Justin O'Donnell,3
-Grafton,Wentworth  ,U.S. House,2,LBT,Justin O'Donnell,12
+Grafton,Wentworth,U.S. House,2,LBT,Justin O'Donnell,12
 Grafton,Woodstock,U.S. House,2,LBT,Justin O'Donnell,16
 Hillsborough,Amherst,U.S. House,2,LBT,Justin O'Donnell,126
 Hillsborough,Antrim,U.S. House,2,LBT,Justin O'Donnell,34
@@ -817,7 +817,7 @@ Hillsborough,Francestown,U.S. House,2,LBT,Justin O'Donnell,25
 Hillsborough,Greenfield,U.S. House,2,LBT,Justin O'Donnell,19
 Hillsborough,Greenville,U.S. House,2,LBT,Justin O'Donnell,19
 Hillsborough,Hancock,U.S. House,2,LBT,Justin O'Donnell,15
-Hillsborough,Hillsborough  ,U.S. House,2,LBT,Justin O'Donnell,64
+Hillsborough,Hillsborough,U.S. House,2,LBT,Justin O'Donnell,64
 Hillsborough,Hollis,U.S. House,2,LBT,Justin O'Donnell,85
 Hillsborough,Hudson,U.S. House,2,LBT,Justin O'Donnell,214
 Hillsborough,Litchfield,U.S. House,2,LBT,Justin O'Donnell,85
@@ -825,7 +825,7 @@ Hillsborough,Lyndeborough,U.S. House,2,LBT,Justin O'Donnell,33
 Hillsborough,Mason,U.S. House,2,LBT,Justin O'Donnell,19
 Hillsborough,Milford,U.S. House,2,LBT,Justin O'Donnell,184
 Hillsborough,Mont Vernon,U.S. House,2,LBT,Justin O'Donnell,21
-Hillsborough,Nashua Ward 1 ,U.S. House,2,LBT,Justin O'Donnell,74
+Hillsborough,Nashua Ward 1,U.S. House,2,LBT,Justin O'Donnell,74
 Hillsborough,Nashua Ward 2,U.S. House,2,LBT,Justin O'Donnell,78
 Hillsborough,Nashua Ward 3,U.S. House,2,LBT,Justin O'Donnell,62
 Hillsborough,Nashua Ward 4,U.S. House,2,LBT,Justin O'Donnell,56
@@ -850,7 +850,7 @@ Merrimack,Bow,U.S. House,2,LBT,Justin O'Donnell,64
 Merrimack,Bradford,U.S. House,2,LBT,Justin O'Donnell,14
 Merrimack,Canterbury,U.S. House,2,LBT,Justin O'Donnell,26
 Merrimack,Chichester,U.S. House,2,LBT,Justin O'Donnell,35
-Merrimack,Concord Ward 1 ,U.S. House,2,LBT,Justin O'Donnell,59
+Merrimack,Concord Ward 1,U.S. House,2,LBT,Justin O'Donnell,59
 Merrimack,Concord Ward 10,U.S. House,2,LBT,Justin O'Donnell,32
 Merrimack,Concord Ward 2,U.S. House,2,LBT,Justin O'Donnell,51
 Merrimack,Concord Ward 3,U.S. House,2,LBT,Justin O'Donnell,20
@@ -896,7 +896,7 @@ Sullivan,Goshen,U.S. House,2,LBT,Justin O'Donnell,4
 Sullivan,Grantham,U.S. House,2,LBT,Justin O'Donnell,30
 Sullivan,Langdon,U.S. House,2,LBT,Justin O'Donnell,9
 Sullivan,Lempster,U.S. House,2,LBT,Justin O'Donnell,12
-Sullivan,Newport ,U.S. House,2,LBT,Justin O'Donnell,65
+Sullivan,Newport,U.S. House,2,LBT,Justin O'Donnell,65
 Sullivan,Plainfield,U.S. House,2,LBT,Justin O'Donnell,19
 Sullivan,Springfield,U.S. House,2,LBT,Justin O'Donnell,11
 Sullivan,Sunapee,U.S. House,2,LBT,Justin O'Donnell,37
@@ -1028,7 +1028,7 @@ Grafton,Sugar Hill,,2,,Scattering,0
 Grafton,Thornton,,2,,Scattering,0
 Grafton,Warren,,2,,Scattering,0
 Grafton,Waterville Valley,,2,,Scattering,0
-Grafton,Wentworth  ,,2,,Scattering,0
+Grafton,Wentworth,,2,,Scattering,0
 Grafton,Woodstock,,2,,Scattering,0
 Hillsborough,Amherst,,2,,Scattering,1
 Hillsborough,Antrim,,2,,Scattering,0
@@ -1041,7 +1041,7 @@ Hillsborough,Goffstown,,1,,Scattering,1
 Hillsborough,Greenfield,,2,,Scattering,0
 Hillsborough,Greenville,,2,,Scattering,0
 Hillsborough,Hancock,,2,,Scattering,0
-Hillsborough,Hillsborough  ,,2,,Scattering,2
+Hillsborough,Hillsborough,,2,,Scattering,2
 Hillsborough,Hollis,,2,,Scattering,1
 Hillsborough,Hudson,,2,,Scattering,7
 Hillsborough,Litchfield,,2,,Scattering,0
@@ -1062,7 +1062,7 @@ Hillsborough,Mason,,2,,Scattering,0
 Hillsborough,Merrimack,,1,,Scattering,0
 Hillsborough,Milford,,2,,Scattering,2
 Hillsborough,Mont Vernon,,2,,Scattering,0
-Hillsborough,Nashua Ward 1 ,,2,,Scattering,1
+Hillsborough,Nashua Ward 1,,2,,Scattering,1
 Hillsborough,Nashua Ward 2,,2,,Scattering,2
 Hillsborough,Nashua Ward 3,,2,,Scattering,2
 Hillsborough,Nashua Ward 4,,2,,Scattering,0
@@ -1087,7 +1087,7 @@ Merrimack,Bow,,2,,Scattering,1
 Merrimack,Bradford,,2,,Scattering,1
 Merrimack,Canterbury,,2,,Scattering,0
 Merrimack,Chichester,,2,,Scattering,0
-Merrimack,Concord Ward 1 ,,2,,Scattering,3
+Merrimack,Concord Ward 1,,2,,Scattering,3
 Merrimack,Concord Ward 10,,2,,Scattering,1
 Merrimack,Concord Ward 2,,2,,Scattering,3
 Merrimack,Concord Ward 3,,2,,Scattering,2
@@ -1132,7 +1132,7 @@ Rockingham,Exeter,,1,,Scattering,3
 Rockingham,Fremont,,1,,Scattering,16
 Rockingham,Greenland,,1,,Scattering,0
 Rockingham,Hampstead,,1,,Scattering,0
-Rockingham,Hampton  ,,1,,Scattering,1
+Rockingham,Hampton,,1,,Scattering,1
 Rockingham,Hampton Falls,,1,,Scattering,0
 Rockingham,Kensington,,1,,Scattering,0
 Rockingham,Kingston,,1,,Scattering,1
@@ -1185,7 +1185,7 @@ Strafford,Somersworth Ward 2,,1,,Scattering,2
 Strafford,Somersworth Ward 3,,1,,Scattering,0
 Strafford,Somersworth Ward 4,,1,,Scattering,2
 Strafford,Somersworth Ward 5,,1,,Scattering,0
-Strafford,Strafford   ,,1,,Scattering,0
+Strafford,Strafford,,1,,Scattering,0
 Sullivan,Acworth,,2,,Scattering,0
 Sullivan,Charlestown,,2,,Scattering,0
 Sullivan,Claremont Ward 1,,2,,Scattering,1
@@ -1197,7 +1197,7 @@ Sullivan,Goshen,,2,,Scattering,0
 Sullivan,Grantham,,2,,Scattering,0
 Sullivan,Langdon,,2,,Scattering,0
 Sullivan,Lempster,,2,,Scattering,0
-Sullivan,Newport ,,2,,Scattering,1
+Sullivan,Newport,,2,,Scattering,1
 Sullivan,Plainfield,,2,,Scattering,0
 Sullivan,Springfield,,2,,Scattering,0
 Sullivan,Sunapee,,2,,Scattering,0
@@ -1310,7 +1310,7 @@ Grafton,Piermont,State Senate,2,DEM,Bill Bolton,165
 Grafton,Plymouth,State Senate,2,DEM,Bill Bolton,1752
 Grafton,Rumney,State Senate,2,DEM,Bill Bolton,303
 Grafton,Warren,State Senate,2,DEM,Bill Bolton,136
-Grafton,Wentworth  ,State Senate,2,DEM,Bill Bolton,143
+Grafton,Wentworth,State Senate,2,DEM,Bill Bolton,143
 Merrimack,Danbury,State Senate,2,DEM,Bill Bolton,204
 Merrimack,Hill,State Senate,2,DEM,Bill Bolton,156
 Merrimack,Wilmot,State Senate,2,DEM,Bill Bolton,415
@@ -1396,7 +1396,7 @@ Hillsborough,Antrim,State Senate,8,DEM,Jenn Alford-Teaster,593
 Hillsborough,Bennington,State Senate,8,DEM,Jenn Alford-Teaster,281
 Hillsborough,Deering,State Senate,8,DEM,Jenn Alford-Teaster,346
 Hillsborough,Francestown,State Senate,8,DEM,Jenn Alford-Teaster,440
-Hillsborough,Hillsborough  ,State Senate,8,DEM,Jenn Alford-Teaster,1037
+Hillsborough,Hillsborough,State Senate,8,DEM,Jenn Alford-Teaster,1037
 Hillsborough,Weare,State Senate,8,DEM,Jenn Alford-Teaster,1457
 Hillsborough,Windsor,State Senate,8,DEM,Jenn Alford-Teaster,18
 Merrimack,Bradford,State Senate,8,DEM,Jenn Alford-Teaster,401
@@ -1409,7 +1409,7 @@ Sullivan,Goshen,State Senate,8,DEM,Jenn Alford-Teaster,140
 Sullivan,Grantham,State Senate,8,DEM,Jenn Alford-Teaster,1181
 Sullivan,Langdon,State Senate,8,DEM,Jenn Alford-Teaster,148
 Sullivan,Lempster,State Senate,8,DEM,Jenn Alford-Teaster,202
-Sullivan,Newport ,State Senate,8,DEM,Jenn Alford-Teaster,864
+Sullivan,Newport,State Senate,8,DEM,Jenn Alford-Teaster,864
 Sullivan,Springfield,State Senate,8,DEM,Jenn Alford-Teaster,296
 Sullivan,Sunapee,State Senate,8,DEM,Jenn Alford-Teaster,808
 Sullivan,Unity,State Senate,8,DEM,Jenn Alford-Teaster,226
@@ -1477,7 +1477,7 @@ Grafton,Piermont,State Senate,2,REP,Bob Giuda,166
 Grafton,Plymouth,State Senate,2,REP,Bob Giuda,761
 Grafton,Rumney,State Senate,2,REP,Bob Giuda,416
 Grafton,Warren,State Senate,2,REP,Bob Giuda,205
-Grafton,Wentworth  ,State Senate,2,REP,Bob Giuda,273
+Grafton,Wentworth,State Senate,2,REP,Bob Giuda,273
 Merrimack,Danbury,State Senate,2,REP,Bob Giuda,295
 Merrimack,Hill,State Senate,2,REP,Bob Giuda,241
 Merrimack,Wilmot,State Senate,2,REP,Bob Giuda,330
@@ -1550,7 +1550,7 @@ Hillsborough,Antrim,State Senate,8,REP,Ruth Ward,566
 Hillsborough,Bennington,State Senate,8,REP,Ruth Ward,305
 Hillsborough,Deering,State Senate,8,REP,Ruth Ward,441
 Hillsborough,Francestown,State Senate,8,REP,Ruth Ward,450
-Hillsborough,Hillsborough  ,State Senate,8,REP,Ruth Ward,1197
+Hillsborough,Hillsborough,State Senate,8,REP,Ruth Ward,1197
 Hillsborough,Weare,State Senate,8,REP,Ruth Ward,2122
 Hillsborough,Windsor,State Senate,8,REP,Ruth Ward,76
 Merrimack,Bradford,State Senate,8,REP,Ruth Ward,368
@@ -1563,7 +1563,7 @@ Sullivan,Goshen,State Senate,8,REP,Ruth Ward,176
 Sullivan,Grantham,State Senate,8,REP,Ruth Ward,639
 Sullivan,Langdon,State Senate,8,REP,Ruth Ward,154
 Sullivan,Lempster,State Senate,8,REP,Ruth Ward,291
-Sullivan,Newport ,State Senate,8,REP,Ruth Ward,1161
+Sullivan,Newport,State Senate,8,REP,Ruth Ward,1161
 Sullivan,Springfield,State Senate,8,REP,Ruth Ward,364
 Sullivan,Sunapee,State Senate,8,REP,Ruth Ward,972
 Sullivan,Unity,State Senate,8,REP,Ruth Ward,351
@@ -1653,7 +1653,7 @@ Grafton,Piermont,State Senate,2,,Scattering,1
 Grafton,Plymouth,State Senate,2,,Scattering,2
 Grafton,Rumney,State Senate,2,,Scattering,0
 Grafton,Warren,State Senate,2,,Scattering,1
-Grafton,Wentworth  ,State Senate,2,,Scattering,2
+Grafton,Wentworth,State Senate,2,,Scattering,2
 Merrimack,Danbury,State Senate,2,,Scattering,0
 Merrimack,Hill,State Senate,2,,Scattering,0
 Merrimack,Wilmot,State Senate,2,,Scattering,0
@@ -1739,7 +1739,7 @@ Hillsborough,Antrim,State Senate,8,,Scattering,2
 Hillsborough,Bennington,State Senate,8,,Scattering,1
 Hillsborough,Deering,State Senate,8,,Scattering,2
 Hillsborough,Francestown,State Senate,8,,Scattering,0
-Hillsborough,Hillsborough  ,State Senate,8,,Scattering,6
+Hillsborough,Hillsborough,State Senate,8,,Scattering,6
 Hillsborough,Weare,State Senate,8,,Scattering,2
 Hillsborough,Windsor,State Senate,8,,Scattering,0
 Merrimack,Bradford,State Senate,8,,Scattering,0
@@ -1752,7 +1752,7 @@ Sullivan,Goshen,State Senate,8,,Scattering,0
 Sullivan,Grantham,State Senate,8,,Scattering,0
 Sullivan,Langdon,State Senate,8,,Scattering,0
 Sullivan,Lempster,State Senate,8,,Scattering,0
-Sullivan,Newport ,State Senate,8,,Scattering,3
+Sullivan,Newport,State Senate,8,,Scattering,3
 Sullivan,Springfield,State Senate,8,,Scattering,0
 Sullivan,Sunapee,State Senate,8,,Scattering,0
 Sullivan,Unity,State Senate,8,,Scattering,0
@@ -1799,7 +1799,7 @@ Hillsborough,Brookline,State Senate,12,DEM,Melanie Levesque,1336
 Hillsborough,Greenville,State Senate,12,DEM,Melanie Levesque,333
 Hillsborough,Hollis,State Senate,12,DEM,Melanie Levesque,2229
 Hillsborough,Mason,State Senate,12,DEM,Melanie Levesque,301
-Hillsborough,Nashua Ward 1 ,State Senate,12,DEM,Melanie Levesque,2400
+Hillsborough,Nashua Ward 1,State Senate,12,DEM,Melanie Levesque,2400
 Hillsborough,Nashua Ward 2,State Senate,12,DEM,Melanie Levesque,2014
 Hillsborough,Nashua Ward 5,State Senate,12,DEM,Melanie Levesque,2286
 Hillsborough,New Ipswich,State Senate,12,DEM,Melanie Levesque,652
@@ -1812,7 +1812,7 @@ Hillsborough,Nashua Ward 9,State Senate,13,DEM,Cindy Rosenwald,2253
 Hillsborough,Hudson,State Senate,14,DEM,Tammy M. Siekmann,3756
 Rockingham,Auburn,State Senate,14,DEM,Tammy M. Siekmann,989
 Rockingham,Londonderry,State Senate,14,DEM,Tammy M. Siekmann,4679
-Merrimack,Concord Ward 1 ,State Senate,15,DEM,Dan Feltes,1128
+Merrimack,Concord Ward 1,State Senate,15,DEM,Dan Feltes,1128
 Merrimack,Concord Ward 10,State Senate,15,DEM,Dan Feltes,1471
 Merrimack,Concord Ward 2,State Senate,15,DEM,Dan Feltes,929
 Merrimack,Concord Ward 3,State Senate,15,DEM,Dan Feltes,869
@@ -1874,7 +1874,7 @@ Hillsborough,Brookline,State Senate,12,REP,Kevin Avard,1248
 Hillsborough,Greenville,State Senate,12,REP,Kevin Avard,333
 Hillsborough,Hollis,State Senate,12,REP,Kevin Avard,2009
 Hillsborough,Mason,State Senate,12,REP,Kevin Avard,382
-Hillsborough,Nashua Ward 1 ,State Senate,12,REP,Kevin Avard,2003
+Hillsborough,Nashua Ward 1,State Senate,12,REP,Kevin Avard,2003
 Hillsborough,Nashua Ward 2,State Senate,12,REP,Kevin Avard,1476
 Hillsborough,Nashua Ward 5,State Senate,12,REP,Kevin Avard,1923
 Hillsborough,New Ipswich,State Senate,12,REP,Kevin Avard,1496
@@ -1887,7 +1887,7 @@ Hillsborough,Nashua Ward 9,State Senate,13,REP,David Schoneman,1583
 Hillsborough,Hudson,State Senate,14,REP,Sharon M. Carson,5295
 Rockingham,Auburn,State Senate,14,REP,Sharon M. Carson,1753
 Rockingham,Londonderry,State Senate,14,REP,Sharon M. Carson,5775
-Merrimack,Concord Ward 1 ,State Senate,15,REP,Pamela Ean,647
+Merrimack,Concord Ward 1,State Senate,15,REP,Pamela Ean,647
 Merrimack,Concord Ward 10,State Senate,15,REP,Pamela Ean,940
 Merrimack,Concord Ward 2,State Senate,15,REP,Pamela Ean,570
 Merrimack,Concord Ward 3,State Senate,15,REP,Pamela Ean,397
@@ -1968,7 +1968,7 @@ Hillsborough,Brookline,State Senate,12,,Scattering,0
 Hillsborough,Greenville,State Senate,12,,Scattering,1
 Hillsborough,Hollis,State Senate,12,,Scattering,0
 Hillsborough,Mason,State Senate,12,,Scattering,1
-Hillsborough,Nashua Ward 1 ,State Senate,12,,Scattering,1
+Hillsborough,Nashua Ward 1,State Senate,12,,Scattering,1
 Hillsborough,Nashua Ward 2,State Senate,12,,Scattering,4
 Hillsborough,Nashua Ward 5,State Senate,12,,Scattering,6
 Hillsborough,New Ipswich,State Senate,12,,Scattering,0
@@ -1981,7 +1981,7 @@ Hillsborough,Nashua Ward 9,State Senate,13,,Scattering,3
 Hillsborough,Hudson,State Senate,14,,Scattering,5
 Rockingham,Auburn,State Senate,14,,Scattering,1
 Rockingham,Londonderry,State Senate,14,,Scattering,5
-Merrimack,Concord Ward 1 ,State Senate,15,,Scattering,2
+Merrimack,Concord Ward 1,State Senate,15,,Scattering,2
 Merrimack,Concord Ward 10,State Senate,15,,Scattering,1
 Merrimack,Concord Ward 2,State Senate,15,,Scattering,2
 Merrimack,Concord Ward 3,State Senate,15,,Scattering,0
@@ -2011,7 +2011,7 @@ Rockingham,Deerfield,State Senate,17,DEM,Christopher Roundy,974
 Rockingham,Northwood,State Senate,17,DEM,Christopher Roundy,923
 Rockingham,Nottingham,State Senate,17,DEM,Christopher Roundy,1185
 Rockingham,Raymond,State Senate,17,DEM,Christopher Roundy,1559
-Strafford,Strafford   ,State Senate,17,DEM,Christopher Roundy,941
+Strafford,Strafford,State Senate,17,DEM,Christopher Roundy,941
 Hillsborough,Litchfield,State Senate,18,DEM,Donna M. Soucy,1686
 Hillsborough,Manchester Ward 5,State Senate,18,DEM,Donna M. Soucy,1147
 Hillsborough,Manchester Ward 6,State Senate,18,DEM,Donna M. Soucy,2122
@@ -2051,7 +2051,7 @@ Rockingham,Fremont,State Senate,23,DEM,Jon Morgan,829
 Rockingham,Kingston,State Senate,23,DEM,Jon Morgan,1221
 Rockingham,Sandown,State Senate,23,DEM,Jon Morgan,1069
 Rockingham,Greenland,State Senate,24,DEM,Tom Sherman,1288
-Rockingham,Hampton  ,State Senate,24,DEM,Tom Sherman,4476
+Rockingham,Hampton,State Senate,24,DEM,Tom Sherman,4476
 Rockingham,Hampton Falls,State Senate,24,DEM,Tom Sherman,573
 Rockingham,Kensington,State Senate,24,DEM,Tom Sherman,609
 Rockingham,New Castle,State Senate,24,DEM,Tom Sherman,431
@@ -2071,7 +2071,7 @@ Rockingham,Deerfield,State Senate,17,REP,John Reagan,1245
 Rockingham,Northwood,State Senate,17,REP,John Reagan,1058
 Rockingham,Nottingham,State Senate,17,REP,John Reagan,1227
 Rockingham,Raymond,State Senate,17,REP,John Reagan,2220
-Strafford,Strafford   ,State Senate,17,REP,John Reagan,1069
+Strafford,Strafford,State Senate,17,REP,John Reagan,1069
 Hillsborough,Litchfield,State Senate,18,REP,George Lambert,1846
 Hillsborough,Manchester Ward 5,State Senate,18,REP,George Lambert,625
 Hillsborough,Manchester Ward 6,State Senate,18,REP,George Lambert,1626
@@ -2081,11 +2081,11 @@ Hillsborough,Manchester Ward 9,State Senate,18,REP,George Lambert,1235
 Rockingham,Derry,State Senate,19,REP,Regina Birdsell,5907
 Rockingham,Hampstead,State Senate,19,REP,Regina Birdsell,2480
 Rockingham,Windham,State Senate,19,REP,Regina Birdsell,3805
-Hillsborough,Goffstown,State Senate,20, r&l,Carla Gericke,3265
-Hillsborough,Manchester Ward 10,State Senate,20, r&l,Carla Gericke,1211
-Hillsborough,Manchester Ward 11*,State Senate,20, r&l,Carla Gericke,963
-Hillsborough,Manchester Ward 3,State Senate,20, r&l,Carla Gericke,730
-Hillsborough,Manchester Ward 4,State Senate,20, r&l,Carla Gericke,878
+Hillsborough,Goffstown,State Senate,20,r&l,Carla Gericke,3265
+Hillsborough,Manchester Ward 10,State Senate,20,r&l,Carla Gericke,1211
+Hillsborough,Manchester Ward 11*,State Senate,20,r&l,Carla Gericke,963
+Hillsborough,Manchester Ward 3,State Senate,20,r&l,Carla Gericke,730
+Hillsborough,Manchester Ward 4,State Senate,20,r&l,Carla Gericke,878
 Rockingham,Newfields,State Senate,21,REP,Peter Macdonald,430
 Rockingham,Newington,State Senate,21,REP,Peter Macdonald,271
 Rockingham,Newmarket,State Senate,21,REP,Peter Macdonald,1426
@@ -2111,7 +2111,7 @@ Rockingham,Fremont,State Senate,23,REP,Bill Gannon,1187
 Rockingham,Kingston,State Senate,23,REP,Bill Gannon,1550
 Rockingham,Sandown,State Senate,23,REP,Bill Gannon,1589
 Rockingham,Greenland,State Senate,24,REP,Dan Innis,1016
-Rockingham,Hampton  ,State Senate,24,REP,Dan Innis,3762
+Rockingham,Hampton,State Senate,24,REP,Dan Innis,3762
 Rockingham,Hampton Falls,State Senate,24,REP,Dan Innis,691
 Rockingham,Kensington,State Senate,24,REP,Dan Innis,554
 Rockingham,New Castle,State Senate,24,REP,Dan Innis,311
@@ -2135,7 +2135,7 @@ Rockingham,Deerfield,State Senate,17,,Scattering,0
 Rockingham,Northwood,State Senate,17,,Scattering,1
 Rockingham,Nottingham,State Senate,17,,Scattering,0
 Rockingham,Raymond,State Senate,17,,Scattering,3
-Strafford,Strafford   ,State Senate,17,,Scattering,0
+Strafford,Strafford,State Senate,17,,Scattering,0
 Hillsborough,Litchfield,State Senate,18,,Scattering,0
 Hillsborough,Manchester Ward 5,State Senate,18,,Scattering,1
 Hillsborough,Manchester Ward 6,State Senate,18,,Scattering,1
@@ -2175,7 +2175,7 @@ Rockingham,Fremont,State Senate,23,,Scattering,
 Rockingham,Kingston,State Senate,23,,Scattering,
 Rockingham,Sandown,State Senate,23,,Scattering,
 Rockingham,Greenland,State Senate,24,,Scattering,1
-Rockingham,Hampton  ,State Senate,24,,Scattering,0
+Rockingham,Hampton,State Senate,24,,Scattering,0
 Rockingham,Hampton Falls,State Senate,24,,Scattering,0
 Rockingham,Kensington,State Senate,24,,Scattering,1
 Rockingham,New Castle,State Senate,24,,Scattering,1
@@ -2780,13 +2780,13 @@ Rockingham,Epping,State House,Rockingham 09 (2),REP,Michael Vose,1433
 Rockingham,Fremont,State House,Rockingham 10,REP,Dennis Acton,1424
 Rockingham,Brentwood,State House,Rockingham 11,REP,Allen Cook,997
 Rockingham,Danville,State House,Rockingham 12,REP,Scott Wallace,1094
-Rockingham,Hampstead ,State House,Rockingham 13 (4),REP,David Welch,2327
+Rockingham,Hampstead,State House,Rockingham 13 (4),REP,David Welch,2327
 Rockingham,Kingston,State House,Rockingham 13 (4),REP,David Welch,1680
-Rockingham,Hampstead ,State House,Rockingham 13 (4),REP,Kenneth Weyler,2224
+Rockingham,Hampstead,State House,Rockingham 13 (4),REP,Kenneth Weyler,2224
 Rockingham,Kingston,State House,Rockingham 13 (4),REP,Kenneth Weyler,1631
-Rockingham,Hampstead ,State House,Rockingham 13 (4),REP,Dennis Green,2287
+Rockingham,Hampstead,State House,Rockingham 13 (4),REP,Dennis Green,2287
 Rockingham,Kingston,State House,Rockingham 13 (4),REP,Dennis Green,1525
-Rockingham,Hampstead ,State House,Rockingham 13 (4),REP,Joe Guthrie,2555
+Rockingham,Hampstead,State House,Rockingham 13 (4),REP,Joe Guthrie,2555
 Rockingham,Kingston,State House,Rockingham 13 (4),REP,Joe Guthrie,1562
 Rockingham,Atkinson,State House,Rockingham 14 (4),REP,Norman Major,1851
 Rockingham,Plaistow,State House,Rockingham 14 (4),REP,Norman Major,1764
@@ -2813,10 +2813,10 @@ Rockingham,Hampton Falls,State House,Rockingham 20 (3),REP,William Fowler,630
 Rockingham,Seabrook,State House,Rockingham 20 (3),REP,William Fowler,1423
 Rockingham,Hampton Falls,State House,Rockingham 20 (3),REP,Aboul Khan,588
 Rockingham,Seabrook,State House,Rockingham 20 (3),REP,Aboul Khan,1645
-Rockingham,Hampton   ,State House,Rockingham 21 (4),REP,Sharleene Hurst,3089
-Rockingham,Hampton   ,State House,Rockingham 21 (4),REP,Michelle Zaino,3493
-Rockingham,Hampton   ,State House,Rockingham 21 (4),REP,Philip Bean,3541
-Rockingham,Hampton   ,State House,Rockingham 21 (4),REP,Tracy Emerick,3306
+Rockingham,Hampton,State House,Rockingham 21 (4),REP,Sharleene Hurst,3089
+Rockingham,Hampton,State House,Rockingham 21 (4),REP,Michelle Zaino,3493
+Rockingham,Hampton,State House,Rockingham 21 (4),REP,Philip Bean,3541
+Rockingham,Hampton,State House,Rockingham 21 (4),REP,Tracy Emerick,3306
 Rockingham,North Hampton,State House,Rockingham 22,REP,Henry Marsh,1209
 Rockingham,Greenland,State House,Rockingham 23,REP,Rob Robertson,966
 Rockingham,Newington,State House,Rockingham 23,REP,Rob Robertson,258
@@ -3643,10 +3643,10 @@ Rockingham,Hampton Falls,State House,Rockingham 20 (3),DEM,Patricia O'Keefe,536
 Rockingham,Seabrook,State House,Rockingham 20 (3),DEM,Patricia O'Keefe,1283
 Rockingham,Hampton Falls,State House,Rockingham 20 (3),DEM,Denis Rice,471
 Rockingham,Seabrook,State House,Rockingham 20 (3),DEM,Denis Rice,914
-Rockingham,Hampton   ,State House,Rockingham 21 (4),DEM,Robert Cushing,4027
-Rockingham,Hampton   ,State House,Rockingham 21 (4),DEM,Mike Edgar,4028
-Rockingham,Hampton   ,State House,Rockingham 21 (4),DEM,Tom Loughman,3999
-Rockingham,Hampton   ,State House,Rockingham 21 (4),DEM,Patricia Bushway,3907
+Rockingham,Hampton,State House,Rockingham 21 (4),DEM,Robert Cushing,4027
+Rockingham,Hampton,State House,Rockingham 21 (4),DEM,Mike Edgar,4028
+Rockingham,Hampton,State House,Rockingham 21 (4),DEM,Tom Loughman,3999
+Rockingham,Hampton,State House,Rockingham 21 (4),DEM,Patricia Bushway,3907
 Rockingham,North Hampton,State House,Rockingham 22,DEM,Jim Maggiore,1381
 Rockingham,Greenland,State House,Rockingham 23,DEM,Dennis Malloy,1331
 Rockingham,Newington,State House,Rockingham 23,DEM,Dennis Malloy,249
@@ -3847,7 +3847,7 @@ Rockingham,Derry,State House,Rockingham 06 (10),LBT,Anne Copp,1595
 Stratford,Barrington,State House,Strafford 4 (2),LBT,Frank Bertone,187
 Stratford,Durham,State House,Strafford 6 (5),wri,Burton (wri),56
 Stratford,Madbury,State House,Strafford 6 (5),wri,Burton (wri),6
-Stratford,Dover Wd 2,State House,Strafford 14,Ind,"Kate Harris, ind ",690
+Stratford,Dover Wd 2,State House,Strafford 14,Ind,"Kate Harris, ind",690
 Stratford,Rollinsford,State House,Strafford 18 (3),LBT,Jarec Rondeau,42
 Stratford,Somersworth Ward 1,State House,Strafford 18 (3),LBT,Jarec Rondeau,31
 Stratford,Somersworth Ward 3,State House,Strafford 18 (3),LBT,Jarec Rondeau,17
@@ -4176,7 +4176,7 @@ Grafton,Easton,State House,Grafton 15 (1) F,,Scattering,
 Grafton,Haverhill,State House,Grafton 15 (1) F,,Scattering,10
 Grafton,Landaff*,State House,Grafton 15 (1) F,,Scattering,1
 Grafton,Orford,State House,Grafton 15 (1) F,,Scattering,2
-Grafton,Piermont,State House,Grafton 15 (1) F,,Scattering, 
+Grafton,Piermont,State House,Grafton 15 (1) F,,Scattering,
 Grafton,Warren,State House,Grafton 15 (1) F,,Scattering,1
 Grafton,Canaan,State House,Grafton 16 (1) F,,Scattering,0
 Grafton,Dorchester,State House,Grafton 16 (1) F,,Scattering,0
@@ -4550,13 +4550,13 @@ Rockingham,Epping,State House,Rockingham 09 (2),,Scattering,0
 Rockingham,Fremont,State House,Rockingham 10,,Scattering,6
 Rockingham,Brentwood,State House,Rockingham 11,,Scattering,0
 Rockingham,Danville,State House,Rockingham 12,,Scattering,0
-Rockingham,Hampstead ,State House,Rockingham 13 (4),,Scattering,0
+Rockingham,Hampstead,State House,Rockingham 13 (4),,Scattering,0
 Rockingham,Kingston,State House,Rockingham 13 (4),,Scattering,1
-Rockingham,Hampstead ,State House,Rockingham 13 (4),,Scattering,0
+Rockingham,Hampstead,State House,Rockingham 13 (4),,Scattering,0
 Rockingham,Kingston,State House,Rockingham 13 (4),,Scattering,0
-Rockingham,Hampstead ,State House,Rockingham 13 (4),,Scattering,0
+Rockingham,Hampstead,State House,Rockingham 13 (4),,Scattering,0
 Rockingham,Kingston,State House,Rockingham 13 (4),,Scattering,0
-Rockingham,Hampstead ,State House,Rockingham 13 (4),,Scattering,0
+Rockingham,Hampstead,State House,Rockingham 13 (4),,Scattering,0
 Rockingham,Kingston,State House,Rockingham 13 (4),,Scattering,0
 Rockingham,Atkinson,State House,Rockingham 14 (4),,Scattering,0
 Rockingham,Plaistow,State House,Rockingham 14 (4),,Scattering,0
@@ -4588,10 +4588,10 @@ Rockingham,Hampton Falls,State House,Rockingham 20 (3),,Scattering,0
 Rockingham,Seabrook,State House,Rockingham 20 (3),,Scattering,0
 Rockingham,Hampton Falls,State House,Rockingham 20 (3),,Scattering,0
 Rockingham,Seabrook,State House,Rockingham 20 (3),,Scattering,0
-Rockingham,Hampton   ,State House,Rockingham 21 (4),,Scattering,0
-Rockingham,Hampton   ,State House,Rockingham 21 (4),,Scattering,0
-Rockingham,Hampton   ,State House,Rockingham 21 (4),,Scattering,0
-Rockingham,Hampton   ,State House,Rockingham 21 (4),,Scattering,0
+Rockingham,Hampton,State House,Rockingham 21 (4),,Scattering,0
+Rockingham,Hampton,State House,Rockingham 21 (4),,Scattering,0
+Rockingham,Hampton,State House,Rockingham 21 (4),,Scattering,0
+Rockingham,Hampton,State House,Rockingham 21 (4),,Scattering,0
 Rockingham,North Hampton,State House,Rockingham 22,,Scattering,1
 Rockingham,Greenland,State House,Rockingham 23,,Scattering,1
 Rockingham,Newington,State House,Rockingham 23,,Scattering,1
