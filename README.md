@@ -1,4 +1,4 @@
-# OpenElections Data New Hampshire
+# OpenElections Data New Hampshire [![Build Status](https://github.com/openelections/openelections-data-nh/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-nh/actions)
 
 This repository contains pre-processed election results from New Hampshire, formatted to be ingested into the OpenElections [processing pipeline](http://docs.openelections.net/guide/). It contains mostly CSV files converted from PDF tables. Interested in contributing? We have a bunch of [easy tasks](https://github.com/openelections/openelections-data-nh/labels/easy%20task) for you to tackle.
 
