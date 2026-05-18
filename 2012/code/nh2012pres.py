@@ -77,7 +77,7 @@ for sheet in sheets:
                 for col in range(1,ws.ncols):
                     candidate=[x for x in candidates if x in ws.cell(row,col).value][0]
                     cols_dict[col]=candidate
-        except:
+        except Exception:
             pass
         
 # Debug print statements
