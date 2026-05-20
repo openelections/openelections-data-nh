@@ -109,7 +109,7 @@ for url in urls:
                     print district
                     results_dict[district]=dict()
                     header_row=1
-            except:
+            except Exception:
                 pass
             if(start_flag==2 and stop_flag==0):
                 town=ws.cell(row,0).value

@@ -140,7 +140,7 @@ for url in urls:
 #                            results_dict[district][town][candidate]=0
                         try:
                             results_dict[district][town][candidate]=int(value)
-                        except:
+                        except Exception:
                             results_dict[district][town][candidate]=0
                     prev_town=town
                 else:
@@ -149,7 +149,7 @@ for url in urls:
                 start_flag=2
             try:
                 row_test=str(ws.cell(row+1,0).value)=='' and start_flag==2                    
-            except:
+            except Exception:
                 row_test=False
             if('totals' in str(ws.cell(row,0).value).lower() or row_test):
                     # Clean up multiple wards into one set of results per town
