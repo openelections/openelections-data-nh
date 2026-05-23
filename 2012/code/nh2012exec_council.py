@@ -46,7 +46,7 @@ for sheet in sheets:
     ws = wb.sheet_by_name(sheet)
     try:
         district=re.search('[0-9]+',sheet).group(0)
-    except Exception:
+    except AttributeError:
         district=''
     results_dict[district]=dict()
     candidate_dict=dict()
@@ -87,8 +87,8 @@ for sheet in sheets:
 #                            candidate_dict[candidate]['Party']='CON'
                         candidate_dict[candidate]['Party']=party_code.upper()
                     cols_dict[col]=candidate
-        except Exception:
-            pass    
+        except (AttributeError, TypeError, IndexError):
+            pass
         if(start_flag==2 and stop_flag==0):
             for offset in col_offset:
 #                if('Totals' in str(ws.cell(row,offset).value)):

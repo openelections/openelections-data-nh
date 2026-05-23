@@ -1,0 +1,935 @@
+county,precinct,office,district,party,candidate,votes
+Belknap,Alton,Congressional,1,R,Karoline Leavitt,1936
+Belknap,Alton,Congressional,1,D,Chris Pappas,1224
+Rockingham,Auburn,Congressional,1,R,Karoline Leavitt,1759
+Rockingham,Auburn,Congressional,1,D,Chris Pappas,1366
+Rockingham,Auburn,Congressional,1,,Scatter,3
+Belknap,Barnstead,Congressional,1,R,Karoline Leavitt,1307
+Belknap,Barnstead,Congressional,1,D,Chris Pappas,910
+Belknap,Barnstead,Congressional,1,,Scatter,2
+Strafford,Barrington,Congressional,1,R,Karoline Leavitt,2090
+Strafford,Barrington,Congressional,1,D,Chris Pappas,2592
+Strafford,Barrington,Congressional,1,,Scatter,6
+Carroll,Bartlett,Congressional,1,R,Karoline Leavitt,656
+Carroll,Bartlett,Congressional,1,D,Chris Pappas,1151
+Carroll,Bartlett,Congressional,1,,Scatter,2
+Hillsborough,Bedford,Congressional,1,R,Karoline Leavitt,5455
+Hillsborough,Bedford,Congressional,1,D,Chris Pappas,6013
+Hillsborough,Bedford,Congressional,1,,Scatter,12
+Belknap,Belmont,Congressional,1,R,Karoline Leavitt,1811
+Belknap,Belmont,Congressional,1,D,Chris Pappas,1334
+Belknap,Belmont,Congressional,1,,Scatter,1
+Rockingham,Brentwood,Congressional,1,R,Karoline Leavitt,1172
+Rockingham,Brentwood,Congressional,1,D,Chris Pappas,1253
+Rockingham,Brentwood,Congressional,1,,Scatter,4
+Carroll,Brookfield,Congressional,1,R,Karoline Leavitt,275
+Carroll,Brookfield,Congressional,1,D,Chris Pappas,207
+Carroll,Brookfield,Congressional,1,,Scatter,1
+Rockingham,Candia,Congressional,1,R,Karoline Leavitt,1354
+Rockingham,Candia,Congressional,1,D,Chris Pappas,937
+Carroll,Chatham,Congressional,1,R,Karoline Leavitt,102
+Carroll,Chatham,Congressional,1,D,Chris Pappas,91
+Rockingham,Chester,Congressional,1,R,Karoline Leavitt,1544
+Rockingham,Chester,Congressional,1,D,Chris Pappas,1176
+Rockingham,Chester,Congressional,1,,Scatter,3
+Carroll,Conway,Congressional,1,R,Karoline Leavitt,1713
+Carroll,Conway,Congressional,1,D,Chris Pappas,2647
+Carroll,Conway,Congressional,1,,Scatter,5
+Rockingham,Danville,Congressional,1,R,Karoline Leavitt,1288
+Rockingham,Danville,Congressional,1,D,Chris Pappas,843
+Rockingham,Danville,Congressional,1,,Scatter,1
+Rockingham,Derry,Congressional,1,R,Karoline Leavitt,6191
+Rockingham,Derry,Congressional,1,D,Chris Pappas,5670
+Strafford,Dover - Ward 1,Congressional,1,R,Karoline Leavitt,506
+Strafford,Dover - Ward 1,Congressional,1,D,Chris Pappas,1891
+Strafford,Dover - Ward 1,Congressional,1,,Scatter,4
+Strafford,Dover - Ward 2,Congressional,1,R,Karoline Leavitt,592
+Strafford,Dover - Ward 2,Congressional,1,D,Chris Pappas,1792
+Strafford,Dover - Ward 2,Congressional,1,,Scatter,3
+Strafford,Dover - Ward 3,Congressional,1,R,Karoline Leavitt,1066
+Strafford,Dover - Ward 3,Congressional,1,D,Chris Pappas,1879
+Strafford,Dover - Ward 3,Congressional,1,,Scatter,3
+Strafford,Dover - Ward 4,Congressional,1,R,Karoline Leavitt,878
+Strafford,Dover - Ward 4,Congressional,1,D,Chris Pappas,1776
+Strafford,Dover - Ward 4,Congressional,1,,Scatter,6
+Strafford,Dover - Ward 5,Congressional,1,R,Karoline Leavitt,685
+Strafford,Dover - Ward 5,Congressional,1,D,Chris Pappas,1472
+Strafford,Dover - Ward 5,Congressional,1,,Scatter,3
+Strafford,Dover - Ward 6,Congressional,1,R,Karoline Leavitt,886
+Strafford,Dover - Ward 6,Congressional,1,D,Chris Pappas,1476
+Strafford,Dover - Ward 6,Congressional,1,,Scatter,2
+Strafford,Durham,Congressional,1,R,Karoline Leavitt,1048
+Strafford,Durham,Congressional,1,D,Chris Pappas,4832
+Strafford,Durham,Congressional,1,,Scatter,8
+Rockingham,East Kingston,Congressional,1,R,Karoline Leavitt,720
+Rockingham,East Kingston,Congressional,1,D,Chris Pappas,674
+Rockingham,East Kingston,Congressional,1,,Scatter,1
+Carroll,Eaton,Congressional,1,R,Karoline Leavitt,99
+Carroll,Eaton,Congressional,1,D,Chris Pappas,169
+Carroll,Effingham,Congressional,1,R,Karoline Leavitt,430
+Carroll,Effingham,Congressional,1,D,Chris Pappas,310
+Rockingham,Epping,Congressional,1,R,Karoline Leavitt,1886
+Rockingham,Epping,Congressional,1,D,Chris Pappas,1653
+Rockingham,Exeter,Congressional,1,R,Karoline Leavitt,2629
+Rockingham,Exeter,Congressional,1,D,Chris Pappas,5763
+Strafford,Farmington,Congressional,1,R,Karoline Leavitt,1395
+Strafford,Farmington,Congressional,1,D,Chris Pappas,1099
+Strafford,Farmington,Congressional,1,,Scatter,3
+Carroll,Freedom,Congressional,1,R,Karoline Leavitt,490
+Carroll,Freedom,Congressional,1,D,Chris Pappas,456
+Rockingham,Fremont,Congressional,1,R,Karoline Leavitt,1418
+Rockingham,Fremont,Congressional,1,D,Chris Pappas,968
+Rockingham,Fremont,Congressional,1,,Scatter,4
+Belknap,Gilford,Congressional,1,R,Karoline Leavitt,2152
+Belknap,Gilford,Congressional,1,D,Chris Pappas,2023
+Belknap,Gilford,Congressional,1,,Scatter,3
+Belknap,Gilmanton,Congressional,1,R,Karoline Leavitt,1173
+Belknap,Gilmanton,Congressional,1,D,Chris Pappas,861
+Belknap,Gilmanton,Congressional,1,,Scatter,2
+Hillsborough,Goffstown,Congressional,1,R,Karoline Leavitt,3720
+Hillsborough,Goffstown,Congressional,1,D,Chris Pappas,3955
+Hillsborough,Goffstown,Congressional,1,,Scatter,10
+Rockingham,Greenland,Congressional,1,R,Karoline Leavitt,973
+Rockingham,Greenland,Congressional,1,D,Chris Pappas,1438
+Rockingham,Greenland,Congressional,1,,Scatter,1
+Carroll,Hale's Location,Congressional,1,R,Karoline Leavitt,88
+Carroll,Hale's Location,Congressional,1,D,Chris Pappas,44
+Rockingham,Hampstead,Congressional,1,R,Karoline Leavitt,2641
+Rockingham,Hampstead,Congressional,1,D,Chris Pappas,1971
+Rockingham,Hampstead,Congressional,1,,Scatter,3
+Rockingham,Hampton,Congressional,1,R,Karoline Leavitt,4262
+Rockingham,Hampton,Congressional,1,D,Chris Pappas,5032
+Rockingham,Hampton,Congressional,1,,Scatter,9
+Rockingham,Hampton Falls,Congressional,1,R,Karoline Leavitt,739
+Rockingham,Hampton Falls,Congressional,1,D,Chris Pappas,690
+Rockingham,Hampton Falls,Congressional,1,,Scatter,2
+Carroll,Hart's Location,Congressional,1,R,Karoline Leavitt,21
+Carroll,Hart's Location,Congressional,1,D,Chris Pappas,17
+Merrimack,Hooksett,Congressional,1,R,Karoline Leavitt,3319
+Merrimack,Hooksett,Congressional,1,D,Chris Pappas,3337
+Merrimack,Hooksett,Congressional,1,,Scatter,1
+Rockingham,Kensington,Congressional,1,R,Karoline Leavitt,575
+Rockingham,Kensington,Congressional,1,D,Chris Pappas,653
+Rockingham,Kensington,Congressional,1,,Scatter,4
+Rockingham,Kingston,Congressional,1,R,Karoline Leavitt,1765
+Rockingham,Kingston,Congressional,1,D,Chris Pappas,1393
+Belknap,Laconia - Ward 1,Congressional,1,R,Karoline Leavitt,850
+Belknap,Laconia - Ward 1,Congressional,1,D,Chris Pappas,772
+Belknap,Laconia - Ward 1,Congressional,1,,Scatter,1
+Belknap,Laconia - Ward 2,Congressional,1,R,Karoline Leavitt,472
+Belknap,Laconia - Ward 2,Congressional,1,D,Chris Pappas,516
+Belknap,Laconia - Ward 3,Congressional,1,R,Karoline Leavitt,486
+Belknap,Laconia - Ward 3,Congressional,1,D,Chris Pappas,674
+Belknap,Laconia - Ward 3,Congressional,1,,Scatter,2
+Belknap,Laconia - Ward 4,Congressional,1,R,Karoline Leavitt,445
+Belknap,Laconia - Ward 4,Congressional,1,D,Chris Pappas,457
+Belknap,Laconia - Ward 4,Congressional,1,,Scatter,1
+Belknap,Laconia - Ward 5,Congressional,1,R,Karoline Leavitt,444
+Belknap,Laconia - Ward 5,Congressional,1,D,Chris Pappas,413
+Belknap,Laconia - Ward 5,Congressional,1,,Scatter,2
+Belknap,Laconia - Ward 6,Congressional,1,R,Karoline Leavitt,868
+Belknap,Laconia - Ward 6,Congressional,1,D,Chris Pappas,596
+Belknap,Laconia - Ward 6,Congressional,1,,Scatter,1
+Strafford,Lee,Congressional,1,R,Karoline Leavitt,761
+Strafford,Lee,Congressional,1,D,Chris Pappas,1619
+Strafford,Lee,Congressional,1,,Scatter,1
+Rockingham,Londonderry,Congressional,1,R,Karoline Leavitt,5936
+Rockingham,Londonderry,Congressional,1,D,Chris Pappas,5966
+Rockingham,Londonderry,Congressional,1,,Scatter,20
+Strafford,Madbury,Congressional,1,R,Karoline Leavitt,359
+Strafford,Madbury,Congressional,1,D,Chris Pappas,676
+Strafford,Madbury,Congressional,1,,Scatter,2
+Carroll,Madison,Congressional,1,R,Karoline Leavitt,600
+Carroll,Madison,Congressional,1,D,Chris Pappas,797
+Carroll,Madison,Congressional,1,,Scatter,1
+Hillsborough,Manchester - Ward 1,Congressional,1,R,Karoline Leavitt,1680
+Hillsborough,Manchester - Ward 1,Congressional,1,D,Chris Pappas,2867
+Hillsborough,Manchester - Ward 1,Congressional,1,,Scatter,11
+Hillsborough,Manchester - Ward 2,Congressional,1,R,Karoline Leavitt,1515
+Hillsborough,Manchester - Ward 2,Congressional,1,D,Chris Pappas,2377
+Hillsborough,Manchester - Ward 2,Congressional,1,,Scatter,7
+Hillsborough,Manchester - Ward 3,Congressional,1,R,Karoline Leavitt,754
+Hillsborough,Manchester - Ward 3,Congressional,1,D,Chris Pappas,1515
+Hillsborough,Manchester - Ward 3,Congressional,1,,Scatter,6
+Hillsborough,Manchester - Ward 4,Congressional,1,R,Karoline Leavitt,965
+Hillsborough,Manchester - Ward 4,Congressional,1,D,Chris Pappas,1453
+Hillsborough,Manchester - Ward 4,Congressional,1,,Scatter,4
+Hillsborough,Manchester - Ward 5,Congressional,1,R,Karoline Leavitt,682
+Hillsborough,Manchester - Ward 5,Congressional,1,D,Chris Pappas,1035
+Hillsborough,Manchester - Ward 5,Congressional,1,,Scatter,4
+Hillsborough,Manchester - Ward 6,Congressional,1,R,Karoline Leavitt,1839
+Hillsborough,Manchester - Ward 6,Congressional,1,D,Chris Pappas,2105
+Hillsborough,Manchester - Ward 6,Congressional,1,,Scatter,5
+Hillsborough,Manchester - Ward 7,Congressional,1,R,Karoline Leavitt,1052
+Hillsborough,Manchester - Ward 7,Congressional,1,D,Chris Pappas,1483
+Hillsborough,Manchester - Ward 7,Congressional,1,,Scatter,7
+Hillsborough,Manchester - Ward 8,Congressional,1,R,Karoline Leavitt,1976
+Hillsborough,Manchester - Ward 8,Congressional,1,D,Chris Pappas,2095
+Hillsborough,Manchester - Ward 8,Congressional,1,,Scatter,11
+Hillsborough,Manchester - Ward 9,Congressional,1,R,Karoline Leavitt,1214
+Hillsborough,Manchester - Ward 9,Congressional,1,D,Chris Pappas,1669
+Hillsborough,Manchester - Ward 9,Congressional,1,,Scatter,4
+Hillsborough,Manchester - Ward 10,Congressional,1,R,Karoline Leavitt,1306
+Hillsborough,Manchester - Ward 10,Congressional,1,D,Chris Pappas,1677
+Hillsborough,Manchester - Ward 10,Congressional,1,,Scatter,6
+Hillsborough,Manchester - Ward 11,Congressional,1,R,Karoline Leavitt,958
+Hillsborough,Manchester - Ward 11,Congressional,1,D,Chris Pappas,1414
+Hillsborough,Manchester - Ward 11,Congressional,1,,Scatter,4
+Hillsborough,Manchester - Ward 12,Congressional,1,R,Karoline Leavitt,1408
+Hillsborough,Manchester - Ward 12,Congressional,1,D,Chris Pappas,1929
+Hillsborough,Manchester - Ward 12,Congressional,1,,Scatter,3
+Belknap,Meredith,Congressional,1,R,Karoline Leavitt,1790
+Belknap,Meredith,Congressional,1,D,Chris Pappas,1824
+Belknap,Meredith,Congressional,1,,Scatter,4
+Hillsborough,Merrimack,Congressional,1,R,Karoline Leavitt,5879
+Hillsborough,Merrimack,Congressional,1,D,Chris Pappas,6847
+Strafford,Middleton,Congressional,1,R,Karoline Leavitt,523
+Strafford,Middleton,Congressional,1,D,Chris Pappas,283
+Strafford,Milton,Congressional,1,R,Karoline Leavitt,1132
+Strafford,Milton,Congressional,1,D,Chris Pappas,782
+Strafford,Milton,Congressional,1,,Scatter,5
+Carroll,Moultonborough,Congressional,1,R,Karoline Leavitt,1774
+Carroll,Moultonborough,Congressional,1,D,Chris Pappas,1385
+Carroll,Moultonborough,Congressional,1,,Scatter,3
+Rockingham,New Castle,Congressional,1,R,Karoline Leavitt,274
+Rockingham,New Castle,Congressional,1,D,Chris Pappas,472
+Rockingham,New Castle,Congressional,1,,Scatter,1
+Strafford,New Durham,Congressional,1,R,Karoline Leavitt,911
+Strafford,New Durham,Congressional,1,D,Chris Pappas,630
+Strafford,New Durham,Congressional,1,,Scatter,2
+Rockingham,Newfields,Congressional,1,R,Karoline Leavitt,450
+Rockingham,Newfields,Congressional,1,D,Chris Pappas,631
+Rockingham,Newfields,Congressional,1,,Scatter,1
+Rockingham,Newington,Congressional,1,R,Karoline Leavitt,285
+Rockingham,Newington,Congressional,1,D,Chris Pappas,257
+Rockingham,Newmarket,Congressional,1,R,Karoline Leavitt,1483
+Rockingham,Newmarket,Congressional,1,D,Chris Pappas,3212
+Rockingham,Newmarket,Congressional,1,,Scatter,6
+Rockingham,Newton,Congressional,1,R,Karoline Leavitt,1286
+Rockingham,Newton,Congressional,1,D,Chris Pappas,979
+Rockingham,Newton,Congressional,1,,Scatter,2
+Rockingham,North Hampton,Congressional,1,R,Karoline Leavitt,1164
+Rockingham,North Hampton,Congressional,1,D,Chris Pappas,1640
+Rockingham,North Hampton,Congressional,1,,Scatter,4
+Rockingham,Nottingham,Congressional,1,R,Karoline Leavitt,1407
+Rockingham,Nottingham,Congressional,1,D,Chris Pappas,1521
+Rockingham,Nottingham,Congressional,1,,Scatter,8
+Carroll,Ossipee,Congressional,1,R,Karoline Leavitt,1177
+Carroll,Ossipee,Congressional,1,D,Chris Pappas,806
+Carroll,Ossipee,Congressional,1,,Scatter,3
+Rockingham,Plaistow,Congressional,1,R,Karoline Leavitt,1890
+Rockingham,Plaistow,Congressional,1,D,Chris Pappas,1482
+Rockingham,Plaistow,Congressional,1,,Scatter,5
+Rockingham,Portsmouth - Ward 1,Congressional,1,R,Karoline Leavitt,609
+Rockingham,Portsmouth - Ward 1,Congressional,1,D,Chris Pappas,1722
+Rockingham,Portsmouth - Ward 1,Congressional,1,,Scatter,3
+Rockingham,Portsmouth - Ward 2,Congressional,1,R,Karoline Leavitt,511
+Rockingham,Portsmouth - Ward 2,Congressional,1,D,Chris Pappas,2160
+Rockingham,Portsmouth - Ward 2,Congressional,1,,Scatter,3
+Rockingham,Portsmouth - Ward 3,Congressional,1,R,Karoline Leavitt,675
+Rockingham,Portsmouth - Ward 3,Congressional,1,D,Chris Pappas,1583
+Rockingham,Portsmouth - Ward 3,Congressional,1,,Scatter,5
+Rockingham,Portsmouth - Ward 4,Congressional,1,R,Karoline Leavitt,684
+Rockingham,Portsmouth - Ward 4,Congressional,1,D,Chris Pappas,1322
+Rockingham,Portsmouth - Ward 4,Congressional,1,,Scatter,6
+Rockingham,Portsmouth - Ward 5,Congressional,1,R,Karoline Leavitt,505
+Rockingham,Portsmouth - Ward 5,Congressional,1,D,Chris Pappas,1845
+Rockingham,Portsmouth - Ward 5,Congressional,1,,Scatter,1
+Rockingham,Raymond,Congressional,1,R,Karoline Leavitt,2634
+Rockingham,Raymond,Congressional,1,D,Chris Pappas,1891
+Rockingham,Raymond,Congressional,1,,Scatter,4
+Strafford,Rochester - Ward 1,Congressional,1,R,Karoline Leavitt,1139
+Strafford,Rochester - Ward 1,Congressional,1,D,Chris Pappas,1208
+Strafford,Rochester - Ward 1,Congressional,1,,Scatter,9
+Strafford,Rochester - Ward 2,Congressional,1,R,Karoline Leavitt,1051
+Strafford,Rochester - Ward 2,Congressional,1,D,Chris Pappas,1125
+Strafford,Rochester - Ward 2,Congressional,1,,Scatter,1
+Strafford,Rochester - Ward 3,Congressional,1,R,Karoline Leavitt,1127
+Strafford,Rochester - Ward 3,Congressional,1,D,Chris Pappas,940
+Strafford,Rochester - Ward 3,Congressional,1,,Scatter,3
+Strafford,Rochester - Ward 4,Congressional,1,R,Karoline Leavitt,924
+Strafford,Rochester - Ward 4,Congressional,1,D,Chris Pappas,1040
+Strafford,Rochester - Ward 4,Congressional,1,,Scatter,2
+Strafford,Rochester - Ward 5,Congressional,1,R,Karoline Leavitt,1075
+Strafford,Rochester - Ward 5,Congressional,1,D,Chris Pappas,1039
+Strafford,Rochester - Ward 5,Congressional,1,,Scatter,8
+Strafford,Rochester - Ward 6,Congressional,1,R,Karoline Leavitt,828
+Strafford,Rochester - Ward 6,Congressional,1,D,Chris Pappas,977
+Strafford,Rochester - Ward 6,Congressional,1,,Scatter,1
+Strafford,Rollinsford,Congressional,1,R,Karoline Leavitt,564
+Strafford,Rollinsford,Congressional,1,D,Chris Pappas,812
+Rockingham,Rye,Congressional,1,R,Karoline Leavitt,1485
+Rockingham,Rye,Congressional,1,D,Chris Pappas,2204
+Rockingham,Rye,Congressional,1,,Scatter,7
+Belknap,Sanbornton,Congressional,1,R,Karoline Leavitt,936
+Belknap,Sanbornton,Congressional,1,D,Chris Pappas,769
+Belknap,Sanbornton,Congressional,1,,Scatter,1
+Rockingham,Sandown,Congressional,1,R,Karoline Leavitt,1769
+Rockingham,Sandown,Congressional,1,D,Chris Pappas,1221
+Rockingham,Sandown,Congressional,1,,Scatter,2
+Rockingham,Seabrook,Congressional,1,R,Karoline Leavitt,2053
+Rockingham,Seabrook,Congressional,1,D,Chris Pappas,1476
+Rockingham,Seabrook,Congressional,1,,Scatter,8
+Strafford,Somersworth - Ward 1,Congressional,1,R,Karoline Leavitt,470
+Strafford,Somersworth - Ward 1,Congressional,1,D,Chris Pappas,688
+Strafford,Somersworth - Ward 2,Congressional,1,R,Karoline Leavitt,381
+Strafford,Somersworth - Ward 2,Congressional,1,D,Chris Pappas,492
+Strafford,Somersworth - Ward 3,Congressional,1,R,Karoline Leavitt,357
+Strafford,Somersworth - Ward 3,Congressional,1,D,Chris Pappas,484
+Strafford,Somersworth - Ward 4,Congressional,1,R,Karoline Leavitt,371
+Strafford,Somersworth - Ward 4,Congressional,1,D,Chris Pappas,699
+Strafford,Somersworth - Ward 5,Congressional,1,R,Karoline Leavitt,215
+Strafford,Somersworth - Ward 5,Congressional,1,D,Chris Pappas,408
+Rockingham,South Hampton,Congressional,1,R,Karoline Leavitt,272
+Rockingham,South Hampton,Congressional,1,D,Chris Pappas,243
+Strafford,Strafford,Congressional,1,R,Karoline Leavitt,1161
+Strafford,Strafford,Congressional,1,D,Chris Pappas,1142
+Strafford,Strafford,Congressional,1,,Scatter,2
+Rockingham,Stratham,Congressional,1,R,Karoline Leavitt,1767
+Rockingham,Stratham,Congressional,1,D,Chris Pappas,2821
+Rockingham,Stratham,Congressional,1,,Scatter,6
+Carroll,Tamworth,Congressional,1,R,Karoline Leavitt,650
+Carroll,Tamworth,Congressional,1,D,Chris Pappas,764
+Belknap,Tilton,Congressional,1,R,Karoline Leavitt,759
+Belknap,Tilton,Congressional,1,D,Chris Pappas,766
+Belknap,Tilton,Congressional,1,,Scatter,1
+Carroll,Tuftonboro,Congressional,1,R,Karoline Leavitt,857
+Carroll,Tuftonboro,Congressional,1,D,Chris Pappas,731
+Carroll,Tuftonboro,Congressional,1,,Scatter,1
+Carroll,Wakefield,Congressional,1,R,Karoline Leavitt,1619
+Carroll,Wakefield,Congressional,1,D,Chris Pappas,982
+Carroll,Wolfeboro,Congressional,1,R,Karoline Leavitt,1977
+Carroll,Wolfeboro,Congressional,1,D,Chris Pappas,1943
+Carroll,Wolfeboro,Congressional,1,,Scatter,9
+Sullivan,Acworth,Congressional,2,R,Robert Burns,224
+Sullivan,Acworth,Congressional,2,D,Ann McLane Kuster,248
+Sullivan,Acworth,Congressional,2,,Scatter,0
+Carroll,Albany,Congressional,2,R,Robert Burns,140
+Carroll,Albany,Congressional,2,D,Ann McLane Kuster,208
+Carroll,Albany,Congressional,2,,Scatter,0
+Grafton,Alexandria,Congressional,2,R,Robert Burns,488
+Grafton,Alexandria,Congressional,2,D,Ann McLane Kuster,357
+Grafton,Alexandria,Congressional,2,,Scatter,0
+Merrimack,Allenstown,Congressional,2,R,Robert Burns,883
+Merrimack,Allenstown,Congressional,2,D,Ann McLane Kuster,846
+Merrimack,Allenstown,Congressional,2,,Scatter,5
+Cheshire,Alstead,Congressional,2,R,Robert Burns,367
+Cheshire,Alstead,Congressional,2,D,Ann McLane Kuster,557
+Cheshire,Alstead,Congressional,2,,Scatter,1
+Hillsborough,Amherst,Congressional,2,R,Robert Burns,2680
+Hillsborough,Amherst,Congressional,2,D,Ann McLane Kuster,3965
+Hillsborough,Amherst,Congressional,2,,Scatter,11
+Merrimack,Andover,Congressional,2,R,Robert Burns,549
+Merrimack,Andover,Congressional,2,D,Ann McLane Kuster,656
+Merrimack,Andover,Congressional,2,,Scatter,3
+Hillsborough,Antrim,Congressional,2,R,Robert Burns,617
+Hillsborough,Antrim,Congressional,2,D,Ann McLane Kuster,663
+Hillsborough,Antrim,Congressional,2,,Scatter,2
+Grafton,Ashland,Congressional,2,R,Robert Burns,430
+Grafton,Ashland,Congressional,2,D,Ann McLane Kuster,526
+Grafton,Ashland,Congressional,2,,Scatter,3
+Rockingham,Atkinson,Congressional,2,R,Robert Burns,2247
+Rockingham,Atkinson,Congressional,2,D,Ann McLane Kuster,1807
+Rockingham,Atkinson,Congressional,2,,Scatter,5
+Coos,At. & Gil Ac. Gt,Congressional,2,R,Robert Burns,0
+Coos,At. & Gil Ac. Gt,Congressional,2,D,Ann McLane Kuster,0
+Coos,At. & Gil Ac. Gt,Congressional,2,,Scatter,0
+Grafton,Bath,Congressional,2,R,Robert Burns,268
+Grafton,Bath,Congressional,2,D,Ann McLane Kuster,234
+Grafton,Bath,Congressional,2,,Scatter,1
+Coos,Bean's Grant,Congressional,2,R,Robert Burns,0
+Coos,Bean's Grant,Congressional,2,D,Ann McLane Kuster,0
+Coos,Bean's Grant,Congressional,2,,Scatter,0
+Coos,Bean's Purchase,Congressional,2,R,Robert Burns,0
+Coos,Bean's Purchase,Congressional,2,D,Ann McLane Kuster,0
+Coos,Bean's Purchase,Congressional,2,,Scatter,0
+Hillsborough,Bennington,Congressional,2,R,Robert Burns,342
+Hillsborough,Bennington,Congressional,2,D,Ann McLane Kuster,340
+Hillsborough,Bennington,Congressional,2,,Scatter,1
+Grafton,Benton,Congressional,2,R,Robert Burns,116
+Grafton,Benton,Congressional,2,D,Ann McLane Kuster,70
+Grafton,Benton,Congressional,2,,Scatter,0
+Coos,Berlin,Congressional,2,R,Robert Burns,1335
+Coos,Berlin,Congressional,2,D,Ann McLane Kuster,1624
+Coos,Berlin,Congressional,2,,Scatter,2
+Grafton,Bethlehem,Congressional,2,R,Robert Burns,489
+Grafton,Bethlehem,Congressional,2,D,Ann McLane Kuster,869
+Grafton,Bethlehem,Congressional,2,,Scatter,5
+Merrimack,Boscawen,Congressional,2,R,Robert Burns,725
+Merrimack,Boscawen,Congressional,2,D,Ann McLane Kuster,768
+Merrimack,Boscawen,Congressional,2,,Scatter,10
+Merrimack,Bow,Congressional,2,R,Robert Burns,1763
+Merrimack,Bow,Congressional,2,D,Ann McLane Kuster,2676
+Merrimack,Bow,Congressional,2,,Scatter,3
+Merrimack,Bradford,Congressional,2,R,Robert Burns,385
+Merrimack,Bradford,Congressional,2,D,Ann McLane Kuster,509
+Merrimack,Bradford,Congressional,2,,Scatter,0
+Grafton,Bridgewater,Congressional,2,R,Robert Burns,384
+Grafton,Bridgewater,Congressional,2,D,Ann McLane Kuster,328
+Grafton,Bridgewater,Congressional,2,,Scatter,0
+Grafton,Bristol,Congressional,2,R,Robert Burns,754
+Grafton,Bristol,Congressional,2,D,Ann McLane Kuster,777
+Grafton,Bristol,Congressional,2,,Scatter,1
+Hillsborough,Brookline,Congressional,2,R,Robert Burns,1371
+Hillsborough,Brookline,Congressional,2,D,Ann McLane Kuster,1532
+Hillsborough,Brookline,Congressional,2,,Scatter,4
+Coos,Cambridge,Congressional,2,R,Robert Burns,2
+Coos,Cambridge,Congressional,2,D,Ann McLane Kuster,1
+Coos,Cambridge,Congressional,2,,Scatter,0
+Grafton,Campton,Congressional,2,R,Robert Burns,753
+Grafton,Campton,Congressional,2,D,Ann McLane Kuster,946
+Grafton,Campton,Congressional,2,,Scatter,2
+Grafton,Canaan,Congressional,2,R,Robert Burns,632
+Grafton,Canaan,Congressional,2,D,Ann McLane Kuster,950
+Grafton,Canaan,Congressional,2,,Scatter,0
+Merrimack,Canterbury,Congressional,2,R,Robert Burns,552
+Merrimack,Canterbury,Congressional,2,D,Ann McLane Kuster,895
+Merrimack,Canterbury,Congressional,2,,Scatter,2
+Coos,Carroll,Congressional,2,R,Robert Burns,209
+Coos,Carroll,Congressional,2,D,Ann McLane Kuster,212
+Coos,Carroll,Congressional,2,,Scatter,1
+Belknap,Center Harbor,Congressional,2,R,Robert Burns,332
+Belknap,Center Harbor,Congressional,2,D,Ann McLane Kuster,335
+Belknap,Center Harbor,Congressional,2,,Scatter,2
+Coos,Chandler's Purchase,Congressional,2,R,Robert Burns,0
+Coos,Chandler's Purchase,Congressional,2,D,Ann McLane Kuster,0
+Coos,Chandler's Purchase,Congressional,2,,Scatter,0
+Sullivan,Charlestown,Congressional,2,R,Robert Burns,916
+Sullivan,Charlestown,Congressional,2,D,Ann McLane Kuster,916
+Sullivan,Charlestown,Congressional,2,,Scatter,2
+Cheshire,Chesterfield,Congressional,2,R,Robert Burns,819
+Cheshire,Chesterfield,Congressional,2,D,Ann McLane Kuster,1133
+Cheshire,Chesterfield,Congressional,2,,Scatter,1
+Merrimack,Chichester,Congressional,2,R,Robert Burns,767
+Merrimack,Chichester,Congressional,2,D,Ann McLane Kuster,630
+Merrimack,Chichester,Congressional,2,,Scatter,1
+Sullivan,Claremont - Ward 1,Congressional,2,R,Robert Burns,492
+Sullivan,Claremont - Ward 1,Congressional,2,D,Ann McLane Kuster,660
+Sullivan,Claremont - Ward 1,Congressional,2,,Scatter,0
+Sullivan,Claremont - Ward 2,Congressional,2,R,Robert Burns,784
+Sullivan,Claremont - Ward 2,Congressional,2,D,Ann McLane Kuster,903
+Sullivan,Claremont - Ward 2,Congressional,2,,Scatter,1
+Sullivan,Claremont - Ward 3,Congressional,2,R,Robert Burns,707
+Sullivan,Claremont - Ward 3,Congressional,2,D,Ann McLane Kuster,718
+Sullivan,Claremont - Ward 3,Congressional,2,,Scatter,3
+Coos,Clarksville,Congressional,2,R,Robert Burns,93
+Coos,Clarksville,Congressional,2,D,Ann McLane Kuster,59
+Coos,Clarksville,Congressional,2,,Scatter,3
+Coos,Colebrook,Congressional,2,R,Robert Burns,515
+Coos,Colebrook,Congressional,2,D,Ann McLane Kuster,351
+Coos,Colebrook,Congressional,2,,Scatter,1
+Coos,Columbia,Congressional,2,R,Robert Burns,191
+Coos,Columbia,Congressional,2,D,Ann McLane Kuster,109
+Coos,Columbia,Congressional,2,,Scatter,1
+Merrimack,Concord Ward 1,Congressional,2,R,Robert Burns,636
+Merrimack,Concord Ward 1,Congressional,2,D,Ann McLane Kuster,1177
+Merrimack,Concord Ward 1,Congressional,2,,Scatter,3
+Merrimack,Concord Ward 2,Congressional,2,R,Robert Burns,582
+Merrimack,Concord Ward 2,Congressional,2,D,Ann McLane Kuster,1059
+Merrimack,Concord Ward 2,Congressional,2,,Scatter,5
+Merrimack,Concord Ward 3,Congressional,2,R,Robert Burns,342
+Merrimack,Concord Ward 3,Congressional,2,D,Ann McLane Kuster,682
+Merrimack,Concord Ward 3,Congressional,2,,Scatter,1
+Merrimack,Concord Ward 4,Congressional,2,R,Robert Burns,471
+Merrimack,Concord Ward 4,Congressional,2,D,Ann McLane Kuster,1369
+Merrimack,Concord Ward 4,Congressional,2,,Scatter,6
+Merrimack,Concord Ward 5,Congressional,2,R,Robert Burns,568
+Merrimack,Concord Ward 5,Congressional,2,D,Ann McLane Kuster,1850
+Merrimack,Concord Ward 5,Congressional,2,,Scatter,2
+Merrimack,Concord Ward 6,Congressional,2,R,Robert Burns,416
+Merrimack,Concord Ward 6,Congressional,2,D,Ann McLane Kuster,1079
+Merrimack,Concord Ward 6,Congressional,2,,Scatter,2
+Merrimack,Concord Ward 7,Congressional,2,R,Robert Burns,664
+Merrimack,Concord Ward 7,Congressional,2,D,Ann McLane Kuster,1715
+Merrimack,Concord Ward 7,Congressional,2,,Scatter,4
+Merrimack,Concord Ward 8,Congressional,2,R,Robert Burns,633
+Merrimack,Concord Ward 8,Congressional,2,D,Ann McLane Kuster,1117
+Merrimack,Concord Ward 8,Congressional,2,,Scatter,2
+Merrimack,Concord Ward 9,Congressional,2,R,Robert Burns,488
+Merrimack,Concord Ward 9,Congressional,2,D,Ann McLane Kuster,1075
+Merrimack,Concord Ward 9,Congressional,2,,Scatter,0
+Merrimack,Concord Ward 10,Congressional,2,R,Robert Burns,861
+Merrimack,Concord Ward 10,Congressional,2,D,Ann McLane Kuster,1593
+Merrimack,Concord Ward 10,Congressional,2,,Scatter,4
+Sullivan,Cornish,Congressional,2,R,Robert Burns,361
+Sullivan,Cornish,Congressional,2,D,Ann McLane Kuster,579
+Sullivan,Cornish,Congressional,2,,Scatter,1
+Coos,Crawford's Purchase,Congressional,2,R,Robert Burns,0
+Coos,Crawford's Purchase,Congressional,2,D,Ann McLane Kuster,0
+Coos,Crawford's Purchase,Congressional,2,,Scatter,0
+Sullivan,Croydon,Congressional,2,R,Robert Burns,272
+Sullivan,Croydon,Congressional,2,D,Ann McLane Kuster,157
+Sullivan,Croydon,Congressional,2,,Scatter,0
+Coos,Cutt's Grant,Congressional,2,R,Robert Burns,0
+Coos,Cutt's Grant,Congressional,2,D,Ann McLane Kuster,0
+Coos,Cutt's Grant,Congressional,2,,Scatter,0
+Coos,Dalton,Congressional,2,R,Robert Burns,235
+Coos,Dalton,Congressional,2,D,Ann McLane Kuster,219
+Coos,Dalton,Congressional,2,,Scatter,1
+Merrimack,Danbury,Congressional,2,R,Robert Burns,341
+Merrimack,Danbury,Congressional,2,D,Ann McLane Kuster,258
+Merrimack,Danbury,Congressional,2,,Scatter,0
+Rockingham,Deerfield,Congressional,2,R,Robert Burns,1383
+Rockingham,Deerfield,Congressional,2,D,Ann McLane Kuster,1194
+Rockingham,Deerfield,Congressional,2,,Scatter,2
+Hillsborough,Deering,Congressional,2,R,Robert Burns,543
+Hillsborough,Deering,Congressional,2,D,Ann McLane Kuster,377
+Hillsborough,Deering,Congressional,2,,Scatter,4
+Coos,Dix's Grant,Congressional,2,R,Robert Burns,0
+Coos,Dix's Grant,Congressional,2,D,Ann McLane Kuster,0
+Coos,Dix's Grant,Congressional,2,,Scatter,0
+Coos,Dixville,Congressional,2,R,Robert Burns,1
+Coos,Dixville,Congressional,2,D,Ann McLane Kuster,4
+Coos,Dixville,Congressional,2,,Scatter,0
+Grafton,Dorchester,Congressional,2,R,Robert Burns,94
+Grafton,Dorchester,Congressional,2,D,Ann McLane Kuster,86
+Grafton,Dorchester,Congressional,2,,Scatter,1
+Cheshire,Dublin,Congressional,2,R,Robert Burns,350
+Cheshire,Dublin,Congressional,2,D,Ann McLane Kuster,575
+Cheshire,Dublin,Congressional,2,,Scatter,1
+Coos,Dummer,Congressional,2,R,Robert Burns,79
+Coos,Dummer,Congressional,2,D,Ann McLane Kuster,52
+Coos,Dummer,Congressional,2,,Scatter,0
+Merrimack,Dunbarton,Congressional,2,R,Robert Burns,899
+Merrimack,Dunbarton,Congressional,2,D,Ann McLane Kuster,750
+Merrimack,Dunbarton,Congressional,2,,Scatter,3
+Grafton,Easton,Congressional,2,R,Robert Burns,59
+Grafton,Easton,Congressional,2,D,Ann McLane Kuster,153
+Grafton,Easton,Congressional,2,,Scatter,0
+Grafton,Ellsworth,Congressional,2,R,Robert Burns,30
+Grafton,Ellsworth,Congressional,2,D,Ann McLane Kuster,31
+Grafton,Ellsworth,Congressional,2,,Scatter,0
+Grafton,Enfield,Congressional,2,R,Robert Burns,729
+Grafton,Enfield,Congressional,2,D,Ann McLane Kuster,1476
+Grafton,Enfield,Congressional,2,,Scatter,1
+Merrimack,Epsom,Congressional,2,R,Robert Burns,1306
+Merrimack,Epsom,Congressional,2,D,Ann McLane Kuster,997
+Merrimack,Epsom,Congressional,2,,Scatter,0
+Coos,Errol,Congressional,2,R,Robert Burns,111
+Coos,Errol,Congressional,2,D,Ann McLane Kuster,71
+Coos,Errol,Congressional,2,,Scatter,0
+Coos,Erving's Location,Congressional,2,R,Robert Burns,0
+Coos,Erving's Location,Congressional,2,D,Ann McLane Kuster,0
+Coos,Erving's Location,Congressional,2,,Scatter,0
+Cheshire,Fitzwilliam,Congressional,2,R,Robert Burns,558
+Cheshire,Fitzwilliam,Congressional,2,D,Ann McLane Kuster,560
+Cheshire,Fitzwilliam,Congressional,2,,Scatter,2
+Hillsborough,Francestown,Congressional,2,R,Robert Burns,444
+Hillsborough,Francestown,Congressional,2,D,Ann McLane Kuster,526
+Hillsborough,Francestown,Congressional,2,,Scatter,0
+Grafton,Franconia,Congressional,2,R,Robert Burns,225
+Grafton,Franconia,Congressional,2,D,Ann McLane Kuster,474
+Grafton,Franconia,Congressional,2,,Scatter,0
+Merrimack,Franklin Ward 1,Congressional,2,R,Robert Burns,588
+Merrimack,Franklin Ward 1,Congressional,2,D,Ann McLane Kuster,495
+Merrimack,Franklin Ward 1,Congressional,2,,Scatter,3
+Merrimack,Franklin Ward 2,Congressional,2,R,Robert Burns,403
+Merrimack,Franklin Ward 2,Congressional,2,D,Ann McLane Kuster,345
+Merrimack,Franklin Ward 2,Congressional,2,,Scatter,3
+Merrimack,Franklin Ward 3,Congressional,2,R,Robert Burns,640
+Merrimack,Franklin Ward 3,Congressional,2,D,Ann McLane Kuster,625
+Merrimack,Franklin Ward 3,Congressional,2,,Scatter,0
+Cheshire,Gilsum,Congressional,2,R,Robert Burns,187
+Cheshire,Gilsum,Congressional,2,D,Ann McLane Kuster,213
+Cheshire,Gilsum,Congressional,2,,Scatter,1
+Coos,Gorham,Congressional,2,R,Robert Burns,537
+Coos,Gorham,Congressional,2,D,Ann McLane Kuster,743
+Coos,Gorham,Congressional,2,,Scatter,2
+Sullivan,Goshen,Congressional,2,R,Robert Burns,237
+Sullivan,Goshen,Congressional,2,D,Ann McLane Kuster,129
+Sullivan,Goshen,Congressional,2,,Scatter,1
+Grafton,Grafton,Congressional,2,R,Robert Burns,332
+Grafton,Grafton,Congressional,2,D,Ann McLane Kuster,277
+Grafton,Grafton,Congressional,2,,Scatter,1
+Sullivan,Grantham,Congressional,2,R,Robert Burns,627
+Sullivan,Grantham,Congressional,2,D,Ann McLane Kuster,1455
+Sullivan,Grantham,Congressional,2,,Scatter,4
+Hillsborough,Greenfield,Congressional,2,R,Robert Burns,381
+Hillsborough,Greenfield,Congressional,2,D,Ann McLane Kuster,437
+Hillsborough,Greenfield,Congressional,2,,Scatter,0
+Coos,Green's Grant,Congressional,2,R,Robert Burns,0
+Coos,Green's Grant,Congressional,2,D,Ann McLane Kuster,1
+Coos,Green's Grant,Congressional,2,,Scatter,0
+Hillsborough,Greenville,Congressional,2,R,Robert Burns,385
+Hillsborough,Greenville,Congressional,2,D,Ann McLane Kuster,347
+Hillsborough,Greenville,Congressional,2,,Scatter,0
+Grafton,Groton,Congressional,2,R,Robert Burns,186
+Grafton,Groton,Congressional,2,D,Ann McLane Kuster,126
+Grafton,Groton,Congressional,2,,Scatter,0
+Coos,Hadley's Purchase,Congressional,2,R,Robert Burns,0
+Coos,Hadley's Purchase,Congressional,2,D,Ann McLane Kuster,0
+Coos,Hadley's Purchase,Congressional,2,,Scatter,0
+Hillsborough,Hancock,Congressional,2,R,Robert Burns,347
+Hillsborough,Hancock,Congressional,2,D,Ann McLane Kuster,775
+Hillsborough,Hancock,Congressional,2,,Scatter,1
+Grafton,Hanover,Congressional,2,R,Robert Burns,700
+Grafton,Hanover,Congressional,2,D,Ann McLane Kuster,4887
+Grafton,Hanover,Congressional,2,,Scatter,5
+Cheshire,Harrisville,Congressional,2,R,Robert Burns,169
+Cheshire,Harrisville,Congressional,2,D,Ann McLane Kuster,474
+Cheshire,Harrisville,Congressional,2,,Scatter,0
+Grafton,Haverhill,Congressional,2,R,Robert Burns,939
+Grafton,Haverhill,Congressional,2,D,Ann McLane Kuster,761
+Grafton,Haverhill,Congressional,2,,Scatter,0
+Grafton,Hebron,Congressional,2,R,Robert Burns,225
+Grafton,Hebron,Congressional,2,D,Ann McLane Kuster,241
+Grafton,Hebron,Congressional,2,,Scatter,0
+Merrimack,Henniker,Congressional,2,R,Robert Burns,820
+Merrimack,Henniker,Congressional,2,D,Ann McLane Kuster,1270
+Merrimack,Henniker,Congressional,2,,Scatter,3
+Merrimack,Hill,Congressional,2,R,Robert Burns,301
+Merrimack,Hill,Congressional,2,D,Ann McLane Kuster,209
+Merrimack,Hill,Congressional,2,,Scatter,2
+Hillsborough,Hillsborough,Congressional,2,R,Robert Burns,1248
+Hillsborough,Hillsborough,Congressional,2,D,Ann McLane Kuster,1215
+Hillsborough,Hillsborough,Congressional,2,,Scatter,0
+Cheshire,Hinsdale,Congressional,2,R,Robert Burns,546
+Cheshire,Hinsdale,Congressional,2,D,Ann McLane Kuster,717
+Cheshire,Hinsdale,Congressional,2,,Scatter,3
+Grafton,Holderness,Congressional,2,R,Robert Burns,467
+Grafton,Holderness,Congressional,2,D,Ann McLane Kuster,743
+Grafton,Holderness,Congressional,2,,Scatter,3
+Hillsborough,Hollis,Congressional,2,R,Robert Burns,2045
+Hillsborough,Hollis,Congressional,2,D,Ann McLane Kuster,2652
+Hillsborough,Hollis,Congressional,2,,Scatter,5
+Merrimack,Hopkinton,Congressional,2,R,Robert Burns,1163
+Merrimack,Hopkinton,Congressional,2,D,Ann McLane Kuster,2276
+Merrimack,Hopkinton,Congressional,2,,Scatter,6
+Hillsborough,Hudson,Congressional,2,R,Robert Burns,5401
+Hillsborough,Hudson,Congressional,2,D,Ann McLane Kuster,4809
+Hillsborough,Hudson,Congressional,2,,Scatter,11
+Carroll,Jackson,Congressional,2,R,Robert Burns,199
+Carroll,Jackson,Congressional,2,D,Ann McLane Kuster,500
+Carroll,Jackson,Congressional,2,,Scatter,0
+Cheshire,Jaffrey,Congressional,2,R,Robert Burns,1067
+Cheshire,Jaffrey,Congressional,2,D,Ann McLane Kuster,1308
+Cheshire,Jaffrey,Congressional,2,,Scatter,2
+Coos,Jefferson,Congressional,2,R,Robert Burns,323
+Coos,Jefferson,Congressional,2,D,Ann McLane Kuster,208
+Coos,Jefferson,Congressional,2,,Scatter,1
+Cheshire,Keene Ward 1,Congressional,2,R,Robert Burns,324
+Cheshire,Keene Ward 1,Congressional,2,D,Ann McLane Kuster,1126
+Cheshire,Keene Ward 1,Congressional,2,,Scatter,4
+Cheshire,Keene Ward 2,Congressional,2,R,Robert Burns,494
+Cheshire,Keene Ward 2,Congressional,2,D,Ann McLane Kuster,1450
+Cheshire,Keene Ward 2,Congressional,2,,Scatter,3
+Cheshire,Keene Ward 3,Congressional,2,R,Robert Burns,515
+Cheshire,Keene Ward 3,Congressional,2,D,Ann McLane Kuster,1366
+Cheshire,Keene Ward 3,Congressional,2,,Scatter,6
+Cheshire,Keene Ward 4,Congressional,2,R,Robert Burns,561
+Cheshire,Keene Ward 4,Congressional,2,D,Ann McLane Kuster,1378
+Cheshire,Keene Ward 4,Congressional,2,,Scatter,6
+Cheshire,Keene Ward 5,Congressional,2,R,Robert Burns,609
+Cheshire,Keene Ward 5,Congressional,2,D,Ann McLane Kuster,1591
+Cheshire,Keene Ward 5,Congressional,2,,Scatter,6
+Coos,Kilkenny,Congressional,2,R,Robert Burns,0
+Coos,Kilkenny,Congressional,2,D,Ann McLane Kuster,0
+Coos,Kilkenny,Congressional,2,,Scatter,0
+Coos,Lancaster,Congressional,2,R,Robert Burns,630
+Coos,Lancaster,Congressional,2,D,Ann McLane Kuster,649
+Coos,Lancaster,Congressional,2,,Scatter,1
+Grafton,Landaff,Congressional,2,R,Robert Burns,119
+Grafton,Landaff,Congressional,2,D,Ann McLane Kuster,95
+Grafton,Landaff,Congressional,2,,Scatter,0
+Sullivan,Langdon,Congressional,2,R,Robert Burns,154
+Sullivan,Langdon,Congressional,2,D,Ann McLane Kuster,171
+Sullivan,Langdon,Congressional,2,,Scatter,0
+Grafton,Lebanon Ward 1,Congressional,2,R,Robert Burns,437
+Grafton,Lebanon Ward 1,Congressional,2,D,Ann McLane Kuster,1580
+Grafton,Lebanon Ward 1,Congressional,2,,Scatter,1
+Grafton,Lebanon Ward 2,Congressional,2,R,Robert Burns,448
+Grafton,Lebanon Ward 2,Congressional,2,D,Ann McLane Kuster,1582
+Grafton,Lebanon Ward 2,Congressional,2,,Scatter,1
+Grafton,Lebanon Ward 3,Congressional,2,R,Robert Burns,479
+Grafton,Lebanon Ward 3,Congressional,2,D,Ann McLane Kuster,1602
+Grafton,Lebanon Ward 3,Congressional,2,,Scatter,0
+Sullivan,Lempster,Congressional,2,R,Robert Burns,336
+Sullivan,Lempster,Congressional,2,D,Ann McLane Kuster,237
+Sullivan,Lempster,Congressional,2,,Scatter,0
+Grafton,Lincoln,Congressional,2,R,Robert Burns,288
+Grafton,Lincoln,Congressional,2,D,Ann McLane Kuster,423
+Grafton,Lincoln,Congressional,2,,Scatter,1
+Grafton,Lisbon,Congressional,2,R,Robert Burns,325
+Grafton,Lisbon,Congressional,2,D,Ann McLane Kuster,276
+Grafton,Lisbon,Congressional,2,,Scatter,1
+Hillsborough,Litchfield,Congressional,2,R,Robert Burns,2103
+Hillsborough,Litchfield,Congressional,2,D,Ann McLane Kuster,1998
+Hillsborough,Litchfield,Congressional,2,,Scatter,6
+Grafton,Littleton,Congressional,2,R,Robert Burns,1207
+Grafton,Littleton,Congressional,2,D,Ann McLane Kuster,1272
+Grafton,Littleton,Congressional,2,,Scatter,0
+Grafton,Livermore,Congressional,2,R,Robert Burns,0
+Grafton,Livermore,Congressional,2,D,Ann McLane Kuster,0
+Grafton,Livermore,Congressional,2,,Scatter,0
+Merrimack,Loudon,Congressional,2,R,Robert Burns,1656
+Merrimack,Loudon,Congressional,2,D,Ann McLane Kuster,1268
+Merrimack,Loudon,Congressional,2,,Scatter,3
+Coos,Low & Burbank's Grant,Congressional,2,R,Robert Burns,0
+Coos,Low & Burbank's Grant,Congressional,2,D,Ann McLane Kuster,0
+Coos,Low & Burbank's Grant,Congressional,2,,Scatter,0
+Grafton,Lyman,Congressional,2,R,Robert Burns,175
+Grafton,Lyman,Congressional,2,D,Ann McLane Kuster,147
+Grafton,Lyman,Congressional,2,,Scatter,2
+Grafton,Lyme,Congressional,2,R,Robert Burns,171
+Grafton,Lyme,Congressional,2,D,Ann McLane Kuster,890
+Grafton,Lyme,Congressional,2,,Scatter,0
+Hillsborough,Lyndeborough,Congressional,2,R,Robert Burns,455
+Hillsborough,Lyndeborough,Congressional,2,D,Ann McLane Kuster,474
+Hillsborough,Lyndeborough,Congressional,2,,Scatter,0
+Cheshire,Marlborough,Congressional,2,R,Robert Burns,310
+Cheshire,Marlborough,Congressional,2,D,Ann McLane Kuster,684
+Cheshire,Marlborough,Congressional,2,,Scatter,0
+Cheshire,Marlow,Congressional,2,R,Robert Burns,161
+Cheshire,Marlow,Congressional,2,D,Ann McLane Kuster,208
+Cheshire,Marlow,Congressional,2,,Scatter,0
+Coos,Martin's Location,Congressional,2,R,Robert Burns,0
+Coos,Martin's Location,Congressional,2,D,Ann McLane Kuster,0
+Coos,Martin's Location,Congressional,2,,Scatter,0
+Hillsborough,Mason,Congressional,2,R,Robert Burns,448
+Hillsborough,Mason,Congressional,2,D,Ann McLane Kuster,315
+Hillsborough,Mason,Congressional,2,,Scatter,0
+Coos,Milan,Congressional,2,R,Robert Burns,330
+Coos,Milan,Congressional,2,D,Ann McLane Kuster,280
+Coos,Milan,Congressional,2,,Scatter,0
+Hillsborough,Milford,Congressional,2,R,Robert Burns,3073
+Hillsborough,Milford,Congressional,2,D,Ann McLane Kuster,3778
+Hillsborough,Milford,Congressional,2,,Scatter,0
+Coos,Millsfield,Congressional,2,R,Robert Burns,14
+Coos,Millsfield,Congressional,2,D,Ann McLane Kuster,4
+Coos,Millsfield,Congressional,2,,Scatter,0
+Grafton,Monroe,Congressional,2,R,Robert Burns,232
+Grafton,Monroe,Congressional,2,D,Ann McLane Kuster,186
+Grafton,Monroe,Congressional,2,,Scatter,0
+Hillsborough,Mont Vernon,Congressional,2,R,Robert Burns,646
+Hillsborough,Mont Vernon,Congressional,2,D,Ann McLane Kuster,832
+Hillsborough,Mont Vernon,Congressional,2,,Scatter,0
+Hillsborough,Nashua Ward 1,Congressional,2,R,Robert Burns,1971
+Hillsborough,Nashua Ward 1,Congressional,2,D,Ann McLane Kuster,2758
+Hillsborough,Nashua Ward 1,Congressional,2,,Scatter,5
+Hillsborough,Nashua Ward 2,Congressional,2,R,Robert Burns,1626
+Hillsborough,Nashua Ward 2,Congressional,2,D,Ann McLane Kuster,2552
+Hillsborough,Nashua Ward 2,Congressional,2,,Scatter,3
+Hillsborough,Nashua Ward 3,Congressional,2,R,Robert Burns,1216
+Hillsborough,Nashua Ward 3,Congressional,2,D,Ann McLane Kuster,1975
+Hillsborough,Nashua Ward 3,Congressional,2,,Scatter,1
+Hillsborough,Nashua Ward 4,Congressional,2,R,Robert Burns,603
+Hillsborough,Nashua Ward 4,Congressional,2,D,Ann McLane Kuster,1065
+Hillsborough,Nashua Ward 4,Congressional,2,,Scatter,2
+Hillsborough,Nashua Ward 5,Congressional,2,R,Robert Burns,2036
+Hillsborough,Nashua Ward 5,Congressional,2,D,Ann McLane Kuster,2797
+Hillsborough,Nashua Ward 5,Congressional,2,,Scatter,4
+Hillsborough,Nashua Ward 6,Congressional,2,R,Robert Burns,1134
+Hillsborough,Nashua Ward 6,Congressional,2,D,Ann McLane Kuster,1703
+Hillsborough,Nashua Ward 6,Congressional,2,,Scatter,5
+Hillsborough,Nashua Ward 7,Congressional,2,R,Robert Burns,1145
+Hillsborough,Nashua Ward 7,Congressional,2,D,Ann McLane Kuster,1675
+Hillsborough,Nashua Ward 7,Congressional,2,,Scatter,3
+Hillsborough,Nashua Ward 8,Congressional,2,R,Robert Burns,1261
+Hillsborough,Nashua Ward 8,Congressional,2,D,Ann McLane Kuster,2226
+Hillsborough,Nashua Ward 8,Congressional,2,,Scatter,2
+Hillsborough,Nashua Ward 9,Congressional,2,R,Robert Burns,1662
+Hillsborough,Nashua Ward 9,Congressional,2,D,Ann McLane Kuster,2404
+Hillsborough,Nashua Ward 9,Congressional,2,,Scatter,3
+Cheshire,Nelson,Congressional,2,R,Robert Burns,129
+Cheshire,Nelson,Congressional,2,D,Ann McLane Kuster,235
+Cheshire,Nelson,Congressional,2,,Scatter,0
+Hillsborough,New Boston,Congressional,2,R,Robert Burns,1534
+Hillsborough,New Boston,Congressional,2,D,Ann McLane Kuster,1623
+Hillsborough,New Boston,Congressional,2,,Scatter,3
+Belknap,New Hampton,Congressional,2,R,Robert Burns,696
+Belknap,New Hampton,Congressional,2,D,Ann McLane Kuster,604
+Belknap,New Hampton,Congressional,2,,Scatter,2
+Hillsborough,New Ipswich,Congressional,2,R,Robert Burns,1691
+Hillsborough,New Ipswich,Congressional,2,D,Ann McLane Kuster,723
+Hillsborough,New Ipswich,Congressional,2,,Scatter,1
+Merrimack,New London,Congressional,2,R,Robert Burns,903
+Merrimack,New London,Congressional,2,D,Ann McLane Kuster,1774
+Merrimack,New London,Congressional,2,,Scatter,1
+Merrimack,Newbury,Congressional,2,R,Robert Burns,621
+Merrimack,Newbury,Congressional,2,D,Ann McLane Kuster,769
+Merrimack,Newbury,Congressional,2,,Scatter,2
+Sullivan,Newport,Congressional,2,R,Robert Burns,1246
+Sullivan,Newport,Congressional,2,D,Ann McLane Kuster,1057
+Sullivan,Newport,Congressional,2,,Scatter,5
+Merrimack,Northfield,Congressional,2,R,Robert Burns,996
+Merrimack,Northfield,Congressional,2,D,Ann McLane Kuster,917
+Merrimack,Northfield,Congressional,2,,Scatter,4
+Coos,Northumberland,Congressional,2,R,Robert Burns,413
+Coos,Northumberland,Congressional,2,D,Ann McLane Kuster,339
+Coos,Northumberland,Congressional,2,,Scatter,0
+Rockingham,Northwood,Congressional,2,R,Robert Burns,1077
+Rockingham,Northwood,Congressional,2,D,Ann McLane Kuster,1094
+Rockingham,Northwood,Congressional,2,,Scatter,1
+Coos,Odell,Congressional,2,R,Robert Burns,0
+Coos,Odell,Congressional,2,D,Ann McLane Kuster,0
+Coos,Odell,Congressional,2,,Scatter,0
+Grafton,Orange,Congressional,2,R,Robert Burns,75
+Grafton,Orange,Congressional,2,D,Ann McLane Kuster,75
+Grafton,Orange,Congressional,2,,Scatter,0
+Grafton,Orford,Congressional,2,R,Robert Burns,205
+Grafton,Orford,Congressional,2,D,Ann McLane Kuster,442
+Grafton,Orford,Congressional,2,,Scatter,2
+Hillsborough,Pelham,Congressional,2,R,Robert Burns,3925
+Hillsborough,Pelham,Congressional,2,D,Ann McLane Kuster,2669
+Hillsborough,Pelham,Congressional,2,,Scatter,6
+Merrimack,Pembroke,Congressional,2,R,Robert Burns,1447
+Merrimack,Pembroke,Congressional,2,D,Ann McLane Kuster,1795
+Merrimack,Pembroke,Congressional,2,,Scatter,6
+Hillsborough,Peterborough,Congressional,2,R,Robert Burns,949
+Hillsborough,Peterborough,Congressional,2,D,Ann McLane Kuster,2554
+Hillsborough,Peterborough,Congressional,2,,Scatter,10
+Grafton,Piermont,Congressional,2,R,Robert Burns,167
+Grafton,Piermont,Congressional,2,D,Ann McLane Kuster,193
+Grafton,Piermont,Congressional,2,,Scatter,1
+Coos,Pinkham's Grant,Congressional,2,R,Robert Burns,0
+Coos,Pinkham's Grant,Congressional,2,D,Ann McLane Kuster,1
+Coos,Pinkham's Grant,Congressional,2,,Scatter,0
+Coos,Pittsburg,Congressional,2,R,Robert Burns,315
+Coos,Pittsburg,Congressional,2,D,Ann McLane Kuster,146
+Coos,Pittsburg,Congressional,2,,Scatter,2
+Merrimack,Pittsfield,Congressional,2,R,Robert Burns,883
+Merrimack,Pittsfield,Congressional,2,D,Ann McLane Kuster,716
+Merrimack,Pittsfield,Congressional,2,,Scatter,8
+Sullivan,Plainfield,Congressional,2,R,Robert Burns,409
+Sullivan,Plainfield,Congressional,2,D,Ann McLane Kuster,959
+Sullivan,Plainfield,Congressional,2,,Scatter,0
+Grafton,Plymouth,Congressional,2,R,Robert Burns,709
+Grafton,Plymouth,Congressional,2,D,Ann McLane Kuster,1570
+Grafton,Plymouth,Congressional,2,,Scatter,4
+Coos,Randolph,Congressional,2,R,Robert Burns,72
+Coos,Randolph,Congressional,2,D,Ann McLane Kuster,168
+Coos,Randolph,Congressional,2,,Scatter,0
+Cheshire,Richmond,Congressional,2,R,Robert Burns,326
+Cheshire,Richmond,Congressional,2,D,Ann McLane Kuster,213
+Cheshire,Richmond,Congressional,2,,Scatter,1
+Cheshire,Rindge,Congressional,2,R,Robert Burns,1676
+Cheshire,Rindge,Congressional,2,D,Ann McLane Kuster,1134
+Cheshire,Rindge,Congressional,2,,Scatter,4
+Cheshire,Roxbury,Congressional,2,R,Robert Burns,33
+Cheshire,Roxbury,Congressional,2,D,Ann McLane Kuster,75
+Cheshire,Roxbury,Congressional,2,,Scatter,1
+Grafton,Rumney,Congressional,2,R,Robert Burns,454
+Grafton,Rumney,Congressional,2,D,Ann McLane Kuster,345
+Rockingham,Salem,Congressional,2,R,Robert Burns,7275
+Rockingham,Salem,Congressional,2,D,Ann McLane Kuster,5560
+Rockingham,Salem,Congressional,2,,Scatter,13
+Merrimack,Salisbury,Congressional,2,R,Robert Burns,418
+Merrimack,Salisbury,Congressional,2,D,Ann McLane Kuster,345
+Merrimack,Salisbury,Congressional,2,,Scatter,1
+Carroll,Sandwich,Congressional,2,R,Robert Burns,340
+Carroll,Sandwich,Congressional,2,D,Ann McLane Kuster,665
+Carroll,Sandwich,Congressional,2,,Scatter,0
+Coos,Sargent's Purchase,Congressional,2,R,Robert Burns,0
+Coos,Sargent's Purchase,Congressional,2,D,Ann McLane Kuster,0
+Coos,Sargent's Purchase,Congressional,2,,Scatter,0
+Coos,Second College Grant,Congressional,2,R,Robert Burns,0
+Coos,Second College Grant,Congressional,2,D,Ann McLane Kuster,0
+Coos,Second College Grant,Congressional,2,,Scatter,0
+Hillsborough,Sharon,Congressional,2,R,Robert Burns,103
+Hillsborough,Sharon,Congressional,2,D,Ann McLane Kuster,132
+Hillsborough,Sharon,Congressional,2,,Scatter,1
+Coos,Shelburne,Congressional,2,R,Robert Burns,121
+Coos,Shelburne,Congressional,2,D,Ann McLane Kuster,105
+Coos,Shelburne,Congressional,2,,Scatter,0
+Sullivan,Springfield,Congressional,2,R,Robert Burns,363
+Sullivan,Springfield,Congressional,2,D,Ann McLane Kuster,389
+Sullivan,Springfield,Congressional,2,,Scatter,0
+Coos,Stark,Congressional,2,R,Robert Burns,164
+Coos,Stark,Congressional,2,D,Ann McLane Kuster,87
+Coos,Stark,Congressional,2,,Scatter,0
+Coos,Stewartstown,Congressional,2,R,Robert Burns,215
+Coos,Stewartstown,Congressional,2,D,Ann McLane Kuster,82
+Coos,Stewartstown,Congressional,2,,Scatter,1
+Cheshire,Stoddard,Congressional,2,R,Robert Burns,340
+Cheshire,Stoddard,Congressional,2,D,Ann McLane Kuster,369
+Cheshire,Stoddard,Congressional,2,,Scatter,1
+Coos,Stratford,Congressional,2,R,Robert Burns,115
+Coos,Stratford,Congressional,2,D,Ann McLane Kuster,133
+Coos,Stratford,Congressional,2,,Scatter,0
+Coos,Success,Congressional,2,R,Robert Burns,0
+Coos,Success,Congressional,2,D,Ann McLane Kuster,0
+Coos,Success,Congressional,2,,Scatter,0
+Grafton,Sugar Hill,Congressional,2,R,Robert Burns,132
+Grafton,Sugar Hill,Congressional,2,D,Ann McLane Kuster,285
+Grafton,Sugar Hill,Congressional,2,,Scatter,0
+Cheshire,Sullivan,Congressional,2,R,Robert Burns,142
+Cheshire,Sullivan,Congressional,2,D,Ann McLane Kuster,174
+Cheshire,Sullivan,Congressional,2,,Scatter,2
+Sullivan,Sunapee,Congressional,2,R,Robert Burns,930
+Sullivan,Sunapee,Congressional,2,D,Ann McLane Kuster,1095
+Sullivan,Sunapee,Congressional,2,,Scatter,1
+Cheshire,Surry,Congressional,2,R,Robert Burns,179
+Cheshire,Surry,Congressional,2,D,Ann McLane Kuster,259
+Cheshire,Surry,Congressional,2,,Scatter,2
+Merrimack,Sutton,Congressional,2,R,Robert Burns,478
+Merrimack,Sutton,Congressional,2,D,Ann McLane Kuster,652
+Merrimack,Sutton,Congressional,2,,Scatter,3
+Cheshire,Swanzey,Congressional,2,R,Robert Burns,1363
+Cheshire,Swanzey,Congressional,2,D,Ann McLane Kuster,1672
+Cheshire,Swanzey,Congressional,2,,Scatter,6
+Hillsborough,Temple,Congressional,2,R,Robert Burns,353
+Hillsborough,Temple,Congressional,2,D,Ann McLane Kuster,437
+Hillsborough,Temple,Congressional,2,,Scatter,0
+Coos,Thomp. and Mes's Pur.,Congressional,2,R,Robert Burns,0
+Coos,Thomp. and Mes's Pur.,Congressional,2,D,Ann McLane Kuster,0
+Coos,Thomp. and Mes's Pur.,Congressional,2,,Scatter,0
+Grafton,Thornton,Congressional,2,R,Robert Burns,616
+Grafton,Thornton,Congressional,2,D,Ann McLane Kuster,818
+Grafton,Thornton,Congressional,2,,Scatter,2
+Cheshire,Troy,Congressional,2,R,Robert Burns,435
+Cheshire,Troy,Congressional,2,D,Ann McLane Kuster,380
+Cheshire,Troy,Congressional,2,,Scatter,0
+Sullivan,Unity,Congressional,2,R,Robert Burns,390
+Sullivan,Unity,Congressional,2,D,Ann McLane Kuster,261
+Sullivan,Unity,Congressional,2,,Scatter,0
+Cheshire,Walpole,Congressional,2,R,Robert Burns,655
+Cheshire,Walpole,Congressional,2,D,Ann McLane Kuster,1221
+Cheshire,Walpole,Congressional,2,,Scatter,0
+Merrimack,Warner,Congressional,2,R,Robert Burns,638
+Merrimack,Warner,Congressional,2,D,Ann McLane Kuster,932
+Merrimack,Warner,Congressional,2,,Scatter,0
+Grafton,Warren,Congressional,2,R,Robert Burns,207
+Grafton,Warren,Congressional,2,D,Ann McLane Kuster,163
+Grafton,Warren,Congressional,2,,Scatter,0
+Sullivan,Washington,Congressional,2,R,Robert Burns,358
+Sullivan,Washington,Congressional,2,D,Ann McLane Kuster,309
+Sullivan,Washington,Congressional,2,,Scatter,0
+Grafton,Waterville Valley,Congressional,2,R,Robert Burns,156
+Grafton,Waterville Valley,Congressional,2,D,Ann McLane Kuster,199
+Grafton,Waterville Valley,Congressional,2,,Scatter,0
+Hillsborough,Weare,Congressional,2,R,Robert Burns,2446
+Hillsborough,Weare,Congressional,2,D,Ann McLane Kuster,1813
+Hillsborough,Weare,Congressional,2,,Scatter,1
+Merrimack,Webster,Congressional,2,R,Robert Burns,495
+Merrimack,Webster,Congressional,2,D,Ann McLane Kuster,499
+Merrimack,Webster,Congressional,2,,Scatter,1
+Grafton,Wentworth,Congressional,2,R,Robert Burns,285
+Grafton,Wentworth,Congressional,2,D,Ann McLane Kuster,210
+Grafton,Wentworth,Congressional,2,,Scatter,1
+Coos,Wentworth's Location,Congressional,2,R,Robert Burns,14
+Coos,Wentworth's Location,Congressional,2,D,Ann McLane Kuster,5
+Coos,Wentworth's Location,Congressional,2,,Scatter,0
+Cheshire,Westmoreland,Congressional,2,R,Robert Burns,346
+Cheshire,Westmoreland,Congressional,2,D,Ann McLane Kuster,561
+Cheshire,Westmoreland,Congressional,2,,Scatter,0
+Coos,Whitefield,Congressional,2,R,Robert Burns,507
+Coos,Whitefield,Congressional,2,D,Ann McLane Kuster,571
+Coos,Whitefield,Congressional,2,,Scatter,3
+Merrimack,Wilmot,Congressional,2,R,Robert Burns,303
+Merrimack,Wilmot,Congressional,2,D,Ann McLane Kuster,514
+Merrimack,Wilmot,Congressional,2,,Scatter,2
+Hillsborough,Wilton,Congressional,2,R,Robert Burns,843
+Hillsborough,Wilton,Congressional,2,D,Ann McLane Kuster,1073
+Hillsborough,Wilton,Congressional,2,,Scatter,6
+Cheshire,Winchester,Congressional,2,R,Robert Burns,697
+Cheshire,Winchester,Congressional,2,D,Ann McLane Kuster,757
+Cheshire,Winchester,Congressional,2,,Scatter,1
+Rockingham,Windham,Congressional,2,R,Robert Burns,4034
+Rockingham,Windham,Congressional,2,D,Ann McLane Kuster,3425
+Rockingham,Windham,Congressional,2,,Scatter,9
+Hillsborough,Windsor,Congressional,2,R,Robert Burns,72
+Hillsborough,Windsor,Congressional,2,D,Ann McLane Kuster,24
+Hillsborough,Windsor,Congressional,2,,Scatter,0
+Grafton,Woodstock,Congressional,2,R,Robert Burns,281
+Grafton,Woodstock,Congressional,2,D,Ann McLane Kuster,382
+Grafton,Woodstock,Congressional,2,,Scatter,0
