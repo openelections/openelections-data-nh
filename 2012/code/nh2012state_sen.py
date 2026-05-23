@@ -106,7 +106,7 @@ for url in urls:
                 if(any(['Dist' in str(x.value) for x in ws.row(row)])):
                     district_name=[x.value for x in ws.row(row) if 'Dist' in str(x.value)][0]
                     district=re.search('[0-9]+',district_name).group(0)
-                    print district
+                    print(district)
                     results_dict[district]=dict()
                     header_row=1
             except Exception:

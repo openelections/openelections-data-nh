@@ -1,0 +1,14 @@
+[project]
+name = "openelections-data-nh"
+version = "0.0.0"
+description = "Scrapers and parsers that produce CSVs of New Hampshire election results for the OpenElections project."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "beautifulsoup4",
+    "requests",
+    "xlrd",
+]
+
+[tool.uv]
+package = false

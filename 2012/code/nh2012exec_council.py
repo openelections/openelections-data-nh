@@ -114,7 +114,7 @@ for sheet in sheets:
                         else:
                             results_dict[district][town][candidate]=int(value)
                 elif(town.lower()=='totals'):
-                    print district, row, ws.row(row),cols_dict.keys()
+                    print(district, row, ws.row(row), cols_dict.keys())
 #                    for col in cols_dict:
 #                        candidate=cols_dict[col]
 #                        if(candidate in candidate_dict):
