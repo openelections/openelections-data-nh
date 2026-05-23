@@ -69,11 +69,11 @@ for url in urls:
                     value=ws.cell(row,col).value
                     if('Dist' in value):
                         district=re.search('[0-9]+(?=\s+\()',value).group(0)
-                        print district
+                        print(district)
                         results_dict[district]=dict()
                     elif('Dover Ward 15' in value):
                         district='15'
-                        print district
+                        print(district)
                         results_dict[district]=dict()
                     elif('Scatter' in value or 'Scattter' in value):
                         candidate_dict['Scatter']=dict()
