@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 *.pyc
+
+# Cloned by scripts/run-data-tests.sh, pinned to the version used in CI.
+.data_tests/
