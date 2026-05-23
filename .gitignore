@@ -4,3 +4,8 @@ __pycache__/
 
 # Cloned by scripts/run-data-tests.sh, pinned to the version used in CI.
 .data_tests/
+
+# Tom's global ~/.gitignore excludes .claude/* by default, but we want
+# project-specific Claude notes tracked here so they survive clones.
+!.claude/
+!.claude/**
