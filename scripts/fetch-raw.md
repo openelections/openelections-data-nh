@@ -13,24 +13,29 @@ parsers run. Manually downloading new files once per election cycle is fine.
 
 ## File naming convention
 
-The framework auto-discovers files in a job's `folder` (e.g.
-`raw/2024/general/`) based on this convention:
+Strip every SoS file down to a canonical short-form name when committing:
 
-```text
-<office_slug>.xls[x]              # single statewide file
-<office_slug>-<location>.xls[x]   # many files, one per county or district
-```
-
-Where:
-
-- `<office_slug>` is one of: `president`, `us-senate`, `governor`, `congressional`
-- `<location>` is either a county slug (`belknap`, `carroll`, `cheshire`, `coos`,
-  `grafton`, `hillsborough`, `merrimack`, `rockingham`, `strafford`, `sullivan`)
-  or a district identifier (`1`, `2`, `cd-1`, etc. — the framework extracts
-  the leading digits)
+| Office | Source layout | Committed filename(s) |
+| --- | --- | --- |
+| President | one statewide workbook | `president.xls[x]` |
+| Governor | one statewide workbook | `governor.xls[x]` |
+| US Senate | one statewide workbook | `us-senate.xls[x]` |
+| Congressional | one workbook per CD | `congressional-1.xls[x]`, `congressional-2.xls[x]` |
+| Executive Council | one statewide workbook (5 sheets, one per district) | `executive-council.xls[x]` |
+| State Senate | one statewide workbook (15–16 sheets, mix of one-and many-district) | `state-senate.xls[x]` |
+| State Representative | one workbook per county | `house-belknap.xls[x]`, `house-carroll.xls[x]`, … (10 files) |
 
 The extension can be `.xls` or `.xlsx`. The framework dispatches on file
 content (magic bytes) so the extension can mislabel the actual format.
+
+Drop the `_N` revision suffix the SoS adds. Drop the `<year>-ge-` prefix
+the SoS adds. The short canonical names above are what every Job points at.
+
+Auto-discovery (`Job.auto_discover=True`) only finds files matching
+`<office_slug>.xls[x]` or `<office_slug>-<location>.xls[x]` and only
+produces `CongressionalConfig`s. For shapes that need other configs
+(`StatewideByCountyConfig`, `ExecutiveCouncilConfig`, etc.) list the file
+explicitly in `Job.files=`.
 
 ## Procedure
 
@@ -45,77 +50,57 @@ content (magic bytes) so the extension can mislabel the actual format.
    Primary (presidential years only), State Primary, and General. Visit
    each sub-page in turn.
 
-3. Download every workbook linked under the offices we care about
-   (President, US Senate, Governor, Congressional District 1 & 2).
+3. Download every workbook linked under the offices we cover (President,
+   US Senate, Governor, Congressional, Executive Council, State Senate,
+   State Representative).
 
 4. Place each downloaded file under `raw/<year>/<election>/` using a name
-   that matches the convention. **Drop the `_N` revision suffix** that the
-   SoS site appends. Example layout for 2024 General:
+   from the canonical-name table above. Example layout for 2024 General:
 
    ```text
    raw/2024/general/
-     us-senate.xlsx
-     governor-belknap.xls
-     governor-carroll.xls
-     ... (one per county)
-     president-belknap.xls
-     ... (one per county)
-     congressional-1.xlsx     # CD1, possibly statewide single file
-     congressional-2.xlsx     # CD2
+     president.xls
+     governor.xls
+     us-senate.xls            # (2024 had no US Senate; example only)
+     congressional-1.xlsx
+     congressional-2.xlsx
+     executive-council.xls
+     state-senate.xls
+     house-belknap.xls
+     house-carroll.xlsx
+     ... (8 more counties)
    ```
 
-   If the actual SoS file is split a different way (e.g. President as one
-   statewide file, no per-county split), use that shape — the framework
-   handles both. Just keep the office slug as the filename prefix.
-
-5. Register a `Job` for each office in `oe_nh/jobs/nh_<year>.py`. A complete
-   example for 2024 General Governor:
+5. Register a `Job` for each office in `oe_nh/jobs/nh_<year>.py`, picking
+   the right config dataclass per office shape (see "File shapes" below):
 
    ```python
-   from oe_nh.jobs import Job
+   from oe_nh.jobs import Job, house_files
+   from oe_nh.parser import (
+       CongressionalConfig,
+       ExecutiveCouncilConfig,
+       StateSenateConfig,
+       StatewideByCountyConfig,
+   )
+
+   _GENERAL = "raw/2024/general"
 
    JOBS: list[Job] = [
-       Job(
-           office_slug="governor",
-           office_name="Governor",
-           election="general",
-           date="20241105",
-           output_basename="general__governor__precinct",
-           folder="raw/2024/general",
-       ),
-       # ... more Jobs for president, us-senate, congressional
+       Job(office_slug="president", office_name="President",
+           election="general", date="20241105",
+           output_basename="general__president__precinct",
+           folder=_GENERAL,
+           files=[("president.xls", StatewideByCountyConfig(office="President", header_row=2))],
+           auto_discover=False),
+       Job(office_slug="executive-council", office_name="Executive Council",
+           election="general", date="20241105",
+           output_basename="general__executive__council__precinct",
+           folder=_GENERAL,
+           files=[("executive-council.xls", ExecutiveCouncilConfig())],
+           auto_discover=False),
+       # ... and so on for the other 5 offices
    ]
    ```
-
-   Because `auto_discover` defaults to `True`, every file in
-   `raw/2024/general/` that matches `governor.xls[x]` or
-   `governor-<county>.xls[x]` is picked up automatically. **No need to list
-   each file by hand.**
-
-   If a particular file doesn't match the convention (e.g. SoS published a
-   weird filename you don't want to rename), add it explicitly via `files`:
-
-   ```python
-   Job(
-       office_slug="president",
-       office_name="President",
-       election="general",
-       date="20241105",
-       output_basename="general__president__precinct",
-       folder="raw/2024/general",
-       files=[
-           # Override the discovered config for this one file:
-           ("president-strafford.xls",
-            ParserConfig(office="President", county="Strafford", header_row=4)),
-           # Or add a file that doesn't match the auto-discovery convention:
-           ("special-recount-grafton-7.xlsx",
-            ParserConfig(office="President", county="Grafton")),
-       ],
-   )
-   ```
-
-   The explicit list is merged with auto-discovery; entries in `files`
-   override the discovered config when the filename matches.
 
 6. Run the parser:
 
@@ -123,80 +108,110 @@ content (magic bytes) so the extension can mislabel the actual format.
    uv run python -m oe_nh.cli --year 2024 --election general --office governor
    ```
 
-7. The CSV lands under `<year>/<date>__nh__<output_basename>.csv`, matching
-   the existing repo convention.
+   `--year` and `--office` choices are auto-derived from the registered
+   year modules + Jobs, so adding a new year/office shows up in `--help`
+   without touching `cli.py`.
 
-8. Run the data tests against the new CSV to catch anything obviously wrong:
+7. The CSV lands under `<year>/<date>__nh__<output_basename>.csv`.
+
+8. Run the data tests:
 
    ```bash
    scripts/run-data-tests.sh
    ```
 
-## Notes on file shapes
+   Pre-existing failures in 2014/2016/2018/2020 CSVs are tracked
+   separately (legacy data, not generated by this framework). Any new
+   failure in a 2022/2024 CSV needs investigation.
 
-NH SoS files come in three flavors. Examples are from 2024 General:
+## File shapes
 
-### 1. Single-sheet by-district workbook (Congressional)
+NH SoS files come in five shapes. Pick the matching config dataclass:
 
-One workbook per CD; one sheet inside; one row per town. Example:
-`congressional-1.xlsx` (CD1), `congressional-2.xlsx` (CD2). The source
-data has no county column, so the Job opts into town→county backfill:
+### 1. `CongressionalConfig` — single sheet, towns down col 0
+
+One workbook per district; one sheet; one row per town. Source has no
+county column, so opt into town→county backfill:
 
 ```python
-ParserConfig(
-    office="Congressional",
-    district="1",
-    header_row=2,
+CongressionalConfig(
+    office="Congressional", district="1", header_row=2,
     lookup_county_from_town=True,
 )
 ```
 
-### 2. Multi-sheet workbook with one or more county sections per sheet (President, Governor, US Senate)
+### 2. `StatewideByCountyConfig` — multi-sheet, county sections
 
 One workbook covers the whole state. Most sheets contain one county's
 town-level data. Some sheets combine multiple sections — the NH 2022
-Governor and US Senator files merge Summary+Belknap into sheet 0 and
-Strafford+Sullivan into the last sheet, separated by section-header
-rows.
+Governor and US Senate files merge Summary+Belknap into sheet 0 and
+Strafford+Sullivan into the last sheet.
 
-A section header is detected by scanning every row in each sheet: any
-row whose first cell (after stripping a trailing `" County"`) matches
-a known NH county is treated as the start of a new section, and the
-same row is also that section's candidate-header. `"Summary By
-Counties"` is in the default `skip_sheet_markers` set and silently
-skipped. Each section ends at the next section header (or end of sheet);
-internal `TOTALS` / `Totals` rows are filtered by `skip_town_values`.
-
-A data row inside the Summary block (e.g. `["Belknap", 20499, ...]`)
-is NOT mistaken for a section header because the cell to the right of
-the county name is numeric rather than a candidate label.
+A section header is detected by scanning every row in each sheet for a
+first cell that matches a known NH county (with or without `" County"`
+suffix) AND has a candidate-like label in cell 1. `"Summary By Counties"`
+is in the default skip set. Each section ends at the next section header
+(or end of sheet); `TOTALS` rows are filtered.
 
 ```python
-ParserConfig(
-    office="President",
-    header_row=2,
-    multi_sheet=True,
+StatewideByCountyConfig(office="President", header_row=2)
+```
+
+### 3. `ExecutiveCouncilConfig` — multi-sheet, one district per sheet
+
+Five sheets named `council 1` through `council 5`. District is parsed
+from the sheet name. All defaults are pinned to the canonical SoS
+Executive Council layout, so usually a bare `ExecutiveCouncilConfig()`
+is enough.
+
+### 4. `StateSenateConfig` — multi-sheet, district sections per sheet
+
+15–16 sheets. Most hold one district (`senate 1` … `senate 9`), some
+bundle 2–3 districts back-to-back (`senate 10 and 11`, `Senate 14 - 16`,
+…). Sections are marked by a `State Senate District N` row; the
+candidate header sits one row below. A stray `Sheet1` tab (2024) is
+silently skipped. Inline `Recount` and `BLC` columns are dropped.
+Usually `StateSenateConfig()` works as-is.
+
+### 5. `StateRepresentativeConfig` — per-county file, many districts per sheet
+
+One workbook per county (10 files). Each sheet has many sections marked
+by `District No. N (M) [F|FL]` in col 0, where M is the seat count and
+the optional F/FL marks a floterial district (normalized to `NF` in
+output). Multi-seat districts have stacked candidate stripes
+(continuation rows with blank col 0 followed by more candidates for the
+same district). Inline `Recount`/`BLC` columns are dropped. Sections
+marked `RECOUNT FIGURES` (2024 Strafford) are skipped entirely so we
+ship certified counts only.
+
+Build the per-county Job entries with the shared helper:
+
+```python
+from oe_nh.jobs import Job, house_files
+
+Job(
+    office_slug="state-representative", office_name="State Representative",
+    election="general", date="20241105",
+    output_basename="general__state__representative__precinct",
+    folder="raw/2024/general",
+    files=house_files(xlsx_counties=frozenset({
+        "carroll", "grafton", "merrimack", "rockingham", "sullivan",
+    })),  # NH SoS mixes .xls and .xlsx year-to-year
+    auto_discover=False,
 )
 ```
 
-### 3. Single-sheet statewide (rare)
+### Special-case rows (apply to every shape)
 
-If SoS ever publishes a statewide race as one sheet with no per-county
-breakdown, the default `Parser` shape works directly: towns down column
-0, candidates across the header row. No multi-sheet, no backfill needed.
-
-### Special-case rows
-
-- The parser skips precinct rows whose value is `"TOTALS"`, `"Totals"`,
-  or `"Total"` by default — every NH SoS sheet has a county-totals row
-  at the bottom.
-- Internal whitespace in precinct names is collapsed (`"Concord  Ward 1"`
-  → `"Concord Ward 1"`).
+- `TOTALS` / `Totals` / `Total` precinct rows are skipped by default.
+- Internal whitespace in precinct names is collapsed
+  (`"Concord  Ward 1"` → `"Concord Ward 1"`). Same for candidate names
+  (`"WRITE-IN   Kathy DesRoches"` → `"WRITE-IN Kathy DesRoches"`).
 - `lookup_county_from_town=True` understands ward suffixes
   (`"Dover - Ward 3"` → looks up `"Dover"` → `Strafford`) and a small
-  alias map for unincorporated townships.
+  alias map in `oe_nh/mappings/town_to_county.py` for unincorporated
+  townships and SoS spelling variants.
 
-If a workbook doesn't match any of the three shapes (e.g. multi-district
-files like State House, where one sheet contains multiple districts
-separated by header rows), it needs a `Parser` subclass — see the design
-doc under `docs/superpowers/specs/`.
+If a workbook arrives in a shape that doesn't match any of the five
+above, add a new Parser + Config pair in `oe_nh/parser.py` and a new
+branch in `parse_workbook`. The existing parsers are good templates.
