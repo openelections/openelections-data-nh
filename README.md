@@ -36,25 +36,36 @@ To re-build just one office (for debugging), pass `--office`:
 uv run python -m oe_nh.cli --year 2024 --office governor
 ```
 
-`--year` and `--office` auto-derive their available choices from the
-`oe_nh/jobs/nh_<year>.py` registry, so adding a new year just makes it
-show up.
+`--year` auto-derives from `raw/<year>/.dates.json` files (created by
+`new-year`, see below). `--office` accepts any office slug the framework
+knows; whether files exist for that office in this year is reported in
+the build's pre-flight scan, not at argument-parse time.
 
 ### Adding a new election year
 
 NH SoS publishes new election workbooks roughly six weeks after the
-election. To add a year (say 2026):
+election. To add a year (say 2026), three commands total:
 
-1. **Download** the source workbooks from the SoS site
+1. **Scaffold the year:**
+
+   ```bash
+   uv run python -m oe_nh.cli new-year 2026
+   ```
+
+   It'll prompt for the General election date (or you can pass
+   `--general 2026-11-03`), create `raw/2026/general/` and `2026/`
+   directories, and persist the date in `raw/2026/.dates.json`.
+
+2. **Download** the source workbooks from the SoS site
    (<https://www.sos.nh.gov/elections>). Under the "Elections" box
    there will be a link for "[year] Election Results"; click that and
    then the "[year] General Election Results" link (unless you're
    working on primaries). One workbook per office, except State
    Representative which is 10 files (one per county). See
    [scripts/fetch-raw.md](scripts/fetch-raw.md) for the per-office
-   download links and source-file shape details.
+   download details.
 
-2. **Drop** the downloaded files into `raw/2026/general/`. You don't
+   **Drop the downloaded files into `raw/2026/general/`.** You don't
    have to rename them — the framework recognizes both canonical
    short-form names and the longer names the SoS publishes
    (`2026-ge-house-belknap_1.xls` and `house-belknap.xls` both work).
@@ -72,24 +83,11 @@ election. To add a year (say 2026):
 
    The build command's pre-flight scan tells you which files matched
    which office (and which weren't recognized), so any naming mistake
-   is surfaced before parsing starts.
+   is surfaced before parsing starts. Offices that aren't on the
+   year's ballot (e.g. no Presidential in midterms) just show up as
+   `⚠️ skipped` in the summary — not an error.
 
-3. **Register the year** by copying `oe_nh/jobs/nh_2024.py` to
-   `oe_nh/jobs/nh_2026.py` and editing two values at the top:
-
-   ```python
-   GENERAL_FOLDER = "raw/2026/general"
-   GENERAL_DATE   = "20261103"        # the election date, YYYYMMDD
-   ```
-
-   Each Job stub in the file is already shape-agnostic —
-   auto-discovery picks the right parser for each office (see
-   [scripts/fetch-raw.md](scripts/fetch-raw.md) for the dispatch
-   table). If a particular file needs non-canonical config knobs (e.g.
-   the SoS publishes a workbook with the header on row 4 instead of
-   row 2), override in that Job's `files=` block.
-
-4. **Build all six offices in one shot:**
+3. **Build everything in one shot:**
 
    ```bash
    uv run python -m oe_nh.cli --year 2026
@@ -101,10 +99,12 @@ election. To add a year (say 2026):
    land under `2026/`. Anything missing or surprising is reported
    once, in the summary — no need to scroll through logs.
 
-5. **Commit** the new raw files (`raw/2026/general/*.xls*`) AND the
-   generated CSVs (`2026/*.csv`). Both belong in version control: raw
-   files so the build is reproducible, CSVs because they're the
-   published product OpenElections consumes.
+4. **Commit** the new raw files (`raw/2026/general/*.xls*`) AND the
+   generated CSVs (`2026/*.csv`) AND `raw/2026/.dates.json`. All three
+   belong in version control: raw files so the build is reproducible,
+   CSVs because they're the published product OpenElections consumes,
+   and the dates file because it's what tells the framework this year
+   is registered.
 
 ### Output conventions
 
@@ -117,15 +117,18 @@ election. To add a year (say 2026):
 
 ### Architecture in one paragraph
 
-`oe_nh/cli.py` is the orchestrator: it loads `oe_nh/jobs/nh_<year>.py`,
-runs all matching Jobs (or just the one matching `--office`), calls
-`oe_nh/discovery.py` to find raw files and build per-shape configs,
-runs each through `oe_nh/parser.py`, and writes CSVs via
-`oe_nh/writer.py`. `discovery.py` strips common SoS filename
-decorations (year prefix, election prefix, `_N` revision suffix,
-`-district-N-M` suffix) before matching, so you can drop SoS-named
-files in `raw/` without renaming. Each NH-SoS reporting shape has its
-own purpose-named Parser + Config dataclass (`CongressionalParser`,
+`oe_nh/cli.py` is the orchestrator: it derives Jobs at runtime by
+scanning `raw/<year>/<election>/` and reading the election date from
+`raw/<year>/.dates.json`, then calls `oe_nh/discovery.py` to find raw
+files and build per-shape configs, runs each through
+`oe_nh/parser.py`, and writes CSVs via `oe_nh/writer.py`. There are
+no year-specific Python modules — adding a year is just `new-year
+<year>` (creates the dates.json and folders) followed by dropping
+files. `discovery.py` strips common SoS filename decorations (year
+prefix, election prefix, `_N` revision suffix, `-district-N-M`
+suffix) before matching, so SoS-named files work alongside canonical
+short forms. Each NH-SoS reporting shape has its own purpose-named
+Parser + Config dataclass (`CongressionalParser`,
 `StatewideByCountyParser`, `ExecutiveCouncilParser`,
 `StateSenateParser`, `StateRepresentativeParser`); the
 `parse_workbook(path, config)` factory dispatches on config type. Add a

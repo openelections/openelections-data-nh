@@ -11,11 +11,14 @@ human step — automation would mean either reverse-engineering the SoS
 anti-bot layer or burning credits on a real-browser tool every time the
 parsers run. Manually downloading new files once per election cycle is fine.
 
-## File naming convention
+## File naming
 
-Strip every SoS file down to a canonical short-form name when committing:
+The discovery layer accepts BOTH the canonical short-form names AND the
+longer names the SoS publishes (with year/election/revision/district-range
+decorations). You don't have to rename downloaded files — drop them in
+`raw/<year>/<election>/` as-is. The canonical short-forms for reference:
 
-| Office | Source layout | Committed filename(s) |
+| Office | Source layout | Canonical filename(s) |
 | --- | --- | --- |
 | President | one statewide workbook | `president.xls[x]` |
 | Governor | one statewide workbook | `governor.xls[x]` |
@@ -28,14 +31,10 @@ Strip every SoS file down to a canonical short-form name when committing:
 The extension can be `.xls` or `.xlsx`. The framework dispatches on file
 content (magic bytes) so the extension can mislabel the actual format.
 
-Drop the `_N` revision suffix the SoS adds. Drop the `<year>-ge-` prefix
-the SoS adds. The short canonical names above are what every Job points at.
-
-Auto-discovery (`Job.auto_discover=True`) only finds files matching
-`<office_slug>.xls[x]` or `<office_slug>-<location>.xls[x]` and only
-produces `CongressionalConfig`s. For shapes that need other configs
-(`StatewideByCountyConfig`, `ExecutiveCouncilConfig`, etc.) list the file
-explicitly in `Job.files=`.
+SoS forms the discovery layer also matches: `<year>-ge-<office>_<N>.xls`,
+`<year>-<office>-district-<N>-<M>_<rev>.xls`,
+`<office>-district-<N>.xlsx`. See `oe_nh/discovery._normalize_sos_stem`
+for the full normalization rules.
 
 ## Procedure
 
@@ -71,56 +70,28 @@ explicitly in `Job.files=`.
      ... (8 more counties)
    ```
 
-5. Register a `Job` for each office in `oe_nh/jobs/nh_<year>.py`.
-   Auto-discovery is the default: for known office slugs (the seven covered
-   above), the framework finds the right files in `folder` and builds the
-   right Config dataclass automatically. Most Jobs need no `files=` block:
+5. Register the year (only needed for years not already on disk):
 
-   ```python
-   from oe_nh.jobs import Job
-
-   _GENERAL = "raw/2024/general"
-
-   JOBS: list[Job] = [
-       Job(office_slug="president", office_name="President",
-           election="general", date="20241105",
-           output_basename="general__president__precinct",
-           folder=_GENERAL),
-       Job(office_slug="executive-council", office_name="Executive Council",
-           election="general", date="20241105",
-           output_basename="general__executive__council__precinct",
-           folder=_GENERAL),
-       # ... and so on for the other 5 offices
-   ]
+   ```bash
+   uv run python -m oe_nh.cli new-year 2024 --general 2024-11-05
    ```
 
-   The dispatch table in `oe_nh/discovery.py` knows which Config to build
-   per office slug. To override (e.g. a non-canonical filename or a custom
-   header_row), import the specific Config and supply it explicitly:
-
-   ```python
-   from oe_nh.parser import StatewideByCountyConfig
-
-   Job(office_slug="president", office_name="President",
-       election="general", date="20241105",
-       output_basename="general__president__precinct",
-       folder=_GENERAL,
-       files=[("weird-president-name.xls",
-               StatewideByCountyConfig(office="President", header_row=4))])
-   ```
-
-   Explicit entries in `files=` win over auto-discovered ones at the same
-   filename; entries with new filenames are added.
+   This creates `raw/2024/general/`, `2024/`, and persists the date in
+   `raw/2024/.dates.json`. There are no year-specific Python modules to
+   write — Jobs are derived at runtime from the dispatch table in
+   `oe_nh/discovery.py` plus the dates file.
 
 6. Run the parser:
 
    ```bash
-   uv run python -m oe_nh.cli --year 2024 --election general --office governor
+   uv run python -m oe_nh.cli --year 2024            # build all offices
+   uv run python -m oe_nh.cli --year 2024 --office governor   # single office
    ```
 
-   `--year` and `--office` choices are auto-derived from the registered
-   year modules + Jobs, so adding a new year/office shows up in `--help`
-   without touching `cli.py`.
+   `--year` choices auto-derive from `raw/<year>/.dates.json` files;
+   `--office` accepts any slug in the dispatch table. The build prints
+   a pre-flight scan of the raw folder and a trailing summary with row
+   counts per office.
 
 7. The CSV lands under `<year>/<date>__nh__<output_basename>.csv`.
 

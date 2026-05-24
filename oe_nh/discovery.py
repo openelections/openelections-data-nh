@@ -80,6 +80,9 @@ def _normalize_sos_stem(stem: str) -> str:
 class _OfficeDispatch:
     """How to find files and build configs for one office slug.
 
+    `display_name` is the human-readable office name that ends up in the
+    `office` column of every output row (e.g. 'State Representative').
+
     `filename_pattern` is one of:
     - 'statewide': matches `<office_slug>.xls[x]` only.
     - 'congressional': matches `<office_slug>-<digits>.xls[x]`, captures the
@@ -90,30 +93,35 @@ class _OfficeDispatch:
     `config_factory(office_name, location)` builds the Config for one match.
     `location` is the captured digits or county; the empty string for statewide.
     """
+    display_name: str
     filename_pattern: str
     config_factory: Callable[[str, str], ParserConfig]
 
 
 _DISPATCH: dict[str, _OfficeDispatch] = {
     "president": _OfficeDispatch(
+        display_name="President",
         filename_pattern="statewide",
         config_factory=lambda office_name, _loc: StatewideByCountyConfig(
             office=office_name, header_row=2,
         ),
     ),
     "governor": _OfficeDispatch(
+        display_name="Governor",
         filename_pattern="statewide",
         config_factory=lambda office_name, _loc: StatewideByCountyConfig(
             office=office_name, header_row=2,
         ),
     ),
     "us-senate": _OfficeDispatch(
+        display_name="US Senate",
         filename_pattern="statewide",
         config_factory=lambda office_name, _loc: StatewideByCountyConfig(
             office=office_name, header_row=2,
         ),
     ),
     "congressional": _OfficeDispatch(
+        display_name="Congressional",
         filename_pattern="congressional",
         config_factory=lambda office_name, district: CongressionalConfig(
             office=office_name, district=district, header_row=2,
@@ -121,24 +129,38 @@ _DISPATCH: dict[str, _OfficeDispatch] = {
         ),
     ),
     "executive-council": _OfficeDispatch(
+        display_name="Executive Council",
         filename_pattern="statewide",
         config_factory=lambda office_name, _loc: ExecutiveCouncilConfig(
             office=office_name,
         ),
     ),
     "state-senate": _OfficeDispatch(
+        display_name="State Senate",
         filename_pattern="statewide",
         config_factory=lambda office_name, _loc: StateSenateConfig(
             office=office_name,
         ),
     ),
     "state-representative": _OfficeDispatch(
+        display_name="State Representative",
         filename_pattern="house-county",
         config_factory=lambda office_name, county: StateRepresentativeConfig(
             office=office_name, county=county,
         ),
     ),
 }
+
+
+def office_display_name(slug: str) -> str | None:
+    """Canonical human-readable name for an office slug, or None if unknown."""
+    dispatch = _DISPATCH.get(slug)
+    return dispatch.display_name if dispatch else None
+
+
+def registered_office_slugs() -> list[str]:
+    """All office slugs known to the dispatch table, in registration order."""
+    return list(_DISPATCH.keys())
 
 
 def discover_files(
