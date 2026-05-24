@@ -1,0 +1,2131 @@
+county,precinct,office,district,party,candidate,votes
+Belknap,Alton,President,,D,Kamala D. Harris and Tim Walz,1553
+Belknap,Alton,President,,R,Donald J. Trump and JD Vance,2645
+Belknap,Alton,President,,L,Chase Oliver and Mike ter Maat,15
+Belknap,Alton,President,,G,Jill Stein and Rudolph Ware,11
+Belknap,Alton,President,,,Undervotes,21
+Belknap,Alton,President,,,Overvotes,0
+Belknap,Alton,President,,,Write-Ins,0
+Belknap,Barnstead,President,,D,Kamala D. Harris and Tim Walz,1208
+Belknap,Barnstead,President,,R,Donald J. Trump and JD Vance,1893
+Belknap,Barnstead,President,,L,Chase Oliver and Mike ter Maat,16
+Belknap,Barnstead,President,,G,Jill Stein and Rudolph Ware,11
+Belknap,Barnstead,President,,,Undervotes,16
+Belknap,Barnstead,President,,,Overvotes,0
+Belknap,Barnstead,President,,,Write-Ins,10
+Belknap,Belmont,President,,D,Kamala D. Harris and Tim Walz,1634
+Belknap,Belmont,President,,R,Donald J. Trump and JD Vance,2626
+Belknap,Belmont,President,,L,Chase Oliver and Mike ter Maat,22
+Belknap,Belmont,President,,G,Jill Stein and Rudolph Ware,22
+Belknap,Belmont,President,,,Undervotes,9
+Belknap,Belmont,President,,,Overvotes,0
+Belknap,Belmont,President,,,Write-Ins,20
+Belknap,Center Harbor,President,,D,Kamala D. Harris and Tim Walz,390
+Belknap,Center Harbor,President,,R,Donald J. Trump and JD Vance,419
+Belknap,Center Harbor,President,,L,Chase Oliver and Mike ter Maat,2
+Belknap,Center Harbor,President,,G,Jill Stein and Rudolph Ware,1
+Belknap,Center Harbor,President,,,Undervotes,7
+Belknap,Center Harbor,President,,,Overvotes,0
+Belknap,Center Harbor,President,,,Write-Ins,2
+Belknap,Gilford,President,,D,Kamala D. Harris and Tim Walz,2473
+Belknap,Gilford,President,,R,Donald J. Trump and JD Vance,2751
+Belknap,Gilford,President,,L,Chase Oliver and Mike ter Maat,17
+Belknap,Gilford,President,,G,Jill Stein and Rudolph Ware,18
+Belknap,Gilford,President,,,Undervotes,0
+Belknap,Gilford,President,,,Overvotes,40
+Belknap,Gilford,President,,,Write-Ins,28
+Belknap,Gilmanton,President,,D,Kamala D. Harris and Tim Walz,1035
+Belknap,Gilmanton,President,,R,Donald J. Trump and JD Vance,1611
+Belknap,Gilmanton,President,,L,Chase Oliver and Mike ter Maat,0
+Belknap,Gilmanton,President,,G,Jill Stein and Rudolph Ware,5
+Belknap,Gilmanton,President,,,Undervotes,19
+Belknap,Gilmanton,President,,,Overvotes,0
+Belknap,Gilmanton,President,,,Write-Ins,10
+Belknap,Laconia Ward 1,President,,D,Kamala D. Harris and Tim Walz,939
+Belknap,Laconia Ward 1,President,,R,Donald J. Trump and JD Vance,1095
+Belknap,Laconia Ward 1,President,,L,Chase Oliver and Mike ter Maat,16
+Belknap,Laconia Ward 1,President,,G,Jill Stein and Rudolph Ware,4
+Belknap,Laconia Ward 1,President,,,Undervotes,14
+Belknap,Laconia Ward 1,President,,,Overvotes,1
+Belknap,Laconia Ward 1,President,,,Write-Ins,8
+Belknap,Laconia Ward 2,President,,D,Kamala D. Harris and Tim Walz,651
+Belknap,Laconia Ward 2,President,,R,Donald J. Trump and JD Vance,696
+Belknap,Laconia Ward 2,President,,L,Chase Oliver and Mike ter Maat,7
+Belknap,Laconia Ward 2,President,,G,Jill Stein and Rudolph Ware,8
+Belknap,Laconia Ward 2,President,,,Undervotes,5
+Belknap,Laconia Ward 2,President,,,Overvotes,0
+Belknap,Laconia Ward 2,President,,,Write-Ins,1
+Belknap,Laconia Ward 3,President,,D,Kamala D. Harris and Tim Walz,854
+Belknap,Laconia Ward 3,President,,R,Donald J. Trump and JD Vance,665
+Belknap,Laconia Ward 3,President,,L,Chase Oliver and Mike ter Maat,6
+Belknap,Laconia Ward 3,President,,G,Jill Stein and Rudolph Ware,4
+Belknap,Laconia Ward 3,President,,,Undervotes,1
+Belknap,Laconia Ward 3,President,,,Overvotes,0
+Belknap,Laconia Ward 3,President,,,Write-Ins,3
+Belknap,Laconia Ward 4,President,,D,Kamala D. Harris and Tim Walz,592
+Belknap,Laconia Ward 4,President,,R,Donald J. Trump and JD Vance,760
+Belknap,Laconia Ward 4,President,,L,Chase Oliver and Mike ter Maat,9
+Belknap,Laconia Ward 4,President,,G,Jill Stein and Rudolph Ware,1
+Belknap,Laconia Ward 4,President,,,Undervotes,1
+Belknap,Laconia Ward 4,President,,,Overvotes,0
+Belknap,Laconia Ward 4,President,,,Write-Ins,4
+Belknap,Laconia Ward 5,President,,D,Kamala D. Harris and Tim Walz,513
+Belknap,Laconia Ward 5,President,,R,Donald J. Trump and JD Vance,752
+Belknap,Laconia Ward 5,President,,L,Chase Oliver and Mike ter Maat,9
+Belknap,Laconia Ward 5,President,,G,Jill Stein and Rudolph Ware,6
+Belknap,Laconia Ward 5,President,,,Undervotes,8
+Belknap,Laconia Ward 5,President,,,Overvotes,3
+Belknap,Laconia Ward 5,President,,,Write-Ins,4
+Belknap,Laconia Ward 6,President,,D,Kamala D. Harris and Tim Walz,772
+Belknap,Laconia Ward 6,President,,R,Donald J. Trump and JD Vance,1136
+Belknap,Laconia Ward 6,President,,L,Chase Oliver and Mike ter Maat,1
+Belknap,Laconia Ward 6,President,,G,Jill Stein and Rudolph Ware,4
+Belknap,Laconia Ward 6,President,,,Undervotes,6
+Belknap,Laconia Ward 6,President,,,Overvotes,0
+Belknap,Laconia Ward 6,President,,,Write-Ins,8
+Belknap,Meredith,President,,D,Kamala D. Harris and Tim Walz,2242
+Belknap,Meredith,President,,R,Donald J. Trump and JD Vance,2355
+Belknap,Meredith,President,,L,Chase Oliver and Mike ter Maat,21
+Belknap,Meredith,President,,G,Jill Stein and Rudolph Ware,13
+Belknap,Meredith,President,,,Undervotes,33
+Belknap,Meredith,President,,,Overvotes,0
+Belknap,Meredith,President,,,Write-Ins,16
+Belknap,New Hampton,President,,D,Kamala D. Harris and Tim Walz,748
+Belknap,New Hampton,President,,R,Donald J. Trump and JD Vance,898
+Belknap,New Hampton,President,,L,Chase Oliver and Mike ter Maat,11
+Belknap,New Hampton,President,,G,Jill Stein and Rudolph Ware,7
+Belknap,New Hampton,President,,,Undervotes,11
+Belknap,New Hampton,President,,,Overvotes,0
+Belknap,New Hampton,President,,,Write-Ins,4
+Belknap,Sanbornton,President,,D,Kamala D. Harris and Tim Walz,883
+Belknap,Sanbornton,President,,R,Donald J. Trump and JD Vance,1232
+Belknap,Sanbornton,President,,L,Chase Oliver and Mike ter Maat,7
+Belknap,Sanbornton,President,,G,Jill Stein and Rudolph Ware,9
+Belknap,Sanbornton,President,,,Undervotes,13
+Belknap,Sanbornton,President,,,Overvotes,0
+Belknap,Sanbornton,President,,,Write-Ins,8
+Belknap,Tilton,President,,D,Kamala D. Harris and Tim Walz,982
+Belknap,Tilton,President,,R,Donald J. Trump and JD Vance,1231
+Belknap,Tilton,President,,L,Chase Oliver and Mike ter Maat,14
+Belknap,Tilton,President,,G,Jill Stein and Rudolph Ware,9
+Belknap,Tilton,President,,,Undervotes,12
+Belknap,Tilton,President,,,Overvotes,1
+Belknap,Tilton,President,,,Write-Ins,10
+Carroll,Albany,President,,D,Kamala D. Harris and Tim Walz,253
+Carroll,Albany,President,,R,Donald J. Trump and JD Vance,194
+Carroll,Albany,President,,L,Chase Oliver and Mike ter Maat,3
+Carroll,Albany,President,,G,Jill Stein and Rudolph Ware,1
+Carroll,Albany,President,,,Undervotes,17
+Carroll,Albany,President,,,Overvotes,0
+Carroll,Albany,President,,,Write-Ins,1
+Carroll,Bartlett,President,,D,Kamala D. Harris and Tim Walz,1304
+Carroll,Bartlett,President,,R,Donald J. Trump and JD Vance,782
+Carroll,Bartlett,President,,L,Chase Oliver and Mike ter Maat,9
+Carroll,Bartlett,President,,G,Jill Stein and Rudolph Ware,8
+Carroll,Bartlett,President,,,Undervotes,13
+Carroll,Bartlett,President,,,Overvotes,4
+Carroll,Bartlett,President,,,Write-Ins,10
+Carroll,Brookfield,President,,D,Kamala D. Harris and Tim Walz,236
+Carroll,Brookfield,President,,R,Donald J. Trump and JD Vance,336
+Carroll,Brookfield,President,,L,Chase Oliver and Mike ter Maat,4
+Carroll,Brookfield,President,,G,Jill Stein and Rudolph Ware,2
+Carroll,Brookfield,President,,,Undervotes,6
+Carroll,Brookfield,President,,,Overvotes,0
+Carroll,Brookfield,President,,,Write-Ins,2
+Carroll,Chatham,President,,D,Kamala D. Harris and Tim Walz,113
+Carroll,Chatham,President,,R,Donald J. Trump and JD Vance,119
+Carroll,Chatham,President,,L,Chase Oliver and Mike ter Maat,1
+Carroll,Chatham,President,,G,Jill Stein and Rudolph Ware,1
+Carroll,Chatham,President,,,Undervotes,1
+Carroll,Chatham,President,,,Overvotes,0
+Carroll,Chatham,President,,,Write-Ins,0
+Carroll,Conway,President,,D,Kamala D. Harris and Tim Walz,3372
+Carroll,Conway,President,,R,Donald J. Trump and JD Vance,2529
+Carroll,Conway,President,,L,Chase Oliver and Mike ter Maat,35
+Carroll,Conway,President,,G,Jill Stein and Rudolph Ware,19
+Carroll,Conway,President,,,Undervotes,22
+Carroll,Conway,President,,,Overvotes,12
+Carroll,Conway,President,,,Write-Ins,17
+Carroll,Eaton,President,,D,Kamala D. Harris and Tim Walz,193
+Carroll,Eaton,President,,R,Donald J. Trump and JD Vance,127
+Carroll,Eaton,President,,L,Chase Oliver and Mike ter Maat,1
+Carroll,Eaton,President,,G,Jill Stein and Rudolph Ware,0
+Carroll,Eaton,President,,,Undervotes,1
+Carroll,Eaton,President,,,Overvotes,0
+Carroll,Eaton,President,,,Write-Ins,1
+Carroll,Effingham,President,,D,Kamala D. Harris and Tim Walz,374
+Carroll,Effingham,President,,R,Donald J. Trump and JD Vance,627
+Carroll,Effingham,President,,L,Chase Oliver and Mike ter Maat,4
+Carroll,Effingham,President,,G,Jill Stein and Rudolph Ware,3
+Carroll,Effingham,President,,,Undervotes,5
+Carroll,Effingham,President,,,Overvotes,1
+Carroll,Effingham,President,,,Write-Ins,3
+Carroll,Freedom,President,,D,Kamala D. Harris and Tim Walz,536
+Carroll,Freedom,President,,R,Donald J. Trump and JD Vance,647
+Carroll,Freedom,President,,L,Chase Oliver and Mike ter Maat,3
+Carroll,Freedom,President,,G,Jill Stein and Rudolph Ware,4
+Carroll,Freedom,President,,,Undervotes,10
+Carroll,Freedom,President,,,Overvotes,0
+Carroll,Freedom,President,,,Write-Ins,5
+Carroll,Hale's Location,President,,D,Kamala D. Harris and Tim Walz,53
+Carroll,Hale's Location,President,,R,Donald J. Trump and JD Vance,77
+Carroll,Hale's Location,President,,L,Chase Oliver and Mike ter Maat,2
+Carroll,Hale's Location,President,,G,Jill Stein and Rudolph Ware,0
+Carroll,Hale's Location,President,,,Undervotes,5
+Carroll,Hale's Location,President,,,Overvotes,1
+Carroll,Hale's Location,President,,,Write-Ins,0
+Carroll,Hart's Location,President,,D,Kamala D. Harris and Tim Walz,21
+Carroll,Hart's Location,President,,R,Donald J. Trump and JD Vance,25
+Carroll,Hart's Location,President,,L,Chase Oliver and Mike ter Maat,0
+Carroll,Hart's Location,President,,G,Jill Stein and Rudolph Ware,0
+Carroll,Hart's Location,President,,,Undervotes,0
+Carroll,Hart's Location,President,,,Overvotes,0
+Carroll,Hart's Location,President,,,Write-Ins,0
+Carroll,Jackson,President,,D,Kamala D. Harris and Tim Walz,541
+Carroll,Jackson,President,,R,Donald J. Trump and JD Vance,220
+Carroll,Jackson,President,,L,Chase Oliver and Mike ter Maat,3
+Carroll,Jackson,President,,G,Jill Stein and Rudolph Ware,7
+Carroll,Jackson,President,,,Undervotes,4
+Carroll,Jackson,President,,,Overvotes,0
+Carroll,Jackson,President,,,Write-Ins,5
+Carroll,Madison,President,,D,Kamala D. Harris and Tim Walz,939
+Carroll,Madison,President,,R,Donald J. Trump and JD Vance,824
+Carroll,Madison,President,,L,Chase Oliver and Mike ter Maat,4
+Carroll,Madison,President,,G,Jill Stein and Rudolph Ware,3
+Carroll,Madison,President,,,Undervotes,8
+Carroll,Madison,President,,,Overvotes,0
+Carroll,Madison,President,,,Write-Ins,14
+Carroll,Moultonborough,President,,D,Kamala D. Harris and Tim Walz,1692
+Carroll,Moultonborough,President,,R,Donald J. Trump and JD Vance,2182
+Carroll,Moultonborough,President,,L,Chase Oliver and Mike ter Maat,11
+Carroll,Moultonborough,President,,G,Jill Stein and Rudolph Ware,11
+Carroll,Moultonborough,President,,,Undervotes,27
+Carroll,Moultonborough,President,,,Overvotes,0
+Carroll,Moultonborough,President,,,Write-Ins,30
+Carroll,Ossipee,President,,D,Kamala D. Harris and Tim Walz,979
+Carroll,Ossipee,President,,R,Donald J. Trump and JD Vance,1693
+Carroll,Ossipee,President,,L,Chase Oliver and Mike ter Maat,13
+Carroll,Ossipee,President,,G,Jill Stein and Rudolph Ware,8
+Carroll,Ossipee,President,,,Undervotes,17
+Carroll,Ossipee,President,,,Overvotes,0
+Carroll,Ossipee,President,,,Write-Ins,3
+Carroll,Sandwich,President,,D,Kamala D. Harris and Tim Walz,759
+Carroll,Sandwich,President,,R,Donald J. Trump and JD Vance,432
+Carroll,Sandwich,President,,L,Chase Oliver and Mike ter Maat,9
+Carroll,Sandwich,President,,G,Jill Stein and Rudolph Ware,5
+Carroll,Sandwich,President,,,Undervotes,4
+Carroll,Sandwich,President,,,Overvotes,0
+Carroll,Sandwich,President,,,Write-Ins,3
+Carroll,Tamworth,President,,D,Kamala D. Harris and Tim Walz,914
+Carroll,Tamworth,President,,R,Donald J. Trump and JD Vance,922
+Carroll,Tamworth,President,,L,Chase Oliver and Mike ter Maat,7
+Carroll,Tamworth,President,,G,Jill Stein and Rudolph Ware,5
+Carroll,Tamworth,President,,,Undervotes,9
+Carroll,Tamworth,President,,,Overvotes,0
+Carroll,Tamworth,President,,,Write-Ins,7
+Carroll,Tuftonboro,President,,D,Kamala D. Harris and Tim Walz,900
+Carroll,Tuftonboro,President,,R,Donald J. Trump and JD Vance,1070
+Carroll,Tuftonboro,President,,L,Chase Oliver and Mike ter Maat,8
+Carroll,Tuftonboro,President,,G,Jill Stein and Rudolph Ware,6
+Carroll,Tuftonboro,President,,,Undervotes,13
+Carroll,Tuftonboro,President,,,Overvotes,3
+Carroll,Tuftonboro,President,,,Write-Ins,11
+Carroll,Wakefield,President,,D,Kamala D. Harris and Tim Walz,1258
+Carroll,Wakefield,President,,R,Donald J. Trump and JD Vance,2239
+Carroll,Wakefield,President,,L,Chase Oliver and Mike ter Maat,21
+Carroll,Wakefield,President,,G,Jill Stein and Rudolph Ware,8
+Carroll,Wakefield,President,,,Undervotes,17
+Carroll,Wakefield,President,,,Overvotes,0
+Carroll,Wakefield,President,,,Write-Ins,7
+Carroll,Wolfeboro,President,,D,Kamala D. Harris and Tim Walz,2385
+Carroll,Wolfeboro,President,,R,Donald J. Trump and JD Vance,2381
+Carroll,Wolfeboro,President,,L,Chase Oliver and Mike ter Maat,20
+Carroll,Wolfeboro,President,,G,Jill Stein and Rudolph Ware,16
+Carroll,Wolfeboro,President,,,Undervotes,46
+Carroll,Wolfeboro,President,,,Overvotes,13
+Carroll,Wolfeboro,President,,,Write-Ins,26
+Cheshire,Alstead,President,,D,Kamala D. Harris and Tim Walz,669
+Cheshire,Alstead,President,,R,Donald J. Trump and JD Vance,527
+Cheshire,Alstead,President,,L,Chase Oliver and Mike ter Maat,6
+Cheshire,Alstead,President,,G,Jill Stein and Rudolph Ware,8
+Cheshire,Alstead,President,,,Undervotes,4
+Cheshire,Alstead,President,,,Overvotes,1
+Cheshire,Alstead,President,,,Write-Ins,5
+Cheshire,Chesterfield,President,,D,Kamala D. Harris and Tim Walz,1368
+Cheshire,Chesterfield,President,,R,Donald J. Trump and JD Vance,1039
+Cheshire,Chesterfield,President,,L,Chase Oliver and Mike ter Maat,18
+Cheshire,Chesterfield,President,,G,Jill Stein and Rudolph Ware,7
+Cheshire,Chesterfield,President,,,Undervotes,18
+Cheshire,Chesterfield,President,,,Overvotes,0
+Cheshire,Chesterfield,President,,,Write-Ins,26
+Cheshire,Dublin,President,,D,Kamala D. Harris and Tim Walz,680
+Cheshire,Dublin,President,,R,Donald J. Trump and JD Vance,425
+Cheshire,Dublin,President,,L,Chase Oliver and Mike ter Maat,9
+Cheshire,Dublin,President,,G,Jill Stein and Rudolph Ware,3
+Cheshire,Dublin,President,,,Undervotes,11
+Cheshire,Dublin,President,,,Overvotes,0
+Cheshire,Dublin,President,,,Write-Ins,11
+Cheshire,Fitzwilliam,President,,D,Kamala D. Harris and Tim Walz,638
+Cheshire,Fitzwilliam,President,,R,Donald J. Trump and JD Vance,802
+Cheshire,Fitzwilliam,President,,L,Chase Oliver and Mike ter Maat,12
+Cheshire,Fitzwilliam,President,,G,Jill Stein and Rudolph Ware,4
+Cheshire,Fitzwilliam,President,,,Undervotes,7
+Cheshire,Fitzwilliam,President,,,Overvotes,0
+Cheshire,Fitzwilliam,President,,,Write-Ins,9
+Cheshire,Gilsum,President,,D,Kamala D. Harris and Tim Walz,243
+Cheshire,Gilsum,President,,R,Donald J. Trump and JD Vance,267
+Cheshire,Gilsum,President,,L,Chase Oliver and Mike ter Maat,3
+Cheshire,Gilsum,President,,G,Jill Stein and Rudolph Ware,2
+Cheshire,Gilsum,President,,,Undervotes,3
+Cheshire,Gilsum,President,,,Overvotes,1
+Cheshire,Gilsum,President,,,Write-Ins,2
+Cheshire,Harrisville,President,,D,Kamala D. Harris and Tim Walz,527
+Cheshire,Harrisville,President,,R,Donald J. Trump and JD Vance,229
+Cheshire,Harrisville,President,,L,Chase Oliver and Mike ter Maat,5
+Cheshire,Harrisville,President,,G,Jill Stein and Rudolph Ware,8
+Cheshire,Harrisville,President,,,Undervotes,3
+Cheshire,Harrisville,President,,,Overvotes,0
+Cheshire,Harrisville,President,,,Write-Ins,3
+Cheshire,Hinsdale,President,,D,Kamala D. Harris and Tim Walz,969
+Cheshire,Hinsdale,President,,R,Donald J. Trump and JD Vance,930
+Cheshire,Hinsdale,President,,L,Chase Oliver and Mike ter Maat,6
+Cheshire,Hinsdale,President,,G,Jill Stein and Rudolph Ware,7
+Cheshire,Hinsdale,President,,,Undervotes,10
+Cheshire,Hinsdale,President,,,Overvotes,0
+Cheshire,Hinsdale,President,,,Write-Ins,2
+Cheshire,Jaffrey,President,,D,Kamala D. Harris and Tim Walz,1528
+Cheshire,Jaffrey,President,,R,Donald J. Trump and JD Vance,1617
+Cheshire,Jaffrey,President,,L,Chase Oliver and Mike ter Maat,20
+Cheshire,Jaffrey,President,,G,Jill Stein and Rudolph Ware,31
+Cheshire,Jaffrey,President,,,Undervotes,25
+Cheshire,Jaffrey,President,,,Overvotes,0
+Cheshire,Jaffrey,President,,,Write-Ins,24
+Cheshire,Keene Ward 1,President,,D,Kamala D. Harris and Tim Walz,1541
+Cheshire,Keene Ward 1,President,,R,Donald J. Trump and JD Vance,810
+Cheshire,Keene Ward 1,President,,L,Chase Oliver and Mike ter Maat,14
+Cheshire,Keene Ward 1,President,,G,Jill Stein and Rudolph Ware,13
+Cheshire,Keene Ward 1,President,,,Undervotes,9
+Cheshire,Keene Ward 1,President,,,Overvotes,2
+Cheshire,Keene Ward 1,President,,,Write-Ins,17
+Cheshire,Keene Ward 2,President,,D,Kamala D. Harris and Tim Walz,1776
+Cheshire,Keene Ward 2,President,,R,Donald J. Trump and JD Vance,814
+Cheshire,Keene Ward 2,President,,L,Chase Oliver and Mike ter Maat,15
+Cheshire,Keene Ward 2,President,,G,Jill Stein and Rudolph Ware,21
+Cheshire,Keene Ward 2,President,,,Undervotes,16
+Cheshire,Keene Ward 2,President,,,Overvotes,3
+Cheshire,Keene Ward 2,President,,,Write-Ins,9
+Cheshire,Keene Ward 3,President,,D,Kamala D. Harris and Tim Walz,1649
+Cheshire,Keene Ward 3,President,,R,Donald J. Trump and JD Vance,799
+Cheshire,Keene Ward 3,President,,L,Chase Oliver and Mike ter Maat,24
+Cheshire,Keene Ward 3,President,,G,Jill Stein and Rudolph Ware,16
+Cheshire,Keene Ward 3,President,,,Undervotes,13
+Cheshire,Keene Ward 3,President,,,Overvotes,1
+Cheshire,Keene Ward 3,President,,,Write-Ins,8
+Cheshire,Keene Ward 4,President,,D,Kamala D. Harris and Tim Walz,1641
+Cheshire,Keene Ward 4,President,,R,Donald J. Trump and JD Vance,860
+Cheshire,Keene Ward 4,President,,L,Chase Oliver and Mike ter Maat,18
+Cheshire,Keene Ward 4,President,,G,Jill Stein and Rudolph Ware,11
+Cheshire,Keene Ward 4,President,,,Undervotes,0
+Cheshire,Keene Ward 4,President,,,Overvotes,2
+Cheshire,Keene Ward 4,President,,,Write-Ins,19
+Cheshire,Keene Ward 5,President,,D,Kamala D. Harris and Tim Walz,1934
+Cheshire,Keene Ward 5,President,,R,Donald J. Trump and JD Vance,900
+Cheshire,Keene Ward 5,President,,L,Chase Oliver and Mike ter Maat,15
+Cheshire,Keene Ward 5,President,,G,Jill Stein and Rudolph Ware,14
+Cheshire,Keene Ward 5,President,,,Undervotes,13
+Cheshire,Keene Ward 5,President,,,Overvotes,1
+Cheshire,Keene Ward 5,President,,,Write-Ins,17
+Cheshire,Marlborough,President,,D,Kamala D. Harris and Tim Walz,783
+Cheshire,Marlborough,President,,R,Donald J. Trump and JD Vance,484
+Cheshire,Marlborough,President,,L,Chase Oliver and Mike ter Maat,5
+Cheshire,Marlborough,President,,G,Jill Stein and Rudolph Ware,6
+Cheshire,Marlborough,President,,,Undervotes,5
+Cheshire,Marlborough,President,,,Overvotes,1
+Cheshire,Marlborough,President,,,Write-Ins,9
+Cheshire,Marlow,President,,D,Kamala D. Harris and Tim Walz,238
+Cheshire,Marlow,President,,R,Donald J. Trump and JD Vance,216
+Cheshire,Marlow,President,,L,Chase Oliver and Mike ter Maat,0
+Cheshire,Marlow,President,,G,Jill Stein and Rudolph Ware,2
+Cheshire,Marlow,President,,,Undervotes,6
+Cheshire,Marlow,President,,,Overvotes,2
+Cheshire,Marlow,President,,,Write-Ins,2
+Cheshire,Nelson,President,,D,Kamala D. Harris and Tim Walz,257
+Cheshire,Nelson,President,,R,Donald J. Trump and JD Vance,180
+Cheshire,Nelson,President,,L,Chase Oliver and Mike ter Maat,5
+Cheshire,Nelson,President,,G,Jill Stein and Rudolph Ware,1
+Cheshire,Nelson,President,,,Undervotes,3
+Cheshire,Nelson,President,,,Overvotes,0
+Cheshire,Nelson,President,,,Write-Ins,4
+Cheshire,Richmond,President,,D,Kamala D. Harris and Tim Walz,288
+Cheshire,Richmond,President,,R,Donald J. Trump and JD Vance,457
+Cheshire,Richmond,President,,L,Chase Oliver and Mike ter Maat,3
+Cheshire,Richmond,President,,G,Jill Stein and Rudolph Ware,3
+Cheshire,Richmond,President,,,Undervotes,6
+Cheshire,Richmond,President,,,Overvotes,0
+Cheshire,Richmond,President,,,Write-Ins,3
+Cheshire,Rindge,President,,D,Kamala D. Harris and Tim Walz,1380
+Cheshire,Rindge,President,,R,Donald J. Trump and JD Vance,2348
+Cheshire,Rindge,President,,L,Chase Oliver and Mike ter Maat,20
+Cheshire,Rindge,President,,G,Jill Stein and Rudolph Ware,8
+Cheshire,Rindge,President,,,Undervotes,12
+Cheshire,Rindge,President,,,Overvotes,0
+Cheshire,Rindge,President,,,Write-Ins,16
+Cheshire,Roxbury,President,,D,Kamala D. Harris and Tim Walz,90
+Cheshire,Roxbury,President,,R,Donald J. Trump and JD Vance,58
+Cheshire,Roxbury,President,,L,Chase Oliver and Mike ter Maat,0
+Cheshire,Roxbury,President,,G,Jill Stein and Rudolph Ware,2
+Cheshire,Roxbury,President,,,Undervotes,7
+Cheshire,Roxbury,President,,,Overvotes,0
+Cheshire,Roxbury,President,,,Write-Ins,0
+Cheshire,Stoddard,President,,D,Kamala D. Harris and Tim Walz,433
+Cheshire,Stoddard,President,,R,Donald J. Trump and JD Vance,497
+Cheshire,Stoddard,President,,L,Chase Oliver and Mike ter Maat,7
+Cheshire,Stoddard,President,,G,Jill Stein and Rudolph Ware,5
+Cheshire,Stoddard,President,,,Undervotes,5
+Cheshire,Stoddard,President,,,Overvotes,0
+Cheshire,Stoddard,President,,,Write-Ins,5
+Cheshire,Sullivan,President,,D,Kamala D. Harris and Tim Walz,195
+Cheshire,Sullivan,President,,R,Donald J. Trump and JD Vance,227
+Cheshire,Sullivan,President,,L,Chase Oliver and Mike ter Maat,4
+Cheshire,Sullivan,President,,G,Jill Stein and Rudolph Ware,5
+Cheshire,Sullivan,President,,,Undervotes,5
+Cheshire,Sullivan,President,,,Overvotes,1
+Cheshire,Sullivan,President,,,Write-Ins,2
+Cheshire,Surry,President,,D,Kamala D. Harris and Tim Walz,294
+Cheshire,Surry,President,,R,Donald J. Trump and JD Vance,276
+Cheshire,Surry,President,,L,Chase Oliver and Mike ter Maat,1
+Cheshire,Surry,President,,G,Jill Stein and Rudolph Ware,2
+Cheshire,Surry,President,,,Undervotes,4
+Cheshire,Surry,President,,,Overvotes,0
+Cheshire,Surry,President,,,Write-Ins,2
+Cheshire,Swanzey,President,,D,Kamala D. Harris and Tim Walz,2064
+Cheshire,Swanzey,President,,R,Donald J. Trump and JD Vance,2117
+Cheshire,Swanzey,President,,L,Chase Oliver and Mike ter Maat,13
+Cheshire,Swanzey,President,,G,Jill Stein and Rudolph Ware,17
+Cheshire,Swanzey,President,,,Undervotes,28
+Cheshire,Swanzey,President,,,Overvotes,0
+Cheshire,Swanzey,President,,,Write-Ins,17
+Cheshire,Troy,President,,D,Kamala D. Harris and Tim Walz,458
+Cheshire,Troy,President,,R,Donald J. Trump and JD Vance,659
+Cheshire,Troy,President,,L,Chase Oliver and Mike ter Maat,12
+Cheshire,Troy,President,,G,Jill Stein and Rudolph Ware,1
+Cheshire,Troy,President,,,Undervotes,10
+Cheshire,Troy,President,,,Overvotes,0
+Cheshire,Troy,President,,,Write-Ins,8
+Cheshire,Walpole,President,,D,Kamala D. Harris and Tim Walz,1422
+Cheshire,Walpole,President,,R,Donald J. Trump and JD Vance,909
+Cheshire,Walpole,President,,L,Chase Oliver and Mike ter Maat,8
+Cheshire,Walpole,President,,G,Jill Stein and Rudolph Ware,16
+Cheshire,Walpole,President,,,Undervotes,14
+Cheshire,Walpole,President,,,Overvotes,0
+Cheshire,Walpole,President,,,Write-Ins,14
+Cheshire,Westmoreland,President,,D,Kamala D. Harris and Tim Walz,607
+Cheshire,Westmoreland,President,,R,Donald J. Trump and JD Vance,495
+Cheshire,Westmoreland,President,,L,Chase Oliver and Mike ter Maat,3
+Cheshire,Westmoreland,President,,G,Jill Stein and Rudolph Ware,3
+Cheshire,Westmoreland,President,,,Undervotes,4
+Cheshire,Westmoreland,President,,,Overvotes,0
+Cheshire,Westmoreland,President,,,Write-Ins,2
+Cheshire,Winchester,President,,D,Kamala D. Harris and Tim Walz,907
+Cheshire,Winchester,President,,R,Donald J. Trump and JD Vance,1141
+Cheshire,Winchester,President,,L,Chase Oliver and Mike ter Maat,10
+Cheshire,Winchester,President,,G,Jill Stein and Rudolph Ware,7
+Cheshire,Winchester,President,,,Undervotes,13
+Cheshire,Winchester,President,,,Overvotes,0
+Cheshire,Winchester,President,,,Write-Ins,12
+Coos,Atk. & Gilm. Ac. Gt.,President,,,Write-Ins,0
+Coos,Bean's Grant,President,,,Write-Ins,0
+Coos,Bean's Purchase,President,,,Write-Ins,0
+Coos,Berlin,President,,D,Kamala D. Harris and Tim Walz,1921
+Coos,Berlin,President,,R,Donald J. Trump and JD Vance,2078
+Coos,Berlin,President,,L,Chase Oliver and Mike ter Maat,20
+Coos,Berlin,President,,G,Jill Stein and Rudolph Ware,12
+Coos,Berlin,President,,,Undervotes,16
+Coos,Berlin,President,,,Overvotes,13
+Coos,Berlin,President,,,Write-Ins,16
+Coos,Cambridge,President,,D,Kamala D. Harris and Tim Walz,2
+Coos,Cambridge,President,,R,Donald J. Trump and JD Vance,3
+Coos,Cambridge,President,,L,Chase Oliver and Mike ter Maat,0
+Coos,Cambridge,President,,G,Jill Stein and Rudolph Ware,0
+Coos,Cambridge,President,,,Undervotes,0
+Coos,Cambridge,President,,,Overvotes,0
+Coos,Cambridge,President,,,Write-Ins,0
+Coos,Carroll,President,,D,Kamala D. Harris and Tim Walz,261
+Coos,Carroll,President,,R,Donald J. Trump and JD Vance,283
+Coos,Carroll,President,,L,Chase Oliver and Mike ter Maat,3
+Coos,Carroll,President,,G,Jill Stein and Rudolph Ware,2
+Coos,Carroll,President,,,Undervotes,6
+Coos,Carroll,President,,,Overvotes,0
+Coos,Carroll,President,,,Write-Ins,0
+Coos,Chandler's Purchase,President,,,Write-Ins,0
+Coos,Clarksville,President,,D,Kamala D. Harris and Tim Walz,62
+Coos,Clarksville,President,,R,Donald J. Trump and JD Vance,131
+Coos,Clarksville,President,,L,Chase Oliver and Mike ter Maat,2
+Coos,Clarksville,President,,G,Jill Stein and Rudolph Ware,0
+Coos,Clarksville,President,,,Undervotes,1
+Coos,Clarksville,President,,,Overvotes,1
+Coos,Clarksville,President,,,Write-Ins,0
+Coos,Colebrook,President,,D,Kamala D. Harris and Tim Walz,399
+Coos,Colebrook,President,,R,Donald J. Trump and JD Vance,726
+Coos,Colebrook,President,,L,Chase Oliver and Mike ter Maat,9
+Coos,Colebrook,President,,G,Jill Stein and Rudolph Ware,4
+Coos,Colebrook,President,,,Undervotes,13
+Coos,Colebrook,President,,,Overvotes,0
+Coos,Colebrook,President,,,Write-Ins,7
+Coos,Columbia,President,,D,Kamala D. Harris and Tim Walz,128
+Coos,Columbia,President,,R,Donald J. Trump and JD Vance,286
+Coos,Columbia,President,,L,Chase Oliver and Mike ter Maat,1
+Coos,Columbia,President,,G,Jill Stein and Rudolph Ware,1
+Coos,Columbia,President,,,Undervotes,2
+Coos,Columbia,President,,,Overvotes,2
+Coos,Columbia,President,,,Write-Ins,1
+Coos,Crawford's Purchase,President,,,Write-Ins,0
+Coos,Cutt's Grant,President,,,Write-Ins,0
+Coos,Dalton,President,,D,Kamala D. Harris and Tim Walz,263
+Coos,Dalton,President,,R,Donald J. Trump and JD Vance,346
+Coos,Dalton,President,,L,Chase Oliver and Mike ter Maat,5
+Coos,Dalton,President,,G,Jill Stein and Rudolph Ware,0
+Coos,Dalton,President,,,Undervotes,5
+Coos,Dalton,President,,,Overvotes,0
+Coos,Dalton,President,,,Write-Ins,2
+Coos,Dix's Grant,President,,,Write-Ins,0
+Coos,Dixville,President,,D,Kamala D. Harris and Tim Walz,3
+Coos,Dixville,President,,R,Donald J. Trump and JD Vance,3
+Coos,Dixville,President,,L,Chase Oliver and Mike ter Maat,0
+Coos,Dixville,President,,G,Jill Stein and Rudolph Ware,0
+Coos,Dixville,President,,,Undervotes,0
+Coos,Dixville,President,,,Overvotes,0
+Coos,Dixville,President,,,Write-Ins,0
+Coos,Dummer,President,,D,Kamala D. Harris and Tim Walz,57
+Coos,Dummer,President,,R,Donald J. Trump and JD Vance,128
+Coos,Dummer,President,,L,Chase Oliver and Mike ter Maat,0
+Coos,Dummer,President,,G,Jill Stein and Rudolph Ware,2
+Coos,Dummer,President,,,Undervotes,3
+Coos,Dummer,President,,,Overvotes,1
+Coos,Dummer,President,,,Write-Ins,0
+Coos,Errol,President,,D,Kamala D. Harris and Tim Walz,76
+Coos,Errol,President,,R,Donald J. Trump and JD Vance,157
+Coos,Errol,President,,L,Chase Oliver and Mike ter Maat,0
+Coos,Errol,President,,G,Jill Stein and Rudolph Ware,0
+Coos,Errol,President,,,Undervotes,2
+Coos,Errol,President,,,Overvotes,0
+Coos,Errol,President,,,Write-Ins,0
+Coos,Erving's Location,President,,,Write-Ins,0
+Coos,Gorham,President,,D,Kamala D. Harris and Tim Walz,872
+Coos,Gorham,President,,R,Donald J. Trump and JD Vance,782
+Coos,Gorham,President,,L,Chase Oliver and Mike ter Maat,3
+Coos,Gorham,President,,G,Jill Stein and Rudolph Ware,8
+Coos,Gorham,President,,,Undervotes,8
+Coos,Gorham,President,,,Overvotes,4
+Coos,Gorham,President,,,Write-Ins,5
+Coos,Green's Grant,President,,D,Kamala D. Harris and Tim Walz,1
+Coos,Green's Grant,President,,R,Donald J. Trump and JD Vance,0
+Coos,Green's Grant,President,,L,Chase Oliver and Mike ter Maat,0
+Coos,Green's Grant,President,,G,Jill Stein and Rudolph Ware,0
+Coos,Green's Grant,President,,,Undervotes,0
+Coos,Green's Grant,President,,,Overvotes,0
+Coos,Green's Grant,President,,,Write-Ins,0
+Coos,Hadley's Purchase,President,,,Write-Ins,0
+Coos,Jefferson,President,,D,Kamala D. Harris and Tim Walz,253
+Coos,Jefferson,President,,R,Donald J. Trump and JD Vance,422
+Coos,Jefferson,President,,L,Chase Oliver and Mike ter Maat,4
+Coos,Jefferson,President,,G,Jill Stein and Rudolph Ware,2
+Coos,Jefferson,President,,,Undervotes,8
+Coos,Jefferson,President,,,Overvotes,0
+Coos,Jefferson,President,,,Write-Ins,4
+Coos,Kilkenny,President,,,Write-Ins,0
+Coos,Lancaster,President,,D,Kamala D. Harris and Tim Walz,798
+Coos,Lancaster,President,,R,Donald J. Trump and JD Vance,977
+Coos,Lancaster,President,,L,Chase Oliver and Mike ter Maat,14
+Coos,Lancaster,President,,G,Jill Stein and Rudolph Ware,3
+Coos,Lancaster,President,,,Undervotes,17
+Coos,Lancaster,President,,,Overvotes,0
+Coos,Lancaster,President,,,Write-Ins,12
+Coos,Low & Burbank's Gt.,President,,,Write-Ins,0
+Coos,Martin's Location,President,,D,Kamala D. Harris and Tim Walz,0
+Coos,Martin's Location,President,,R,Donald J. Trump and JD Vance,2
+Coos,Martin's Location,President,,L,Chase Oliver and Mike ter Maat,0
+Coos,Martin's Location,President,,G,Jill Stein and Rudolph Ware,0
+Coos,Martin's Location,President,,,Undervotes,0
+Coos,Martin's Location,President,,,Overvotes,0
+Coos,Martin's Location,President,,,Write-Ins,0
+Coos,Milan,President,,D,Kamala D. Harris and Tim Walz,326
+Coos,Milan,President,,R,Donald J. Trump and JD Vance,486
+Coos,Milan,President,,L,Chase Oliver and Mike ter Maat,4
+Coos,Milan,President,,,Undervotes,5
+Coos,Milan,President,,,Overvotes,0
+Coos,Milan,President,,,Write-Ins,3
+Coos,Millsfield,President,,D,Kamala D. Harris and Tim Walz,3
+Coos,Millsfield,President,,R,Donald J. Trump and JD Vance,10
+Coos,Millsfield,President,,,Write-Ins,0
+Coos,Northumberland,President,,D,Kamala D. Harris and Tim Walz,406
+Coos,Northumberland,President,,R,Donald J. Trump and JD Vance,715
+Coos,Northumberland,President,,L,Chase Oliver and Mike ter Maat,6
+Coos,Northumberland,President,,G,Jill Stein and Rudolph Ware,4
+Coos,Northumberland,President,,,Undervotes,9
+Coos,Northumberland,President,,,Overvotes,0
+Coos,Northumberland,President,,,Write-Ins,7
+Coos,Odell,President,,,Write-Ins,0
+Coos,Pinkham's Grant,President,,D,Kamala D. Harris and Tim Walz,9
+Coos,Pinkham's Grant,President,,R,Donald J. Trump and JD Vance,1
+Coos,Pinkham's Grant,President,,L,Chase Oliver and Mike ter Maat,0
+Coos,Pinkham's Grant,President,,G,Jill Stein and Rudolph Ware,0
+Coos,Pinkham's Grant,President,,,Undervotes,0
+Coos,Pinkham's Grant,President,,,Overvotes,0
+Coos,Pinkham's Grant,President,,,Write-Ins,0
+Coos,Pittsburg,President,,D,Kamala D. Harris and Tim Walz,155
+Coos,Pittsburg,President,,R,Donald J. Trump and JD Vance,440
+Coos,Pittsburg,President,,L,Chase Oliver and Mike ter Maat,1
+Coos,Pittsburg,President,,G,Jill Stein and Rudolph Ware,2
+Coos,Pittsburg,President,,,Undervotes,10
+Coos,Pittsburg,President,,,Overvotes,0
+Coos,Pittsburg,President,,,Write-Ins,3
+Coos,Randolph,President,,D,Kamala D. Harris and Tim Walz,190
+Coos,Randolph,President,,R,Donald J. Trump and JD Vance,88
+Coos,Randolph,President,,L,Chase Oliver and Mike ter Maat,2
+Coos,Randolph,President,,G,Jill Stein and Rudolph Ware,0
+Coos,Randolph,President,,,Undervotes,3
+Coos,Randolph,President,,,Overvotes,0
+Coos,Randolph,President,,,Write-Ins,0
+Coos,Sargent's Purchase,President,,,Write-Ins,0
+Coos,Second College Gt.,President,,,Write-Ins,0
+Coos,Shelburne,President,,D,Kamala D. Harris and Tim Walz,128
+Coos,Shelburne,President,,R,Donald J. Trump and JD Vance,155
+Coos,Shelburne,President,,L,Chase Oliver and Mike ter Maat,3
+Coos,Shelburne,President,,G,Jill Stein and Rudolph Ware,2
+Coos,Shelburne,President,,,Undervotes,2
+Coos,Shelburne,President,,,Overvotes,0
+Coos,Shelburne,President,,,Write-Ins,1
+Coos,Stark,President,,D,Kamala D. Harris and Tim Walz,118
+Coos,Stark,President,,R,Donald J. Trump and JD Vance,209
+Coos,Stark,President,,L,Chase Oliver and Mike ter Maat,0
+Coos,Stark,President,,G,Jill Stein and Rudolph Ware,0
+Coos,Stark,President,,,Undervotes,3
+Coos,Stark,President,,,Overvotes,0
+Coos,Stark,President,,,Write-Ins,1
+Coos,Stewartstown,President,,D,Kamala D. Harris and Tim Walz,101
+Coos,Stewartstown,President,,R,Donald J. Trump and JD Vance,335
+Coos,Stewartstown,President,,L,Chase Oliver and Mike ter Maat,1
+Coos,Stewartstown,President,,G,Jill Stein and Rudolph Ware,1
+Coos,Stewartstown,President,,,Undervotes,10
+Coos,Stewartstown,President,,,Overvotes,7
+Coos,Stewartstown,President,,,Write-Ins,1
+Coos,Stratford,President,,D,Kamala D. Harris and Tim Walz,145
+Coos,Stratford,President,,R,Donald J. Trump and JD Vance,201
+Coos,Stratford,President,,L,Chase Oliver and Mike ter Maat,3
+Coos,Stratford,President,,G,Jill Stein and Rudolph Ware,2
+Coos,Stratford,President,,,Undervotes,7
+Coos,Stratford,President,,,Overvotes,2
+Coos,Stratford,President,,,Write-Ins,1
+Coos,Success,President,,D,Kamala D. Harris and Tim Walz,2
+Coos,Success,President,,R,Donald J. Trump and JD Vance,0
+Coos,Success,President,,L,Chase Oliver and Mike ter Maat,0
+Coos,Success,President,,G,Jill Stein and Rudolph Ware,0
+Coos,Success,President,,,Undervotes,0
+Coos,Success,President,,,Overvotes,0
+Coos,Success,President,,,Write-Ins,0
+Coos,Thompson & Mes's Pur.,President,,,Write-Ins,0
+Coos,Wentworth's Loc.,President,,D,Kamala D. Harris and Tim Walz,6
+Coos,Wentworth's Loc.,President,,R,Donald J. Trump and JD Vance,17
+Coos,Wentworth's Loc.,President,,L,Chase Oliver and Mike ter Maat,0
+Coos,Wentworth's Loc.,President,,G,Jill Stein and Rudolph Ware,0
+Coos,Wentworth's Loc.,President,,,Undervotes,0
+Coos,Wentworth's Loc.,President,,,Overvotes,0
+Coos,Wentworth's Loc.,President,,,Write-Ins,0
+Coos,Whitefield,President,,D,Kamala D. Harris and Tim Walz,682
+Coos,Whitefield,President,,R,Donald J. Trump and JD Vance,753
+Coos,Whitefield,President,,L,Chase Oliver and Mike ter Maat,10
+Coos,Whitefield,President,,G,Jill Stein and Rudolph Ware,8
+Coos,Whitefield,President,,,Undervotes,13
+Coos,Whitefield,President,,,Overvotes,0
+Coos,Whitefield,President,,,Write-Ins,13
+Grafton,Alexandria,President,,D,Kamala D. Harris and Tim Walz,436
+Grafton,Alexandria,President,,R,Donald J. Trump and JD Vance,667
+Grafton,Alexandria,President,,L,Chase Oliver and Mike ter Maat,9
+Grafton,Alexandria,President,,G,Jill Stein and Rudolph Ware,6
+Grafton,Alexandria,President,,,Undervotes,9
+Grafton,Alexandria,President,,,Overvotes,2
+Grafton,Alexandria,President,,,Write-Ins,5
+Grafton,Ashland,President,,D,Kamala D. Harris and Tim Walz,627
+Grafton,Ashland,President,,R,Donald J. Trump and JD Vance,614
+Grafton,Ashland,President,,L,Chase Oliver and Mike ter Maat,7
+Grafton,Ashland,President,,G,Jill Stein and Rudolph Ware,6
+Grafton,Ashland,President,,,Undervotes,1
+Grafton,Ashland,President,,,Overvotes,0
+Grafton,Ashland,President,,,Write-Ins,11
+Grafton,Bath,President,,D,Kamala D. Harris and Tim Walz,257
+Grafton,Bath,President,,R,Donald J. Trump and JD Vance,434
+Grafton,Bath,President,,L,Chase Oliver and Mike ter Maat,6
+Grafton,Bath,President,,G,Jill Stein and Rudolph Ware,1
+Grafton,Bath,President,,,Undervotes,3
+Grafton,Bath,President,,,Overvotes,1
+Grafton,Bath,President,,,Write-Ins,0
+Grafton,Benton,President,,D,Kamala D. Harris and Tim Walz,76
+Grafton,Benton,President,,R,Donald J. Trump and JD Vance,154
+Grafton,Benton,President,,L,Chase Oliver and Mike ter Maat,2
+Grafton,Benton,President,,G,Jill Stein and Rudolph Ware,0
+Grafton,Benton,President,,,Undervotes,1
+Grafton,Benton,President,,,Overvotes,0
+Grafton,Benton,President,,,Write-Ins,2
+Grafton,Bethlehem,President,,D,Kamala D. Harris and Tim Walz,1013
+Grafton,Bethlehem,President,,R,Donald J. Trump and JD Vance,624
+Grafton,Bethlehem,President,,L,Chase Oliver and Mike ter Maat,15
+Grafton,Bethlehem,President,,G,Jill Stein and Rudolph Ware,18
+Grafton,Bethlehem,President,,,Undervotes,13
+Grafton,Bethlehem,President,,,Overvotes,2
+Grafton,Bethlehem,President,,,Write-Ins,7
+Grafton,Bridgewater,President,,D,Kamala D. Harris and Tim Walz,400
+Grafton,Bridgewater,President,,R,Donald J. Trump and JD Vance,472
+Grafton,Bridgewater,President,,L,Chase Oliver and Mike ter Maat,2
+Grafton,Bridgewater,President,,G,Jill Stein and Rudolph Ware,2
+Grafton,Bridgewater,President,,,Undervotes,8
+Grafton,Bridgewater,President,,,Overvotes,0
+Grafton,Bridgewater,President,,,Write-Ins,3
+Grafton,Bristol,President,,D,Kamala D. Harris and Tim Walz,957
+Grafton,Bristol,President,,R,Donald J. Trump and JD Vance,1049
+Grafton,Bristol,President,,L,Chase Oliver and Mike ter Maat,15
+Grafton,Bristol,President,,G,Jill Stein and Rudolph Ware,16
+Grafton,Bristol,President,,,Undervotes,21
+Grafton,Bristol,President,,,Overvotes,0
+Grafton,Bristol,President,,,Write-Ins,8
+Grafton,Campton,President,,D,Kamala D. Harris and Tim Walz,1094
+Grafton,Campton,President,,R,Donald J. Trump and JD Vance,1040
+Grafton,Campton,President,,L,Chase Oliver and Mike ter Maat,14
+Grafton,Campton,President,,G,Jill Stein and Rudolph Ware,8
+Grafton,Campton,President,,,Undervotes,15
+Grafton,Campton,President,,,Overvotes,0
+Grafton,Campton,President,,,Write-Ins,13
+Grafton,Canaan,President,,D,Kamala D. Harris and Tim Walz,1190
+Grafton,Canaan,President,,R,Donald J. Trump and JD Vance,971
+Grafton,Canaan,President,,L,Chase Oliver and Mike ter Maat,11
+Grafton,Canaan,President,,G,Jill Stein and Rudolph Ware,13
+Grafton,Canaan,President,,,Undervotes,10
+Grafton,Canaan,President,,,Overvotes,1
+Grafton,Canaan,President,,,Write-Ins,6
+Grafton,Dorchester,President,,D,Kamala D. Harris and Tim Walz,100
+Grafton,Dorchester,President,,R,Donald J. Trump and JD Vance,141
+Grafton,Dorchester,President,,L,Chase Oliver and Mike ter Maat,0
+Grafton,Dorchester,President,,G,Jill Stein and Rudolph Ware,2
+Grafton,Dorchester,President,,,Undervotes,3
+Grafton,Dorchester,President,,,Overvotes,0
+Grafton,Dorchester,President,,,Write-Ins,2
+Grafton,Easton,President,,D,Kamala D. Harris and Tim Walz,165
+Grafton,Easton,President,,R,Donald J. Trump and JD Vance,75
+Grafton,Easton,President,,L,Chase Oliver and Mike ter Maat,1
+Grafton,Easton,President,,G,Jill Stein and Rudolph Ware,0
+Grafton,Easton,President,,,Undervotes,1
+Grafton,Easton,President,,,Overvotes,0
+Grafton,Easton,President,,,Write-Ins,1
+Grafton,Ellsworth,President,,D,Kamala D. Harris and Tim Walz,37
+Grafton,Ellsworth,President,,R,Donald J. Trump and JD Vance,36
+Grafton,Ellsworth,President,,L,Chase Oliver and Mike ter Maat,1
+Grafton,Ellsworth,President,,G,Jill Stein and Rudolph Ware,0
+Grafton,Ellsworth,President,,,Undervotes,0
+Grafton,Ellsworth,President,,,Overvotes,0
+Grafton,Ellsworth,President,,,Write-Ins,0
+Grafton,Enfield,President,,D,Kamala D. Harris and Tim Walz,1679
+Grafton,Enfield,President,,R,Donald J. Trump and JD Vance,1017
+Grafton,Enfield,President,,L,Chase Oliver and Mike ter Maat,17
+Grafton,Enfield,President,,G,Jill Stein and Rudolph Ware,16
+Grafton,Enfield,President,,,Undervotes,20
+Grafton,Enfield,President,,,Overvotes,0
+Grafton,Enfield,President,,,Write-Ins,12
+Grafton,Franconia,President,,D,Kamala D. Harris and Tim Walz,542
+Grafton,Franconia,President,,R,Donald J. Trump and JD Vance,267
+Grafton,Franconia,President,,L,Chase Oliver and Mike ter Maat,6
+Grafton,Franconia,President,,G,Jill Stein and Rudolph Ware,5
+Grafton,Franconia,President,,,Undervotes,10
+Grafton,Franconia,President,,,Overvotes,2
+Grafton,Franconia,President,,,Write-Ins,8
+Grafton,Grafton,President,,D,Kamala D. Harris and Tim Walz,318
+Grafton,Grafton,President,,R,Donald J. Trump and JD Vance,452
+Grafton,Grafton,President,,L,Chase Oliver and Mike ter Maat,10
+Grafton,Grafton,President,,G,Jill Stein and Rudolph Ware,6
+Grafton,Grafton,President,,,Undervotes,6
+Grafton,Grafton,President,,,Overvotes,0
+Grafton,Grafton,President,,,Write-Ins,4
+Grafton,Groton,President,,D,Kamala D. Harris and Tim Walz,132
+Grafton,Groton,President,,R,Donald J. Trump and JD Vance,252
+Grafton,Groton,President,,L,Chase Oliver and Mike ter Maat,1
+Grafton,Groton,President,,G,Jill Stein and Rudolph Ware,3
+Grafton,Groton,President,,,Undervotes,2
+Grafton,Groton,President,,,Overvotes,0
+Grafton,Groton,President,,,Write-Ins,1
+Grafton,Hanover,President,,D,Kamala D. Harris and Tim Walz,6049
+Grafton,Hanover,President,,R,Donald J. Trump and JD Vance,995
+Grafton,Hanover,President,,L,Chase Oliver and Mike ter Maat,29
+Grafton,Hanover,President,,G,Jill Stein and Rudolph Ware,46
+Grafton,Hanover,President,,,Undervotes,43
+Grafton,Hanover,President,,,Overvotes,2
+Grafton,Hanover,President,,,Write-Ins,60
+Grafton,Haverhill,President,,D,Kamala D. Harris and Tim Walz,939
+Grafton,Haverhill,President,,R,Donald J. Trump and JD Vance,1464
+Grafton,Haverhill,President,,L,Chase Oliver and Mike ter Maat,17
+Grafton,Haverhill,President,,G,Jill Stein and Rudolph Ware,10
+Grafton,Haverhill,President,,,Undervotes,10
+Grafton,Haverhill,President,,,Overvotes,0
+Grafton,Haverhill,President,,,Write-Ins,8
+Grafton,Hebron,President,,D,Kamala D. Harris and Tim Walz,277
+Grafton,Hebron,President,,R,Donald J. Trump and JD Vance,277
+Grafton,Hebron,President,,L,Chase Oliver and Mike ter Maat,1
+Grafton,Hebron,President,,G,Jill Stein and Rudolph Ware,0
+Grafton,Hebron,President,,,Undervotes,4
+Grafton,Hebron,President,,,Overvotes,0
+Grafton,Hebron,President,,,Write-Ins,4
+Grafton,Holderness,President,,D,Kamala D. Harris and Tim Walz,866
+Grafton,Holderness,President,,R,Donald J. Trump and JD Vance,589
+Grafton,Holderness,President,,L,Chase Oliver and Mike ter Maat,8
+Grafton,Holderness,President,,G,Jill Stein and Rudolph Ware,9
+Grafton,Holderness,President,,,Undervotes,14
+Grafton,Holderness,President,,,Overvotes,0
+Grafton,Holderness,President,,,Write-Ins,9
+Grafton,Landaff,President,,D,Kamala D. Harris and Tim Walz,126
+Grafton,Landaff,President,,R,Donald J. Trump and JD Vance,169
+Grafton,Landaff,President,,L,Chase Oliver and Mike ter Maat,1
+Grafton,Landaff,President,,G,Jill Stein and Rudolph Ware,2
+Grafton,Landaff,President,,,Undervotes,2
+Grafton,Landaff,President,,,Overvotes,0
+Grafton,Landaff,President,,,Write-Ins,0
+Grafton,Lebanon Ward 1,President,,D,Kamala D. Harris and Tim Walz,1923
+Grafton,Lebanon Ward 1,President,,R,Donald J. Trump and JD Vance,605
+Grafton,Lebanon Ward 1,President,,L,Chase Oliver and Mike ter Maat,13
+Grafton,Lebanon Ward 1,President,,G,Jill Stein and Rudolph Ware,19
+Grafton,Lebanon Ward 1,President,,,Undervotes,12
+Grafton,Lebanon Ward 1,President,,,Overvotes,2
+Grafton,Lebanon Ward 1,President,,,Write-Ins,9
+Grafton,Lebanon Ward 2,President,,D,Kamala D. Harris and Tim Walz,2112
+Grafton,Lebanon Ward 2,President,,R,Donald J. Trump and JD Vance,693
+Grafton,Lebanon Ward 2,President,,L,Chase Oliver and Mike ter Maat,14
+Grafton,Lebanon Ward 2,President,,G,Jill Stein and Rudolph Ware,24
+Grafton,Lebanon Ward 2,President,,,Undervotes,0
+Grafton,Lebanon Ward 2,President,,,Overvotes,2
+Grafton,Lebanon Ward 2,President,,,Write-Ins,16
+Grafton,Lebanon Ward 3,President,,D,Kamala D. Harris and Tim Walz,2041
+Grafton,Lebanon Ward 3,President,,R,Donald J. Trump and JD Vance,683
+Grafton,Lebanon Ward 3,President,,L,Chase Oliver and Mike ter Maat,20
+Grafton,Lebanon Ward 3,President,,G,Jill Stein and Rudolph Ware,22
+Grafton,Lebanon Ward 3,President,,,Undervotes,11
+Grafton,Lebanon Ward 3,President,,,Overvotes,0
+Grafton,Lebanon Ward 3,President,,,Write-Ins,13
+Grafton,Lincoln,President,,D,Kamala D. Harris and Tim Walz,505
+Grafton,Lincoln,President,,R,Donald J. Trump and JD Vance,418
+Grafton,Lincoln,President,,L,Chase Oliver and Mike ter Maat,11
+Grafton,Lincoln,President,,G,Jill Stein and Rudolph Ware,7
+Grafton,Lincoln,President,,,Undervotes,3
+Grafton,Lincoln,President,,,Overvotes,4
+Grafton,Lincoln,President,,,Write-Ins,7
+Grafton,Lisbon,President,,D,Kamala D. Harris and Tim Walz,369
+Grafton,Lisbon,President,,R,Donald J. Trump and JD Vance,477
+Grafton,Lisbon,President,,L,Chase Oliver and Mike ter Maat,6
+Grafton,Lisbon,President,,G,Jill Stein and Rudolph Ware,3
+Grafton,Lisbon,President,,,Undervotes,5
+Grafton,Lisbon,President,,,Overvotes,3
+Grafton,Lisbon,President,,,Write-Ins,2
+Grafton,Littleton,President,,D,Kamala D. Harris and Tim Walz,1582
+Grafton,Littleton,President,,R,Donald J. Trump and JD Vance,1691
+Grafton,Littleton,President,,L,Chase Oliver and Mike ter Maat,14
+Grafton,Littleton,President,,G,Jill Stein and Rudolph Ware,16
+Grafton,Littleton,President,,,Undervotes,16
+Grafton,Littleton,President,,,Overvotes,0
+Grafton,Littleton,President,,,Write-Ins,16
+Grafton,Livermore,President,,,Write-Ins,0
+Grafton,Lyman,President,,D,Kamala D. Harris and Tim Walz,166
+Grafton,Lyman,President,,R,Donald J. Trump and JD Vance,214
+Grafton,Lyman,President,,L,Chase Oliver and Mike ter Maat,0
+Grafton,Lyman,President,,G,Jill Stein and Rudolph Ware,4
+Grafton,Lyman,President,,,Undervotes,6
+Grafton,Lyman,President,,,Overvotes,0
+Grafton,Lyman,President,,,Write-Ins,3
+Grafton,Lyme,President,,D,Kamala D. Harris and Tim Walz,1050
+Grafton,Lyme,President,,R,Donald J. Trump and JD Vance,173
+Grafton,Lyme,President,,L,Chase Oliver and Mike ter Maat,3
+Grafton,Lyme,President,,G,Jill Stein and Rudolph Ware,11
+Grafton,Lyme,President,,,Undervotes,4
+Grafton,Lyme,President,,,Overvotes,2
+Grafton,Lyme,President,,,Write-Ins,6
+Grafton,Monroe,President,,D,Kamala D. Harris and Tim Walz,215
+Grafton,Monroe,President,,R,Donald J. Trump and JD Vance,319
+Grafton,Monroe,President,,L,Chase Oliver and Mike ter Maat,8
+Grafton,Monroe,President,,G,Jill Stein and Rudolph Ware,4
+Grafton,Monroe,President,,,Write-Ins,0
+Grafton,Orange,President,,D,Kamala D. Harris and Tim Walz,94
+Grafton,Orange,President,,R,Donald J. Trump and JD Vance,103
+Grafton,Orange,President,,L,Chase Oliver and Mike ter Maat,2
+Grafton,Orange,President,,G,Jill Stein and Rudolph Ware,2
+Grafton,Orange,President,,,Undervotes,1
+Grafton,Orange,President,,,Overvotes,0
+Grafton,Orange,President,,,Write-Ins,2
+Grafton,Orford,President,,D,Kamala D. Harris and Tim Walz,529
+Grafton,Orford,President,,R,Donald J. Trump and JD Vance,324
+Grafton,Orford,President,,L,Chase Oliver and Mike ter Maat,6
+Grafton,Orford,President,,G,Jill Stein and Rudolph Ware,3
+Grafton,Orford,President,,,Undervotes,4
+Grafton,Orford,President,,,Overvotes,0
+Grafton,Orford,President,,,Write-Ins,10
+Grafton,Piermont,President,,D,Kamala D. Harris and Tim Walz,241
+Grafton,Piermont,President,,R,Donald J. Trump and JD Vance,228
+Grafton,Piermont,President,,L,Chase Oliver and Mike ter Maat,2
+Grafton,Piermont,President,,G,Jill Stein and Rudolph Ware,0
+Grafton,Piermont,President,,,Undervotes,8
+Grafton,Piermont,President,,,Overvotes,0
+Grafton,Piermont,President,,,Write-Ins,1
+Grafton,Plymouth,President,,D,Kamala D. Harris and Tim Walz,2046
+Grafton,Plymouth,President,,R,Donald J. Trump and JD Vance,1367
+Grafton,Plymouth,President,,L,Chase Oliver and Mike ter Maat,33
+Grafton,Plymouth,President,,G,Jill Stein and Rudolph Ware,19
+Grafton,Plymouth,President,,,Undervotes,9
+Grafton,Plymouth,President,,,Overvotes,0
+Grafton,Plymouth,President,,,Write-Ins,18
+Grafton,Rumney,President,,D,Kamala D. Harris and Tim Walz,443
+Grafton,Rumney,President,,R,Donald J. Trump and JD Vance,567
+Grafton,Rumney,President,,L,Chase Oliver and Mike ter Maat,8
+Grafton,Rumney,President,,G,Jill Stein and Rudolph Ware,22
+Grafton,Rumney,President,,,Undervotes,3
+Grafton,Rumney,President,,,Overvotes,2
+Grafton,Rumney,President,,,Write-Ins,4
+Grafton,Sugar Hill,President,,D,Kamala D. Harris and Tim Walz,323
+Grafton,Sugar Hill,President,,R,Donald J. Trump and JD Vance,163
+Grafton,Sugar Hill,President,,L,Chase Oliver and Mike ter Maat,1
+Grafton,Sugar Hill,President,,G,Jill Stein and Rudolph Ware,3
+Grafton,Sugar Hill,President,,,Undervotes,4
+Grafton,Sugar Hill,President,,,Overvotes,0
+Grafton,Sugar Hill,President,,,Write-Ins,8
+Grafton,Thornton,President,,D,Kamala D. Harris and Tim Walz,983
+Grafton,Thornton,President,,R,Donald J. Trump and JD Vance,829
+Grafton,Thornton,President,,L,Chase Oliver and Mike ter Maat,11
+Grafton,Thornton,President,,G,Jill Stein and Rudolph Ware,6
+Grafton,Thornton,President,,,Undervotes,13
+Grafton,Thornton,President,,,Overvotes,0
+Grafton,Thornton,President,,,Write-Ins,7
+Grafton,Warren,President,,D,Kamala D. Harris and Tim Walz,184
+Grafton,Warren,President,,R,Donald J. Trump and JD Vance,324
+Grafton,Warren,President,,L,Chase Oliver and Mike ter Maat,2
+Grafton,Warren,President,,G,Jill Stein and Rudolph Ware,3
+Grafton,Warren,President,,,Undervotes,5
+Grafton,Warren,President,,,Overvotes,0
+Grafton,Warren,President,,,Write-Ins,1
+Grafton,Waterville Valley,President,,D,Kamala D. Harris and Tim Walz,255
+Grafton,Waterville Valley,President,,R,Donald J. Trump and JD Vance,163
+Grafton,Waterville Valley,President,,L,Chase Oliver and Mike ter Maat,5
+Grafton,Waterville Valley,President,,,Undervotes,0
+Grafton,Waterville Valley,President,,,Overvotes,0
+Grafton,Waterville Valley,President,,,Write-Ins,5
+Grafton,Wentworth,President,,D,Kamala D. Harris and Tim Walz,211
+Grafton,Wentworth,President,,R,Donald J. Trump and JD Vance,408
+Grafton,Wentworth,President,,L,Chase Oliver and Mike ter Maat,6
+Grafton,Wentworth,President,,G,Jill Stein and Rudolph Ware,3
+Grafton,Wentworth,President,,,Write-Ins,5
+Grafton,Woodstock,President,,D,Kamala D. Harris and Tim Walz,441
+Grafton,Woodstock,President,,R,Donald J. Trump and JD Vance,401
+Grafton,Woodstock,President,,L,Chase Oliver and Mike ter Maat,10
+Grafton,Woodstock,President,,G,Jill Stein and Rudolph Ware,2
+Grafton,Woodstock,President,,,Undervotes,3
+Grafton,Woodstock,President,,,Overvotes,0
+Grafton,Woodstock,President,,,Write-Ins,6
+Hillsborough,Amherst,President,,D,Kamala D. Harris and Tim Walz,4674
+Hillsborough,Amherst,President,,R,Donald J. Trump and JD Vance,3347
+Hillsborough,Amherst,President,,L,Chase Oliver and Mike ter Maat,58
+Hillsborough,Amherst,President,,G,Jill Stein and Rudolph Ware,38
+Hillsborough,Amherst,President,,,Undervotes,0
+Hillsborough,Amherst,President,,,Overvotes,3
+Hillsborough,Amherst,President,,,Write-Ins,50
+Hillsborough,Antrim,President,,D,Kamala D. Harris and Tim Walz,788
+Hillsborough,Antrim,President,,R,Donald J. Trump and JD Vance,873
+Hillsborough,Antrim,President,,L,Chase Oliver and Mike ter Maat,14
+Hillsborough,Antrim,President,,G,Jill Stein and Rudolph Ware,9
+Hillsborough,Antrim,President,,,Undervotes,21
+Hillsborough,Antrim,President,,,Overvotes,0
+Hillsborough,Antrim,President,,,Write-Ins,7
+Hillsborough,Bedford,President,,D,Kamala D. Harris and Tim Walz,7444
+Hillsborough,Bedford,President,,R,Donald J. Trump and JD Vance,6963
+Hillsborough,Bedford,President,,L,Chase Oliver and Mike ter Maat,62
+Hillsborough,Bedford,President,,G,Jill Stein and Rudolph Ware,84
+Hillsborough,Bedford,President,,,Undervotes,97
+Hillsborough,Bedford,President,,,Overvotes,4
+Hillsborough,Bedford,President,,,Write-Ins,129
+Hillsborough,Bennington,President,,D,Kamala D. Harris and Tim Walz,386
+Hillsborough,Bennington,President,,R,Donald J. Trump and JD Vance,489
+Hillsborough,Bennington,President,,L,Chase Oliver and Mike ter Maat,5
+Hillsborough,Bennington,President,,G,Jill Stein and Rudolph Ware,7
+Hillsborough,Bennington,President,,,Undervotes,4
+Hillsborough,Bennington,President,,,Overvotes,4
+Hillsborough,Bennington,President,,,Write-Ins,5
+Hillsborough,Brookline,President,,D,Kamala D. Harris and Tim Walz,1875
+Hillsborough,Brookline,President,,R,Donald J. Trump and JD Vance,1749
+Hillsborough,Brookline,President,,L,Chase Oliver and Mike ter Maat,31
+Hillsborough,Brookline,President,,G,Jill Stein and Rudolph Ware,12
+Hillsborough,Brookline,President,,,Undervotes,16
+Hillsborough,Brookline,President,,,Overvotes,0
+Hillsborough,Brookline,President,,,Write-Ins,25
+Hillsborough,Deering,President,,D,Kamala D. Harris and Tim Walz,438
+Hillsborough,Deering,President,,R,Donald J. Trump and JD Vance,699
+Hillsborough,Deering,President,,L,Chase Oliver and Mike ter Maat,7
+Hillsborough,Deering,President,,G,Jill Stein and Rudolph Ware,7
+Hillsborough,Deering,President,,,Undervotes,7
+Hillsborough,Deering,President,,,Overvotes,1
+Hillsborough,Deering,President,,,Write-Ins,2
+Hillsborough,Francestown,President,,D,Kamala D. Harris and Tim Walz,593
+Hillsborough,Francestown,President,,R,Donald J. Trump and JD Vance,608
+Hillsborough,Francestown,President,,L,Chase Oliver and Mike ter Maat,9
+Hillsborough,Francestown,President,,G,Jill Stein and Rudolph Ware,8
+Hillsborough,Francestown,President,,,Undervotes,8
+Hillsborough,Francestown,President,,,Overvotes,0
+Hillsborough,Francestown,President,,,Write-Ins,6
+Hillsborough,Goffstown,President,,D,Kamala D. Harris and Tim Walz,5037
+Hillsborough,Goffstown,President,,R,Donald J. Trump and JD Vance,5344
+Hillsborough,Goffstown,President,,L,Chase Oliver and Mike ter Maat,65
+Hillsborough,Goffstown,President,,G,Jill Stein and Rudolph Ware,42
+Hillsborough,Goffstown,President,,,Undervotes,76
+Hillsborough,Goffstown,President,,,Overvotes,0
+Hillsborough,Goffstown,President,,,Write-Ins,51
+Hillsborough,Greenfield,President,,D,Kamala D. Harris and Tim Walz,531
+Hillsborough,Greenfield,President,,R,Donald J. Trump and JD Vance,540
+Hillsborough,Greenfield,President,,L,Chase Oliver and Mike ter Maat,11
+Hillsborough,Greenfield,President,,G,Jill Stein and Rudolph Ware,6
+Hillsborough,Greenfield,President,,,Undervotes,2
+Hillsborough,Greenfield,President,,,Overvotes,1
+Hillsborough,Greenfield,President,,,Write-Ins,2
+Hillsborough,Greenville,President,,D,Kamala D. Harris and Tim Walz,442
+Hillsborough,Greenville,President,,R,Donald J. Trump and JD Vance,569
+Hillsborough,Greenville,President,,L,Chase Oliver and Mike ter Maat,9
+Hillsborough,Greenville,President,,G,Jill Stein and Rudolph Ware,3
+Hillsborough,Greenville,President,,,Undervotes,7
+Hillsborough,Greenville,President,,,Overvotes,2
+Hillsborough,Greenville,President,,,Write-Ins,8
+Hillsborough,Hancock,President,,D,Kamala D. Harris and Tim Walz,863
+Hillsborough,Hancock,President,,R,Donald J. Trump and JD Vance,432
+Hillsborough,Hancock,President,,L,Chase Oliver and Mike ter Maat,6
+Hillsborough,Hancock,President,,G,Jill Stein and Rudolph Ware,6
+Hillsborough,Hancock,President,,,Undervotes,8
+Hillsborough,Hancock,President,,,Overvotes,0
+Hillsborough,Hancock,President,,,Write-Ins,8
+Hillsborough,Hillsborough,President,,D,Kamala D. Harris and Tim Walz,1465
+Hillsborough,Hillsborough,President,,R,Donald J. Trump and JD Vance,1930
+Hillsborough,Hillsborough,President,,L,Chase Oliver and Mike ter Maat,24
+Hillsborough,Hillsborough,President,,G,Jill Stein and Rudolph Ware,17
+Hillsborough,Hillsborough,President,,,Undervotes,14
+Hillsborough,Hillsborough,President,,,Overvotes,0
+Hillsborough,Hillsborough,President,,,Write-Ins,6
+Hillsborough,Hollis,President,,D,Kamala D. Harris and Tim Walz,3230
+Hillsborough,Hollis,President,,R,Donald J. Trump and JD Vance,2525
+Hillsborough,Hollis,President,,L,Chase Oliver and Mike ter Maat,41
+Hillsborough,Hollis,President,,G,Jill Stein and Rudolph Ware,30
+Hillsborough,Hollis,President,,,Undervotes,36
+Hillsborough,Hollis,President,,,Overvotes,1
+Hillsborough,Hollis,President,,,Write-Ins,41
+Hillsborough,Hudson,President,,D,Kamala D. Harris and Tim Walz,6449
+Hillsborough,Hudson,President,,R,Donald J. Trump and JD Vance,8045
+Hillsborough,Hudson,President,,L,Chase Oliver and Mike ter Maat,68
+Hillsborough,Hudson,President,,G,Jill Stein and Rudolph Ware,43
+Hillsborough,Hudson,President,,,Undervotes,63
+Hillsborough,Hudson,President,,,Overvotes,2
+Hillsborough,Hudson,President,,,Write-Ins,62
+Hillsborough,Litchfield,President,,D,Kamala D. Harris and Tim Walz,2421
+Hillsborough,Litchfield,President,,R,Donald J. Trump and JD Vance,3005
+Hillsborough,Litchfield,President,,L,Chase Oliver and Mike ter Maat,36
+Hillsborough,Litchfield,President,,G,Jill Stein and Rudolph Ware,33
+Hillsborough,Litchfield,President,,,Undervotes,33
+Hillsborough,Litchfield,President,,,Overvotes,0
+Hillsborough,Litchfield,President,,,Write-Ins,24
+Hillsborough,Lyndeborough,President,,D,Kamala D. Harris and Tim Walz,557
+Hillsborough,Lyndeborough,President,,R,Donald J. Trump and JD Vance,603
+Hillsborough,Lyndeborough,President,,L,Chase Oliver and Mike ter Maat,7
+Hillsborough,Lyndeborough,President,,G,Jill Stein and Rudolph Ware,3
+Hillsborough,Lyndeborough,President,,,Undervotes,4
+Hillsborough,Lyndeborough,President,,,Overvotes,2
+Hillsborough,Lyndeborough,President,,,Write-Ins,16
+Hillsborough,Manchester Ward 1,President,,D,Kamala D. Harris and Tim Walz,3364
+Hillsborough,Manchester Ward 1,President,,R,Donald J. Trump and JD Vance,2225
+Hillsborough,Manchester Ward 1,President,,L,Chase Oliver and Mike ter Maat,18
+Hillsborough,Manchester Ward 1,President,,G,Jill Stein and Rudolph Ware,36
+Hillsborough,Manchester Ward 1,President,,,Undervotes,23
+Hillsborough,Manchester Ward 1,President,,,Overvotes,0
+Hillsborough,Manchester Ward 1,President,,,Write-Ins,46
+Hillsborough,Manchester Ward 2,President,,D,Kamala D. Harris and Tim Walz,2978
+Hillsborough,Manchester Ward 2,President,,R,Donald J. Trump and JD Vance,2190
+Hillsborough,Manchester Ward 2,President,,L,Chase Oliver and Mike ter Maat,30
+Hillsborough,Manchester Ward 2,President,,G,Jill Stein and Rudolph Ware,21
+Hillsborough,Manchester Ward 2,President,,,Undervotes,25
+Hillsborough,Manchester Ward 2,President,,,Overvotes,4
+Hillsborough,Manchester Ward 2,President,,,Write-Ins,24
+Hillsborough,Manchester Ward 3,President,,D,Kamala D. Harris and Tim Walz,2102
+Hillsborough,Manchester Ward 3,President,,R,Donald J. Trump and JD Vance,1338
+Hillsborough,Manchester Ward 3,President,,L,Chase Oliver and Mike ter Maat,19
+Hillsborough,Manchester Ward 3,President,,G,Jill Stein and Rudolph Ware,19
+Hillsborough,Manchester Ward 3,President,,,Undervotes,26
+Hillsborough,Manchester Ward 3,President,,,Overvotes,0
+Hillsborough,Manchester Ward 3,President,,,Write-Ins,16
+Hillsborough,Manchester Ward 4,President,,D,Kamala D. Harris and Tim Walz,1965
+Hillsborough,Manchester Ward 4,President,,R,Donald J. Trump and JD Vance,1644
+Hillsborough,Manchester Ward 4,President,,L,Chase Oliver and Mike ter Maat,17
+Hillsborough,Manchester Ward 4,President,,G,Jill Stein and Rudolph Ware,26
+Hillsborough,Manchester Ward 4,President,,,Undervotes,25
+Hillsborough,Manchester Ward 4,President,,,Overvotes,5
+Hillsborough,Manchester Ward 4,President,,,Write-Ins,16
+Hillsborough,Manchester Ward 5,President,,D,Kamala D. Harris and Tim Walz,1471
+Hillsborough,Manchester Ward 5,President,,R,Donald J. Trump and JD Vance,1283
+Hillsborough,Manchester Ward 5,President,,L,Chase Oliver and Mike ter Maat,14
+Hillsborough,Manchester Ward 5,President,,G,Jill Stein and Rudolph Ware,28
+Hillsborough,Manchester Ward 5,President,,,Undervotes,28
+Hillsborough,Manchester Ward 5,President,,,Overvotes,1
+Hillsborough,Manchester Ward 5,President,,,Write-Ins,8
+Hillsborough,Manchester Ward 6,President,,D,Kamala D. Harris and Tim Walz,2604
+Hillsborough,Manchester Ward 6,President,,R,Donald J. Trump and JD Vance,2630
+Hillsborough,Manchester Ward 6,President,,L,Chase Oliver and Mike ter Maat,24
+Hillsborough,Manchester Ward 6,President,,G,Jill Stein and Rudolph Ware,25
+Hillsborough,Manchester Ward 6,President,,,Undervotes,33
+Hillsborough,Manchester Ward 6,President,,,Overvotes,0
+Hillsborough,Manchester Ward 6,President,,,Write-Ins,29
+Hillsborough,Manchester Ward 7,President,,D,Kamala D. Harris and Tim Walz,2024
+Hillsborough,Manchester Ward 7,President,,R,Donald J. Trump and JD Vance,1795
+Hillsborough,Manchester Ward 7,President,,L,Chase Oliver and Mike ter Maat,25
+Hillsborough,Manchester Ward 7,President,,G,Jill Stein and Rudolph Ware,15
+Hillsborough,Manchester Ward 7,President,,,Write-Ins,11
+Hillsborough,Manchester Ward 8,President,,D,Kamala D. Harris and Tim Walz,2604
+Hillsborough,Manchester Ward 8,President,,R,Donald J. Trump and JD Vance,2804
+Hillsborough,Manchester Ward 8,President,,L,Chase Oliver and Mike ter Maat,25
+Hillsborough,Manchester Ward 8,President,,G,Jill Stein and Rudolph Ware,22
+Hillsborough,Manchester Ward 8,President,,,Undervotes,24
+Hillsborough,Manchester Ward 8,President,,,Overvotes,4
+Hillsborough,Manchester Ward 8,President,,,Write-Ins,22
+Hillsborough,Manchester Ward 9,President,,D,Kamala D. Harris and Tim Walz,2061
+Hillsborough,Manchester Ward 9,President,,R,Donald J. Trump and JD Vance,2036
+Hillsborough,Manchester Ward 9,President,,L,Chase Oliver and Mike ter Maat,20
+Hillsborough,Manchester Ward 9,President,,G,Jill Stein and Rudolph Ware,31
+Hillsborough,Manchester Ward 9,President,,,Undervotes,34
+Hillsborough,Manchester Ward 9,President,,,Overvotes,0
+Hillsborough,Manchester Ward 9,President,,,Write-Ins,17
+Hillsborough,Manchester Ward 10,President,,D,Kamala D. Harris and Tim Walz,2165
+Hillsborough,Manchester Ward 10,President,,R,Donald J. Trump and JD Vance,2044
+Hillsborough,Manchester Ward 10,President,,L,Chase Oliver and Mike ter Maat,23
+Hillsborough,Manchester Ward 10,President,,G,Jill Stein and Rudolph Ware,22
+Hillsborough,Manchester Ward 10,President,,,Undervotes,25
+Hillsborough,Manchester Ward 10,President,,,Overvotes,0
+Hillsborough,Manchester Ward 10,President,,,Write-Ins,22
+Hillsborough,Manchester Ward 11,President,,D,Kamala D. Harris and Tim Walz,1902
+Hillsborough,Manchester Ward 11,President,,R,Donald J. Trump and JD Vance,1709
+Hillsborough,Manchester Ward 11,President,,L,Chase Oliver and Mike ter Maat,18
+Hillsborough,Manchester Ward 11,President,,G,Jill Stein and Rudolph Ware,23
+Hillsborough,Manchester Ward 11,President,,,Undervotes,11
+Hillsborough,Manchester Ward 11,President,,,Overvotes,3
+Hillsborough,Manchester Ward 11,President,,,Write-Ins,18
+Hillsborough,Manchester Ward 12,President,,D,Kamala D. Harris and Tim Walz,2489
+Hillsborough,Manchester Ward 12,President,,R,Donald J. Trump and JD Vance,2047
+Hillsborough,Manchester Ward 12,President,,L,Chase Oliver and Mike ter Maat,20
+Hillsborough,Manchester Ward 12,President,,G,Jill Stein and Rudolph Ware,17
+Hillsborough,Manchester Ward 12,President,,,Undervotes,24
+Hillsborough,Manchester Ward 12,President,,,Overvotes,7
+Hillsborough,Manchester Ward 12,President,,,Write-Ins,17
+Hillsborough,Mason,President,,D,Kamala D. Harris and Tim Walz,373
+Hillsborough,Mason,President,,R,Donald J. Trump and JD Vance,574
+Hillsborough,Mason,President,,L,Chase Oliver and Mike ter Maat,7
+Hillsborough,Mason,President,,G,Jill Stein and Rudolph Ware,2
+Hillsborough,Mason,President,,,Undervotes,9
+Hillsborough,Mason,President,,,Overvotes,0
+Hillsborough,Mason,President,,,Write-Ins,6
+Hillsborough,Merrimack,President,,D,Kamala D. Harris and Tim Walz,8890
+Hillsborough,Merrimack,President,,R,Donald J. Trump and JD Vance,8492
+Hillsborough,Merrimack,President,,L,Chase Oliver and Mike ter Maat,107
+Hillsborough,Merrimack,President,,G,Jill Stein and Rudolph Ware,67
+Hillsborough,Merrimack,President,,,Undervotes,106
+Hillsborough,Merrimack,President,,,Overvotes,6
+Hillsborough,Merrimack,President,,,Write-Ins,86
+Hillsborough,Milford,President,,D,Kamala D. Harris and Tim Walz,4912
+Hillsborough,Milford,President,,R,Donald J. Trump and JD Vance,4401
+Hillsborough,Milford,President,,L,Chase Oliver and Mike ter Maat,70
+Hillsborough,Milford,President,,G,Jill Stein and Rudolph Ware,36
+Hillsborough,Milford,President,,,Undervotes,50
+Hillsborough,Milford,President,,,Overvotes,0
+Hillsborough,Milford,President,,,Write-Ins,58
+Hillsborough,Mont Vernon,President,,D,Kamala D. Harris and Tim Walz,1023
+Hillsborough,Mont Vernon,President,,R,Donald J. Trump and JD Vance,823
+Hillsborough,Mont Vernon,President,,L,Chase Oliver and Mike ter Maat,10
+Hillsborough,Mont Vernon,President,,G,Jill Stein and Rudolph Ware,7
+Hillsborough,Mont Vernon,President,,,Undervotes,16
+Hillsborough,Mont Vernon,President,,,Overvotes,1
+Hillsborough,Mont Vernon,President,,,Write-Ins,12
+Hillsborough,Nashua Ward 1,President,,D,Kamala D. Harris and Tim Walz,3396
+Hillsborough,Nashua Ward 1,President,,R,Donald J. Trump and JD Vance,2685
+Hillsborough,Nashua Ward 1,President,,L,Chase Oliver and Mike ter Maat,32
+Hillsborough,Nashua Ward 1,President,,G,Jill Stein and Rudolph Ware,34
+Hillsborough,Nashua Ward 1,President,,,Undervotes,27
+Hillsborough,Nashua Ward 1,President,,,Overvotes,1
+Hillsborough,Nashua Ward 1,President,,,Write-Ins,33
+Hillsborough,Nashua Ward 2,President,,D,Kamala D. Harris and Tim Walz,3252
+Hillsborough,Nashua Ward 2,President,,R,Donald J. Trump and JD Vance,2397
+Hillsborough,Nashua Ward 2,President,,L,Chase Oliver and Mike ter Maat,27
+Hillsborough,Nashua Ward 2,President,,G,Jill Stein and Rudolph Ware,24
+Hillsborough,Nashua Ward 2,President,,,Undervotes,52
+Hillsborough,Nashua Ward 2,President,,,Overvotes,2
+Hillsborough,Nashua Ward 2,President,,,Write-Ins,32
+Hillsborough,Nashua Ward 3,President,,D,Kamala D. Harris and Tim Walz,2655
+Hillsborough,Nashua Ward 3,President,,R,Donald J. Trump and JD Vance,1942
+Hillsborough,Nashua Ward 3,President,,L,Chase Oliver and Mike ter Maat,17
+Hillsborough,Nashua Ward 3,President,,G,Jill Stein and Rudolph Ware,19
+Hillsborough,Nashua Ward 3,President,,,Undervotes,20
+Hillsborough,Nashua Ward 3,President,,,Overvotes,1
+Hillsborough,Nashua Ward 3,President,,,Write-Ins,23
+Hillsborough,Nashua Ward 4,President,,D,Kamala D. Harris and Tim Walz,1727
+Hillsborough,Nashua Ward 4,President,,R,Donald J. Trump and JD Vance,1262
+Hillsborough,Nashua Ward 4,President,,L,Chase Oliver and Mike ter Maat,18
+Hillsborough,Nashua Ward 4,President,,G,Jill Stein and Rudolph Ware,18
+Hillsborough,Nashua Ward 4,President,,,Undervotes,19
+Hillsborough,Nashua Ward 4,President,,,Overvotes,0
+Hillsborough,Nashua Ward 4,President,,,Write-Ins,7
+Hillsborough,Nashua Ward 5,President,,D,Kamala D. Harris and Tim Walz,3504
+Hillsborough,Nashua Ward 5,President,,R,Donald J. Trump and JD Vance,2949
+Hillsborough,Nashua Ward 5,President,,L,Chase Oliver and Mike ter Maat,29
+Hillsborough,Nashua Ward 5,President,,G,Jill Stein and Rudolph Ware,41
+Hillsborough,Nashua Ward 5,President,,,Undervotes,120
+Hillsborough,Nashua Ward 5,President,,,Overvotes,1
+Hillsborough,Nashua Ward 5,President,,,Write-Ins,23
+Hillsborough,Nashua Ward 6,President,,D,Kamala D. Harris and Tim Walz,2400
+Hillsborough,Nashua Ward 6,President,,R,Donald J. Trump and JD Vance,1953
+Hillsborough,Nashua Ward 6,President,,L,Chase Oliver and Mike ter Maat,27
+Hillsborough,Nashua Ward 6,President,,G,Jill Stein and Rudolph Ware,16
+Hillsborough,Nashua Ward 6,President,,,Undervotes,24
+Hillsborough,Nashua Ward 6,President,,,Overvotes,0
+Hillsborough,Nashua Ward 6,President,,,Write-Ins,21
+Hillsborough,Nashua Ward 7,President,,D,Kamala D. Harris and Tim Walz,2277
+Hillsborough,Nashua Ward 7,President,,R,Donald J. Trump and JD Vance,1896
+Hillsborough,Nashua Ward 7,President,,L,Chase Oliver and Mike ter Maat,22
+Hillsborough,Nashua Ward 7,President,,G,Jill Stein and Rudolph Ware,14
+Hillsborough,Nashua Ward 7,President,,,Undervotes,22
+Hillsborough,Nashua Ward 7,President,,,Overvotes,0
+Hillsborough,Nashua Ward 7,President,,,Write-Ins,31
+Hillsborough,Nashua Ward 8,President,,D,Kamala D. Harris and Tim Walz,2863
+Hillsborough,Nashua Ward 8,President,,R,Donald J. Trump and JD Vance,1909
+Hillsborough,Nashua Ward 8,President,,L,Chase Oliver and Mike ter Maat,25
+Hillsborough,Nashua Ward 8,President,,G,Jill Stein and Rudolph Ware,40
+Hillsborough,Nashua Ward 8,President,,,Undervotes,25
+Hillsborough,Nashua Ward 8,President,,,Overvotes,0
+Hillsborough,Nashua Ward 8,President,,,Write-Ins,22
+Hillsborough,Nashua Ward 9,President,,D,Kamala D. Harris and Tim Walz,3164
+Hillsborough,Nashua Ward 9,President,,R,Donald J. Trump and JD Vance,2486
+Hillsborough,Nashua Ward 9,President,,L,Chase Oliver and Mike ter Maat,29
+Hillsborough,Nashua Ward 9,President,,G,Jill Stein and Rudolph Ware,31
+Hillsborough,Nashua Ward 9,President,,,Undervotes,26
+Hillsborough,Nashua Ward 9,President,,,Overvotes,0
+Hillsborough,Nashua Ward 9,President,,,Write-Ins,20
+Hillsborough,New Boston,President,,D,Kamala D. Harris and Tim Walz,1924
+Hillsborough,New Boston,President,,R,Donald J. Trump and JD Vance,2047
+Hillsborough,New Boston,President,,L,Chase Oliver and Mike ter Maat,18
+Hillsborough,New Boston,President,,G,Jill Stein and Rudolph Ware,13
+Hillsborough,New Boston,President,,,Undervotes,16
+Hillsborough,New Boston,President,,,Overvotes,0
+Hillsborough,New Boston,President,,,Write-Ins,24
+Hillsborough,New Ipswich,President,,D,Kamala D. Harris and Tim Walz,934
+Hillsborough,New Ipswich,President,,R,Donald J. Trump and JD Vance,2332
+Hillsborough,New Ipswich,President,,L,Chase Oliver and Mike ter Maat,12
+Hillsborough,New Ipswich,President,,G,Jill Stein and Rudolph Ware,10
+Hillsborough,New Ipswich,President,,,Undervotes,9
+Hillsborough,New Ipswich,President,,,Overvotes,1
+Hillsborough,New Ipswich,President,,,Write-Ins,16
+Hillsborough,Pelham,President,,D,Kamala D. Harris and Tim Walz,3398
+Hillsborough,Pelham,President,,R,Donald J. Trump and JD Vance,5717
+Hillsborough,Pelham,President,,L,Chase Oliver and Mike ter Maat,50
+Hillsborough,Pelham,President,,G,Jill Stein and Rudolph Ware,34
+Hillsborough,Pelham,President,,,Undervotes,34
+Hillsborough,Pelham,President,,,Overvotes,0
+Hillsborough,Pelham,President,,,Write-Ins,24
+Hillsborough,Peterborough,President,,D,Kamala D. Harris and Tim Walz,3039
+Hillsborough,Peterborough,President,,R,Donald J. Trump and JD Vance,1333
+Hillsborough,Peterborough,President,,L,Chase Oliver and Mike ter Maat,29
+Hillsborough,Peterborough,President,,G,Jill Stein and Rudolph Ware,24
+Hillsborough,Peterborough,President,,,Undervotes,21
+Hillsborough,Peterborough,President,,,Overvotes,0
+Hillsborough,Peterborough,President,,,Write-Ins,33
+Hillsborough,Sharon,President,,D,Kamala D. Harris and Tim Walz,156
+Hillsborough,Sharon,President,,R,Donald J. Trump and JD Vance,136
+Hillsborough,Sharon,President,,L,Chase Oliver and Mike ter Maat,0
+Hillsborough,Sharon,President,,G,Jill Stein and Rudolph Ware,0
+Hillsborough,Sharon,President,,,Undervotes,0
+Hillsborough,Sharon,President,,,Overvotes,0
+Hillsborough,Sharon,President,,,Write-Ins,2
+Hillsborough,Temple,President,,D,Kamala D. Harris and Tim Walz,459
+Hillsborough,Temple,President,,R,Donald J. Trump and JD Vance,478
+Hillsborough,Temple,President,,L,Chase Oliver and Mike ter Maat,4
+Hillsborough,Temple,President,,G,Jill Stein and Rudolph Ware,11
+Hillsborough,Temple,President,,,Undervotes,9
+Hillsborough,Temple,President,,,Overvotes,0
+Hillsborough,Temple,President,,,Write-Ins,4
+Hillsborough,Weare,President,,D,Kamala D. Harris and Tim Walz,2200
+Hillsborough,Weare,President,,R,Donald J. Trump and JD Vance,3451
+Hillsborough,Weare,President,,L,Chase Oliver and Mike ter Maat,32
+Hillsborough,Weare,President,,G,Jill Stein and Rudolph Ware,23
+Hillsborough,Weare,President,,,Undervotes,28
+Hillsborough,Weare,President,,,Overvotes,0
+Hillsborough,Weare,President,,,Write-Ins,25
+Hillsborough,Wilton,President,,D,Kamala D. Harris and Tim Walz,1278
+Hillsborough,Wilton,President,,R,Donald J. Trump and JD Vance,1226
+Hillsborough,Wilton,President,,L,Chase Oliver and Mike ter Maat,9
+Hillsborough,Wilton,President,,G,Jill Stein and Rudolph Ware,23
+Hillsborough,Wilton,President,,,Undervotes,10
+Hillsborough,Wilton,President,,,Overvotes,1
+Hillsborough,Wilton,President,,,Write-Ins,17
+Hillsborough,Windsor,President,,D,Kamala D. Harris and Tim Walz,30
+Hillsborough,Windsor,President,,R,Donald J. Trump and JD Vance,102
+Hillsborough,Windsor,President,,L,Chase Oliver and Mike ter Maat,0
+Hillsborough,Windsor,President,,G,Jill Stein and Rudolph Ware,0
+Hillsborough,Windsor,President,,,Undervotes,0
+Hillsborough,Windsor,President,,,Overvotes,0
+Hillsborough,Windsor,President,,,Write-Ins,0
+Merrimack,Allenstown,President,,D,Kamala D. Harris and Tim Walz,1151
+Merrimack,Allenstown,President,,R,Donald J. Trump and JD Vance,1468
+Merrimack,Allenstown,President,,L,Chase Oliver and Mike ter Maat,14
+Merrimack,Allenstown,President,,G,Jill Stein and Rudolph Ware,8
+Merrimack,Allenstown,President,,,Undervotes,12
+Merrimack,Allenstown,President,,,Overvotes,0
+Merrimack,Allenstown,President,,,Write-Ins,12
+Merrimack,Andover,President,,D,Kamala D. Harris and Tim Walz,801
+Merrimack,Andover,President,,R,Donald J. Trump and JD Vance,788
+Merrimack,Andover,President,,L,Chase Oliver and Mike ter Maat,6
+Merrimack,Andover,President,,G,Jill Stein and Rudolph Ware,10
+Merrimack,Andover,President,,,Undervotes,6
+Merrimack,Andover,President,,,Overvotes,1
+Merrimack,Andover,President,,,Write-Ins,7
+Merrimack,Boscawen,President,,D,Kamala D. Harris and Tim Walz,935
+Merrimack,Boscawen,President,,R,Donald J. Trump and JD Vance,1213
+Merrimack,Boscawen,President,,L,Chase Oliver and Mike ter Maat,14
+Merrimack,Boscawen,President,,G,Jill Stein and Rudolph Ware,6
+Merrimack,Boscawen,President,,,Undervotes,14
+Merrimack,Boscawen,President,,,Overvotes,2
+Merrimack,Boscawen,President,,,Write-Ins,5
+Merrimack,Bow,President,,D,Kamala D. Harris and Tim Walz,3093
+Merrimack,Bow,President,,R,Donald J. Trump and JD Vance,2246
+Merrimack,Bow,President,,L,Chase Oliver and Mike ter Maat,37
+Merrimack,Bow,President,,G,Jill Stein and Rudolph Ware,8
+Merrimack,Bow,President,,,Undervotes,23
+Merrimack,Bow,President,,,Overvotes,0
+Merrimack,Bow,President,,,Write-Ins,45
+Merrimack,Bradford,President,,D,Kamala D. Harris and Tim Walz,571
+Merrimack,Bradford,President,,R,Donald J. Trump and JD Vance,521
+Merrimack,Bradford,President,,L,Chase Oliver and Mike ter Maat,7
+Merrimack,Bradford,President,,G,Jill Stein and Rudolph Ware,5
+Merrimack,Bradford,President,,,Undervotes,8
+Merrimack,Bradford,President,,,Overvotes,1
+Merrimack,Bradford,President,,,Write-Ins,7
+Merrimack,Canterbury,President,,D,Kamala D. Harris and Tim Walz,950
+Merrimack,Canterbury,President,,R,Donald J. Trump and JD Vance,774
+Merrimack,Canterbury,President,,L,Chase Oliver and Mike ter Maat,9
+Merrimack,Canterbury,President,,G,Jill Stein and Rudolph Ware,12
+Merrimack,Canterbury,President,,,Undervotes,10
+Merrimack,Canterbury,President,,,Overvotes,0
+Merrimack,Canterbury,President,,,Write-Ins,10
+Merrimack,Chichester,President,,D,Kamala D. Harris and Tim Walz,741
+Merrimack,Chichester,President,,R,Donald J. Trump and JD Vance,1077
+Merrimack,Chichester,President,,L,Chase Oliver and Mike ter Maat,9
+Merrimack,Chichester,President,,G,Jill Stein and Rudolph Ware,9
+Merrimack,Chichester,President,,,Undervotes,18
+Merrimack,Chichester,President,,,Overvotes,0
+Merrimack,Chichester,President,,,Write-Ins,7
+Merrimack,Concord Ward 1,President,,D,Kamala D. Harris and Tim Walz,1487
+Merrimack,Concord Ward 1,President,,R,Donald J. Trump and JD Vance,1050
+Merrimack,Concord Ward 1,President,,L,Chase Oliver and Mike ter Maat,16
+Merrimack,Concord Ward 1,President,,G,Jill Stein and Rudolph Ware,17
+Merrimack,Concord Ward 1,President,,,Undervotes,8
+Merrimack,Concord Ward 1,President,,,Overvotes,0
+Merrimack,Concord Ward 1,President,,,Write-Ins,10
+Merrimack,Concord Ward 2,President,,D,Kamala D. Harris and Tim Walz,1313
+Merrimack,Concord Ward 2,President,,R,Donald J. Trump and JD Vance,944
+Merrimack,Concord Ward 2,President,,L,Chase Oliver and Mike ter Maat,12
+Merrimack,Concord Ward 2,President,,G,Jill Stein and Rudolph Ware,10
+Merrimack,Concord Ward 2,President,,,Undervotes,14
+Merrimack,Concord Ward 2,President,,,Overvotes,0
+Merrimack,Concord Ward 2,President,,,Write-Ins,9
+Merrimack,Concord Ward 3,President,,D,Kamala D. Harris and Tim Walz,822
+Merrimack,Concord Ward 3,President,,R,Donald J. Trump and JD Vance,535
+Merrimack,Concord Ward 3,President,,L,Chase Oliver and Mike ter Maat,9
+Merrimack,Concord Ward 3,President,,G,Jill Stein and Rudolph Ware,6
+Merrimack,Concord Ward 3,President,,,Undervotes,7
+Merrimack,Concord Ward 3,President,,,Overvotes,0
+Merrimack,Concord Ward 3,President,,,Write-Ins,6
+Merrimack,Concord Ward 4,President,,D,Kamala D. Harris and Tim Walz,1559
+Merrimack,Concord Ward 4,President,,R,Donald J. Trump and JD Vance,796
+Merrimack,Concord Ward 4,President,,L,Chase Oliver and Mike ter Maat,8
+Merrimack,Concord Ward 4,President,,G,Jill Stein and Rudolph Ware,19
+Merrimack,Concord Ward 4,President,,,Undervotes,10
+Merrimack,Concord Ward 4,President,,,Overvotes,0
+Merrimack,Concord Ward 4,President,,,Write-Ins,18
+Merrimack,Concord Ward 5,President,,D,Kamala D. Harris and Tim Walz,2077
+Merrimack,Concord Ward 5,President,,R,Donald J. Trump and JD Vance,759
+Merrimack,Concord Ward 5,President,,L,Chase Oliver and Mike ter Maat,11
+Merrimack,Concord Ward 5,President,,G,Jill Stein and Rudolph Ware,21
+Merrimack,Concord Ward 5,President,,,Undervotes,20
+Merrimack,Concord Ward 5,President,,,Overvotes,0
+Merrimack,Concord Ward 5,President,,,Write-Ins,7
+Merrimack,Concord Ward 6,President,,D,Kamala D. Harris and Tim Walz,1316
+Merrimack,Concord Ward 6,President,,R,Donald J. Trump and JD Vance,763
+Merrimack,Concord Ward 6,President,,L,Chase Oliver and Mike ter Maat,14
+Merrimack,Concord Ward 6,President,,G,Jill Stein and Rudolph Ware,14
+Merrimack,Concord Ward 6,President,,,Undervotes,8
+Merrimack,Concord Ward 6,President,,,Overvotes,2
+Merrimack,Concord Ward 6,President,,,Write-Ins,12
+Merrimack,Concord Ward 7,President,,D,Kamala D. Harris and Tim Walz,1958
+Merrimack,Concord Ward 7,President,,R,Donald J. Trump and JD Vance,938
+Merrimack,Concord Ward 7,President,,L,Chase Oliver and Mike ter Maat,18
+Merrimack,Concord Ward 7,President,,G,Jill Stein and Rudolph Ware,12
+Merrimack,Concord Ward 7,President,,,Undervotes,23
+Merrimack,Concord Ward 7,President,,,Overvotes,1
+Merrimack,Concord Ward 7,President,,,Write-Ins,15
+Merrimack,Concord Ward 8,President,,D,Kamala D. Harris and Tim Walz,1398
+Merrimack,Concord Ward 8,President,,R,Donald J. Trump and JD Vance,962
+Merrimack,Concord Ward 8,President,,L,Chase Oliver and Mike ter Maat,11
+Merrimack,Concord Ward 8,President,,G,Jill Stein and Rudolph Ware,10
+Merrimack,Concord Ward 8,President,,,Undervotes,19
+Merrimack,Concord Ward 8,President,,,Overvotes,0
+Merrimack,Concord Ward 8,President,,,Write-Ins,14
+Merrimack,Concord Ward 9,President,,D,Kamala D. Harris and Tim Walz,1383
+Merrimack,Concord Ward 9,President,,R,Donald J. Trump and JD Vance,769
+Merrimack,Concord Ward 9,President,,L,Chase Oliver and Mike ter Maat,15
+Merrimack,Concord Ward 9,President,,G,Jill Stein and Rudolph Ware,13
+Merrimack,Concord Ward 9,President,,,Undervotes,15
+Merrimack,Concord Ward 9,President,,,Overvotes,1
+Merrimack,Concord Ward 9,President,,,Write-Ins,5
+Merrimack,Concord Ward 10,President,,D,Kamala D. Harris and Tim Walz,1903
+Merrimack,Concord Ward 10,President,,R,Donald J. Trump and JD Vance,1154
+Merrimack,Concord Ward 10,President,,L,Chase Oliver and Mike ter Maat,18
+Merrimack,Concord Ward 10,President,,G,Jill Stein and Rudolph Ware,13
+Merrimack,Concord Ward 10,President,,,Undervotes,19
+Merrimack,Concord Ward 10,President,,,Overvotes,0
+Merrimack,Concord Ward 10,President,,,Write-Ins,20
+Merrimack,Danbury,President,,D,Kamala D. Harris and Tim Walz,297
+Merrimack,Danbury,President,,R,Donald J. Trump and JD Vance,519
+Merrimack,Danbury,President,,L,Chase Oliver and Mike ter Maat,9
+Merrimack,Danbury,President,,G,Jill Stein and Rudolph Ware,2
+Merrimack,Danbury,President,,,Undervotes,5
+Merrimack,Danbury,President,,,Overvotes,0
+Merrimack,Danbury,President,,,Write-Ins,2
+Merrimack,Dunbarton,President,,D,Kamala D. Harris and Tim Walz,899
+Merrimack,Dunbarton,President,,R,Donald J. Trump and JD Vance,1173
+Merrimack,Dunbarton,President,,L,Chase Oliver and Mike ter Maat,13
+Merrimack,Dunbarton,President,,G,Jill Stein and Rudolph Ware,6
+Merrimack,Dunbarton,President,,,Undervotes,13
+Merrimack,Dunbarton,President,,,Overvotes,0
+Merrimack,Dunbarton,President,,,Write-Ins,18
+Merrimack,Epsom,President,,D,Kamala D. Harris and Tim Walz,1146
+Merrimack,Epsom,President,,R,Donald J. Trump and JD Vance,1853
+Merrimack,Epsom,President,,L,Chase Oliver and Mike ter Maat,12
+Merrimack,Epsom,President,,G,Jill Stein and Rudolph Ware,13
+Merrimack,Epsom,President,,,Undervotes,14
+Merrimack,Epsom,President,,,Overvotes,0
+Merrimack,Epsom,President,,,Write-Ins,14
+Merrimack,Franklin Ward 1,President,,D,Kamala D. Harris and Tim Walz,569
+Merrimack,Franklin Ward 1,President,,R,Donald J. Trump and JD Vance,919
+Merrimack,Franklin Ward 1,President,,L,Chase Oliver and Mike ter Maat,3
+Merrimack,Franklin Ward 1,President,,G,Jill Stein and Rudolph Ware,4
+Merrimack,Franklin Ward 1,President,,,Undervotes,12
+Merrimack,Franklin Ward 1,President,,,Overvotes,5
+Merrimack,Franklin Ward 1,President,,,Write-Ins,9
+Merrimack,Franklin Ward 2,President,,D,Kamala D. Harris and Tim Walz,601
+Merrimack,Franklin Ward 2,President,,R,Donald J. Trump and JD Vance,790
+Merrimack,Franklin Ward 2,President,,L,Chase Oliver and Mike ter Maat,10
+Merrimack,Franklin Ward 2,President,,G,Jill Stein and Rudolph Ware,12
+Merrimack,Franklin Ward 2,President,,,Undervotes,4
+Merrimack,Franklin Ward 2,President,,,Overvotes,1
+Merrimack,Franklin Ward 2,President,,,Write-Ins,11
+Merrimack,Franklin Ward 3,President,,D,Kamala D. Harris and Tim Walz,682
+Merrimack,Franklin Ward 3,President,,R,Donald J. Trump and JD Vance,864
+Merrimack,Franklin Ward 3,President,,L,Chase Oliver and Mike ter Maat,9
+Merrimack,Franklin Ward 3,President,,G,Jill Stein and Rudolph Ware,10
+Merrimack,Franklin Ward 3,President,,,Undervotes,15
+Merrimack,Franklin Ward 3,President,,,Overvotes,0
+Merrimack,Franklin Ward 3,President,,,Write-Ins,8
+Merrimack,Henniker,President,,D,Kamala D. Harris and Tim Walz,1548
+Merrimack,Henniker,President,,R,Donald J. Trump and JD Vance,1324
+Merrimack,Henniker,President,,L,Chase Oliver and Mike ter Maat,17
+Merrimack,Henniker,President,,G,Jill Stein and Rudolph Ware,6
+Merrimack,Henniker,President,,,Undervotes,10
+Merrimack,Henniker,President,,,Overvotes,0
+Merrimack,Henniker,President,,,Write-Ins,16
+Merrimack,Hill,President,,D,Kamala D. Harris and Tim Walz,235
+Merrimack,Hill,President,,R,Donald J. Trump and JD Vance,422
+Merrimack,Hill,President,,L,Chase Oliver and Mike ter Maat,4
+Merrimack,Hill,President,,G,Jill Stein and Rudolph Ware,1
+Merrimack,Hill,President,,,Undervotes,5
+Merrimack,Hill,President,,,Overvotes,0
+Merrimack,Hill,President,,,Write-Ins,3
+Merrimack,Hooksett,President,,D,Kamala D. Harris and Tim Walz,4211
+Merrimack,Hooksett,President,,R,Donald J. Trump and JD Vance,4639
+Merrimack,Hooksett,President,,L,Chase Oliver and Mike ter Maat,38
+Merrimack,Hooksett,President,,G,Jill Stein and Rudolph Ware,45
+Merrimack,Hooksett,President,,,Undervotes,45
+Merrimack,Hooksett,President,,,Overvotes,0
+Merrimack,Hooksett,President,,,Write-Ins,54
+Merrimack,Hopkinton,President,,D,Kamala D. Harris and Tim Walz,2636
+Merrimack,Hopkinton,President,,R,Donald J. Trump and JD Vance,1492
+Merrimack,Hopkinton,President,,L,Chase Oliver and Mike ter Maat,20
+Merrimack,Hopkinton,President,,G,Jill Stein and Rudolph Ware,29
+Merrimack,Hopkinton,President,,,Undervotes,31
+Merrimack,Hopkinton,President,,,Overvotes,5
+Merrimack,Hopkinton,President,,,Write-Ins,28
+Merrimack,Loudon,President,,D,Kamala D. Harris and Tim Walz,1427
+Merrimack,Loudon,President,,R,Donald J. Trump and JD Vance,2259
+Merrimack,Loudon,President,,L,Chase Oliver and Mike ter Maat,17
+Merrimack,Loudon,President,,G,Jill Stein and Rudolph Ware,6
+Merrimack,Loudon,President,,,Undervotes,16
+Merrimack,Loudon,President,,,Overvotes,2
+Merrimack,Loudon,President,,,Write-Ins,19
+Merrimack,New London,President,,D,Kamala D. Harris and Tim Walz,2078
+Merrimack,New London,President,,R,Donald J. Trump and JD Vance,1043
+Merrimack,New London,President,,L,Chase Oliver and Mike ter Maat,25
+Merrimack,New London,President,,G,Jill Stein and Rudolph Ware,7
+Merrimack,New London,President,,,Undervotes,19
+Merrimack,New London,President,,,Overvotes,0
+Merrimack,New London,President,,,Write-Ins,21
+Merrimack,Newbury,President,,D,Kamala D. Harris and Tim Walz,908
+Merrimack,Newbury,President,,R,Donald J. Trump and JD Vance,762
+Merrimack,Newbury,President,,L,Chase Oliver and Mike ter Maat,16
+Merrimack,Newbury,President,,G,Jill Stein and Rudolph Ware,8
+Merrimack,Newbury,President,,,Undervotes,14
+Merrimack,Newbury,President,,,Overvotes,1
+Merrimack,Newbury,President,,,Write-Ins,7
+Merrimack,Northfield,President,,D,Kamala D. Harris and Tim Walz,1115
+Merrimack,Northfield,President,,R,Donald J. Trump and JD Vance,1624
+Merrimack,Northfield,President,,L,Chase Oliver and Mike ter Maat,20
+Merrimack,Northfield,President,,G,Jill Stein and Rudolph Ware,12
+Merrimack,Northfield,President,,,Undervotes,25
+Merrimack,Northfield,President,,,Overvotes,1
+Merrimack,Northfield,President,,,Write-Ins,10
+Merrimack,Pembroke,President,,D,Kamala D. Harris and Tim Walz,2205
+Merrimack,Pembroke,President,,R,Donald J. Trump and JD Vance,2250
+Merrimack,Pembroke,President,,L,Chase Oliver and Mike ter Maat,22
+Merrimack,Pembroke,President,,G,Jill Stein and Rudolph Ware,21
+Merrimack,Pembroke,President,,,Undervotes,0
+Merrimack,Pembroke,President,,,Overvotes,21
+Merrimack,Pembroke,President,,,Write-Ins,21
+Merrimack,Pittsfield,President,,D,Kamala D. Harris and Tim Walz,850
+Merrimack,Pittsfield,President,,R,Donald J. Trump and JD Vance,1441
+Merrimack,Pittsfield,President,,L,Chase Oliver and Mike ter Maat,19
+Merrimack,Pittsfield,President,,G,Jill Stein and Rudolph Ware,14
+Merrimack,Pittsfield,President,,,Undervotes,4
+Merrimack,Pittsfield,President,,,Overvotes,0
+Merrimack,Pittsfield,President,,,Write-Ins,13
+Merrimack,Salisbury,President,,D,Kamala D. Harris and Tim Walz,381
+Merrimack,Salisbury,President,,R,Donald J. Trump and JD Vance,610
+Merrimack,Salisbury,President,,L,Chase Oliver and Mike ter Maat,4
+Merrimack,Salisbury,President,,G,Jill Stein and Rudolph Ware,3
+Merrimack,Salisbury,President,,,Undervotes,5
+Merrimack,Salisbury,President,,,Overvotes,0
+Merrimack,Salisbury,President,,,Write-Ins,7
+Merrimack,Sutton,President,,D,Kamala D. Harris and Tim Walz,770
+Merrimack,Sutton,President,,R,Donald J. Trump and JD Vance,636
+Merrimack,Sutton,President,,L,Chase Oliver and Mike ter Maat,10
+Merrimack,Sutton,President,,G,Jill Stein and Rudolph Ware,7
+Merrimack,Sutton,President,,,Undervotes,11
+Merrimack,Sutton,President,,,Overvotes,0
+Merrimack,Sutton,President,,,Write-Ins,9
+Merrimack,Warner,President,,D,Kamala D. Harris and Tim Walz,1013
+Merrimack,Warner,President,,R,Donald J. Trump and JD Vance,868
+Merrimack,Warner,President,,L,Chase Oliver and Mike ter Maat,12
+Merrimack,Warner,President,,G,Jill Stein and Rudolph Ware,7
+Merrimack,Warner,President,,,Undervotes,22
+Merrimack,Warner,President,,,Overvotes,0
+Merrimack,Warner,President,,,Write-Ins,9
+Merrimack,Webster,President,,D,Kamala D. Harris and Tim Walz,554
+Merrimack,Webster,President,,R,Donald J. Trump and JD Vance,727
+Merrimack,Webster,President,,L,Chase Oliver and Mike ter Maat,9
+Merrimack,Webster,President,,G,Jill Stein and Rudolph Ware,2
+Merrimack,Webster,President,,,Undervotes,7
+Merrimack,Webster,President,,,Overvotes,1
+Merrimack,Webster,President,,,Write-Ins,4
+Merrimack,Wilmot,President,,D,Kamala D. Harris and Tim Walz,598
+Merrimack,Wilmot,President,,R,Donald J. Trump and JD Vance,392
+Merrimack,Wilmot,President,,L,Chase Oliver and Mike ter Maat,3
+Merrimack,Wilmot,President,,G,Jill Stein and Rudolph Ware,1
+Merrimack,Wilmot,President,,,Undervotes,11
+Merrimack,Wilmot,President,,,Overvotes,0
+Merrimack,Wilmot,President,,,Write-Ins,12
+Rockingham,Atkinson,President,,D,Kamala D. Harris and Tim Walz,2149
+Rockingham,Atkinson,President,,R,Donald J. Trump and JD Vance,2958
+Rockingham,Atkinson,President,,L,Chase Oliver and Mike ter Maat,18
+Rockingham,Atkinson,President,,G,Jill Stein and Rudolph Ware,17
+Rockingham,Atkinson,President,,,Undervotes,26
+Rockingham,Atkinson,President,,,Overvotes,3
+Rockingham,Atkinson,President,,,Write-Ins,17
+Rockingham,Auburn,President,,D,Kamala D. Harris and Tim Walz,1667
+Rockingham,Auburn,President,,R,Donald J. Trump and JD Vance,2340
+Rockingham,Auburn,President,,L,Chase Oliver and Mike ter Maat,17
+Rockingham,Auburn,President,,G,Jill Stein and Rudolph Ware,17
+Rockingham,Auburn,President,,,Undervotes,25
+Rockingham,Auburn,President,,,Overvotes,0
+Rockingham,Auburn,President,,,Write-Ins,16
+Rockingham,Brentwood,President,,D,Kamala D. Harris and Tim Walz,1566
+Rockingham,Brentwood,President,,R,Donald J. Trump and JD Vance,1488
+Rockingham,Brentwood,President,,L,Chase Oliver and Mike ter Maat,25
+Rockingham,Brentwood,President,,G,Jill Stein and Rudolph Ware,18
+Rockingham,Brentwood,President,,,Undervotes,22
+Rockingham,Brentwood,President,,,Overvotes,6
+Rockingham,Brentwood,President,,,Write-Ins,21
+Rockingham,Candia,President,,D,Kamala D. Harris and Tim Walz,1077
+Rockingham,Candia,President,,R,Donald J. Trump and JD Vance,1841
+Rockingham,Candia,President,,L,Chase Oliver and Mike ter Maat,14
+Rockingham,Candia,President,,G,Jill Stein and Rudolph Ware,6
+Rockingham,Candia,President,,,Undervotes,9
+Rockingham,Candia,President,,,Overvotes,1
+Rockingham,Candia,President,,,Write-Ins,15
+Rockingham,Chester,President,,D,Kamala D. Harris and Tim Walz,1411
+Rockingham,Chester,President,,R,Donald J. Trump and JD Vance,2065
+Rockingham,Chester,President,,L,Chase Oliver and Mike ter Maat,30
+Rockingham,Chester,President,,G,Jill Stein and Rudolph Ware,15
+Rockingham,Chester,President,,,Undervotes,14
+Rockingham,Chester,President,,,Overvotes,0
+Rockingham,Chester,President,,,Write-Ins,20
+Rockingham,Danville,President,,D,Kamala D. Harris and Tim Walz,1043
+Rockingham,Danville,President,,R,Donald J. Trump and JD Vance,1792
+Rockingham,Danville,President,,L,Chase Oliver and Mike ter Maat,13
+Rockingham,Danville,President,,G,Jill Stein and Rudolph Ware,8
+Rockingham,Danville,President,,,Undervotes,12
+Rockingham,Danville,President,,,Overvotes,0
+Rockingham,Danville,President,,,Write-Ins,11
+Rockingham,Deerfield,President,,D,Kamala D. Harris and Tim Walz,1401
+Rockingham,Deerfield,President,,R,Donald J. Trump and JD Vance,1932
+Rockingham,Deerfield,President,,L,Chase Oliver and Mike ter Maat,20
+Rockingham,Deerfield,President,,G,Jill Stein and Rudolph Ware,19
+Rockingham,Deerfield,President,,,Undervotes,14
+Rockingham,Deerfield,President,,,Overvotes,0
+Rockingham,Deerfield,President,,,Write-Ins,16
+Rockingham,Derry,President,,D,Kamala D. Harris and Tim Walz,7851
+Rockingham,Derry,President,,R,Donald J. Trump and JD Vance,9989
+Rockingham,Derry,President,,L,Chase Oliver and Mike ter Maat,86
+Rockingham,Derry,President,,G,Jill Stein and Rudolph Ware,67
+Rockingham,Derry,President,,,Undervotes,82
+Rockingham,Derry,President,,,Overvotes,10
+Rockingham,Derry,President,,,Write-Ins,60
+Rockingham,East Kingston,President,,D,Kamala D. Harris and Tim Walz,765
+Rockingham,East Kingston,President,,R,Donald J. Trump and JD Vance,910
+Rockingham,East Kingston,President,,L,Chase Oliver and Mike ter Maat,20
+Rockingham,East Kingston,President,,G,Jill Stein and Rudolph Ware,7
+Rockingham,East Kingston,President,,,Undervotes,12
+Rockingham,East Kingston,President,,,Overvotes,0
+Rockingham,East Kingston,President,,,Write-Ins,11
+Rockingham,Epping,President,,D,Kamala D. Harris and Tim Walz,2149
+Rockingham,Epping,President,,R,Donald J. Trump and JD Vance,2719
+Rockingham,Epping,President,,L,Chase Oliver and Mike ter Maat,23
+Rockingham,Epping,President,,G,Jill Stein and Rudolph Ware,16
+Rockingham,Epping,President,,,Undervotes,36
+Rockingham,Epping,President,,,Overvotes,0
+Rockingham,Epping,President,,,Write-Ins,18
+Rockingham,Exeter,President,,D,Kamala D. Harris and Tim Walz,6782
+Rockingham,Exeter,President,,R,Donald J. Trump and JD Vance,3385
+Rockingham,Exeter,President,,L,Chase Oliver and Mike ter Maat,47
+Rockingham,Exeter,President,,G,Jill Stein and Rudolph Ware,67
+Rockingham,Exeter,President,,,Undervotes,57
+Rockingham,Exeter,President,,,Overvotes,5
+Rockingham,Exeter,President,,,Write-Ins,76
+Rockingham,Fremont,President,,D,Kamala D. Harris and Tim Walz,1243
+Rockingham,Fremont,President,,R,Donald J. Trump and JD Vance,1855
+Rockingham,Fremont,President,,L,Chase Oliver and Mike ter Maat,16
+Rockingham,Fremont,President,,G,Jill Stein and Rudolph Ware,13
+Rockingham,Fremont,President,,,Undervotes,12
+Rockingham,Fremont,President,,,Overvotes,0
+Rockingham,Fremont,President,,,Write-Ins,9
+Rockingham,Greenland,President,,D,Kamala D. Harris and Tim Walz,1681
+Rockingham,Greenland,President,,R,Donald J. Trump and JD Vance,1226
+Rockingham,Greenland,President,,L,Chase Oliver and Mike ter Maat,20
+Rockingham,Greenland,President,,G,Jill Stein and Rudolph Ware,6
+Rockingham,Greenland,President,,,Undervotes,14
+Rockingham,Greenland,President,,,Overvotes,0
+Rockingham,Greenland,President,,,Write-Ins,22
+Rockingham,Hampstead,President,,D,Kamala D. Harris and Tim Walz,2425
+Rockingham,Hampstead,President,,R,Donald J. Trump and JD Vance,3563
+Rockingham,Hampstead,President,,L,Chase Oliver and Mike ter Maat,36
+Rockingham,Hampstead,President,,G,Jill Stein and Rudolph Ware,18
+Rockingham,Hampstead,President,,,Undervotes,27
+Rockingham,Hampstead,President,,,Overvotes,2
+Rockingham,Hampstead,President,,,Write-Ins,30
+Rockingham,Hampton,President,,D,Kamala D. Harris and Tim Walz,5521
+Rockingham,Hampton,President,,R,Donald J. Trump and JD Vance,4843
+Rockingham,Hampton,President,,L,Chase Oliver and Mike ter Maat,35
+Rockingham,Hampton,President,,G,Jill Stein and Rudolph Ware,29
+Rockingham,Hampton,President,,,Undervotes,47
+Rockingham,Hampton,President,,,Overvotes,4
+Rockingham,Hampton,President,,,Write-Ins,19
+Rockingham,Hampton Falls,President,,D,Kamala D. Harris and Tim Walz,807
+Rockingham,Hampton Falls,President,,R,Donald J. Trump and JD Vance,911
+Rockingham,Hampton Falls,President,,L,Chase Oliver and Mike ter Maat,7
+Rockingham,Hampton Falls,President,,G,Jill Stein and Rudolph Ware,3
+Rockingham,Hampton Falls,President,,,Undervotes,13
+Rockingham,Hampton Falls,President,,,Overvotes,1
+Rockingham,Hampton Falls,President,,,Write-Ins,13
+Rockingham,Kensington,President,,D,Kamala D. Harris and Tim Walz,798
+Rockingham,Kensington,President,,R,Donald J. Trump and JD Vance,760
+Rockingham,Kensington,President,,L,Chase Oliver and Mike ter Maat,9
+Rockingham,Kensington,President,,G,Jill Stein and Rudolph Ware,6
+Rockingham,Kensington,President,,,Undervotes,10
+Rockingham,Kensington,President,,,Overvotes,0
+Rockingham,Kensington,President,,,Write-Ins,9
+Rockingham,Kingston,President,,D,Kamala D. Harris and Tim Walz,1680
+Rockingham,Kingston,President,,R,Donald J. Trump and JD Vance,2419
+Rockingham,Kingston,President,,L,Chase Oliver and Mike ter Maat,23
+Rockingham,Kingston,President,,G,Jill Stein and Rudolph Ware,22
+Rockingham,Kingston,President,,,Undervotes,18
+Rockingham,Kingston,President,,,Overvotes,1
+Rockingham,Kingston,President,,,Write-Ins,6
+Rockingham,Londonderry,President,,D,Kamala D. Harris and Tim Walz,7655
+Rockingham,Londonderry,President,,R,Donald J. Trump and JD Vance,8435
+Rockingham,Londonderry,President,,L,Chase Oliver and Mike ter Maat,54
+Rockingham,Londonderry,President,,G,Jill Stein and Rudolph Ware,44
+Rockingham,Londonderry,President,,,Undervotes,66
+Rockingham,Londonderry,President,,,Overvotes,9
+Rockingham,Londonderry,President,,,Write-Ins,86
+Rockingham,New Castle,President,,D,Kamala D. Harris and Tim Walz,555
+Rockingham,New Castle,President,,R,Donald J. Trump and JD Vance,286
+Rockingham,New Castle,President,,L,Chase Oliver and Mike ter Maat,7
+Rockingham,New Castle,President,,G,Jill Stein and Rudolph Ware,1
+Rockingham,New Castle,President,,,Undervotes,11
+Rockingham,New Castle,President,,,Overvotes,0
+Rockingham,New Castle,President,,,Write-Ins,9
+Rockingham,Newfields,President,,D,Kamala D. Harris and Tim Walz,740
+Rockingham,Newfields,President,,R,Donald J. Trump and JD Vance,503
+Rockingham,Newfields,President,,L,Chase Oliver and Mike ter Maat,11
+Rockingham,Newfields,President,,G,Jill Stein and Rudolph Ware,8
+Rockingham,Newfields,President,,,Undervotes,15
+Rockingham,Newfields,President,,,Overvotes,1
+Rockingham,Newfields,President,,,Write-Ins,10
+Rockingham,Newington,President,,D,Kamala D. Harris and Tim Walz,301
+Rockingham,Newington,President,,R,Donald J. Trump and JD Vance,313
+Rockingham,Newington,President,,L,Chase Oliver and Mike ter Maat,2
+Rockingham,Newington,President,,G,Jill Stein and Rudolph Ware,4
+Rockingham,Newington,President,,,Undervotes,6
+Rockingham,Newington,President,,,Overvotes,0
+Rockingham,Newington,President,,,Write-Ins,4
+Rockingham,Newmarket,President,,D,Kamala D. Harris and Tim Walz,3895
+Rockingham,Newmarket,President,,R,Donald J. Trump and JD Vance,2012
+Rockingham,Newmarket,President,,L,Chase Oliver and Mike ter Maat,35
+Rockingham,Newmarket,President,,G,Jill Stein and Rudolph Ware,33
+Rockingham,Newmarket,President,,,Undervotes,19
+Rockingham,Newmarket,President,,,Overvotes,2
+Rockingham,Newmarket,President,,,Write-Ins,40
+Rockingham,Newton,President,,D,Kamala D. Harris and Tim Walz,1217
+Rockingham,Newton,President,,R,Donald J. Trump and JD Vance,1790
+Rockingham,Newton,President,,L,Chase Oliver and Mike ter Maat,19
+Rockingham,Newton,President,,G,Jill Stein and Rudolph Ware,15
+Rockingham,Newton,President,,,Undervotes,14
+Rockingham,Newton,President,,,Overvotes,0
+Rockingham,Newton,President,,,Write-Ins,9
+Rockingham,North Hampton,President,,D,Kamala D. Harris and Tim Walz,1945
+Rockingham,North Hampton,President,,R,Donald J. Trump and JD Vance,1438
+Rockingham,North Hampton,President,,L,Chase Oliver and Mike ter Maat,12
+Rockingham,North Hampton,President,,G,Jill Stein and Rudolph Ware,17
+Rockingham,North Hampton,President,,,Undervotes,28
+Rockingham,North Hampton,President,,,Overvotes,0
+Rockingham,North Hampton,President,,,Write-Ins,24
+Rockingham,Northwood,President,,D,Kamala D. Harris and Tim Walz,1333
+Rockingham,Northwood,President,,R,Donald J. Trump and JD Vance,1580
+Rockingham,Northwood,President,,L,Chase Oliver and Mike ter Maat,15
+Rockingham,Northwood,President,,G,Jill Stein and Rudolph Ware,8
+Rockingham,Northwood,President,,,Undervotes,12
+Rockingham,Northwood,President,,,Overvotes,6
+Rockingham,Northwood,President,,,Write-Ins,19
+Rockingham,Nottingham,President,,D,Kamala D. Harris and Tim Walz,1796
+Rockingham,Nottingham,President,,R,Donald J. Trump and JD Vance,1823
+Rockingham,Nottingham,President,,L,Chase Oliver and Mike ter Maat,25
+Rockingham,Nottingham,President,,G,Jill Stein and Rudolph Ware,11
+Rockingham,Nottingham,President,,,Undervotes,23
+Rockingham,Nottingham,President,,,Overvotes,0
+Rockingham,Nottingham,President,,,Write-Ins,20
+Rockingham,Plaistow,President,,D,Kamala D. Harris and Tim Walz,1895
+Rockingham,Plaistow,President,,R,Donald J. Trump and JD Vance,2761
+Rockingham,Plaistow,President,,L,Chase Oliver and Mike ter Maat,38
+Rockingham,Plaistow,President,,G,Jill Stein and Rudolph Ware,24
+Rockingham,Plaistow,President,,,Undervotes,0
+Rockingham,Plaistow,President,,,Overvotes,0
+Rockingham,Plaistow,President,,,Write-Ins,21
+Rockingham,Portsmouth Ward 1,President,,D,Kamala D. Harris and Tim Walz,2052
+Rockingham,Portsmouth Ward 1,President,,R,Donald J. Trump and JD Vance,809
+Rockingham,Portsmouth Ward 1,President,,L,Chase Oliver and Mike ter Maat,20
+Rockingham,Portsmouth Ward 1,President,,G,Jill Stein and Rudolph Ware,18
+Rockingham,Portsmouth Ward 1,President,,,Undervotes,13
+Rockingham,Portsmouth Ward 1,President,,,Overvotes,0
+Rockingham,Portsmouth Ward 1,President,,,Write-Ins,25
+Rockingham,Portsmouth Ward 2,President,,D,Kamala D. Harris and Tim Walz,2442
+Rockingham,Portsmouth Ward 2,President,,R,Donald J. Trump and JD Vance,736
+Rockingham,Portsmouth Ward 2,President,,L,Chase Oliver and Mike ter Maat,26
+Rockingham,Portsmouth Ward 2,President,,G,Jill Stein and Rudolph Ware,12
+Rockingham,Portsmouth Ward 2,President,,,Undervotes,16
+Rockingham,Portsmouth Ward 2,President,,,Overvotes,0
+Rockingham,Portsmouth Ward 2,President,,,Write-Ins,23
+Rockingham,Portsmouth Ward 3,President,,D,Kamala D. Harris and Tim Walz,1980
+Rockingham,Portsmouth Ward 3,President,,R,Donald J. Trump and JD Vance,1013
+Rockingham,Portsmouth Ward 3,President,,L,Chase Oliver and Mike ter Maat,23
+Rockingham,Portsmouth Ward 3,President,,G,Jill Stein and Rudolph Ware,8
+Rockingham,Portsmouth Ward 3,President,,,Undervotes,14
+Rockingham,Portsmouth Ward 3,President,,,Overvotes,2
+Rockingham,Portsmouth Ward 3,President,,,Write-Ins,9
+Rockingham,Portsmouth Ward 4,President,,D,Kamala D. Harris and Tim Walz,1640
+Rockingham,Portsmouth Ward 4,President,,R,Donald J. Trump and JD Vance,972
+Rockingham,Portsmouth Ward 4,President,,L,Chase Oliver and Mike ter Maat,11
+Rockingham,Portsmouth Ward 4,President,,G,Jill Stein and Rudolph Ware,20
+Rockingham,Portsmouth Ward 4,President,,,Undervotes,19
+Rockingham,Portsmouth Ward 4,President,,,Overvotes,2
+Rockingham,Portsmouth Ward 4,President,,,Write-Ins,11
+Rockingham,Portsmouth Ward 5,President,,D,Kamala D. Harris and Tim Walz,2175
+Rockingham,Portsmouth Ward 5,President,,R,Donald J. Trump and JD Vance,657
+Rockingham,Portsmouth Ward 5,President,,L,Chase Oliver and Mike ter Maat,12
+Rockingham,Portsmouth Ward 5,President,,G,Jill Stein and Rudolph Ware,9
+Rockingham,Portsmouth Ward 5,President,,,Undervotes,12
+Rockingham,Portsmouth Ward 5,President,,,Overvotes,0
+Rockingham,Portsmouth Ward 5,President,,,Write-Ins,16
+Rockingham,Raymond,President,,D,Kamala D. Harris and Tim Walz,2400
+Rockingham,Raymond,President,,R,Donald J. Trump and JD Vance,3876
+Rockingham,Raymond,President,,L,Chase Oliver and Mike ter Maat,36
+Rockingham,Raymond,President,,G,Jill Stein and Rudolph Ware,19
+Rockingham,Raymond,President,,,Undervotes,18
+Rockingham,Raymond,President,,,Overvotes,1
+Rockingham,Raymond,President,,,Write-Ins,17
+Rockingham,Rye,President,,D,Kamala D. Harris and Tim Walz,2611
+Rockingham,Rye,President,,R,Donald J. Trump and JD Vance,1728
+Rockingham,Rye,President,,L,Chase Oliver and Mike ter Maat,25
+Rockingham,Rye,President,,G,Jill Stein and Rudolph Ware,13
+Rockingham,Rye,President,,,Undervotes,31
+Rockingham,Rye,President,,,Overvotes,1
+Rockingham,Rye,President,,,Write-Ins,41
+Rockingham,Salem,President,,D,Kamala D. Harris and Tim Walz,7453
+Rockingham,Salem,President,,R,Donald J. Trump and JD Vance,10943
+Rockingham,Salem,President,,L,Chase Oliver and Mike ter Maat,62
+Rockingham,Salem,President,,G,Jill Stein and Rudolph Ware,82
+Rockingham,Salem,President,,,Undervotes,98
+Rockingham,Salem,President,,,Overvotes,8
+Rockingham,Salem,President,,,Write-Ins,66
+Rockingham,Sandown,President,,D,Kamala D. Harris and Tim Walz,1568
+Rockingham,Sandown,President,,R,Donald J. Trump and JD Vance,2616
+Rockingham,Sandown,President,,L,Chase Oliver and Mike ter Maat,22
+Rockingham,Sandown,President,,G,Jill Stein and Rudolph Ware,12
+Rockingham,Sandown,President,,,Undervotes,9
+Rockingham,Sandown,President,,,Overvotes,2
+Rockingham,Sandown,President,,,Write-Ins,10
+Rockingham,Seabrook,President,,D,Kamala D. Harris and Tim Walz,1996
+Rockingham,Seabrook,President,,R,Donald J. Trump and JD Vance,3166
+Rockingham,Seabrook,President,,L,Chase Oliver and Mike ter Maat,18
+Rockingham,Seabrook,President,,G,Jill Stein and Rudolph Ware,16
+Rockingham,Seabrook,President,,,Undervotes,12
+Rockingham,Seabrook,President,,,Overvotes,0
+Rockingham,Seabrook,President,,,Write-Ins,11
+Rockingham,South Hampton,President,,D,Kamala D. Harris and Tim Walz,271
+Rockingham,South Hampton,President,,R,Donald J. Trump and JD Vance,351
+Rockingham,South Hampton,President,,L,Chase Oliver and Mike ter Maat,5
+Rockingham,South Hampton,President,,G,Jill Stein and Rudolph Ware,4
+Rockingham,South Hampton,President,,,Undervotes,3
+Rockingham,South Hampton,President,,,Overvotes,0
+Rockingham,South Hampton,President,,,Write-Ins,2
+Rockingham,Stratham,President,,D,Kamala D. Harris and Tim Walz,3302
+Rockingham,Stratham,President,,R,Donald J. Trump and JD Vance,2178
+Rockingham,Stratham,President,,L,Chase Oliver and Mike ter Maat,23
+Rockingham,Stratham,President,,G,Jill Stein and Rudolph Ware,22
+Rockingham,Stratham,President,,,Undervotes,49
+Rockingham,Stratham,President,,,Overvotes,0
+Rockingham,Stratham,President,,,Write-Ins,40
+Rockingham,Windham,President,,D,Kamala D. Harris and Tim Walz,4373
+Rockingham,Windham,President,,R,Donald J. Trump and JD Vance,5557
+Rockingham,Windham,President,,L,Chase Oliver and Mike ter Maat,50
+Rockingham,Windham,President,,G,Jill Stein and Rudolph Ware,52
+Rockingham,Windham,President,,,Undervotes,72
+Rockingham,Windham,President,,,Overvotes,0
+Rockingham,Windham,President,,,Write-Ins,54
+Strafford,Barrington,President,,D,Kamala D. Harris and Tim Walz,3241
+Strafford,Barrington,President,,R,Donald J. Trump and JD Vance,2985
+Strafford,Barrington,President,,L,Chase Oliver and Mike ter Maat,35
+Strafford,Barrington,President,,G,Jill Stein and Rudolph Ware,24
+Strafford,Barrington,President,,,Undervotes,25
+Strafford,Barrington,President,,,Overvotes,2
+Strafford,Barrington,President,,,Write-Ins,35
+Strafford,Dover Ward 1,President,,D,Kamala D. Harris and Tim Walz,2333
+Strafford,Dover Ward 1,President,,R,Donald J. Trump and JD Vance,853
+Strafford,Dover Ward 1,President,,L,Chase Oliver and Mike ter Maat,21
+Strafford,Dover Ward 1,President,,G,Jill Stein and Rudolph Ware,15
+Strafford,Dover Ward 1,President,,,Undervotes,15
+Strafford,Dover Ward 1,President,,,Overvotes,6
+Strafford,Dover Ward 1,President,,,Write-Ins,14
+Strafford,Dover Ward 2,President,,D,Kamala D. Harris and Tim Walz,2152
+Strafford,Dover Ward 2,President,,R,Donald J. Trump and JD Vance,888
+Strafford,Dover Ward 2,President,,L,Chase Oliver and Mike ter Maat,26
+Strafford,Dover Ward 2,President,,G,Jill Stein and Rudolph Ware,21
+Strafford,Dover Ward 2,President,,,Undervotes,13
+Strafford,Dover Ward 2,President,,,Overvotes,1
+Strafford,Dover Ward 2,President,,,Write-Ins,19
+Strafford,Dover Ward 3,President,,D,Kamala D. Harris and Tim Walz,2303
+Strafford,Dover Ward 3,President,,R,Donald J. Trump and JD Vance,1398
+Strafford,Dover Ward 3,President,,L,Chase Oliver and Mike ter Maat,20
+Strafford,Dover Ward 3,President,,G,Jill Stein and Rudolph Ware,16
+Strafford,Dover Ward 3,President,,,Undervotes,21
+Strafford,Dover Ward 3,President,,,Overvotes,1
+Strafford,Dover Ward 3,President,,,Write-Ins,24
+Strafford,Dover Ward 4,President,,D,Kamala D. Harris and Tim Walz,2242
+Strafford,Dover Ward 4,President,,R,Donald J. Trump and JD Vance,1245
+Strafford,Dover Ward 4,President,,L,Chase Oliver and Mike ter Maat,22
+Strafford,Dover Ward 4,President,,G,Jill Stein and Rudolph Ware,17
+Strafford,Dover Ward 4,President,,,Undervotes,18
+Strafford,Dover Ward 4,President,,,Overvotes,4
+Strafford,Dover Ward 4,President,,,Write-Ins,29
+Strafford,Dover Ward 5,President,,D,Kamala D. Harris and Tim Walz,1817
+Strafford,Dover Ward 5,President,,R,Donald J. Trump and JD Vance,1025
+Strafford,Dover Ward 5,President,,L,Chase Oliver and Mike ter Maat,17
+Strafford,Dover Ward 5,President,,G,Jill Stein and Rudolph Ware,15
+Strafford,Dover Ward 5,President,,,Undervotes,21
+Strafford,Dover Ward 5,President,,,Overvotes,1
+Strafford,Dover Ward 5,President,,,Write-Ins,37
+Strafford,Dover Ward 6,President,,D,Kamala D. Harris and Tim Walz,1808
+Strafford,Dover Ward 6,President,,R,Donald J. Trump and JD Vance,1241
+Strafford,Dover Ward 6,President,,L,Chase Oliver and Mike ter Maat,15
+Strafford,Dover Ward 6,President,,G,Jill Stein and Rudolph Ware,15
+Strafford,Dover Ward 6,President,,,Undervotes,23
+Strafford,Dover Ward 6,President,,,Overvotes,0
+Strafford,Dover Ward 6,President,,,Write-Ins,12
+Strafford,Durham,President,,D,Kamala D. Harris and Tim Walz,6047
+Strafford,Durham,President,,R,Donald J. Trump and JD Vance,2270
+Strafford,Durham,President,,L,Chase Oliver and Mike ter Maat,38
+Strafford,Durham,President,,G,Jill Stein and Rudolph Ware,50
+Strafford,Durham,President,,,Undervotes,34
+Strafford,Durham,President,,,Overvotes,0
+Strafford,Durham,President,,,Write-Ins,47
+Strafford,Farmington,President,,D,Kamala D. Harris and Tim Walz,1405
+Strafford,Farmington,President,,R,Donald J. Trump and JD Vance,2232
+Strafford,Farmington,President,,L,Chase Oliver and Mike ter Maat,17
+Strafford,Farmington,President,,G,Jill Stein and Rudolph Ware,9
+Strafford,Farmington,President,,,Undervotes,25
+Strafford,Farmington,President,,,Overvotes,0
+Strafford,Farmington,President,,,Write-Ins,5
+Strafford,Lee,President,,D,Kamala D. Harris and Tim Walz,1893
+Strafford,Lee,President,,R,Donald J. Trump and JD Vance,986
+Strafford,Lee,President,,L,Chase Oliver and Mike ter Maat,23
+Strafford,Lee,President,,G,Jill Stein and Rudolph Ware,19
+Strafford,Lee,President,,,Undervotes,10
+Strafford,Lee,President,,,Overvotes,1
+Strafford,Lee,President,,,Write-Ins,1
+Strafford,Madbury,President,,D,Kamala D. Harris and Tim Walz,812
+Strafford,Madbury,President,,R,Donald J. Trump and JD Vance,471
+Strafford,Madbury,President,,L,Chase Oliver and Mike ter Maat,13
+Strafford,Madbury,President,,G,Jill Stein and Rudolph Ware,5
+Strafford,Madbury,President,,,Undervotes,3
+Strafford,Madbury,President,,,Overvotes,0
+Strafford,Madbury,President,,,Write-Ins,8
+Strafford,Middleton,President,,D,Kamala D. Harris and Tim Walz,378
+Strafford,Middleton,President,,R,Donald J. Trump and JD Vance,753
+Strafford,Middleton,President,,L,Chase Oliver and Mike ter Maat,3
+Strafford,Middleton,President,,G,Jill Stein and Rudolph Ware,7
+Strafford,Middleton,President,,,Undervotes,1
+Strafford,Middleton,President,,,Overvotes,0
+Strafford,Middleton,President,,,Write-Ins,1
+Strafford,Milton,President,,D,Kamala D. Harris and Tim Walz,1022
+Strafford,Milton,President,,R,Donald J. Trump and JD Vance,1661
+Strafford,Milton,President,,L,Chase Oliver and Mike ter Maat,19
+Strafford,Milton,President,,G,Jill Stein and Rudolph Ware,12
+Strafford,Milton,President,,,Undervotes,10
+Strafford,Milton,President,,,Overvotes,0
+Strafford,Milton,President,,,Write-Ins,12
+Strafford,New Durham,President,,D,Kamala D. Harris and Tim Walz,746
+Strafford,New Durham,President,,R,Donald J. Trump and JD Vance,1167
+Strafford,New Durham,President,,L,Chase Oliver and Mike ter Maat,13
+Strafford,New Durham,President,,G,Jill Stein and Rudolph Ware,6
+Strafford,New Durham,President,,,Undervotes,5
+Strafford,New Durham,President,,,Overvotes,2
+Strafford,New Durham,President,,,Write-Ins,12
+Strafford,Rochester Ward 1,President,,D,Kamala D. Harris and Tim Walz,1495
+Strafford,Rochester Ward 1,President,,R,Donald J. Trump and JD Vance,1480
+Strafford,Rochester Ward 1,President,,L,Chase Oliver and Mike ter Maat,16
+Strafford,Rochester Ward 1,President,,G,Jill Stein and Rudolph Ware,9
+Strafford,Rochester Ward 1,President,,,Undervotes,12
+Strafford,Rochester Ward 1,President,,,Overvotes,0
+Strafford,Rochester Ward 1,President,,,Write-Ins,9
+Strafford,Rochester Ward 2,President,,D,Kamala D. Harris and Tim Walz,1460
+Strafford,Rochester Ward 2,President,,R,Donald J. Trump and JD Vance,1520
+Strafford,Rochester Ward 2,President,,L,Chase Oliver and Mike ter Maat,17
+Strafford,Rochester Ward 2,President,,G,Jill Stein and Rudolph Ware,12
+Strafford,Rochester Ward 2,President,,,Undervotes,15
+Strafford,Rochester Ward 2,President,,,Overvotes,0
+Strafford,Rochester Ward 2,President,,,Write-Ins,12
+Strafford,Rochester Ward 3,President,,D,Kamala D. Harris and Tim Walz,1346
+Strafford,Rochester Ward 3,President,,R,Donald J. Trump and JD Vance,1622
+Strafford,Rochester Ward 3,President,,L,Chase Oliver and Mike ter Maat,14
+Strafford,Rochester Ward 3,President,,G,Jill Stein and Rudolph Ware,11
+Strafford,Rochester Ward 3,President,,,Undervotes,15
+Strafford,Rochester Ward 3,President,,,Overvotes,0
+Strafford,Rochester Ward 3,President,,,Write-Ins,8
+Strafford,Rochester Ward 4,President,,D,Kamala D. Harris and Tim Walz,1336
+Strafford,Rochester Ward 4,President,,R,Donald J. Trump and JD Vance,1423
+Strafford,Rochester Ward 4,President,,L,Chase Oliver and Mike ter Maat,11
+Strafford,Rochester Ward 4,President,,G,Jill Stein and Rudolph Ware,18
+Strafford,Rochester Ward 4,President,,,Undervotes,9
+Strafford,Rochester Ward 4,President,,,Overvotes,0
+Strafford,Rochester Ward 4,President,,,Write-Ins,12
+Strafford,Rochester Ward 5,President,,D,Kamala D. Harris and Tim Walz,1360
+Strafford,Rochester Ward 5,President,,R,Donald J. Trump and JD Vance,1627
+Strafford,Rochester Ward 5,President,,L,Chase Oliver and Mike ter Maat,17
+Strafford,Rochester Ward 5,President,,G,Jill Stein and Rudolph Ware,13
+Strafford,Rochester Ward 5,President,,,Undervotes,8
+Strafford,Rochester Ward 5,President,,,Overvotes,0
+Strafford,Rochester Ward 5,President,,,Write-Ins,13
+Strafford,Rochester Ward 6,President,,D,Kamala D. Harris and Tim Walz,1267
+Strafford,Rochester Ward 6,President,,R,Donald J. Trump and JD Vance,1209
+Strafford,Rochester Ward 6,President,,L,Chase Oliver and Mike ter Maat,16
+Strafford,Rochester Ward 6,President,,G,Jill Stein and Rudolph Ware,14
+Strafford,Rochester Ward 6,President,,,Undervotes,14
+Strafford,Rochester Ward 6,President,,,Overvotes,0
+Strafford,Rochester Ward 6,President,,,Write-Ins,11
+Strafford,Rollinsford,President,,D,Kamala D. Harris and Tim Walz,975
+Strafford,Rollinsford,President,,R,Donald J. Trump and JD Vance,747
+Strafford,Rollinsford,President,,L,Chase Oliver and Mike ter Maat,7
+Strafford,Rollinsford,President,,G,Jill Stein and Rudolph Ware,13
+Strafford,Rollinsford,President,,,Undervotes,15
+Strafford,Rollinsford,President,,,Overvotes,2
+Strafford,Rollinsford,President,,,Write-Ins,7
+Strafford,Somersworth Ward 1,President,,D,Kamala D. Harris and Tim Walz,810
+Strafford,Somersworth Ward 1,President,,R,Donald J. Trump and JD Vance,638
+Strafford,Somersworth Ward 1,President,,L,Chase Oliver and Mike ter Maat,6
+Strafford,Somersworth Ward 1,President,,G,Jill Stein and Rudolph Ware,6
+Strafford,Somersworth Ward 1,President,,,Undervotes,5
+Strafford,Somersworth Ward 1,President,,,Overvotes,0
+Strafford,Somersworth Ward 1,President,,,Write-Ins,3
+Strafford,Somersworth Ward 2,President,,D,Kamala D. Harris and Tim Walz,603
+Strafford,Somersworth Ward 2,President,,R,Donald J. Trump and JD Vance,560
+Strafford,Somersworth Ward 2,President,,L,Chase Oliver and Mike ter Maat,2
+Strafford,Somersworth Ward 2,President,,G,Jill Stein and Rudolph Ware,5
+Strafford,Somersworth Ward 2,President,,,Undervotes,5
+Strafford,Somersworth Ward 2,President,,,Overvotes,2
+Strafford,Somersworth Ward 2,President,,,Write-Ins,3
+Strafford,Somersworth Ward 3,President,,D,Kamala D. Harris and Tim Walz,637
+Strafford,Somersworth Ward 3,President,,R,Donald J. Trump and JD Vance,558
+Strafford,Somersworth Ward 3,President,,L,Chase Oliver and Mike ter Maat,6
+Strafford,Somersworth Ward 3,President,,G,Jill Stein and Rudolph Ware,6
+Strafford,Somersworth Ward 3,President,,,Undervotes,6
+Strafford,Somersworth Ward 3,President,,,Overvotes,0
+Strafford,Somersworth Ward 3,President,,,Write-Ins,7
+Strafford,Somersworth Ward 4,President,,D,Kamala D. Harris and Tim Walz,862
+Strafford,Somersworth Ward 4,President,,R,Donald J. Trump and JD Vance,569
+Strafford,Somersworth Ward 4,President,,L,Chase Oliver and Mike ter Maat,5
+Strafford,Somersworth Ward 4,President,,G,Jill Stein and Rudolph Ware,6
+Strafford,Somersworth Ward 4,President,,,Undervotes,14
+Strafford,Somersworth Ward 4,President,,,Overvotes,0
+Strafford,Somersworth Ward 4,President,,,Write-Ins,8
+Strafford,Somersworth Ward 5,President,,D,Kamala D. Harris and Tim Walz,620
+Strafford,Somersworth Ward 5,President,,R,Donald J. Trump and JD Vance,483
+Strafford,Somersworth Ward 5,President,,L,Chase Oliver and Mike ter Maat,6
+Strafford,Somersworth Ward 5,President,,G,Jill Stein and Rudolph Ware,11
+Strafford,Somersworth Ward 5,President,,,Undervotes,7
+Strafford,Somersworth Ward 5,President,,,Overvotes,0
+Strafford,Somersworth Ward 5,President,,,Write-Ins,6
+Strafford,Strafford,President,,D,Kamala D. Harris and Tim Walz,1403
+Strafford,Strafford,President,,R,Donald J. Trump and JD Vance,1551
+Strafford,Strafford,President,,L,Chase Oliver and Mike ter Maat,18
+Strafford,Strafford,President,,G,Jill Stein and Rudolph Ware,8
+Strafford,Strafford,President,,,Undervotes,22
+Strafford,Strafford,President,,,Overvotes,0
+Strafford,Strafford,President,,,Write-Ins,12
+Sullivan,Acworth,President,,D,Kamala D. Harris and Tim Walz,281
+Sullivan,Acworth,President,,R,Donald J. Trump and JD Vance,300
+Sullivan,Acworth,President,,L,Chase Oliver and Mike ter Maat,1
+Sullivan,Acworth,President,,G,Jill Stein and Rudolph Ware,5
+Sullivan,Acworth,President,,,Undervotes,5
+Sullivan,Acworth,President,,,Overvotes,0
+Sullivan,Acworth,President,,,Write-Ins,5
+Sullivan,Charlestown,President,,D,Kamala D. Harris and Tim Walz,1126
+Sullivan,Charlestown,President,,R,Donald J. Trump and JD Vance,1362
+Sullivan,Charlestown,President,,L,Chase Oliver and Mike ter Maat,24
+Sullivan,Charlestown,President,,G,Jill Stein and Rudolph Ware,10
+Sullivan,Charlestown,President,,,Undervotes,9
+Sullivan,Charlestown,President,,,Overvotes,0
+Sullivan,Charlestown,President,,,Write-Ins,8
+Sullivan,Claremont Ward 1,President,,D,Kamala D. Harris and Tim Walz,861
+Sullivan,Claremont Ward 1,President,,R,Donald J. Trump and JD Vance,850
+Sullivan,Claremont Ward 1,President,,L,Chase Oliver and Mike ter Maat,9
+Sullivan,Claremont Ward 1,President,,G,Jill Stein and Rudolph Ware,9
+Sullivan,Claremont Ward 1,President,,,Undervotes,7
+Sullivan,Claremont Ward 1,President,,,Overvotes,0
+Sullivan,Claremont Ward 1,President,,,Write-Ins,6
+Sullivan,Claremont Ward 2,President,,D,Kamala D. Harris and Tim Walz,1118
+Sullivan,Claremont Ward 2,President,,R,Donald J. Trump and JD Vance,1130
+Sullivan,Claremont Ward 2,President,,L,Chase Oliver and Mike ter Maat,15
+Sullivan,Claremont Ward 2,President,,G,Jill Stein and Rudolph Ware,12
+Sullivan,Claremont Ward 2,President,,,Undervotes,16
+Sullivan,Claremont Ward 2,President,,,Overvotes,0
+Sullivan,Claremont Ward 2,President,,,Write-Ins,11
+Sullivan,Claremont Ward 3,President,,D,Kamala D. Harris and Tim Walz,876
+Sullivan,Claremont Ward 3,President,,R,Donald J. Trump and JD Vance,1069
+Sullivan,Claremont Ward 3,President,,L,Chase Oliver and Mike ter Maat,7
+Sullivan,Claremont Ward 3,President,,G,Jill Stein and Rudolph Ware,5
+Sullivan,Claremont Ward 3,President,,,Undervotes,16
+Sullivan,Claremont Ward 3,President,,,Overvotes,1
+Sullivan,Claremont Ward 3,President,,,Write-Ins,4
+Sullivan,Cornish,President,,D,Kamala D. Harris and Tim Walz,660
+Sullivan,Cornish,President,,R,Donald J. Trump and JD Vance,466
+Sullivan,Cornish,President,,L,Chase Oliver and Mike ter Maat,9
+Sullivan,Cornish,President,,G,Jill Stein and Rudolph Ware,4
+Sullivan,Cornish,President,,,Undervotes,0
+Sullivan,Cornish,President,,,Overvotes,5
+Sullivan,Cornish,President,,,Write-Ins,3
+Sullivan,Croydon,President,,D,Kamala D. Harris and Tim Walz,179
+Sullivan,Croydon,President,,R,Donald J. Trump and JD Vance,381
+Sullivan,Croydon,President,,L,Chase Oliver and Mike ter Maat,3
+Sullivan,Croydon,President,,G,Jill Stein and Rudolph Ware,11
+Sullivan,Croydon,President,,,Undervotes,4
+Sullivan,Croydon,President,,,Overvotes,0
+Sullivan,Croydon,President,,,Write-Ins,3
+Sullivan,Goshen,President,,D,Kamala D. Harris and Tim Walz,162
+Sullivan,Goshen,President,,R,Donald J. Trump and JD Vance,309
+Sullivan,Goshen,President,,L,Chase Oliver and Mike ter Maat,2
+Sullivan,Goshen,President,,G,Jill Stein and Rudolph Ware,4
+Sullivan,Goshen,President,,,Undervotes,1
+Sullivan,Goshen,President,,,Overvotes,6
+Sullivan,Goshen,President,,,Write-Ins,0
+Sullivan,Grantham,President,,D,Kamala D. Harris and Tim Walz,1660
+Sullivan,Grantham,President,,R,Donald J. Trump and JD Vance,768
+Sullivan,Grantham,President,,L,Chase Oliver and Mike ter Maat,14
+Sullivan,Grantham,President,,G,Jill Stein and Rudolph Ware,10
+Sullivan,Grantham,President,,,Undervotes,17
+Sullivan,Grantham,President,,,Overvotes,0
+Sullivan,Grantham,President,,,Write-Ins,14
+Sullivan,Langdon,President,,D,Kamala D. Harris and Tim Walz,195
+Sullivan,Langdon,President,,R,Donald J. Trump and JD Vance,227
+Sullivan,Langdon,President,,L,Chase Oliver and Mike ter Maat,2
+Sullivan,Langdon,President,,G,Jill Stein and Rudolph Ware,2
+Sullivan,Langdon,President,,,Undervotes,5
+Sullivan,Langdon,President,,,Overvotes,0
+Sullivan,Langdon,President,,,Write-Ins,0
+Sullivan,Lempster,President,,D,Kamala D. Harris and Tim Walz,318
+Sullivan,Lempster,President,,R,Donald J. Trump and JD Vance,435
+Sullivan,Lempster,President,,L,Chase Oliver and Mike ter Maat,7
+Sullivan,Lempster,President,,G,Jill Stein and Rudolph Ware,2
+Sullivan,Lempster,President,,,Undervotes,8
+Sullivan,Lempster,President,,,Overvotes,0
+Sullivan,Lempster,President,,,Write-Ins,1
+Sullivan,Newport,President,,D,Kamala D. Harris and Tim Walz,1305
+Sullivan,Newport,President,,R,Donald J. Trump and JD Vance,1963
+Sullivan,Newport,President,,L,Chase Oliver and Mike ter Maat,25
+Sullivan,Newport,President,,G,Jill Stein and Rudolph Ware,17
+Sullivan,Newport,President,,,Undervotes,13
+Sullivan,Newport,President,,,Overvotes,8
+Sullivan,Newport,President,,,Write-Ins,15
+Sullivan,Plainfield,President,,D,Kamala D. Harris and Tim Walz,1155
+Sullivan,Plainfield,President,,R,Donald J. Trump and JD Vance,521
+Sullivan,Plainfield,President,,L,Chase Oliver and Mike ter Maat,12
+Sullivan,Plainfield,President,,G,Jill Stein and Rudolph Ware,3
+Sullivan,Plainfield,President,,,Undervotes,16
+Sullivan,Plainfield,President,,,Overvotes,1
+Sullivan,Plainfield,President,,,Write-Ins,9
+Sullivan,Springfield,President,,D,Kamala D. Harris and Tim Walz,444
+Sullivan,Springfield,President,,R,Donald J. Trump and JD Vance,479
+Sullivan,Springfield,President,,,Undervotes,8
+Sullivan,Springfield,President,,,Overvotes,0
+Sullivan,Springfield,President,,,Write-Ins,8
+Sullivan,Sunapee,President,,D,Kamala D. Harris and Tim Walz,1322
+Sullivan,Sunapee,President,,R,Donald J. Trump and JD Vance,1126
+Sullivan,Sunapee,President,,L,Chase Oliver and Mike ter Maat,16
+Sullivan,Sunapee,President,,G,Jill Stein and Rudolph Ware,16
+Sullivan,Sunapee,President,,,Undervotes,24
+Sullivan,Sunapee,President,,,Overvotes,0
+Sullivan,Sunapee,President,,,Write-Ins,34
+Sullivan,Unity,President,,D,Kamala D. Harris and Tim Walz,304
+Sullivan,Unity,President,,R,Donald J. Trump and JD Vance,583
+Sullivan,Unity,President,,L,Chase Oliver and Mike ter Maat,11
+Sullivan,Unity,President,,G,Jill Stein and Rudolph Ware,11
+Sullivan,Unity,President,,,Undervotes,2
+Sullivan,Unity,President,,,Overvotes,0
+Sullivan,Unity,President,,,Write-Ins,1
+Sullivan,Washington,President,,D,Kamala D. Harris and Tim Walz,351
+Sullivan,Washington,President,,R,Donald J. Trump and JD Vance,515
+Sullivan,Washington,President,,L,Chase Oliver and Mike ter Maat,9
+Sullivan,Washington,President,,G,Jill Stein and Rudolph Ware,3
+Sullivan,Washington,President,,,Undervotes,10
+Sullivan,Washington,President,,,Overvotes,0
+Sullivan,Washington,President,,,Write-Ins,8

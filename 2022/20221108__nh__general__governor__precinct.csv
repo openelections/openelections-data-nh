@@ -1,0 +1,1601 @@
+county,precinct,office,district,party,candidate,votes
+Belknap,Alton,Governor,,R,Sununu,2356
+Belknap,Alton,Governor,,D,Sherman,801
+Belknap,Alton,Governor,,L,Borysenko,8
+Belknap,Alton,Governor,,L,Halldorson,20
+Belknap,Alton,Governor,,,Scatter,0
+Belknap,Barnstead,Governor,,R,Sununu,1526
+Belknap,Barnstead,Governor,,D,Sherman,660
+Belknap,Barnstead,Governor,,L,Borysenko,12
+Belknap,Barnstead,Governor,,L,Halldorson,18
+Belknap,Barnstead,Governor,,,Scatter,8
+Belknap,Belmont,Governor,,R,Sununu,2286
+Belknap,Belmont,Governor,,D,Sherman,821
+Belknap,Belmont,Governor,,L,Borysenko,5
+Belknap,Belmont,Governor,,L,Halldorson,26
+Belknap,Belmont,Governor,,,Scatter,12
+Belknap,Center Harbor,Governor,,R,Sununu,419
+Belknap,Center Harbor,Governor,,D,Sherman,244
+Belknap,Center Harbor,Governor,,L,Borysenko,3
+Belknap,Center Harbor,Governor,,L,Halldorson,2
+Belknap,Center Harbor,Governor,,,Scatter,2
+Belknap,Gilford,Governor,,R,Sununu,2864
+Belknap,Gilford,Governor,,D,Sherman,1286
+Belknap,Gilford,Governor,,L,Borysenko,18
+Belknap,Gilford,Governor,,L,Halldorson,25
+Belknap,Gilford,Governor,,,Scatter,9
+Belknap,Gilmanton,Governor,,R,Sununu,1374
+Belknap,Gilmanton,Governor,,D,Sherman,624
+Belknap,Gilmanton,Governor,,L,Borysenko,9
+Belknap,Gilmanton,Governor,,L,Halldorson,21
+Belknap,Gilmanton,Governor,,,Scatter,13
+Belknap,Laconia Ward 1,Governor,,R,Sununu,1139
+Belknap,Laconia Ward 1,Governor,,D,Sherman,473
+Belknap,Laconia Ward 1,Governor,,L,Borysenko,6
+Belknap,Laconia Ward 1,Governor,,L,Halldorson,7
+Belknap,Laconia Ward 1,Governor,,,Scatter,5
+Belknap,Laconia Ward 2,Governor,,R,Sununu,632
+Belknap,Laconia Ward 2,Governor,,D,Sherman,341
+Belknap,Laconia Ward 2,Governor,,L,Borysenko,4
+Belknap,Laconia Ward 2,Governor,,L,Halldorson,12
+Belknap,Laconia Ward 2,Governor,,,Scatter,5
+Belknap,Laconia Ward 3,Governor,,R,Sununu,674
+Belknap,Laconia Ward 3,Governor,,D,Sherman,467
+Belknap,Laconia Ward 3,Governor,,L,Borysenko,6
+Belknap,Laconia Ward 3,Governor,,L,Halldorson,9
+Belknap,Laconia Ward 3,Governor,,,Scatter,2
+Belknap,Laconia Ward 4,Governor,,R,Sununu,599
+Belknap,Laconia Ward 4,Governor,,D,Sherman,298
+Belknap,Laconia Ward 4,Governor,,L,Borysenko,5
+Belknap,Laconia Ward 4,Governor,,L,Halldorson,9
+Belknap,Laconia Ward 4,Governor,,,Scatter,2
+Belknap,Laconia Ward 5,Governor,,R,Sununu,580
+Belknap,Laconia Ward 5,Governor,,D,Sherman,270
+Belknap,Laconia Ward 5,Governor,,L,Borysenko,2
+Belknap,Laconia Ward 5,Governor,,L,Halldorson,11
+Belknap,Laconia Ward 5,Governor,,,Scatter,4
+Belknap,Laconia Ward 6,Governor,,R,Sununu,1072
+Belknap,Laconia Ward 6,Governor,,D,Sherman,382
+Belknap,Laconia Ward 6,Governor,,L,Borysenko,5
+Belknap,Laconia Ward 6,Governor,,L,Halldorson,2
+Belknap,Laconia Ward 6,Governor,,,Scatter,14
+Belknap,Meredith,Governor,,R,Sununu,2045
+Belknap,Meredith,Governor,,D,Sherman,1210
+Belknap,Meredith,Governor,,L,Borysenko,7
+Belknap,Meredith,Governor,,L,Halldorson,10
+Belknap,Meredith,Governor,,,Scatter,13
+Belknap,New Hampton,Governor,,R,Sununu,831
+Belknap,New Hampton,Governor,,D,Sherman,459
+Belknap,New Hampton,Governor,,L,Borysenko,2
+Belknap,New Hampton,Governor,,L,Halldorson,6
+Belknap,New Hampton,Governor,,,Scatter,8
+Belknap,Sanbornton,Governor,,R,Sununu,1138
+Belknap,Sanbornton,Governor,,D,Sherman,550
+Belknap,Sanbornton,Governor,,L,Borysenko,11
+Belknap,Sanbornton,Governor,,L,Halldorson,18
+Belknap,Sanbornton,Governor,,,Scatter,6
+Belknap,Tilton,Governor,,R,Sununu,964
+Belknap,Tilton,Governor,,D,Sherman,543
+Belknap,Tilton,Governor,,L,Borysenko,7
+Belknap,Tilton,Governor,,L,Halldorson,13
+Belknap,Tilton,Governor,,,Scatter,3
+Carroll,Albany,Governor,,R,Sununu,193
+Carroll,Albany,Governor,,D,Sherman,151
+Carroll,Albany,Governor,,L,Borysenko,3
+Carroll,Albany,Governor,,L,Halldorson,5
+Carroll,Albany,Governor,,,Scatter,1
+Carroll,Bartlett,Governor,,R,Sununu,895
+Carroll,Bartlett,Governor,,D,Sherman,903
+Carroll,Bartlett,Governor,,L,Borysenko,5
+Carroll,Bartlett,Governor,,L,Halldorson,11
+Carroll,Bartlett,Governor,,,Scatter,5
+Carroll,Brookfield,Governor,,R,Sununu,321
+Carroll,Brookfield,Governor,,D,Sherman,148
+Carroll,Brookfield,Governor,,L,Borysenko,1
+Carroll,Brookfield,Governor,,L,Halldorson,5
+Carroll,Brookfield,Governor,,,Scatter,4
+Carroll,Chatham,Governor,,R,Sununu,122
+Carroll,Chatham,Governor,,D,Sherman,68
+Carroll,Chatham,Governor,,L,Borysenko,1
+Carroll,Chatham,Governor,,L,Halldorson,1
+Carroll,Chatham,Governor,,,Scatter,0
+Carroll,Conway,Governor,,R,Sununu,2333
+Carroll,Conway,Governor,,D,Sherman,1979
+Carroll,Conway,Governor,,L,Borysenko,14
+Carroll,Conway,Governor,,L,Halldorson,16
+Carroll,Conway,Governor,,,Scatter,9
+Carroll,Eaton,Governor,,R,Sununu,125
+Carroll,Eaton,Governor,,D,Sherman,140
+Carroll,Eaton,Governor,,L,Borysenko,0
+Carroll,Eaton,Governor,,L,Halldorson,3
+Carroll,Eaton,Governor,,,Scatter,0
+Carroll,Effingham,Governor,,R,Sununu,506
+Carroll,Effingham,Governor,,D,Sherman,234
+Carroll,Effingham,Governor,,L,Borysenko,4
+Carroll,Effingham,Governor,,L,Halldorson,5
+Carroll,Effingham,Governor,,,Scatter,1
+Carroll,Freedom,Governor,,R,Sununu,609
+Carroll,Freedom,Governor,,D,Sherman,330
+Carroll,Freedom,Governor,,L,Borysenko,2
+Carroll,Freedom,Governor,,L,Halldorson,4
+Carroll,Freedom,Governor,,,Scatter,1
+Carroll,Hale's Location,Governor,,R,Sununu,92
+Carroll,Hale's Location,Governor,,D,Sherman,30
+Carroll,Hale's Location,Governor,,L,Borysenko,0
+Carroll,Hale's Location,Governor,,L,Halldorson,0
+Carroll,Hale's Location,Governor,,,Scatter,0
+Carroll,Hart's Location,Governor,,R,Sununu,24
+Carroll,Hart's Location,Governor,,D,Sherman,14
+Carroll,Hart's Location,Governor,,L,Borysenko,0
+Carroll,Hart's Location,Governor,,L,Halldorson,0
+Carroll,Hart's Location,Governor,,,Scatter,0
+Carroll,Jackson,Governor,,R,Sununu,303
+Carroll,Jackson,Governor,,D,Sherman,402
+Carroll,Jackson,Governor,,L,Borysenko,1
+Carroll,Jackson,Governor,,L,Halldorson,4
+Carroll,Jackson,Governor,,,Scatter,0
+Carroll,Madison,Governor,,R,Sununu,778
+Carroll,Madison,Governor,,D,Sherman,606
+Carroll,Madison,Governor,,L,Borysenko,4
+Carroll,Madison,Governor,,L,Halldorson,10
+Carroll,Madison,Governor,,,Scatter,3
+Carroll,Moultonborough,Governor,,R,Sununu,2238
+Carroll,Moultonborough,Governor,,D,Sherman,911
+Carroll,Moultonborough,Governor,,L,Borysenko,5
+Carroll,Moultonborough,Governor,,L,Halldorson,11
+Carroll,Moultonborough,Governor,,,Scatter,9
+Carroll,Ossipee,Governor,,R,Sununu,1403
+Carroll,Ossipee,Governor,,D,Sherman,561
+Carroll,Ossipee,Governor,,L,Borysenko,12
+Carroll,Ossipee,Governor,,L,Halldorson,21
+Carroll,Ossipee,Governor,,,Scatter,6
+Carroll,Sandwich,Governor,,R,Sununu,442
+Carroll,Sandwich,Governor,,D,Sherman,564
+Carroll,Sandwich,Governor,,L,Borysenko,1
+Carroll,Sandwich,Governor,,L,Halldorson,8
+Carroll,Sandwich,Governor,,,Scatter,1
+Carroll,Tamworth,Governor,,R,Sununu,798
+Carroll,Tamworth,Governor,,D,Sherman,600
+Carroll,Tamworth,Governor,,L,Borysenko,9
+Carroll,Tamworth,Governor,,L,Halldorson,10
+Carroll,Tamworth,Governor,,,Scatter,3
+Carroll,Tuftonboro,Governor,,R,Sununu,1053
+Carroll,Tuftonboro,Governor,,D,Sherman,522
+Carroll,Tuftonboro,Governor,,L,Borysenko,2
+Carroll,Tuftonboro,Governor,,L,Halldorson,3
+Carroll,Tuftonboro,Governor,,,Scatter,11
+Carroll,Wakefield,Governor,,R,Sununu,1901
+Carroll,Wakefield,Governor,,D,Sherman,669
+Carroll,Wakefield,Governor,,L,Borysenko,17
+Carroll,Wakefield,Governor,,L,Halldorson,15
+Carroll,Wakefield,Governor,,,Scatter,14
+Carroll,Wolfeboro,Governor,,R,Sununu,2418
+Carroll,Wolfeboro,Governor,,D,Sherman,1474
+Carroll,Wolfeboro,Governor,,L,Borysenko,19
+Carroll,Wolfeboro,Governor,,L,Halldorson,16
+Carroll,Wolfeboro,Governor,,,Scatter,26
+Cheshire,Alstead,Governor,,R,Sununu,441
+Cheshire,Alstead,Governor,,D,Sherman,468
+Cheshire,Alstead,Governor,,L,Borysenko,9
+Cheshire,Alstead,Governor,,L,Halldorson,9
+Cheshire,Alstead,Governor,,,Scatter,2
+Cheshire,Chesterfield,Governor,,R,Sununu,993
+Cheshire,Chesterfield,Governor,,D,Sherman,947
+Cheshire,Chesterfield,Governor,,L,Borysenko,2
+Cheshire,Chesterfield,Governor,,L,Halldorson,10
+Cheshire,Chesterfield,Governor,,,Scatter,6
+Cheshire,Dublin,Governor,,R,Sununu,428
+Cheshire,Dublin,Governor,,D,Sherman,484
+Cheshire,Dublin,Governor,,L,Borysenko,4
+Cheshire,Dublin,Governor,,L,Halldorson,2
+Cheshire,Dublin,Governor,,,Scatter,4
+Cheshire,Fitzwilliam,Governor,,R,Sununu,636
+Cheshire,Fitzwilliam,Governor,,D,Sherman,456
+Cheshire,Fitzwilliam,Governor,,L,Borysenko,7
+Cheshire,Fitzwilliam,Governor,,L,Halldorson,10
+Cheshire,Fitzwilliam,Governor,,,Scatter,6
+Cheshire,Gilsum,Governor,,R,Sununu,220
+Cheshire,Gilsum,Governor,,D,Sherman,171
+Cheshire,Gilsum,Governor,,L,Borysenko,1
+Cheshire,Gilsum,Governor,,L,Halldorson,5
+Cheshire,Gilsum,Governor,,,Scatter,0
+Cheshire,Harrisville,Governor,,R,Sununu,211
+Cheshire,Harrisville,Governor,,D,Sherman,420
+Cheshire,Harrisville,Governor,,L,Borysenko,3
+Cheshire,Harrisville,Governor,,L,Halldorson,3
+Cheshire,Harrisville,Governor,,,Scatter,2
+Cheshire,Hinsdale,Governor,,R,Sununu,688
+Cheshire,Hinsdale,Governor,,D,Sherman,592
+Cheshire,Hinsdale,Governor,,L,Borysenko,2
+Cheshire,Hinsdale,Governor,,L,Halldorson,9
+Cheshire,Hinsdale,Governor,,,Scatter,1
+Cheshire,Jaffrey,Governor,,R,Sununu,1319
+Cheshire,Jaffrey,Governor,,D,Sherman,1045
+Cheshire,Jaffrey,Governor,,L,Borysenko,11
+Cheshire,Jaffrey,Governor,,L,Halldorson,21
+Cheshire,Jaffrey,Governor,,,Scatter,3
+Cheshire,Keene Ward 1,Governor,,R,Sununu,444
+Cheshire,Keene Ward 1,Governor,,D,Sherman,986
+Cheshire,Keene Ward 1,Governor,,L,Borysenko,12
+Cheshire,Keene Ward 1,Governor,,L,Halldorson,20
+Cheshire,Keene Ward 1,Governor,,,Scatter,2
+Cheshire,Keene Ward 2,Governor,,R,Sununu,626
+Cheshire,Keene Ward 2,Governor,,D,Sherman,1301
+Cheshire,Keene Ward 2,Governor,,L,Borysenko,11
+Cheshire,Keene Ward 2,Governor,,L,Halldorson,18
+Cheshire,Keene Ward 2,Governor,,,Scatter,2
+Cheshire,Keene Ward 3,Governor,,R,Sununu,709
+Cheshire,Keene Ward 3,Governor,,D,Sherman,1157
+Cheshire,Keene Ward 3,Governor,,L,Borysenko,13
+Cheshire,Keene Ward 3,Governor,,L,Halldorson,7
+Cheshire,Keene Ward 3,Governor,,,Scatter,8
+Cheshire,Keene Ward 4,Governor,,R,Sununu,786
+Cheshire,Keene Ward 4,Governor,,D,Sherman,1148
+Cheshire,Keene Ward 4,Governor,,L,Borysenko,7
+Cheshire,Keene Ward 4,Governor,,L,Halldorson,12
+Cheshire,Keene Ward 4,Governor,,,Scatter,4
+Cheshire,Keene Ward 5,Governor,,R,Sununu,844
+Cheshire,Keene Ward 5,Governor,,D,Sherman,1352
+Cheshire,Keene Ward 5,Governor,,L,Borysenko,8
+Cheshire,Keene Ward 5,Governor,,L,Halldorson,11
+Cheshire,Keene Ward 5,Governor,,,Scatter,2
+Cheshire,Marlborough,Governor,,R,Sununu,410
+Cheshire,Marlborough,Governor,,D,Sherman,567
+Cheshire,Marlborough,Governor,,L,Borysenko,4
+Cheshire,Marlborough,Governor,,L,Halldorson,11
+Cheshire,Marlborough,Governor,,,Scatter,1
+Cheshire,Marlow,Governor,,R,Sununu,202
+Cheshire,Marlow,Governor,,D,Sherman,167
+Cheshire,Marlow,Governor,,L,Borysenko,4
+Cheshire,Marlow,Governor,,L,Halldorson,2
+Cheshire,Marlow,Governor,,,Scatter,0
+Cheshire,Nelson,Governor,,R,Sununu,141
+Cheshire,Nelson,Governor,,D,Sherman,210
+Cheshire,Nelson,Governor,,L,Borysenko,3
+Cheshire,Nelson,Governor,,L,Halldorson,8
+Cheshire,Nelson,Governor,,,Scatter,0
+Cheshire,Richmond,Governor,,R,Sununu,323
+Cheshire,Richmond,Governor,,D,Sherman,175
+Cheshire,Richmond,Governor,,L,Borysenko,3
+Cheshire,Richmond,Governor,,L,Halldorson,3
+Cheshire,Richmond,Governor,,,Scatter,19
+Cheshire,Rindge,Governor,,R,Sununu,1858
+Cheshire,Rindge,Governor,,D,Sherman,912
+Cheshire,Rindge,Governor,,L,Borysenko,15
+Cheshire,Rindge,Governor,,L,Halldorson,24
+Cheshire,Rindge,Governor,,,Scatter,5
+Cheshire,Roxbury,Governor,,R,Sununu,39
+Cheshire,Roxbury,Governor,,D,Sherman,70
+Cheshire,Roxbury,Governor,,L,Borysenko,0
+Cheshire,Roxbury,Governor,,L,Halldorson,0
+Cheshire,Roxbury,Governor,,,Scatter,0
+Cheshire,Stoddard,Governor,,R,Sununu,424
+Cheshire,Stoddard,Governor,,D,Sherman,269
+Cheshire,Stoddard,Governor,,L,Borysenko,2
+Cheshire,Stoddard,Governor,,L,Halldorson,3
+Cheshire,Stoddard,Governor,,,Scatter,4
+Cheshire,Sullivan,Governor,,R,Sununu,167
+Cheshire,Sullivan,Governor,,D,Sherman,138
+Cheshire,Sullivan,Governor,,L,Borysenko,4
+Cheshire,Sullivan,Governor,,L,Halldorson,1
+Cheshire,Sullivan,Governor,,,Scatter,2
+Cheshire,Surry,Governor,,R,Sununu,237
+Cheshire,Surry,Governor,,D,Sherman,208
+Cheshire,Surry,Governor,,L,Borysenko,1
+Cheshire,Surry,Governor,,L,Halldorson,3
+Cheshire,Surry,Governor,,,Scatter,0
+Cheshire,Swanzey,Governor,,R,Sununu,1717
+Cheshire,Swanzey,Governor,,D,Sherman,1299
+Cheshire,Swanzey,Governor,,L,Borysenko,11
+Cheshire,Swanzey,Governor,,L,Halldorson,20
+Cheshire,Swanzey,Governor,,,Scatter,10
+Cheshire,Troy,Governor,,R,Sununu,533
+Cheshire,Troy,Governor,,D,Sherman,259
+Cheshire,Troy,Governor,,L,Borysenko,5
+Cheshire,Troy,Governor,,L,Halldorson,15
+Cheshire,Troy,Governor,,,Scatter,5
+Cheshire,Walpole,Governor,,R,Sununu,842
+Cheshire,Walpole,Governor,,D,Sherman,1005
+Cheshire,Walpole,Governor,,L,Borysenko,9
+Cheshire,Walpole,Governor,,L,Halldorson,13
+Cheshire,Walpole,Governor,,,Scatter,7
+Cheshire,Westmoreland,Governor,,R,Sununu,452
+Cheshire,Westmoreland,Governor,,D,Sherman,459
+Cheshire,Westmoreland,Governor,,L,Borysenko,0
+Cheshire,Westmoreland,Governor,,L,Halldorson,5
+Cheshire,Westmoreland,Governor,,,Scatter,0
+Cheshire,Winchester,Governor,,R,Sununu,813
+Cheshire,Winchester,Governor,,D,Sherman,625
+Cheshire,Winchester,Governor,,L,Borysenko,7
+Cheshire,Winchester,Governor,,L,Halldorson,12
+Cheshire,Winchester,Governor,,,Scatter,6
+Coos,At. & Gil. Academy Grant,Governor,,R,Sununu,0
+Coos,At. & Gil. Academy Grant,Governor,,D,Sherman,0
+Coos,At. & Gil. Academy Grant,Governor,,L,Borysenko,0
+Coos,At. & Gil. Academy Grant,Governor,,L,Halldorson,0
+Coos,At. & Gil. Academy Grant,Governor,,,Scatter,0
+Coos,Bean's Grant,Governor,,R,Sununu,0
+Coos,Bean's Grant,Governor,,D,Sherman,0
+Coos,Bean's Grant,Governor,,L,Borysenko,0
+Coos,Bean's Grant,Governor,,L,Halldorson,0
+Coos,Bean's Grant,Governor,,,Scatter,0
+Coos,Bean's Purchase,Governor,,R,Sununu,0
+Coos,Bean's Purchase,Governor,,D,Sherman,0
+Coos,Bean's Purchase,Governor,,L,Borysenko,0
+Coos,Bean's Purchase,Governor,,L,Halldorson,0
+Coos,Bean's Purchase,Governor,,,Scatter,0
+Coos,Berlin,Governor,,R,Sununu,1724
+Coos,Berlin,Governor,,D,Sherman,1180
+Coos,Berlin,Governor,,L,Borysenko,23
+Coos,Berlin,Governor,,L,Halldorson,48
+Coos,Berlin,Governor,,,Scatter,5
+Coos,Cambridge,Governor,,R,Sununu,3
+Coos,Cambridge,Governor,,D,Sherman,0
+Coos,Cambridge,Governor,,L,Borysenko,0
+Coos,Cambridge,Governor,,L,Halldorson,0
+Coos,Cambridge,Governor,,,Scatter,0
+Coos,Carroll,Governor,,R,Sununu,273
+Coos,Carroll,Governor,,D,Sherman,140
+Coos,Carroll,Governor,,L,Borysenko,6
+Coos,Carroll,Governor,,L,Halldorson,4
+Coos,Carroll,Governor,,,Scatter,1
+Coos,Chandler's Purchase,Governor,,R,Sununu,0
+Coos,Chandler's Purchase,Governor,,D,Sherman,0
+Coos,Chandler's Purchase,Governor,,L,Borysenko,0
+Coos,Chandler's Purchase,Governor,,L,Halldorson,0
+Coos,Chandler's Purchase,Governor,,,Scatter,0
+Coos,Clarksville,Governor,,R,Sununu,112
+Coos,Clarksville,Governor,,D,Sherman,39
+Coos,Clarksville,Governor,,L,Borysenko,3
+Coos,Clarksville,Governor,,L,Halldorson,2
+Coos,Clarksville,Governor,,,Scatter,0
+Coos,Colebrook,Governor,,R,Sununu,656
+Coos,Colebrook,Governor,,D,Sherman,208
+Coos,Colebrook,Governor,,L,Borysenko,4
+Coos,Colebrook,Governor,,L,Halldorson,13
+Coos,Colebrook,Governor,,,Scatter,2
+Coos,Columbia,Governor,,R,Sununu,236
+Coos,Columbia,Governor,,D,Sherman,66
+Coos,Columbia,Governor,,L,Borysenko,1
+Coos,Columbia,Governor,,L,Halldorson,5
+Coos,Columbia,Governor,,,Scatter,0
+Coos,Crawford's Purchase,Governor,,R,Sununu,0
+Coos,Crawford's Purchase,Governor,,D,Sherman,0
+Coos,Crawford's Purchase,Governor,,L,Borysenko,0
+Coos,Crawford's Purchase,Governor,,L,Halldorson,0
+Coos,Crawford's Purchase,Governor,,,Scatter,0
+Coos,Cutt's Grant,Governor,,R,Sununu,0
+Coos,Cutt's Grant,Governor,,D,Sherman,0
+Coos,Cutt's Grant,Governor,,L,Borysenko,0
+Coos,Cutt's Grant,Governor,,L,Halldorson,0
+Coos,Cutt's Grant,Governor,,,Scatter,0
+Coos,Dalton,Governor,,R,Sununu,272
+Coos,Dalton,Governor,,D,Sherman,169
+Coos,Dalton,Governor,,L,Borysenko,4
+Coos,Dalton,Governor,,L,Halldorson,6
+Coos,Dalton,Governor,,,Scatter,1
+Coos,Dix's Grant,Governor,,R,Sununu,0
+Coos,Dix's Grant,Governor,,D,Sherman,0
+Coos,Dix's Grant,Governor,,L,Borysenko,0
+Coos,Dix's Grant,Governor,,L,Halldorson,0
+Coos,Dix's Grant,Governor,,,Scatter,0
+Coos,Dixville,Governor,,R,Sununu,4
+Coos,Dixville,Governor,,D,Sherman,1
+Coos,Dixville,Governor,,L,Borysenko,0
+Coos,Dixville,Governor,,L,Halldorson,0
+Coos,Dixville,Governor,,,Scatter,0
+Coos,Dummer,Governor,,R,Sununu,93
+Coos,Dummer,Governor,,D,Sherman,37
+Coos,Dummer,Governor,,L,Borysenko,0
+Coos,Dummer,Governor,,L,Halldorson,2
+Coos,Dummer,Governor,,,Scatter,0
+Coos,Errol,Governor,,R,Sununu,142
+Coos,Errol,Governor,,D,Sherman,37
+Coos,Errol,Governor,,L,Borysenko,0
+Coos,Errol,Governor,,L,Halldorson,2
+Coos,Errol,Governor,,,Scatter,0
+Coos,Erving's Location,Governor,,R,Sununu,0
+Coos,Erving's Location,Governor,,D,Sherman,0
+Coos,Erving's Location,Governor,,L,Borysenko,0
+Coos,Erving's Location,Governor,,L,Halldorson,0
+Coos,Erving's Location,Governor,,,Scatter,0
+Coos,Gorham,Governor,,R,Sununu,730
+Coos,Gorham,Governor,,D,Sherman,531
+Coos,Gorham,Governor,,L,Borysenko,3
+Coos,Gorham,Governor,,L,Halldorson,14
+Coos,Gorham,Governor,,,Scatter,3
+Coos,Green's Grant,Governor,,R,Sununu,0
+Coos,Green's Grant,Governor,,D,Sherman,1
+Coos,Green's Grant,Governor,,L,Borysenko,0
+Coos,Green's Grant,Governor,,L,Halldorson,0
+Coos,Green's Grant,Governor,,,Scatter,0
+Coos,Hadley's Purchase,Governor,,R,Sununu,0
+Coos,Hadley's Purchase,Governor,,D,Sherman,0
+Coos,Hadley's Purchase,Governor,,L,Borysenko,0
+Coos,Hadley's Purchase,Governor,,L,Halldorson,0
+Coos,Hadley's Purchase,Governor,,,Scatter,0
+Coos,Jefferson,Governor,,R,Sununu,392
+Coos,Jefferson,Governor,,D,Sherman,132
+Coos,Jefferson,Governor,,L,Borysenko,4
+Coos,Jefferson,Governor,,L,Halldorson,7
+Coos,Jefferson,Governor,,,Scatter,2
+Coos,Kilkenny,Governor,,R,Sununu,0
+Coos,Kilkenny,Governor,,D,Sherman,0
+Coos,Kilkenny,Governor,,L,Borysenko,0
+Coos,Kilkenny,Governor,,L,Halldorson,0
+Coos,Kilkenny,Governor,,,Scatter,0
+Coos,Lancaster,Governor,,R,Sununu,802
+Coos,Lancaster,Governor,,D,Sherman,369
+Coos,Lancaster,Governor,,L,Borysenko,8
+Coos,Lancaster,Governor,,L,Halldorson,102
+Coos,Lancaster,Governor,,,Scatter,4
+Coos,Low & Burbank's Grant,Governor,,R,Sununu,0
+Coos,Low & Burbank's Grant,Governor,,D,Sherman,0
+Coos,Low & Burbank's Grant,Governor,,L,Borysenko,0
+Coos,Low & Burbank's Grant,Governor,,L,Halldorson,0
+Coos,Low & Burbank's Grant,Governor,,,Scatter,0
+Coos,Martin's Location,Governor,,R,Sununu,0
+Coos,Martin's Location,Governor,,D,Sherman,0
+Coos,Martin's Location,Governor,,L,Borysenko,0
+Coos,Martin's Location,Governor,,L,Halldorson,0
+Coos,Martin's Location,Governor,,,Scatter,0
+Coos,Milan,Governor,,R,Sununu,406
+Coos,Milan,Governor,,D,Sherman,197
+Coos,Milan,Governor,,L,Borysenko,3
+Coos,Milan,Governor,,L,Halldorson,7
+Coos,Milan,Governor,,,Scatter,1
+Coos,Millsfield,Governor,,R,Sununu,17
+Coos,Millsfield,Governor,,D,Sherman,1
+Coos,Millsfield,Governor,,L,Borysenko,0
+Coos,Millsfield,Governor,,L,Halldorson,0
+Coos,Millsfield,Governor,,,Scatter,0
+Coos,Northumberland,Governor,,R,Sununu,542
+Coos,Northumberland,Governor,,D,Sherman,200
+Coos,Northumberland,Governor,,L,Borysenko,2
+Coos,Northumberland,Governor,,L,Halldorson,7
+Coos,Northumberland,Governor,,,Scatter,2
+Coos,Odell,Governor,,R,Sununu,0
+Coos,Odell,Governor,,D,Sherman,0
+Coos,Odell,Governor,,L,Borysenko,0
+Coos,Odell,Governor,,L,Halldorson,0
+Coos,Odell,Governor,,,Scatter,0
+Coos,Pinkham's Grant,Governor,,R,Sununu,1
+Coos,Pinkham's Grant,Governor,,D,Sherman,0
+Coos,Pinkham's Grant,Governor,,L,Borysenko,0
+Coos,Pinkham's Grant,Governor,,L,Halldorson,0
+Coos,Pinkham's Grant,Governor,,,Scatter,0
+Coos,Pittsburg,Governor,,R,Sununu,388
+Coos,Pittsburg,Governor,,D,Sherman,72
+Coos,Pittsburg,Governor,,L,Borysenko,4
+Coos,Pittsburg,Governor,,L,Halldorson,1
+Coos,Pittsburg,Governor,,,Scatter,0
+Coos,Randolph,Governor,,R,Sununu,103
+Coos,Randolph,Governor,,D,Sherman,133
+Coos,Randolph,Governor,,L,Borysenko,0
+Coos,Randolph,Governor,,L,Halldorson,2
+Coos,Randolph,Governor,,,Scatter,0
+Coos,Sargent's Purchase,Governor,,R,Sununu,0
+Coos,Sargent's Purchase,Governor,,D,Sherman,0
+Coos,Sargent's Purchase,Governor,,L,Borysenko,0
+Coos,Sargent's Purchase,Governor,,L,Halldorson,0
+Coos,Sargent's Purchase,Governor,,,Scatter,0
+Coos,Second College Grant,Governor,,R,Sununu,0
+Coos,Second College Grant,Governor,,D,Sherman,0
+Coos,Second College Grant,Governor,,L,Borysenko,0
+Coos,Second College Grant,Governor,,L,Halldorson,0
+Coos,Second College Grant,Governor,,,Scatter,0
+Coos,Shelburne,Governor,,R,Sununu,144
+Coos,Shelburne,Governor,,D,Sherman,78
+Coos,Shelburne,Governor,,L,Borysenko,1
+Coos,Shelburne,Governor,,L,Halldorson,0
+Coos,Shelburne,Governor,,,Scatter,1
+Coos,Stark,Governor,,R,Sununu,184
+Coos,Stark,Governor,,D,Sherman,30
+Coos,Stark,Governor,,L,Borysenko,1
+Coos,Stark,Governor,,L,Halldorson,4
+Coos,Stark,Governor,,,Scatter,2
+Coos,Stewartstown,Governor,,R,Sununu,246
+Coos,Stewartstown,Governor,,D,Sherman,47
+Coos,Stewartstown,Governor,,L,Borysenko,2
+Coos,Stewartstown,Governor,,L,Halldorson,8
+Coos,Stewartstown,Governor,,,Scatter,0
+Coos,Stratford,Governor,,R,Sununu,146
+Coos,Stratford,Governor,,D,Sherman,94
+Coos,Stratford,Governor,,L,Borysenko,1
+Coos,Stratford,Governor,,L,Halldorson,5
+Coos,Stratford,Governor,,,Scatter,0
+Coos,Success,Governor,,R,Sununu,0
+Coos,Success,Governor,,D,Sherman,0
+Coos,Success,Governor,,L,Borysenko,0
+Coos,Success,Governor,,L,Halldorson,0
+Coos,Success,Governor,,,Scatter,0
+Coos,Thompson & Meserve's Pur.,Governor,,R,Sununu,0
+Coos,Thompson & Meserve's Pur.,Governor,,D,Sherman,0
+Coos,Thompson & Meserve's Pur.,Governor,,L,Borysenko,0
+Coos,Thompson & Meserve's Pur.,Governor,,L,Halldorson,0
+Coos,Thompson & Meserve's Pur.,Governor,,,Scatter,0
+Coos,Wentworth's Location,Governor,,R,Sununu,14
+Coos,Wentworth's Location,Governor,,D,Sherman,4
+Coos,Wentworth's Location,Governor,,L,Borysenko,0
+Coos,Wentworth's Location,Governor,,L,Halldorson,0
+Coos,Wentworth's Location,Governor,,,Scatter,0
+Coos,Whitefield,Governor,,R,Sununu,621
+Coos,Whitefield,Governor,,D,Sherman,428
+Coos,Whitefield,Governor,,L,Borysenko,8
+Coos,Whitefield,Governor,,L,Halldorson,15
+Coos,Whitefield,Governor,,,Scatter,4
+Grafton,Alexandria,Governor,,R,Sununu,561
+Grafton,Alexandria,Governor,,D,Sherman,264
+Grafton,Alexandria,Governor,,L,Borysenko,6
+Grafton,Alexandria,Governor,,L,Halldorson,10
+Grafton,Alexandria,Governor,,,Scatter,13
+Grafton,Ashland,Governor,,R,Sununu,571
+Grafton,Ashland,Governor,,D,Sherman,375
+Grafton,Ashland,Governor,,L,Borysenko,0
+Grafton,Ashland,Governor,,L,Halldorson,0
+Grafton,Ashland,Governor,,,Scatter,2
+Grafton,Bath,Governor,,R,Sununu,322
+Grafton,Bath,Governor,,D,Sherman,169
+Grafton,Bath,Governor,,L,Borysenko,4
+Grafton,Bath,Governor,,L,Halldorson,8
+Grafton,Bath,Governor,,,Scatter,0
+Grafton,Benton,Governor,,R,Sununu,139
+Grafton,Benton,Governor,,D,Sherman,45
+Grafton,Benton,Governor,,L,Borysenko,1
+Grafton,Benton,Governor,,L,Halldorson,3
+Grafton,Benton,Governor,,,Scatter,2
+Grafton,Bethlehem,Governor,,R,Sununu,606
+Grafton,Bethlehem,Governor,,D,Sherman,726
+Grafton,Bethlehem,Governor,,L,Borysenko,5
+Grafton,Bethlehem,Governor,,L,Halldorson,17
+Grafton,Bethlehem,Governor,,,Scatter,8
+Grafton,Bridgewater,Governor,,R,Sununu,465
+Grafton,Bridgewater,Governor,,D,Sherman,237
+Grafton,Bridgewater,Governor,,L,Borysenko,3
+Grafton,Bridgewater,Governor,,L,Halldorson,4
+Grafton,Bridgewater,Governor,,,Scatter,0
+Grafton,Bristol,Governor,,R,Sununu,979
+Grafton,Bristol,Governor,,D,Sherman,541
+Grafton,Bristol,Governor,,L,Borysenko,4
+Grafton,Bristol,Governor,,L,Halldorson,18
+Grafton,Bristol,Governor,,,Scatter,6
+Grafton,Campton,Governor,,R,Sununu,961
+Grafton,Campton,Governor,,D,Sherman,713
+Grafton,Campton,Governor,,L,Borysenko,6
+Grafton,Campton,Governor,,L,Halldorson,18
+Grafton,Campton,Governor,,,Scatter,14
+Grafton,Canaan,Governor,,R,Sununu,842
+Grafton,Canaan,Governor,,D,Sherman,727
+Grafton,Canaan,Governor,,L,Borysenko,8
+Grafton,Canaan,Governor,,L,Halldorson,10
+Grafton,Canaan,Governor,,,Scatter,3
+Grafton,Dorchester,Governor,,R,Sununu,111
+Grafton,Dorchester,Governor,,D,Sherman,67
+Grafton,Dorchester,Governor,,L,Borysenko,2
+Grafton,Dorchester,Governor,,L,Halldorson,3
+Grafton,Dorchester,Governor,,,Scatter,1
+Grafton,Easton,Governor,,R,Sununu,73
+Grafton,Easton,Governor,,D,Sherman,134
+Grafton,Easton,Governor,,L,Borysenko,2
+Grafton,Easton,Governor,,L,Halldorson,2
+Grafton,Easton,Governor,,,Scatter,0
+Grafton,Ellsworth,Governor,,R,Sununu,35
+Grafton,Ellsworth,Governor,,D,Sherman,24
+Grafton,Ellsworth,Governor,,L,Borysenko,1
+Grafton,Ellsworth,Governor,,L,Halldorson,1
+Grafton,Ellsworth,Governor,,,Scatter,0
+Grafton,Enfield,Governor,,R,Sununu,1024
+Grafton,Enfield,Governor,,D,Sherman,1154
+Grafton,Enfield,Governor,,L,Borysenko,10
+Grafton,Enfield,Governor,,L,Halldorson,20
+Grafton,Enfield,Governor,,,Scatter,4
+Grafton,Franconia,Governor,,R,Sununu,309
+Grafton,Franconia,Governor,,D,Sherman,389
+Grafton,Franconia,Governor,,L,Borysenko,0
+Grafton,Franconia,Governor,,L,Halldorson,6
+Grafton,Franconia,Governor,,,Scatter,3
+Grafton,Grafton,Governor,,R,Sununu,389
+Grafton,Grafton,Governor,,D,Sherman,195
+Grafton,Grafton,Governor,,L,Borysenko,10
+Grafton,Grafton,Governor,,L,Halldorson,14
+Grafton,Grafton,Governor,,,Scatter,3
+Grafton,Groton,Governor,,R,Sununu,212
+Grafton,Groton,Governor,,D,Sherman,84
+Grafton,Groton,Governor,,L,Borysenko,7
+Grafton,Groton,Governor,,L,Halldorson,7
+Grafton,Groton,Governor,,,Scatter,0
+Grafton,Hanover,Governor,,R,Sununu,1214
+Grafton,Hanover,Governor,,D,Sherman,4284
+Grafton,Hanover,Governor,,L,Borysenko,9
+Grafton,Hanover,Governor,,L,Halldorson,27
+Grafton,Hanover,Governor,,,Scatter,3
+Grafton,Haverhill,Governor,,R,Sununu,1157
+Grafton,Haverhill,Governor,,D,Sherman,509
+Grafton,Haverhill,Governor,,L,Borysenko,9
+Grafton,Haverhill,Governor,,L,Halldorson,21
+Grafton,Haverhill,Governor,,,Scatter,0
+Grafton,Hebron,Governor,,R,Sununu,305
+Grafton,Hebron,Governor,,D,Sherman,158
+Grafton,Hebron,Governor,,L,Borysenko,2
+Grafton,Hebron,Governor,,L,Halldorson,0
+Grafton,Hebron,Governor,,,Scatter,0
+Grafton,Holderness,Governor,,R,Sununu,618
+Grafton,Holderness,Governor,,D,Sherman,575
+Grafton,Holderness,Governor,,L,Borysenko,4
+Grafton,Holderness,Governor,,L,Halldorson,6
+Grafton,Holderness,Governor,,,Scatter,7
+Grafton,Landaff,Governor,,R,Sununu,144
+Grafton,Landaff,Governor,,D,Sherman,76
+Grafton,Landaff,Governor,,L,Borysenko,0
+Grafton,Landaff,Governor,,L,Halldorson,1
+Grafton,Landaff,Governor,,,Scatter,0
+Grafton,Lebanon Ward 1,Governor,,R,Sununu,666
+Grafton,Lebanon Ward 1,Governor,,D,Sherman,1344
+Grafton,Lebanon Ward 1,Governor,,L,Borysenko,8
+Grafton,Lebanon Ward 1,Governor,,L,Halldorson,11
+Grafton,Lebanon Ward 1,Governor,,,Scatter,0
+Grafton,Lebanon Ward 2,Governor,,R,Sununu,682
+Grafton,Lebanon Ward 2,Governor,,D,Sherman,1329
+Grafton,Lebanon Ward 2,Governor,,L,Borysenko,9
+Grafton,Lebanon Ward 2,Governor,,L,Halldorson,10
+Grafton,Lebanon Ward 2,Governor,,,Scatter,2
+Grafton,Lebanon Ward 3,Governor,,R,Sununu,680
+Grafton,Lebanon Ward 3,Governor,,D,Sherman,1374
+Grafton,Lebanon Ward 3,Governor,,L,Borysenko,9
+Grafton,Lebanon Ward 3,Governor,,L,Halldorson,11
+Grafton,Lebanon Ward 3,Governor,,,Scatter,8
+Grafton,Lincoln,Governor,,R,Sununu,418
+Grafton,Lincoln,Governor,,D,Sherman,284
+Grafton,Lincoln,Governor,,L,Borysenko,3
+Grafton,Lincoln,Governor,,L,Halldorson,10
+Grafton,Lincoln,Governor,,,Scatter,2
+Grafton,Lisbon,Governor,,R,Sununu,378
+Grafton,Lisbon,Governor,,D,Sherman,213
+Grafton,Lisbon,Governor,,L,Borysenko,8
+Grafton,Lisbon,Governor,,L,Halldorson,7
+Grafton,Lisbon,Governor,,,Scatter,1
+Grafton,Littleton,Governor,,R,Sununu,1489
+Grafton,Littleton,Governor,,D,Sherman,933
+Grafton,Littleton,Governor,,L,Borysenko,12
+Grafton,Littleton,Governor,,L,Halldorson,32
+Grafton,Littleton,Governor,,,Scatter,6
+Grafton,Livermore,Governor,,R,Sununu,0
+Grafton,Livermore,Governor,,D,Sherman,0
+Grafton,Livermore,Governor,,L,Borysenko,0
+Grafton,Livermore,Governor,,L,Halldorson,0
+Grafton,Livermore,Governor,,,Scatter,0
+Grafton,Lyman,Governor,,R,Sununu,204
+Grafton,Lyman,Governor,,D,Sherman,111
+Grafton,Lyman,Governor,,L,Borysenko,2
+Grafton,Lyman,Governor,,L,Halldorson,7
+Grafton,Lyman,Governor,,,Scatter,3
+Grafton,Lyme,Governor,,R,Sununu,279
+Grafton,Lyme,Governor,,D,Sherman,774
+Grafton,Lyme,Governor,,L,Borysenko,1
+Grafton,Lyme,Governor,,L,Halldorson,3
+Grafton,Lyme,Governor,,,Scatter,0
+Grafton,Monroe,Governor,,R,Sununu,282
+Grafton,Monroe,Governor,,D,Sherman,130
+Grafton,Monroe,Governor,,L,Borysenko,1
+Grafton,Monroe,Governor,,L,Halldorson,4
+Grafton,Monroe,Governor,,,Scatter,0
+Grafton,Orange,Governor,,R,Sununu,95
+Grafton,Orange,Governor,,D,Sherman,54
+Grafton,Orange,Governor,,L,Borysenko,1
+Grafton,Orange,Governor,,L,Halldorson,1
+Grafton,Orange,Governor,,,Scatter,1
+Grafton,Orford,Governor,,R,Sununu,286
+Grafton,Orford,Governor,,D,Sherman,356
+Grafton,Orford,Governor,,L,Borysenko,2
+Grafton,Orford,Governor,,L,Halldorson,5
+Grafton,Orford,Governor,,,Scatter,1
+Grafton,Piermont,Governor,,R,Sununu,212
+Grafton,Piermont,Governor,,D,Sherman,142
+Grafton,Piermont,Governor,,L,Borysenko,2
+Grafton,Piermont,Governor,,L,Halldorson,4
+Grafton,Piermont,Governor,,,Scatter,2
+Grafton,Plymouth,Governor,,R,Sununu,1002
+Grafton,Plymouth,Governor,,D,Sherman,1235
+Grafton,Plymouth,Governor,,L,Borysenko,15
+Grafton,Plymouth,Governor,,L,Halldorson,35
+Grafton,Plymouth,Governor,,,Scatter,10
+Grafton,Rumney,Governor,,R,Sununu,513
+Grafton,Rumney,Governor,,D,Sherman,268
+Grafton,Rumney,Governor,,L,Borysenko,5
+Grafton,Rumney,Governor,,L,Halldorson,12
+Grafton,Rumney,Governor,,,Scatter,8
+Grafton,Sugar Hill,Governor,,R,Sununu,168
+Grafton,Sugar Hill,Governor,,D,Sherman,244
+Grafton,Sugar Hill,Governor,,L,Borysenko,1
+Grafton,Sugar Hill,Governor,,L,Halldorson,1
+Grafton,Sugar Hill,Governor,,,Scatter,0
+Grafton,Thornton,Governor,,R,Sununu,817
+Grafton,Thornton,Governor,,D,Sherman,604
+Grafton,Thornton,Governor,,L,Borysenko,0
+Grafton,Thornton,Governor,,L,Halldorson,2
+Grafton,Thornton,Governor,,,Scatter,2
+Grafton,Warren,Governor,,R,Sununu,262
+Grafton,Warren,Governor,,D,Sherman,102
+Grafton,Warren,Governor,,L,Borysenko,3
+Grafton,Warren,Governor,,L,Halldorson,6
+Grafton,Warren,Governor,,,Scatter,2
+Grafton,Waterville Valley,Governor,,R,Sununu,220
+Grafton,Waterville Valley,Governor,,D,Sherman,136
+Grafton,Waterville Valley,Governor,,L,Borysenko,2
+Grafton,Waterville Valley,Governor,,L,Halldorson,1
+Grafton,Waterville Valley,Governor,,,Scatter,0
+Grafton,Wentworth,Governor,,R,Sununu,340
+Grafton,Wentworth,Governor,,D,Sherman,144
+Grafton,Wentworth,Governor,,L,Borysenko,6
+Grafton,Wentworth,Governor,,L,Halldorson,8
+Grafton,Wentworth,Governor,,,Scatter,3
+Grafton,Woodstock,Governor,,R,Sununu,397
+Grafton,Woodstock,Governor,,D,Sherman,260
+Grafton,Woodstock,Governor,,L,Borysenko,2
+Grafton,Woodstock,Governor,,L,Halldorson,2
+Grafton,Woodstock,Governor,,,Scatter,3
+Hillsborough,Amherst,Governor,,R,Sununu,3559
+Hillsborough,Amherst,Governor,,D,Sherman,3031
+Hillsborough,Amherst,Governor,,L,Borysenko,25
+Hillsborough,Amherst,Governor,,L,Halldorson,43
+Hillsborough,Amherst,Governor,,,Scatter,20
+Hillsborough,Antrim,Governor,,R,Sununu,703
+Hillsborough,Antrim,Governor,,D,Sherman,548
+Hillsborough,Antrim,Governor,,L,Borysenko,3
+Hillsborough,Antrim,Governor,,L,Halldorson,29
+Hillsborough,Antrim,Governor,,,Scatter,4
+Hillsborough,Bedford,Governor,,R,Sununu,7288
+Hillsborough,Bedford,Governor,,D,Sherman,4099
+Hillsborough,Bedford,Governor,,L,Borysenko,30
+Hillsborough,Bedford,Governor,,L,Halldorson,59
+Hillsborough,Bedford,Governor,,,Scatter,27
+Hillsborough,Bennington,Governor,,R,Sununu,396
+Hillsborough,Bennington,Governor,,D,Sherman,278
+Hillsborough,Bennington,Governor,,L,Borysenko,2
+Hillsborough,Bennington,Governor,,L,Halldorson,10
+Hillsborough,Bennington,Governor,,,Scatter,1
+Hillsborough,Brookline,Governor,,R,Sununu,1722
+Hillsborough,Brookline,Governor,,D,Sherman,1158
+Hillsborough,Brookline,Governor,,L,Borysenko,10
+Hillsborough,Brookline,Governor,,L,Halldorson,25
+Hillsborough,Brookline,Governor,,,Scatter,1
+Hillsborough,Deering,Governor,,R,Sununu,624
+Hillsborough,Deering,Governor,,D,Sherman,280
+Hillsborough,Deering,Governor,,L,Borysenko,5
+Hillsborough,Deering,Governor,,L,Halldorson,16
+Hillsborough,Deering,Governor,,,Scatter,3
+Hillsborough,Francestown,Governor,,R,Sununu,514
+Hillsborough,Francestown,Governor,,D,Sherman,437
+Hillsborough,Francestown,Governor,,L,Borysenko,5
+Hillsborough,Francestown,Governor,,L,Halldorson,8
+Hillsborough,Francestown,Governor,,,Scatter,0
+Hillsborough,Goffstown,Governor,,R,Sununu,4847
+Hillsborough,Goffstown,Governor,,D,Sherman,2776
+Hillsborough,Goffstown,Governor,,L,Borysenko,16
+Hillsborough,Goffstown,Governor,,L,Halldorson,56
+Hillsborough,Goffstown,Governor,,,Scatter,17
+Hillsborough,Greenfield,Governor,,R,Sununu,445
+Hillsborough,Greenfield,Governor,,D,Sherman,361
+Hillsborough,Greenfield,Governor,,L,Borysenko,5
+Hillsborough,Greenfield,Governor,,L,Halldorson,7
+Hillsborough,Greenfield,Governor,,,Scatter,6
+Hillsborough,Greenville,Governor,,R,Sununu,475
+Hillsborough,Greenville,Governor,,D,Sherman,244
+Hillsborough,Greenville,Governor,,L,Borysenko,5
+Hillsborough,Greenville,Governor,,L,Halldorson,7
+Hillsborough,Greenville,Governor,,,Scatter,2
+Hillsborough,Hancock,Governor,,R,Sununu,424
+Hillsborough,Hancock,Governor,,D,Sherman,688
+Hillsborough,Hancock,Governor,,L,Borysenko,2
+Hillsborough,Hancock,Governor,,L,Halldorson,6
+Hillsborough,Hancock,Governor,,,Scatter,2
+Hillsborough,Hillsborough,Governor,,R,Sununu,1501
+Hillsborough,Hillsborough,Governor,,D,Sherman,939
+Hillsborough,Hillsborough,Governor,,L,Borysenko,16
+Hillsborough,Hillsborough,Governor,,L,Halldorson,24
+Hillsborough,Hillsborough,Governor,,,Scatter,4
+Hillsborough,Hollis,Governor,,R,Sununu,2671
+Hillsborough,Hollis,Governor,,D,Sherman,1996
+Hillsborough,Hollis,Governor,,L,Borysenko,13
+Hillsborough,Hollis,Governor,,L,Halldorson,21
+Hillsborough,Hollis,Governor,,,Scatter,18
+Hillsborough,Hudson,Governor,,R,Sununu,6689
+Hillsborough,Hudson,Governor,,D,Sherman,3407
+Hillsborough,Hudson,Governor,,L,Borysenko,55
+Hillsborough,Hudson,Governor,,L,Halldorson,95
+Hillsborough,Hudson,Governor,,,Scatter,16
+Hillsborough,Litchfield,Governor,,R,Sununu,2710
+Hillsborough,Litchfield,Governor,,D,Sherman,1345
+Hillsborough,Litchfield,Governor,,L,Borysenko,20
+Hillsborough,Litchfield,Governor,,L,Halldorson,27
+Hillsborough,Litchfield,Governor,,,Scatter,13
+Hillsborough,Lyndeborough,Governor,,R,Sununu,532
+Hillsborough,Lyndeborough,Governor,,D,Sherman,380
+Hillsborough,Lyndeborough,Governor,,L,Borysenko,7
+Hillsborough,Lyndeborough,Governor,,L,Halldorson,12
+Hillsborough,Lyndeborough,Governor,,,Scatter,2
+Hillsborough,Manchester Ward 1,Governor,,R,Sununu,2399
+Hillsborough,Manchester Ward 1,Governor,,D,Sherman,2096
+Hillsborough,Manchester Ward 1,Governor,,L,Borysenko,8
+Hillsborough,Manchester Ward 1,Governor,,L,Halldorson,23
+Hillsborough,Manchester Ward 1,Governor,,,Scatter,7
+Hillsborough,Manchester Ward 2,Governor,,R,Sununu,2045
+Hillsborough,Manchester Ward 2,Governor,,D,Sherman,1803
+Hillsborough,Manchester Ward 2,Governor,,L,Borysenko,21
+Hillsborough,Manchester Ward 2,Governor,,L,Halldorson,27
+Hillsborough,Manchester Ward 2,Governor,,,Scatter,13
+Hillsborough,Manchester Ward 3,Governor,,R,Sununu,1039
+Hillsborough,Manchester Ward 3,Governor,,D,Sherman,1186
+Hillsborough,Manchester Ward 3,Governor,,L,Borysenko,13
+Hillsborough,Manchester Ward 3,Governor,,L,Halldorson,25
+Hillsborough,Manchester Ward 3,Governor,,,Scatter,5
+Hillsborough,Manchester Ward 4,Governor,,R,Sununu,1256
+Hillsborough,Manchester Ward 4,Governor,,D,Sherman,1123
+Hillsborough,Manchester Ward 4,Governor,,L,Borysenko,18
+Hillsborough,Manchester Ward 4,Governor,,L,Halldorson,20
+Hillsborough,Manchester Ward 4,Governor,,,Scatter,5
+Hillsborough,Manchester Ward 5,Governor,,R,Sununu,904
+Hillsborough,Manchester Ward 5,Governor,,D,Sherman,764
+Hillsborough,Manchester Ward 5,Governor,,L,Borysenko,19
+Hillsborough,Manchester Ward 5,Governor,,L,Halldorson,27
+Hillsborough,Manchester Ward 5,Governor,,,Scatter,2
+Hillsborough,Manchester Ward 6,Governor,,R,Sununu,2474
+Hillsborough,Manchester Ward 6,Governor,,D,Sherman,1435
+Hillsborough,Manchester Ward 6,Governor,,L,Borysenko,19
+Hillsborough,Manchester Ward 6,Governor,,L,Halldorson,24
+Hillsborough,Manchester Ward 6,Governor,,,Scatter,12
+Hillsborough,Manchester Ward 7,Governor,,R,Sununu,1362
+Hillsborough,Manchester Ward 7,Governor,,D,Sherman,1129
+Hillsborough,Manchester Ward 7,Governor,,L,Borysenko,19
+Hillsborough,Manchester Ward 7,Governor,,L,Halldorson,21
+Hillsborough,Manchester Ward 7,Governor,,,Scatter,12
+Hillsborough,Manchester Ward 8,Governor,,R,Sununu,2611
+Hillsborough,Manchester Ward 8,Governor,,D,Sherman,1414
+Hillsborough,Manchester Ward 8,Governor,,L,Borysenko,11
+Hillsborough,Manchester Ward 8,Governor,,L,Halldorson,27
+Hillsborough,Manchester Ward 8,Governor,,,Scatter,20
+Hillsborough,Manchester Ward 9,Governor,,R,Sununu,1614
+Hillsborough,Manchester Ward 9,Governor,,D,Sherman,1223
+Hillsborough,Manchester Ward 9,Governor,,L,Borysenko,11
+Hillsborough,Manchester Ward 9,Governor,,L,Halldorson,23
+Hillsborough,Manchester Ward 9,Governor,,,Scatter,5
+Hillsborough,Manchester Ward 10,Governor,,R,Sununu,1707
+Hillsborough,Manchester Ward 10,Governor,,D,Sherman,1222
+Hillsborough,Manchester Ward 10,Governor,,L,Borysenko,25
+Hillsborough,Manchester Ward 10,Governor,,L,Halldorson,31
+Hillsborough,Manchester Ward 10,Governor,,,Scatter,15
+Hillsborough,Manchester Ward 11,Governor,,R,Sununu,1254
+Hillsborough,Manchester Ward 11,Governor,,D,Sherman,1044
+Hillsborough,Manchester Ward 11,Governor,,L,Borysenko,31
+Hillsborough,Manchester Ward 11,Governor,,L,Halldorson,26
+Hillsborough,Manchester Ward 11,Governor,,,Scatter,8
+Hillsborough,Manchester Ward 12,Governor,,R,Sununu,1858
+Hillsborough,Manchester Ward 12,Governor,,D,Sherman,1446
+Hillsborough,Manchester Ward 12,Governor,,L,Borysenko,11
+Hillsborough,Manchester Ward 12,Governor,,L,Halldorson,24
+Hillsborough,Manchester Ward 12,Governor,,,Scatter,7
+Hillsborough,Mason,Governor,,R,Sununu,493
+Hillsborough,Mason,Governor,,D,Sherman,252
+Hillsborough,Mason,Governor,,L,Borysenko,9
+Hillsborough,Mason,Governor,,L,Halldorson,12
+Hillsborough,Mason,Governor,,,Scatter,2
+Hillsborough,Merrimack,Governor,,R,Sununu,7740
+Hillsborough,Merrimack,Governor,,D,Sherman,4875
+Hillsborough,Merrimack,Governor,,L,Borysenko,39
+Hillsborough,Merrimack,Governor,,L,Halldorson,87
+Hillsborough,Merrimack,Governor,,,Scatter,7
+Hillsborough,Milford,Governor,,R,Sununu,3963
+Hillsborough,Milford,Governor,,D,Sherman,2836
+Hillsborough,Milford,Governor,,L,Borysenko,26
+Hillsborough,Milford,Governor,,L,Halldorson,61
+Hillsborough,Milford,Governor,,,Scatter,0
+Hillsborough,Mont Vernon,Governor,,R,Sununu,814
+Hillsborough,Mont Vernon,Governor,,D,Sherman,646
+Hillsborough,Mont Vernon,Governor,,L,Borysenko,11
+Hillsborough,Mont Vernon,Governor,,L,Halldorson,9
+Hillsborough,Mont Vernon,Governor,,,Scatter,2
+Hillsborough,Nashua Ward 1,Governor,,R,Sununu,2533
+Hillsborough,Nashua Ward 1,Governor,,D,Sherman,2136
+Hillsborough,Nashua Ward 1,Governor,,L,Borysenko,16
+Hillsborough,Nashua Ward 1,Governor,,L,Halldorson,41
+Hillsborough,Nashua Ward 1,Governor,,,Scatter,18
+Hillsborough,Nashua Ward 2,Governor,,R,Sununu,2194
+Hillsborough,Nashua Ward 2,Governor,,D,Sherman,1942
+Hillsborough,Nashua Ward 2,Governor,,L,Borysenko,19
+Hillsborough,Nashua Ward 2,Governor,,L,Halldorson,29
+Hillsborough,Nashua Ward 2,Governor,,,Scatter,8
+Hillsborough,Nashua Ward 3,Governor,,R,Sununu,1598
+Hillsborough,Nashua Ward 3,Governor,,D,Sherman,1551
+Hillsborough,Nashua Ward 3,Governor,,L,Borysenko,26
+Hillsborough,Nashua Ward 3,Governor,,L,Halldorson,34
+Hillsborough,Nashua Ward 3,Governor,,,Scatter,2
+Hillsborough,Nashua Ward 4,Governor,,R,Sununu,761
+Hillsborough,Nashua Ward 4,Governor,,D,Sherman,861
+Hillsborough,Nashua Ward 4,Governor,,L,Borysenko,19
+Hillsborough,Nashua Ward 4,Governor,,L,Halldorson,38
+Hillsborough,Nashua Ward 4,Governor,,,Scatter,2
+Hillsborough,Nashua Ward 5,Governor,,R,Sununu,2703
+Hillsborough,Nashua Ward 5,Governor,,D,Sherman,2110
+Hillsborough,Nashua Ward 5,Governor,,L,Borysenko,9
+Hillsborough,Nashua Ward 5,Governor,,L,Halldorson,22
+Hillsborough,Nashua Ward 5,Governor,,,Scatter,6
+Hillsborough,Nashua Ward 6,Governor,,R,Sununu,1473
+Hillsborough,Nashua Ward 6,Governor,,D,Sherman,1303
+Hillsborough,Nashua Ward 6,Governor,,L,Borysenko,28
+Hillsborough,Nashua Ward 6,Governor,,L,Halldorson,24
+Hillsborough,Nashua Ward 6,Governor,,,Scatter,12
+Hillsborough,Nashua Ward 7,Governor,,R,Sununu,1497
+Hillsborough,Nashua Ward 7,Governor,,D,Sherman,1297
+Hillsborough,Nashua Ward 7,Governor,,L,Borysenko,18
+Hillsborough,Nashua Ward 7,Governor,,L,Halldorson,30
+Hillsborough,Nashua Ward 7,Governor,,,Scatter,6
+Hillsborough,Nashua Ward 8,Governor,,R,Sununu,1694
+Hillsborough,Nashua Ward 8,Governor,,D,Sherman,1754
+Hillsborough,Nashua Ward 8,Governor,,L,Borysenko,18
+Hillsborough,Nashua Ward 8,Governor,,L,Halldorson,32
+Hillsborough,Nashua Ward 8,Governor,,,Scatter,7
+Hillsborough,Nashua Ward 9,Governor,,R,Sununu,2247
+Hillsborough,Nashua Ward 9,Governor,,D,Sherman,1801
+Hillsborough,Nashua Ward 9,Governor,,L,Borysenko,19
+Hillsborough,Nashua Ward 9,Governor,,L,Halldorson,29
+Hillsborough,Nashua Ward 9,Governor,,,Scatter,8
+Hillsborough,New Boston,Governor,,R,Sununu,1939
+Hillsborough,New Boston,Governor,,D,Sherman,1201
+Hillsborough,New Boston,Governor,,L,Borysenko,17
+Hillsborough,New Boston,Governor,,L,Halldorson,20
+Hillsborough,New Boston,Governor,,,Scatter,3
+Hillsborough,New Ipswich,Governor,,R,Sununu,1833
+Hillsborough,New Ipswich,Governor,,D,Sherman,539
+Hillsborough,New Ipswich,Governor,,L,Borysenko,15
+Hillsborough,New Ipswich,Governor,,L,Halldorson,29
+Hillsborough,New Ipswich,Governor,,,Scatter,3
+Hillsborough,Pelham,Governor,,R,Sununu,4647
+Hillsborough,Pelham,Governor,,D,Sherman,1871
+Hillsborough,Pelham,Governor,,L,Borysenko,37
+Hillsborough,Pelham,Governor,,L,Halldorson,75
+Hillsborough,Pelham,Governor,,,Scatter,4
+Hillsborough,Peterborough,Governor,,R,Sununu,1257
+Hillsborough,Peterborough,Governor,,D,Sherman,2235
+Hillsborough,Peterborough,Governor,,L,Borysenko,9
+Hillsborough,Peterborough,Governor,,L,Halldorson,25
+Hillsborough,Peterborough,Governor,,,Scatter,10
+Hillsborough,Sharon,Governor,,R,Sununu,128
+Hillsborough,Sharon,Governor,,D,Sherman,103
+Hillsborough,Sharon,Governor,,L,Borysenko,2
+Hillsborough,Sharon,Governor,,L,Halldorson,3
+Hillsborough,Sharon,Governor,,,Scatter,0
+Hillsborough,Temple,Governor,,R,Sununu,422
+Hillsborough,Temple,Governor,,D,Sherman,355
+Hillsborough,Temple,Governor,,L,Borysenko,5
+Hillsborough,Temple,Governor,,L,Halldorson,10
+Hillsborough,Temple,Governor,,,Scatter,2
+Hillsborough,Weare,Governor,,R,Sununu,2937
+Hillsborough,Weare,Governor,,D,Sherman,1273
+Hillsborough,Weare,Governor,,L,Borysenko,23
+Hillsborough,Weare,Governor,,L,Halldorson,28
+Hillsborough,Weare,Governor,,,Scatter,23
+Hillsborough,Wilton,Governor,,R,Sununu,1035
+Hillsborough,Wilton,Governor,,D,Sherman,862
+Hillsborough,Wilton,Governor,,L,Borysenko,14
+Hillsborough,Wilton,Governor,,L,Halldorson,13
+Hillsborough,Wilton,Governor,,,Scatter,11
+Hillsborough,Windsor,Governor,,R,Sununu,77
+Hillsborough,Windsor,Governor,,D,Sherman,18
+Hillsborough,Windsor,Governor,,L,Borysenko,1
+Hillsborough,Windsor,Governor,,L,Halldorson,3
+Hillsborough,Windsor,Governor,,,Scatter,0
+Merrimack,Allenstown,Governor,,R,Sununu,1126
+Merrimack,Allenstown,Governor,,D,Sherman,589
+Merrimack,Allenstown,Governor,,L,Borysenko,14
+Merrimack,Allenstown,Governor,,L,Halldorson,17
+Merrimack,Allenstown,Governor,,,Scatter,3
+Merrimack,Andover,Governor,,R,Sununu,632
+Merrimack,Andover,Governor,,D,Sherman,550
+Merrimack,Andover,Governor,,L,Borysenko,3
+Merrimack,Andover,Governor,,L,Halldorson,19
+Merrimack,Andover,Governor,,,Scatter,6
+Merrimack,Boscawen,Governor,,R,Sununu,922
+Merrimack,Boscawen,Governor,,D,Sherman,563
+Merrimack,Boscawen,Governor,,L,Borysenko,11
+Merrimack,Boscawen,Governor,,L,Halldorson,12
+Merrimack,Boscawen,Governor,,,Scatter,10
+Merrimack,Bow,Governor,,R,Sununu,2427
+Merrimack,Bow,Governor,,D,Sherman,2008
+Merrimack,Bow,Governor,,L,Borysenko,8
+Merrimack,Bow,Governor,,L,Halldorson,23
+Merrimack,Bow,Governor,,,Scatter,13
+Merrimack,Bradford,Governor,,R,Sununu,499
+Merrimack,Bradford,Governor,,D,Sherman,388
+Merrimack,Bradford,Governor,,L,Borysenko,2
+Merrimack,Bradford,Governor,,L,Halldorson,9
+Merrimack,Bradford,Governor,,,Scatter,6
+Merrimack,Canterbury,Governor,,R,Sununu,724
+Merrimack,Canterbury,Governor,,D,Sherman,707
+Merrimack,Canterbury,Governor,,L,Borysenko,4
+Merrimack,Canterbury,Governor,,L,Halldorson,10
+Merrimack,Canterbury,Governor,,,Scatter,13
+Merrimack,Chichester,Governor,,R,Sununu,901
+Merrimack,Chichester,Governor,,D,Sherman,454
+Merrimack,Chichester,Governor,,L,Borysenko,16
+Merrimack,Chichester,Governor,,L,Halldorson,10
+Merrimack,Chichester,Governor,,,Scatter,14
+Merrimack,Concord Ward 1,Governor,,R,Sununu,887
+Merrimack,Concord Ward 1,Governor,,D,Sherman,905
+Merrimack,Concord Ward 1,Governor,,L,Borysenko,13
+Merrimack,Concord Ward 1,Governor,,L,Halldorson,14
+Merrimack,Concord Ward 1,Governor,,,Scatter,8
+Merrimack,Concord Ward 2,Governor,,R,Sununu,788
+Merrimack,Concord Ward 2,Governor,,D,Sherman,830
+Merrimack,Concord Ward 2,Governor,,L,Borysenko,0
+Merrimack,Concord Ward 2,Governor,,L,Halldorson,0
+Merrimack,Concord Ward 2,Governor,,,Scatter,12
+Merrimack,Concord Ward 3,Governor,,R,Sununu,476
+Merrimack,Concord Ward 3,Governor,,D,Sherman,535
+Merrimack,Concord Ward 3,Governor,,L,Borysenko,4
+Merrimack,Concord Ward 3,Governor,,L,Halldorson,7
+Merrimack,Concord Ward 3,Governor,,,Scatter,4
+Merrimack,Concord Ward 4,Governor,,R,Sununu,636
+Merrimack,Concord Ward 4,Governor,,D,Sherman,1171
+Merrimack,Concord Ward 4,Governor,,L,Borysenko,10
+Merrimack,Concord Ward 4,Governor,,L,Halldorson,25
+Merrimack,Concord Ward 4,Governor,,,Scatter,4
+Merrimack,Concord Ward 5,Governor,,R,Sununu,820
+Merrimack,Concord Ward 5,Governor,,D,Sherman,1579
+Merrimack,Concord Ward 5,Governor,,L,Borysenko,12
+Merrimack,Concord Ward 5,Governor,,L,Halldorson,11
+Merrimack,Concord Ward 5,Governor,,,Scatter,5
+Merrimack,Concord Ward 6,Governor,,R,Sununu,573
+Merrimack,Concord Ward 6,Governor,,D,Sherman,898
+Merrimack,Concord Ward 6,Governor,,L,Borysenko,9
+Merrimack,Concord Ward 6,Governor,,L,Halldorson,23
+Merrimack,Concord Ward 6,Governor,,,Scatter,4
+Merrimack,Concord Ward 7,Governor,,R,Sununu,968
+Merrimack,Concord Ward 7,Governor,,D,Sherman,1408
+Merrimack,Concord Ward 7,Governor,,L,Borysenko,7
+Merrimack,Concord Ward 7,Governor,,L,Halldorson,11
+Merrimack,Concord Ward 7,Governor,,,Scatter,2
+Merrimack,Concord Ward 8,Governor,,R,Sununu,886
+Merrimack,Concord Ward 8,Governor,,D,Sherman,846
+Merrimack,Concord Ward 8,Governor,,L,Borysenko,2
+Merrimack,Concord Ward 8,Governor,,L,Halldorson,22
+Merrimack,Concord Ward 8,Governor,,,Scatter,4
+Merrimack,Concord Ward 9,Governor,,R,Sununu,704
+Merrimack,Concord Ward 9,Governor,,D,Sherman,834
+Merrimack,Concord Ward 9,Governor,,L,Borysenko,7
+Merrimack,Concord Ward 9,Governor,,L,Halldorson,25
+Merrimack,Concord Ward 9,Governor,,,Scatter,7
+Merrimack,Concord Ward 10,Governor,,R,Sununu,1199
+Merrimack,Concord Ward 10,Governor,,D,Sherman,1254
+Merrimack,Concord Ward 10,Governor,,L,Borysenko,10
+Merrimack,Concord Ward 10,Governor,,L,Halldorson,11
+Merrimack,Concord Ward 10,Governor,,,Scatter,10
+Merrimack,Danbury,Governor,,R,Sununu,387
+Merrimack,Danbury,Governor,,D,Sherman,167
+Merrimack,Danbury,Governor,,L,Borysenko,20
+Merrimack,Danbury,Governor,,L,Halldorson,20
+Merrimack,Danbury,Governor,,,Scatter,1
+Merrimack,Dunbarton,Governor,,R,Sununu,1077
+Merrimack,Dunbarton,Governor,,D,Sherman,544
+Merrimack,Dunbarton,Governor,,L,Borysenko,6
+Merrimack,Dunbarton,Governor,,L,Halldorson,14
+Merrimack,Dunbarton,Governor,,,Scatter,11
+Merrimack,Epsom,Governor,,R,Sununu,1587
+Merrimack,Epsom,Governor,,D,Sherman,692
+Merrimack,Epsom,Governor,,L,Borysenko,15
+Merrimack,Epsom,Governor,,L,Halldorson,13
+Merrimack,Epsom,Governor,,,Scatter,14
+Merrimack,Franklin Ward 1,Governor,,R,Sununu,720
+Merrimack,Franklin Ward 1,Governor,,D,Sherman,342
+Merrimack,Franklin Ward 1,Governor,,L,Borysenko,4
+Merrimack,Franklin Ward 1,Governor,,L,Halldorson,12
+Merrimack,Franklin Ward 1,Governor,,,Scatter,5
+Merrimack,Franklin Ward 2,Governor,,R,Sununu,472
+Merrimack,Franklin Ward 2,Governor,,D,Sherman,259
+Merrimack,Franklin Ward 2,Governor,,L,Borysenko,9
+Merrimack,Franklin Ward 2,Governor,,L,Halldorson,6
+Merrimack,Franklin Ward 2,Governor,,,Scatter,5
+Merrimack,Franklin Ward 3,Governor,,R,Sununu,804
+Merrimack,Franklin Ward 3,Governor,,D,Sherman,435
+Merrimack,Franklin Ward 3,Governor,,L,Borysenko,11
+Merrimack,Franklin Ward 3,Governor,,L,Halldorson,15
+Merrimack,Franklin Ward 3,Governor,,,Scatter,7
+Merrimack,Henniker,Governor,,R,Sununu,1071
+Merrimack,Henniker,Governor,,D,Sherman,997
+Merrimack,Henniker,Governor,,L,Borysenko,10
+Merrimack,Henniker,Governor,,L,Halldorson,22
+Merrimack,Henniker,Governor,,,Scatter,6
+Merrimack,Hill,Governor,,R,Sununu,362
+Merrimack,Hill,Governor,,D,Sherman,143
+Merrimack,Hill,Governor,,L,Borysenko,2
+Merrimack,Hill,Governor,,L,Halldorson,7
+Merrimack,Hill,Governor,,,Scatter,1
+Merrimack,Hooksett,Governor,,R,Sununu,4337
+Merrimack,Hooksett,Governor,,D,Sherman,2264
+Merrimack,Hooksett,Governor,,L,Borysenko,20
+Merrimack,Hooksett,Governor,,L,Halldorson,33
+Merrimack,Hooksett,Governor,,,Scatter,17
+Merrimack,Hopkinton,Governor,,R,Sununu,1533
+Merrimack,Hopkinton,Governor,,D,Sherman,1857
+Merrimack,Hopkinton,Governor,,L,Borysenko,23
+Merrimack,Hopkinton,Governor,,L,Halldorson,34
+Merrimack,Hopkinton,Governor,,,Scatter,12
+Merrimack,Loudon,Governor,,R,Sununu,1956
+Merrimack,Loudon,Governor,,D,Sherman,887
+Merrimack,Loudon,Governor,,L,Borysenko,11
+Merrimack,Loudon,Governor,,L,Halldorson,25
+Merrimack,Loudon,Governor,,,Scatter,59
+Merrimack,New London,Governor,,R,Sununu,1281
+Merrimack,New London,Governor,,D,Sherman,1391
+Merrimack,New London,Governor,,L,Borysenko,6
+Merrimack,New London,Governor,,L,Halldorson,7
+Merrimack,New London,Governor,,,Scatter,3
+Merrimack,Newbury,Governor,,R,Sununu,826
+Merrimack,Newbury,Governor,,D,Sherman,554
+Merrimack,Newbury,Governor,,L,Borysenko,4
+Merrimack,Newbury,Governor,,L,Halldorson,9
+Merrimack,Newbury,Governor,,,Scatter,4
+Merrimack,Northfield,Governor,,R,Sununu,1238
+Merrimack,Northfield,Governor,,D,Sherman,661
+Merrimack,Northfield,Governor,,L,Borysenko,11
+Merrimack,Northfield,Governor,,L,Halldorson,19
+Merrimack,Northfield,Governor,,,Scatter,12
+Merrimack,Pembroke,Governor,,R,Sununu,1877
+Merrimack,Pembroke,Governor,,D,Sherman,1311
+Merrimack,Pembroke,Governor,,L,Borysenko,19
+Merrimack,Pembroke,Governor,,L,Halldorson,29
+Merrimack,Pembroke,Governor,,,Scatter,26
+Merrimack,Pittsfield,Governor,,R,Sununu,1063
+Merrimack,Pittsfield,Governor,,D,Sherman,509
+Merrimack,Pittsfield,Governor,,L,Borysenko,10
+Merrimack,Pittsfield,Governor,,L,Halldorson,23
+Merrimack,Pittsfield,Governor,,,Scatter,8
+Merrimack,Salisbury,Governor,,R,Sununu,504
+Merrimack,Salisbury,Governor,,D,Sherman,244
+Merrimack,Salisbury,Governor,,L,Borysenko,5
+Merrimack,Salisbury,Governor,,L,Halldorson,7
+Merrimack,Salisbury,Governor,,,Scatter,5
+Merrimack,Sutton,Governor,,R,Sununu,622
+Merrimack,Sutton,Governor,,D,Sherman,501
+Merrimack,Sutton,Governor,,L,Borysenko,6
+Merrimack,Sutton,Governor,,L,Halldorson,5
+Merrimack,Sutton,Governor,,,Scatter,2
+Merrimack,Warner,Governor,,R,Sununu,781
+Merrimack,Warner,Governor,,D,Sherman,771
+Merrimack,Warner,Governor,,L,Borysenko,8
+Merrimack,Warner,Governor,,L,Halldorson,15
+Merrimack,Warner,Governor,,,Scatter,2
+Merrimack,Webster,Governor,,R,Sununu,610
+Merrimack,Webster,Governor,,D,Sherman,370
+Merrimack,Webster,Governor,,L,Borysenko,4
+Merrimack,Webster,Governor,,L,Halldorson,10
+Merrimack,Webster,Governor,,,Scatter,4
+Merrimack,Wilmot,Governor,,R,Sununu,393
+Merrimack,Wilmot,Governor,,D,Sherman,417
+Merrimack,Wilmot,Governor,,L,Borysenko,1
+Merrimack,Wilmot,Governor,,L,Halldorson,4
+Merrimack,Wilmot,Governor,,,Scatter,4
+Rockingham,Atkinson,Governor,,R,Sununu,2743
+Rockingham,Atkinson,Governor,,D,Sherman,1298
+Rockingham,Atkinson,Governor,,L,Borysenko,11
+Rockingham,Atkinson,Governor,,L,Halldorson,21
+Rockingham,Atkinson,Governor,,,Scatter,7
+Rockingham,Auburn,Governor,,R,Sununu,2225
+Rockingham,Auburn,Governor,,D,Sherman,864
+Rockingham,Auburn,Governor,,L,Borysenko,13
+Rockingham,Auburn,Governor,,L,Halldorson,13
+Rockingham,Auburn,Governor,,,Scatter,12
+Rockingham,Brentwood,Governor,,R,Sununu,1450
+Rockingham,Brentwood,Governor,,D,Sherman,957
+Rockingham,Brentwood,Governor,,L,Borysenko,8
+Rockingham,Brentwood,Governor,,L,Halldorson,22
+Rockingham,Brentwood,Governor,,,Scatter,5
+Rockingham,Candia,Governor,,R,Sununu,1622
+Rockingham,Candia,Governor,,D,Sherman,619
+Rockingham,Candia,Governor,,L,Borysenko,17
+Rockingham,Candia,Governor,,L,Halldorson,22
+Rockingham,Candia,Governor,,,Scatter,9
+Rockingham,Chester,Governor,,R,Sununu,1853
+Rockingham,Chester,Governor,,D,Sherman,829
+Rockingham,Chester,Governor,,L,Borysenko,8
+Rockingham,Chester,Governor,,L,Halldorson,18
+Rockingham,Chester,Governor,,,Scatter,16
+Rockingham,Danville,Governor,,R,Sununu,1504
+Rockingham,Danville,Governor,,D,Sherman,587
+Rockingham,Danville,Governor,,L,Borysenko,12
+Rockingham,Danville,Governor,,L,Halldorson,21
+Rockingham,Danville,Governor,,,Scatter,3
+Rockingham,Deerfield,Governor,,R,Sununu,1655
+Rockingham,Deerfield,Governor,,D,Sherman,889
+Rockingham,Deerfield,Governor,,L,Borysenko,11
+Rockingham,Deerfield,Governor,,L,Halldorson,31
+Rockingham,Deerfield,Governor,,,Scatter,9
+Rockingham,Derry,Governor,,R,Sununu,7442
+Rockingham,Derry,Governor,,D,Sherman,4223
+Rockingham,Derry,Governor,,L,Borysenko,72
+Rockingham,Derry,Governor,,L,Halldorson,108
+Rockingham,Derry,Governor,,,Scatter,0
+Rockingham,East Kingston,Governor,,R,Sununu,877
+Rockingham,East Kingston,Governor,,D,Sherman,502
+Rockingham,East Kingston,Governor,,L,Borysenko,6
+Rockingham,East Kingston,Governor,,L,Halldorson,9
+Rockingham,East Kingston,Governor,,,Scatter,2
+Rockingham,Epping,Governor,,R,Sununu,2269
+Rockingham,Epping,Governor,,D,Sherman,1189
+Rockingham,Epping,Governor,,L,Borysenko,32
+Rockingham,Epping,Governor,,L,Halldorson,38
+Rockingham,Epping,Governor,,,Scatter,13
+Rockingham,Exeter,Governor,,R,Sununu,3619
+Rockingham,Exeter,Governor,,D,Sherman,4746
+Rockingham,Exeter,Governor,,L,Borysenko,22
+Rockingham,Exeter,Governor,,L,Halldorson,42
+Rockingham,Exeter,Governor,,,Scatter,0
+Rockingham,Fremont,Governor,,R,Sununu,1693
+Rockingham,Fremont,Governor,,D,Sherman,660
+Rockingham,Fremont,Governor,,L,Borysenko,17
+Rockingham,Fremont,Governor,,L,Halldorson,20
+Rockingham,Fremont,Governor,,,Scatter,9
+Rockingham,Greenland,Governor,,R,Sununu,1290
+Rockingham,Greenland,Governor,,D,Sherman,1105
+Rockingham,Greenland,Governor,,L,Borysenko,7
+Rockingham,Greenland,Governor,,L,Halldorson,15
+Rockingham,Greenland,Governor,,,Scatter,2
+Rockingham,Hampstead,Governor,,R,Sununu,3190
+Rockingham,Hampstead,Governor,,D,Sherman,1386
+Rockingham,Hampstead,Governor,,L,Borysenko,19
+Rockingham,Hampstead,Governor,,L,Halldorson,38
+Rockingham,Hampstead,Governor,,,Scatter,8
+Rockingham,Hampton,Governor,,R,Sununu,5245
+Rockingham,Hampton,Governor,,D,Sherman,4003
+Rockingham,Hampton,Governor,,L,Borysenko,25
+Rockingham,Hampton,Governor,,L,Halldorson,46
+Rockingham,Hampton,Governor,,,Scatter,22
+Rockingham,Hampton Falls,Governor,,R,Sununu,903
+Rockingham,Hampton Falls,Governor,,D,Sherman,512
+Rockingham,Hampton Falls,Governor,,L,Borysenko,3
+Rockingham,Hampton Falls,Governor,,L,Halldorson,6
+Rockingham,Hampton Falls,Governor,,,Scatter,6
+Rockingham,Kensington,Governor,,R,Sununu,715
+Rockingham,Kensington,Governor,,D,Sherman,521
+Rockingham,Kensington,Governor,,L,Borysenko,2
+Rockingham,Kensington,Governor,,L,Halldorson,3
+Rockingham,Kensington,Governor,,,Scatter,2
+Rockingham,Kingston,Governor,,R,Sununu,2072
+Rockingham,Kingston,Governor,,D,Sherman,1058
+Rockingham,Kingston,Governor,,L,Borysenko,14
+Rockingham,Kingston,Governor,,L,Halldorson,22
+Rockingham,Kingston,Governor,,,Scatter,8
+Rockingham,Londonderry,Governor,,R,Sununu,7653
+Rockingham,Londonderry,Governor,,D,Sherman,4156
+Rockingham,Londonderry,Governor,,L,Borysenko,36
+Rockingham,Londonderry,Governor,,L,Halldorson,91
+Rockingham,Londonderry,Governor,,,Scatter,25
+Rockingham,New Castle,Governor,,R,Sununu,335
+Rockingham,New Castle,Governor,,D,Sherman,413
+Rockingham,New Castle,Governor,,L,Borysenko,1
+Rockingham,New Castle,Governor,,L,Halldorson,3
+Rockingham,New Castle,Governor,,,Scatter,0
+Rockingham,Newfields,Governor,,R,Sununu,609
+Rockingham,Newfields,Governor,,D,Sherman,468
+Rockingham,Newfields,Governor,,L,Borysenko,2
+Rockingham,Newfields,Governor,,L,Halldorson,6
+Rockingham,Newfields,Governor,,,Scatter,1
+Rockingham,Newington,Governor,,R,Sununu,343
+Rockingham,Newington,Governor,,D,Sherman,198
+Rockingham,Newington,Governor,,L,Borysenko,2
+Rockingham,Newington,Governor,,L,Halldorson,5
+Rockingham,Newington,Governor,,,Scatter,1
+Rockingham,Newmarket,Governor,,R,Sununu,2017
+Rockingham,Newmarket,Governor,,D,Sherman,2611
+Rockingham,Newmarket,Governor,,L,Borysenko,27
+Rockingham,Newmarket,Governor,,L,Halldorson,44
+Rockingham,Newmarket,Governor,,,Scatter,15
+Rockingham,Newton,Governor,,R,Sununu,1494
+Rockingham,Newton,Governor,,D,Sherman,758
+Rockingham,Newton,Governor,,L,Borysenko,14
+Rockingham,Newton,Governor,,L,Halldorson,21
+Rockingham,Newton,Governor,,,Scatter,6
+Rockingham,North Hampton,Governor,,R,Sununu,1506
+Rockingham,North Hampton,Governor,,D,Sherman,1302
+Rockingham,North Hampton,Governor,,L,Borysenko,6
+Rockingham,North Hampton,Governor,,L,Halldorson,10
+Rockingham,North Hampton,Governor,,,Scatter,9
+Rockingham,Northwood,Governor,,R,Sununu,1349
+Rockingham,Northwood,Governor,,D,Sherman,810
+Rockingham,Northwood,Governor,,L,Borysenko,8
+Rockingham,Northwood,Governor,,L,Halldorson,15
+Rockingham,Northwood,Governor,,,Scatter,8
+Rockingham,Nottingham,Governor,,R,Sununu,1724
+Rockingham,Nottingham,Governor,,D,Sherman,1158
+Rockingham,Nottingham,Governor,,L,Borysenko,21
+Rockingham,Nottingham,Governor,,L,Halldorson,23
+Rockingham,Nottingham,Governor,,,Scatter,12
+Rockingham,Plaistow,Governor,,R,Sununu,2195
+Rockingham,Plaistow,Governor,,D,Sherman,1119
+Rockingham,Plaistow,Governor,,L,Borysenko,24
+Rockingham,Plaistow,Governor,,L,Halldorson,39
+Rockingham,Plaistow,Governor,,,Scatter,8
+Rockingham,Portsmouth Ward 1,Governor,,R,Sununu,882
+Rockingham,Portsmouth Ward 1,Governor,,D,Sherman,1408
+Rockingham,Portsmouth Ward 1,Governor,,L,Borysenko,8
+Rockingham,Portsmouth Ward 1,Governor,,L,Halldorson,23
+Rockingham,Portsmouth Ward 1,Governor,,,Scatter,4
+Rockingham,Portsmouth Ward 2,Governor,,R,Sununu,838
+Rockingham,Portsmouth Ward 2,Governor,,D,Sherman,1790
+Rockingham,Portsmouth Ward 2,Governor,,L,Borysenko,10
+Rockingham,Portsmouth Ward 2,Governor,,L,Halldorson,26
+Rockingham,Portsmouth Ward 2,Governor,,,Scatter,4
+Rockingham,Portsmouth Ward 3,Governor,,R,Sununu,958
+Rockingham,Portsmouth Ward 3,Governor,,D,Sherman,1283
+Rockingham,Portsmouth Ward 3,Governor,,L,Borysenko,5
+Rockingham,Portsmouth Ward 3,Governor,,L,Halldorson,20
+Rockingham,Portsmouth Ward 3,Governor,,,Scatter,3
+Rockingham,Portsmouth Ward 4,Governor,,R,Sununu,942
+Rockingham,Portsmouth Ward 4,Governor,,D,Sherman,1042
+Rockingham,Portsmouth Ward 4,Governor,,L,Borysenko,11
+Rockingham,Portsmouth Ward 4,Governor,,L,Halldorson,15
+Rockingham,Portsmouth Ward 4,Governor,,,Scatter,4
+Rockingham,Portsmouth Ward 5,Governor,,R,Sununu,771
+Rockingham,Portsmouth Ward 5,Governor,,D,Sherman,1567
+Rockingham,Portsmouth Ward 5,Governor,,L,Borysenko,7
+Rockingham,Portsmouth Ward 5,Governor,,L,Halldorson,10
+Rockingham,Portsmouth Ward 5,Governor,,,Scatter,2
+Rockingham,Raymond,Governor,,R,Sununu,3067
+Rockingham,Raymond,Governor,,D,Sherman,1358
+Rockingham,Raymond,Governor,,L,Borysenko,30
+Rockingham,Raymond,Governor,,L,Halldorson,53
+Rockingham,Raymond,Governor,,,Scatter,26
+Rockingham,Rye,Governor,,R,Sununu,1868
+Rockingham,Rye,Governor,,D,Sherman,1811
+Rockingham,Rye,Governor,,L,Borysenko,12
+Rockingham,Rye,Governor,,L,Halldorson,19
+Rockingham,Rye,Governor,,,Scatter,3
+Rockingham,Salem,Governor,,R,Sununu,8867
+Rockingham,Salem,Governor,,D,Sherman,3869
+Rockingham,Salem,Governor,,L,Borysenko,69
+Rockingham,Salem,Governor,,L,Halldorson,102
+Rockingham,Salem,Governor,,,Scatter,44
+Rockingham,Sandown,Governor,,R,Sununu,2063
+Rockingham,Sandown,Governor,,D,Sherman,886
+Rockingham,Sandown,Governor,,L,Borysenko,14
+Rockingham,Sandown,Governor,,L,Halldorson,40
+Rockingham,Sandown,Governor,,,Scatter,9
+Rockingham,Seabrook,Governor,,R,Sununu,2390
+Rockingham,Seabrook,Governor,,D,Sherman,1107
+Rockingham,Seabrook,Governor,,L,Borysenko,13
+Rockingham,Seabrook,Governor,,L,Halldorson,37
+Rockingham,Seabrook,Governor,,,Scatter,10
+Rockingham,South Hampton,Governor,,R,Sununu,296
+Rockingham,South Hampton,Governor,,D,Sherman,208
+Rockingham,South Hampton,Governor,,L,Borysenko,4
+Rockingham,South Hampton,Governor,,L,Halldorson,7
+Rockingham,South Hampton,Governor,,,Scatter,1
+Rockingham,Stratham,Governor,,R,Sununu,2358
+Rockingham,Stratham,Governor,,D,Sherman,2233
+Rockingham,Stratham,Governor,,L,Borysenko,11
+Rockingham,Stratham,Governor,,L,Halldorson,17
+Rockingham,Stratham,Governor,,,Scatter,6
+Rockingham,Windham,Governor,,R,Sununu,5151
+Rockingham,Windham,Governor,,D,Sherman,2256
+Rockingham,Windham,Governor,,L,Borysenko,35
+Rockingham,Windham,Governor,,L,Halldorson,56
+Rockingham,Windham,Governor,,,Scatter,36
+Strafford,Barrington,Governor,,R,Sununu,2639
+Strafford,Barrington,Governor,,D,Sherman,2002
+Strafford,Barrington,Governor,,L,Borysenko,13
+Strafford,Barrington,Governor,,L,Halldorson,29
+Strafford,Barrington,Governor,,,Scatter,8
+Strafford,Dover Ward 1,Governor,,R,Sununu,798
+Strafford,Dover Ward 1,Governor,,D,Sherman,1560
+Strafford,Dover Ward 1,Governor,,L,Borysenko,8
+Strafford,Dover Ward 1,Governor,,L,Halldorson,26
+Strafford,Dover Ward 1,Governor,,,Scatter,5
+Strafford,Dover Ward 2,Governor,,R,Sununu,830
+Strafford,Dover Ward 2,Governor,,D,Sherman,1506
+Strafford,Dover Ward 2,Governor,,L,Borysenko,10
+Strafford,Dover Ward 2,Governor,,L,Halldorson,39
+Strafford,Dover Ward 2,Governor,,,Scatter,3
+Strafford,Dover Ward 3,Governor,,R,Sununu,1456
+Strafford,Dover Ward 3,Governor,,D,Sherman,1467
+Strafford,Dover Ward 3,Governor,,L,Borysenko,5
+Strafford,Dover Ward 3,Governor,,L,Halldorson,19
+Strafford,Dover Ward 3,Governor,,,Scatter,2
+Strafford,Dover Ward 4,Governor,,R,Sununu,1193
+Strafford,Dover Ward 4,Governor,,D,Sherman,1431
+Strafford,Dover Ward 4,Governor,,L,Borysenko,16
+Strafford,Dover Ward 4,Governor,,L,Halldorson,20
+Strafford,Dover Ward 4,Governor,,,Scatter,3
+Strafford,Dover Ward 5,Governor,,R,Sununu,976
+Strafford,Dover Ward 5,Governor,,D,Sherman,1134
+Strafford,Dover Ward 5,Governor,,L,Borysenko,15
+Strafford,Dover Ward 5,Governor,,L,Halldorson,27
+Strafford,Dover Ward 5,Governor,,,Scatter,5
+Strafford,Dover Ward 6,Governor,,R,Sununu,1242
+Strafford,Dover Ward 6,Governor,,D,Sherman,1106
+Strafford,Dover Ward 6,Governor,,L,Borysenko,10
+Strafford,Dover Ward 6,Governor,,L,Halldorson,11
+Strafford,Dover Ward 6,Governor,,,Scatter,3
+Strafford,Durham,Governor,,R,Sununu,1670
+Strafford,Durham,Governor,,D,Sherman,4151
+Strafford,Durham,Governor,,L,Borysenko,30
+Strafford,Durham,Governor,,L,Halldorson,36
+Strafford,Durham,Governor,,,Scatter,7
+Strafford,Farmington,Governor,,R,Sununu,1644
+Strafford,Farmington,Governor,,D,Sherman,804
+Strafford,Farmington,Governor,,L,Borysenko,7
+Strafford,Farmington,Governor,,L,Halldorson,36
+Strafford,Farmington,Governor,,,Scatter,8
+Strafford,Lee,Governor,,R,Sununu,1044
+Strafford,Lee,Governor,,D,Sherman,1307
+Strafford,Lee,Governor,,L,Borysenko,12
+Strafford,Lee,Governor,,L,Halldorson,24
+Strafford,Lee,Governor,,,Scatter,3
+Strafford,Madbury,Governor,,R,Sununu,489
+Strafford,Madbury,Governor,,D,Sherman,546
+Strafford,Madbury,Governor,,L,Borysenko,0
+Strafford,Madbury,Governor,,L,Halldorson,9
+Strafford,Madbury,Governor,,,Scatter,0
+Strafford,Middleton,Governor,,R,Sununu,591
+Strafford,Middleton,Governor,,D,Sherman,205
+Strafford,Middleton,Governor,,L,Borysenko,6
+Strafford,Middleton,Governor,,L,Halldorson,2
+Strafford,Middleton,Governor,,,Scatter,2
+Strafford,Milton,Governor,,R,Sununu,1332
+Strafford,Milton,Governor,,D,Sherman,552
+Strafford,Milton,Governor,,L,Borysenko,16
+Strafford,Milton,Governor,,L,Halldorson,20
+Strafford,Milton,Governor,,,Scatter,14
+Strafford,New Durham,Governor,,R,Sununu,1073
+Strafford,New Durham,Governor,,D,Sherman,433
+Strafford,New Durham,Governor,,L,Borysenko,5
+Strafford,New Durham,Governor,,L,Halldorson,16
+Strafford,New Durham,Governor,,,Scatter,9
+Strafford,Rochester Ward 1,Governor,,R,Sununu,1436
+Strafford,Rochester Ward 1,Governor,,D,Sherman,880
+Strafford,Rochester Ward 1,Governor,,L,Borysenko,5
+Strafford,Rochester Ward 1,Governor,,L,Halldorson,26
+Strafford,Rochester Ward 1,Governor,,,Scatter,20
+Strafford,Rochester Ward 2,Governor,,R,Sununu,1343
+Strafford,Rochester Ward 2,Governor,,D,Sherman,803
+Strafford,Rochester Ward 2,Governor,,L,Borysenko,11
+Strafford,Rochester Ward 2,Governor,,L,Halldorson,18
+Strafford,Rochester Ward 2,Governor,,,Scatter,6
+Strafford,Rochester Ward 3,Governor,,R,Sununu,1331
+Strafford,Rochester Ward 3,Governor,,D,Sherman,707
+Strafford,Rochester Ward 3,Governor,,L,Borysenko,14
+Strafford,Rochester Ward 3,Governor,,L,Halldorson,21
+Strafford,Rochester Ward 3,Governor,,,Scatter,5
+Strafford,Rochester Ward 4,Governor,,R,Sununu,1156
+Strafford,Rochester Ward 4,Governor,,D,Sherman,761
+Strafford,Rochester Ward 4,Governor,,L,Borysenko,14
+Strafford,Rochester Ward 4,Governor,,L,Halldorson,24
+Strafford,Rochester Ward 4,Governor,,,Scatter,10
+Strafford,Rochester Ward 5,Governor,,R,Sununu,1338
+Strafford,Rochester Ward 5,Governor,,D,Sherman,753
+Strafford,Rochester Ward 5,Governor,,L,Borysenko,12
+Strafford,Rochester Ward 5,Governor,,L,Halldorson,18
+Strafford,Rochester Ward 5,Governor,,,Scatter,9
+Strafford,Rochester Ward 6,Governor,,R,Sununu,1021
+Strafford,Rochester Ward 6,Governor,,D,Sherman,756
+Strafford,Rochester Ward 6,Governor,,L,Borysenko,14
+Strafford,Rochester Ward 6,Governor,,L,Halldorson,23
+Strafford,Rochester Ward 6,Governor,,,Scatter,1
+Strafford,Rollinsford,Governor,,R,Sununu,723
+Strafford,Rollinsford,Governor,,D,Sherman,633
+Strafford,Rollinsford,Governor,,L,Borysenko,7
+Strafford,Rollinsford,Governor,,L,Halldorson,15
+Strafford,Rollinsford,Governor,,,Scatter,2
+Strafford,Somersworth Ward 1,Governor,,R,Sununu,614
+Strafford,Somersworth Ward 1,Governor,,D,Sherman,528
+Strafford,Somersworth Ward 1,Governor,,L,Borysenko,5
+Strafford,Somersworth Ward 1,Governor,,L,Halldorson,11
+Strafford,Somersworth Ward 1,Governor,,,Scatter,0
+Strafford,Somersworth Ward 2,Governor,,R,Sununu,502
+Strafford,Somersworth Ward 2,Governor,,D,Sherman,360
+Strafford,Somersworth Ward 2,Governor,,L,Borysenko,5
+Strafford,Somersworth Ward 2,Governor,,L,Halldorson,4
+Strafford,Somersworth Ward 2,Governor,,,Scatter,0
+Strafford,Somersworth Ward 3,Governor,,R,Sununu,452
+Strafford,Somersworth Ward 3,Governor,,D,Sherman,379
+Strafford,Somersworth Ward 3,Governor,,L,Borysenko,7
+Strafford,Somersworth Ward 3,Governor,,L,Halldorson,9
+Strafford,Somersworth Ward 3,Governor,,,Scatter,0
+Strafford,Somersworth Ward 4,Governor,,R,Sununu,528
+Strafford,Somersworth Ward 4,Governor,,D,Sherman,537
+Strafford,Somersworth Ward 4,Governor,,L,Borysenko,3
+Strafford,Somersworth Ward 4,Governor,,L,Halldorson,9
+Strafford,Somersworth Ward 4,Governor,,,Scatter,0
+Strafford,Somersworth Ward 5,Governor,,R,Sununu,284
+Strafford,Somersworth Ward 5,Governor,,D,Sherman,332
+Strafford,Somersworth Ward 5,Governor,,L,Borysenko,0
+Strafford,Somersworth Ward 5,Governor,,L,Halldorson,8
+Strafford,Somersworth Ward 5,Governor,,,Scatter,0
+Strafford,Strafford,Governor,,R,Sununu,1395
+Strafford,Strafford,Governor,,D,Sherman,862
+Strafford,Strafford,Governor,,L,Borysenko,9
+Strafford,Strafford,Governor,,L,Halldorson,24
+Strafford,Strafford,Governor,,,Scatter,21
+Sullivan,Acworth,Governor,,R,Sununu,254
+Sullivan,Acworth,Governor,,D,Sherman,211
+Sullivan,Acworth,Governor,,L,Borysenko,5
+Sullivan,Acworth,Governor,,L,Halldorson,2
+Sullivan,Acworth,Governor,,,Scatter,5
+Sullivan,Charlestown,Governor,,R,Sununu,1143
+Sullivan,Charlestown,Governor,,D,Sherman,669
+Sullivan,Charlestown,Governor,,L,Borysenko,7
+Sullivan,Charlestown,Governor,,L,Halldorson,16
+Sullivan,Charlestown,Governor,,,Scatter,2
+Sullivan,Claremont Ward 1,Governor,,R,Sununu,638
+Sullivan,Claremont Ward 1,Governor,,D,Sherman,502
+Sullivan,Claremont Ward 1,Governor,,L,Borysenko,5
+Sullivan,Claremont Ward 1,Governor,,L,Halldorson,15
+Sullivan,Claremont Ward 1,Governor,,,Scatter,0
+Sullivan,Claremont Ward 2,Governor,,R,Sununu,971
+Sullivan,Claremont Ward 2,Governor,,D,Sherman,700
+Sullivan,Claremont Ward 2,Governor,,L,Borysenko,12
+Sullivan,Claremont Ward 2,Governor,,L,Halldorson,15
+Sullivan,Claremont Ward 2,Governor,,,Scatter,0
+Sullivan,Claremont Ward 3,Governor,,R,Sununu,871
+Sullivan,Claremont Ward 3,Governor,,D,Sherman,537
+Sullivan,Claremont Ward 3,Governor,,L,Borysenko,5
+Sullivan,Claremont Ward 3,Governor,,L,Halldorson,22
+Sullivan,Claremont Ward 3,Governor,,,Scatter,0
+Sullivan,Cornish,Governor,,R,Sununu,473
+Sullivan,Cornish,Governor,,D,Sherman,467
+Sullivan,Cornish,Governor,,L,Borysenko,4
+Sullivan,Cornish,Governor,,L,Halldorson,3
+Sullivan,Cornish,Governor,,,Scatter,1
+Sullivan,Croydon,Governor,,R,Sununu,315
+Sullivan,Croydon,Governor,,D,Sherman,111
+Sullivan,Croydon,Governor,,L,Borysenko,1
+Sullivan,Croydon,Governor,,L,Halldorson,5
+Sullivan,Croydon,Governor,,,Scatter,2
+Sullivan,Goshen,Governor,,R,Sununu,277
+Sullivan,Goshen,Governor,,D,Sherman,91
+Sullivan,Goshen,Governor,,L,Borysenko,2
+Sullivan,Goshen,Governor,,L,Halldorson,1
+Sullivan,Goshen,Governor,,,Scatter,3
+Sullivan,Grantham,Governor,,R,Sununu,883
+Sullivan,Grantham,Governor,,D,Sherman,1187
+Sullivan,Grantham,Governor,,L,Borysenko,1
+Sullivan,Grantham,Governor,,L,Halldorson,11
+Sullivan,Grantham,Governor,,,Scatter,1
+Sullivan,Langdon,Governor,,R,Sununu,194
+Sullivan,Langdon,Governor,,D,Sherman,130
+Sullivan,Langdon,Governor,,L,Borysenko,1
+Sullivan,Langdon,Governor,,L,Halldorson,1
+Sullivan,Langdon,Governor,,,Scatter,1
+Sullivan,Lempster,Governor,,R,Sununu,387
+Sullivan,Lempster,Governor,,D,Sherman,174
+Sullivan,Lempster,Governor,,L,Borysenko,1
+Sullivan,Lempster,Governor,,L,Halldorson,4
+Sullivan,Lempster,Governor,,,Scatter,1
+Sullivan,Newport,Governor,,R,Sununu,1541
+Sullivan,Newport,Governor,,D,Sherman,735
+Sullivan,Newport,Governor,,L,Borysenko,14
+Sullivan,Newport,Governor,,L,Halldorson,26
+Sullivan,Newport,Governor,,,Scatter,7
+Sullivan,Plainfield,Governor,,R,Sununu,586
+Sullivan,Plainfield,Governor,,D,Sherman,773
+Sullivan,Plainfield,Governor,,L,Borysenko,3
+Sullivan,Plainfield,Governor,,L,Halldorson,10
+Sullivan,Plainfield,Governor,,,Scatter,1
+Sullivan,Springfield,Governor,,R,Sununu,458
+Sullivan,Springfield,Governor,,D,Sherman,285
+Sullivan,Springfield,Governor,,L,Borysenko,0
+Sullivan,Springfield,Governor,,L,Halldorson,9
+Sullivan,Springfield,Governor,,,Scatter,0
+Sullivan,Sunapee,Governor,,R,Sununu,1256
+Sullivan,Sunapee,Governor,,D,Sherman,759
+Sullivan,Sunapee,Governor,,L,Borysenko,6
+Sullivan,Sunapee,Governor,,L,Halldorson,9
+Sullivan,Sunapee,Governor,,,Scatter,4
+Sullivan,Unity,Governor,,R,Sununu,464
+Sullivan,Unity,Governor,,D,Sherman,178
+Sullivan,Unity,Governor,,L,Borysenko,1
+Sullivan,Unity,Governor,,L,Halldorson,5
+Sullivan,Unity,Governor,,,Scatter,1
+Sullivan,Washington,Governor,,R,Sununu,448
+Sullivan,Washington,Governor,,D,Sherman,193
+Sullivan,Washington,Governor,,L,Borysenko,3
+Sullivan,Washington,Governor,,L,Halldorson,5
+Sullivan,Washington,Governor,,,Scatter,0

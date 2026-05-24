@@ -1,0 +1,1279 @@
+county,precinct,office,district,party,candidate,votes
+Belknap,Alton,US Senate,,R,Bolduc,1938
+Belknap,Alton,US Senate,,D,Hassan,1198
+Belknap,Alton,US Senate,,L,Kauffman,48
+Belknap,Alton,US Senate,,,Scatter,0
+Belknap,Barnstead,US Senate,,R,Bolduc,1358
+Belknap,Barnstead,US Senate,,D,Hassan,866
+Belknap,Barnstead,US Senate,,L,Kauffman,45
+Belknap,Barnstead,US Senate,,,Scatter,2
+Belknap,Belmont,US Senate,,R,Bolduc,1839
+Belknap,Belmont,US Senate,,D,Hassan,1259
+Belknap,Belmont,US Senate,,L,Kauffman,63
+Belknap,Belmont,US Senate,,,Scatter,1
+Belknap,Center Harbor,US Senate,,R,Bolduc,341
+Belknap,Center Harbor,US Senate,,D,Hassan,320
+Belknap,Center Harbor,US Senate,,L,Kauffman,11
+Belknap,Center Harbor,US Senate,,,Scatter,0
+Belknap,Gilford,US Senate,,R,Bolduc,2163
+Belknap,Gilford,US Senate,,D,Hassan,1981
+Belknap,Gilford,US Senate,,L,Kauffman,62
+Belknap,Gilford,US Senate,,,Scatter,5
+Belknap,Gilmanton,US Senate,,R,Bolduc,1153
+Belknap,Gilmanton,US Senate,,D,Hassan,850
+Belknap,Gilmanton,US Senate,,L,Kauffman,39
+Belknap,Gilmanton,US Senate,,,Scatter,0
+Belknap,Laconia Ward 1,US Senate,,R,Bolduc,861
+Belknap,Laconia Ward 1,US Senate,,D,Hassan,740
+Belknap,Laconia Ward 1,US Senate,,L,Kauffman,23
+Belknap,Laconia Ward 1,US Senate,,,Scatter,2
+Belknap,Laconia Ward 2,US Senate,,R,Bolduc,471
+Belknap,Laconia Ward 2,US Senate,,D,Hassan,503
+Belknap,Laconia Ward 2,US Senate,,L,Kauffman,17
+Belknap,Laconia Ward 2,US Senate,,,Scatter,3
+Belknap,Laconia Ward 3,US Senate,,R,Bolduc,480
+Belknap,Laconia Ward 3,US Senate,,D,Hassan,666
+Belknap,Laconia Ward 3,US Senate,,L,Kauffman,22
+Belknap,Laconia Ward 3,US Senate,,,Scatter,1
+Belknap,Laconia Ward 4,US Senate,,R,Bolduc,454
+Belknap,Laconia Ward 4,US Senate,,D,Hassan,433
+Belknap,Laconia Ward 4,US Senate,,L,Kauffman,29
+Belknap,Laconia Ward 4,US Senate,,,Scatter,0
+Belknap,Laconia Ward 5,US Senate,,R,Bolduc,461
+Belknap,Laconia Ward 5,US Senate,,D,Hassan,391
+Belknap,Laconia Ward 5,US Senate,,L,Kauffman,15
+Belknap,Laconia Ward 5,US Senate,,,Scatter,0
+Belknap,Laconia Ward 6,US Senate,,R,Bolduc,868
+Belknap,Laconia Ward 6,US Senate,,D,Hassan,579
+Belknap,Laconia Ward 6,US Senate,,L,Kauffman,19
+Belknap,Laconia Ward 6,US Senate,,,Scatter,0
+Belknap,Meredith,US Senate,,R,Bolduc,1812
+Belknap,Meredith,US Senate,,D,Hassan,1777
+Belknap,Meredith,US Senate,,L,Kauffman,58
+Belknap,Meredith,US Senate,,,Scatter,0
+Belknap,New Hampton,US Senate,,R,Bolduc,691
+Belknap,New Hampton,US Senate,,D,Hassan,604
+Belknap,New Hampton,US Senate,,L,Kauffman,18
+Belknap,New Hampton,US Senate,,,Scatter,1
+Belknap,Sanbornton,US Senate,,R,Bolduc,933
+Belknap,Sanbornton,US Senate,,D,Hassan,764
+Belknap,Sanbornton,US Senate,,L,Kauffman,26
+Belknap,Sanbornton,US Senate,,,Scatter,0
+Belknap,Tilton,US Senate,,R,Bolduc,768
+Belknap,Tilton,US Senate,,D,Hassan,738
+Belknap,Tilton,US Senate,,L,Kauffman,26
+Belknap,Tilton,US Senate,,,Scatter,1
+Carroll,Albany,US Senate,,R,Bolduc,140
+Carroll,Albany,US Senate,,D,Hassan,208
+Carroll,Albany,US Senate,,L,Kauffman,5
+Carroll,Albany,US Senate,,,Scatter,0
+Carroll,Bartlett,US Senate,,R,Bolduc,628
+Carroll,Bartlett,US Senate,,D,Hassan,1153
+Carroll,Bartlett,US Senate,,L,Kauffman,26
+Carroll,Bartlett,US Senate,,,Scatter,0
+Carroll,Brookfield,US Senate,,R,Bolduc,271
+Carroll,Brookfield,US Senate,,D,Hassan,204
+Carroll,Brookfield,US Senate,,L,Kauffman,8
+Carroll,Brookfield,US Senate,,,Scatter,0
+Carroll,Chatham,US Senate,,R,Bolduc,96
+Carroll,Chatham,US Senate,,D,Hassan,91
+Carroll,Chatham,US Senate,,L,Kauffman,3
+Carroll,Chatham,US Senate,,,Scatter,0
+Carroll,Conway,US Senate,,R,Bolduc,1705
+Carroll,Conway,US Senate,,D,Hassan,2601
+Carroll,Conway,US Senate,,L,Kauffman,61
+Carroll,Conway,US Senate,,,Scatter,3
+Carroll,Eaton,US Senate,,R,Bolduc,100
+Carroll,Eaton,US Senate,,D,Hassan,167
+Carroll,Eaton,US Senate,,L,Kauffman,3
+Carroll,Eaton,US Senate,,,Scatter,0
+Carroll,Effingham,US Senate,,R,Bolduc,422
+Carroll,Effingham,US Senate,,D,Hassan,298
+Carroll,Effingham,US Senate,,L,Kauffman,16
+Carroll,Effingham,US Senate,,,Scatter,1
+Carroll,Freedom,US Senate,,R,Bolduc,487
+Carroll,Freedom,US Senate,,D,Hassan,450
+Carroll,Freedom,US Senate,,L,Kauffman,12
+Carroll,Freedom,US Senate,,,Scatter,0
+Carroll,Hale's Location,US Senate,,R,Bolduc,25
+Carroll,Hale's Location,US Senate,,D,Hassan,45
+Carroll,Hale's Location,US Senate,,L,Kauffman,1
+Carroll,Hale's Location,US Senate,,,Scatter,0
+Carroll,Hart's Location,US Senate,,R,Bolduc,17
+Carroll,Hart's Location,US Senate,,D,Hassan,20
+Carroll,Hart's Location,US Senate,,L,Kauffman,1
+Carroll,Hart's Location,US Senate,,,Scatter,0
+Carroll,Jackson,US Senate,,R,Bolduc,200
+Carroll,Jackson,US Senate,,D,Hassan,498
+Carroll,Jackson,US Senate,,L,Kauffman,9
+Carroll,Jackson,US Senate,,,Scatter,0
+Carroll,Madison,US Senate,,R,Bolduc,596
+Carroll,Madison,US Senate,,D,Hassan,786
+Carroll,Madison,US Senate,,L,Kauffman,20
+Carroll,Madison,US Senate,,,Scatter,0
+Carroll,Moultonborough,US Senate,,R,Bolduc,1756
+Carroll,Moultonborough,US Senate,,D,Hassan,1394
+Carroll,Moultonborough,US Senate,,L,Kauffman,30
+Carroll,Moultonborough,US Senate,,,Scatter,1
+Carroll,Ossipee,US Senate,,R,Bolduc,1163
+Carroll,Ossipee,US Senate,,D,Hassan,791
+Carroll,Ossipee,US Senate,,L,Kauffman,43
+Carroll,Ossipee,US Senate,,,Scatter,0
+Carroll,Sandwich,US Senate,,R,Bolduc,354
+Carroll,Sandwich,US Senate,,D,Hassan,660
+Carroll,Sandwich,US Senate,,L,Kauffman,12
+Carroll,Sandwich,US Senate,,,Scatter,0
+Carroll,Tamworth,US Senate,,R,Bolduc,649
+Carroll,Tamworth,US Senate,,D,Hassan,735
+Carroll,Tamworth,US Senate,,L,Kauffman,36
+Carroll,Tamworth,US Senate,,,Scatter,0
+Carroll,Tuftonboro,US Senate,,R,Bolduc,850
+Carroll,Tuftonboro,US Senate,,D,Hassan,720
+Carroll,Tuftonboro,US Senate,,L,Kauffman,15
+Carroll,Tuftonboro,US Senate,,,Scatter,0
+Carroll,Wakefield,US Senate,,R,Bolduc,1600
+Carroll,Wakefield,US Senate,,D,Hassan,962
+Carroll,Wakefield,US Senate,,L,Kauffman,48
+Carroll,Wakefield,US Senate,,,Scatter,0
+Carroll,Wolfeboro,US Senate,,R,Bolduc,1955
+Carroll,Wolfeboro,US Senate,,D,Hassan,1925
+Carroll,Wolfeboro,US Senate,,L,Kauffman,53
+Carroll,Wolfeboro,US Senate,,,Scatter,8
+Cheshire,Alstead,US Senate,,R,Bolduc,358
+Cheshire,Alstead,US Senate,,D,Hassan,554
+Cheshire,Alstead,US Senate,,L,Kauffman,20
+Cheshire,Alstead,US Senate,,,Scatter,4
+Cheshire,Chesterfield,US Senate,,R,Bolduc,820
+Cheshire,Chesterfield,US Senate,,D,Hassan,1119
+Cheshire,Chesterfield,US Senate,,L,Kauffman,22
+Cheshire,Chesterfield,US Senate,,,Scatter,0
+Cheshire,Dublin,US Senate,,R,Bolduc,347
+Cheshire,Dublin,US Senate,,D,Hassan,577
+Cheshire,Dublin,US Senate,,L,Kauffman,11
+Cheshire,Dublin,US Senate,,,Scatter,1
+Cheshire,Fitzwilliam,US Senate,,R,Bolduc,551
+Cheshire,Fitzwilliam,US Senate,,D,Hassan,536
+Cheshire,Fitzwilliam,US Senate,,L,Kauffman,35
+Cheshire,Fitzwilliam,US Senate,,,Scatter,3
+Cheshire,Gilsum,US Senate,,R,Bolduc,189
+Cheshire,Gilsum,US Senate,,D,Hassan,203
+Cheshire,Gilsum,US Senate,,L,Kauffman,9
+Cheshire,Gilsum,US Senate,,,Scatter,0
+Cheshire,Harrisville,US Senate,,R,Bolduc,160
+Cheshire,Harrisville,US Senate,,D,Hassan,474
+Cheshire,Harrisville,US Senate,,L,Kauffman,10
+Cheshire,Harrisville,US Senate,,,Scatter,0
+Cheshire,Hinsdale,US Senate,,R,Bolduc,544
+Cheshire,Hinsdale,US Senate,,D,Hassan,714
+Cheshire,Hinsdale,US Senate,,L,Kauffman,37
+Cheshire,Hinsdale,US Senate,,,Scatter,0
+Cheshire,Jaffrey,US Senate,,R,Bolduc,1049
+Cheshire,Jaffrey,US Senate,,D,Hassan,1286
+Cheshire,Jaffrey,US Senate,,L,Kauffman,55
+Cheshire,Jaffrey,US Senate,,,Scatter,3
+Cheshire,Keene Ward 1,US Senate,,R,Bolduc,303
+Cheshire,Keene Ward 1,US Senate,,D,Hassan,1149
+Cheshire,Keene Ward 1,US Senate,,L,Kauffman,22
+Cheshire,Keene Ward 1,US Senate,,,Scatter,2
+Cheshire,Keene Ward 2,US Senate,,R,Bolduc,474
+Cheshire,Keene Ward 2,US Senate,,D,Hassan,1444
+Cheshire,Keene Ward 2,US Senate,,L,Kauffman,46
+Cheshire,Keene Ward 2,US Senate,,,Scatter,1
+Cheshire,Keene Ward 3,US Senate,,R,Bolduc,509
+Cheshire,Keene Ward 3,US Senate,,D,Hassan,1348
+Cheshire,Keene Ward 3,US Senate,,L,Kauffman,38
+Cheshire,Keene Ward 3,US Senate,,,Scatter,0
+Cheshire,Keene Ward 4,US Senate,,R,Bolduc,571
+Cheshire,Keene Ward 4,US Senate,,D,Hassan,1350
+Cheshire,Keene Ward 4,US Senate,,L,Kauffman,32
+Cheshire,Keene Ward 4,US Senate,,,Scatter,2
+Cheshire,Keene Ward 5,US Senate,,R,Bolduc,606
+Cheshire,Keene Ward 5,US Senate,,D,Hassan,1580
+Cheshire,Keene Ward 5,US Senate,,L,Kauffman,31
+Cheshire,Keene Ward 5,US Senate,,,Scatter,1
+Cheshire,Marlborough,US Senate,,R,Bolduc,304
+Cheshire,Marlborough,US Senate,,D,Hassan,668
+Cheshire,Marlborough,US Senate,,L,Kauffman,22
+Cheshire,Marlborough,US Senate,,,Scatter,2
+Cheshire,Marlow,US Senate,,R,Bolduc,166
+Cheshire,Marlow,US Senate,,D,Hassan,196
+Cheshire,Marlow,US Senate,,L,Kauffman,8
+Cheshire,Marlow,US Senate,,,Scatter,0
+Cheshire,Nelson,US Senate,,R,Bolduc,126
+Cheshire,Nelson,US Senate,,D,Hassan,229
+Cheshire,Nelson,US Senate,,L,Kauffman,9
+Cheshire,Nelson,US Senate,,,Scatter,0
+Cheshire,Richmond,US Senate,,R,Bolduc,296
+Cheshire,Richmond,US Senate,,D,Hassan,239
+Cheshire,Richmond,US Senate,,L,Kauffman,4
+Cheshire,Richmond,US Senate,,,Scatter,0
+Cheshire,Rindge,US Senate,,R,Bolduc,1659
+Cheshire,Rindge,US Senate,,D,Hassan,1105
+Cheshire,Rindge,US Senate,,L,Kauffman,57
+Cheshire,Rindge,US Senate,,,Scatter,1
+Cheshire,Roxbury,US Senate,,R,Bolduc,32
+Cheshire,Roxbury,US Senate,,D,Hassan,72
+Cheshire,Roxbury,US Senate,,L,Kauffman,2
+Cheshire,Roxbury,US Senate,,,Scatter,0
+Cheshire,Stoddard,US Senate,,R,Bolduc,349
+Cheshire,Stoddard,US Senate,,D,Hassan,340
+Cheshire,Stoddard,US Senate,,L,Kauffman,16
+Cheshire,Stoddard,US Senate,,,Scatter,0
+Cheshire,Sullivan,US Senate,,R,Bolduc,142
+Cheshire,Sullivan,US Senate,,D,Hassan,170
+Cheshire,Sullivan,US Senate,,L,Kauffman,10
+Cheshire,Sullivan,US Senate,,,Scatter,0
+Cheshire,Surry,US Senate,,R,Bolduc,185
+Cheshire,Surry,US Senate,,D,Hassan,252
+Cheshire,Surry,US Senate,,L,Kauffman,8
+Cheshire,Surry,US Senate,,,Scatter,0
+Cheshire,Swanzey,US Senate,,R,Bolduc,1378
+Cheshire,Swanzey,US Senate,,D,Hassan,1627
+Cheshire,Swanzey,US Senate,,L,Kauffman,49
+Cheshire,Swanzey,US Senate,,,Scatter,1
+Cheshire,Troy,US Senate,,R,Bolduc,429
+Cheshire,Troy,US Senate,,D,Hassan,363
+Cheshire,Troy,US Senate,,L,Kauffman,25
+Cheshire,Troy,US Senate,,,Scatter,0
+Cheshire,Walpole,US Senate,,R,Bolduc,649
+Cheshire,Walpole,US Senate,,D,Hassan,1205
+Cheshire,Walpole,US Senate,,L,Kauffman,25
+Cheshire,Walpole,US Senate,,,Scatter,0
+Cheshire,Westmoreland,US Senate,,R,Bolduc,355
+Cheshire,Westmoreland,US Senate,,D,Hassan,547
+Cheshire,Westmoreland,US Senate,,L,Kauffman,17
+Cheshire,Westmoreland,US Senate,,,Scatter,0
+Cheshire,Winchester,US Senate,,R,Bolduc,690
+Cheshire,Winchester,US Senate,,D,Hassan,736
+Cheshire,Winchester,US Senate,,L,Kauffman,42
+Cheshire,Winchester,US Senate,,,Scatter,1
+Coos,At. & Gil. Academy Grant,US Senate,,R,Bolduc,0
+Coos,At. & Gil. Academy Grant,US Senate,,D,Hassan,0
+Coos,At. & Gil. Academy Grant,US Senate,,L,Kauffman,0
+Coos,At. & Gil. Academy Grant,US Senate,,,Scatter,0
+Coos,Bean's Grant,US Senate,,R,Bolduc,0
+Coos,Bean's Grant,US Senate,,D,Hassan,0
+Coos,Bean's Grant,US Senate,,L,Kauffman,0
+Coos,Bean's Grant,US Senate,,,Scatter,0
+Coos,Bean's Purchase,US Senate,,R,Bolduc,0
+Coos,Bean's Purchase,US Senate,,D,Hassan,0
+Coos,Bean's Purchase,US Senate,,L,Kauffman,0
+Coos,Bean's Purchase,US Senate,,,Scatter,0
+Coos,Berlin,US Senate,,R,Bolduc,1328
+Coos,Berlin,US Senate,,D,Hassan,1589
+Coos,Berlin,US Senate,,L,Kauffman,83
+Coos,Berlin,US Senate,,,Scatter,0
+Coos,Cambridge,US Senate,,R,Bolduc,2
+Coos,Cambridge,US Senate,,D,Hassan,1
+Coos,Cambridge,US Senate,,L,Kauffman,0
+Coos,Cambridge,US Senate,,,Scatter,0
+Coos,Carroll,US Senate,,R,Bolduc,200
+Coos,Carroll,US Senate,,D,Hassan,217
+Coos,Carroll,US Senate,,L,Kauffman,10
+Coos,Carroll,US Senate,,,Scatter,0
+Coos,Chandler's Purchase,US Senate,,R,Bolduc,0
+Coos,Chandler's Purchase,US Senate,,D,Hassan,0
+Coos,Chandler's Purchase,US Senate,,L,Kauffman,0
+Coos,Chandler's Purchase,US Senate,,,Scatter,0
+Coos,Clarksville,US Senate,,R,Bolduc,89
+Coos,Clarksville,US Senate,,D,Hassan,62
+Coos,Clarksville,US Senate,,L,Kauffman,6
+Coos,Clarksville,US Senate,,,Scatter,1
+Coos,Colebrook,US Senate,,R,Bolduc,515
+Coos,Colebrook,US Senate,,D,Hassan,341
+Coos,Colebrook,US Senate,,L,Kauffman,26
+Coos,Colebrook,US Senate,,,Scatter,1
+Coos,Columbia,US Senate,,R,Bolduc,193
+Coos,Columbia,US Senate,,D,Hassan,106
+Coos,Columbia,US Senate,,L,Kauffman,4
+Coos,Columbia,US Senate,,,Scatter,0
+Coos,Crawford's Purchase,US Senate,,R,Bolduc,0
+Coos,Crawford's Purchase,US Senate,,D,Hassan,0
+Coos,Crawford's Purchase,US Senate,,L,Kauffman,0
+Coos,Crawford's Purchase,US Senate,,,Scatter,0
+Coos,Cutt's Grant,US Senate,,R,Bolduc,0
+Coos,Cutt's Grant,US Senate,,D,Hassan,0
+Coos,Cutt's Grant,US Senate,,L,Kauffman,0
+Coos,Cutt's Grant,US Senate,,,Scatter,0
+Coos,Dalton,US Senate,,R,Bolduc,233
+Coos,Dalton,US Senate,,D,Hassan,215
+Coos,Dalton,US Senate,,L,Kauffman,10
+Coos,Dalton,US Senate,,,Scatter,0
+Coos,Dix's Grant,US Senate,,R,Bolduc,0
+Coos,Dix's Grant,US Senate,,D,Hassan,0
+Coos,Dix's Grant,US Senate,,L,Kauffman,0
+Coos,Dix's Grant,US Senate,,,Scatter,0
+Coos,Dixville,US Senate,,R,Bolduc,0
+Coos,Dixville,US Senate,,D,Hassan,5
+Coos,Dixville,US Senate,,L,Kauffman,0
+Coos,Dixville,US Senate,,,Scatter,0
+Coos,Dummer,US Senate,,R,Bolduc,80
+Coos,Dummer,US Senate,,D,Hassan,50
+Coos,Dummer,US Senate,,L,Kauffman,3
+Coos,Dummer,US Senate,,,Scatter,0
+Coos,Errol,US Senate,,R,Bolduc,116
+Coos,Errol,US Senate,,D,Hassan,63
+Coos,Errol,US Senate,,L,Kauffman,2
+Coos,Errol,US Senate,,,Scatter,0
+Coos,Erving's Location,US Senate,,R,Bolduc,0
+Coos,Erving's Location,US Senate,,D,Hassan,0
+Coos,Erving's Location,US Senate,,L,Kauffman,0
+Coos,Erving's Location,US Senate,,,Scatter,0
+Coos,Gorham,US Senate,,R,Bolduc,532
+Coos,Gorham,US Senate,,D,Hassan,733
+Coos,Gorham,US Senate,,L,Kauffman,21
+Coos,Gorham,US Senate,,,Scatter,2
+Coos,Green's Grant,US Senate,,R,Bolduc,0
+Coos,Green's Grant,US Senate,,D,Hassan,1
+Coos,Green's Grant,US Senate,,L,Kauffman,0
+Coos,Green's Grant,US Senate,,,Scatter,0
+Coos,Hadley's Purchase,US Senate,,R,Bolduc,0
+Coos,Hadley's Purchase,US Senate,,D,Hassan,0
+Coos,Hadley's Purchase,US Senate,,L,Kauffman,0
+Coos,Hadley's Purchase,US Senate,,,Scatter,0
+Coos,Jefferson,US Senate,,R,Bolduc,328
+Coos,Jefferson,US Senate,,D,Hassan,201
+Coos,Jefferson,US Senate,,L,Kauffman,10
+Coos,Jefferson,US Senate,,,Scatter,0
+Coos,Kilkenny,US Senate,,R,Bolduc,0
+Coos,Kilkenny,US Senate,,D,Hassan,0
+Coos,Kilkenny,US Senate,,L,Kauffman,0
+Coos,Kilkenny,US Senate,,,Scatter,0
+Coos,Lancaster,US Senate,,R,Bolduc,616
+Coos,Lancaster,US Senate,,D,Hassan,608
+Coos,Lancaster,US Senate,,L,Kauffman,63
+Coos,Lancaster,US Senate,,,Scatter,0
+Coos,Low & Burbank's Grant,US Senate,,R,Bolduc,0
+Coos,Low & Burbank's Grant,US Senate,,D,Hassan,0
+Coos,Low & Burbank's Grant,US Senate,,L,Kauffman,0
+Coos,Low & Burbank's Grant,US Senate,,,Scatter,0
+Coos,Martin's Location,US Senate,,R,Bolduc,0
+Coos,Martin's Location,US Senate,,D,Hassan,0
+Coos,Martin's Location,US Senate,,L,Kauffman,0
+Coos,Martin's Location,US Senate,,,Scatter,0
+Coos,Milan,US Senate,,R,Bolduc,322
+Coos,Milan,US Senate,,D,Hassan,276
+Coos,Milan,US Senate,,L,Kauffman,16
+Coos,Milan,US Senate,,,Scatter,1
+Coos,Millsfield,US Senate,,R,Bolduc,14
+Coos,Millsfield,US Senate,,D,Hassan,4
+Coos,Millsfield,US Senate,,L,Kauffman,0
+Coos,Millsfield,US Senate,,,Scatter,0
+Coos,Northumberland,US Senate,,R,Bolduc,416
+Coos,Northumberland,US Senate,,D,Hassan,318
+Coos,Northumberland,US Senate,,L,Kauffman,18
+Coos,Northumberland,US Senate,,,Scatter,2
+Coos,Odell,US Senate,,R,Bolduc,0
+Coos,Odell,US Senate,,D,Hassan,0
+Coos,Odell,US Senate,,L,Kauffman,0
+Coos,Odell,US Senate,,,Scatter,0
+Coos,Pinkham's Grant,US Senate,,R,Bolduc,0
+Coos,Pinkham's Grant,US Senate,,D,Hassan,1
+Coos,Pinkham's Grant,US Senate,,L,Kauffman,0
+Coos,Pinkham's Grant,US Senate,,,Scatter,0
+Coos,Pittsburg,US Senate,,R,Bolduc,317
+Coos,Pittsburg,US Senate,,D,Hassan,146
+Coos,Pittsburg,US Senate,,L,Kauffman,7
+Coos,Pittsburg,US Senate,,,Scatter,0
+Coos,Randolph,US Senate,,R,Bolduc,67
+Coos,Randolph,US Senate,,D,Hassan,170
+Coos,Randolph,US Senate,,L,Kauffman,4
+Coos,Randolph,US Senate,,,Scatter,0
+Coos,Sargent's Purchase,US Senate,,R,Bolduc,0
+Coos,Sargent's Purchase,US Senate,,D,Hassan,0
+Coos,Sargent's Purchase,US Senate,,L,Kauffman,0
+Coos,Sargent's Purchase,US Senate,,,Scatter,0
+Coos,Second College Grant,US Senate,,R,Bolduc,0
+Coos,Second College Grant,US Senate,,D,Hassan,0
+Coos,Second College Grant,US Senate,,L,Kauffman,0
+Coos,Second College Grant,US Senate,,,Scatter,0
+Coos,Shelburne,US Senate,,R,Bolduc,115
+Coos,Shelburne,US Senate,,D,Hassan,107
+Coos,Shelburne,US Senate,,L,Kauffman,3
+Coos,Shelburne,US Senate,,,Scatter,0
+Coos,Stark,US Senate,,R,Bolduc,161
+Coos,Stark,US Senate,,D,Hassan,86
+Coos,Stark,US Senate,,L,Kauffman,5
+Coos,Stark,US Senate,,,Scatter,0
+Coos,Stewartstown,US Senate,,R,Bolduc,212
+Coos,Stewartstown,US Senate,,D,Hassan,83
+Coos,Stewartstown,US Senate,,L,Kauffman,6
+Coos,Stewartstown,US Senate,,,Scatter,0
+Coos,Stratford,US Senate,,R,Bolduc,119
+Coos,Stratford,US Senate,,D,Hassan,124
+Coos,Stratford,US Senate,,L,Kauffman,8
+Coos,Stratford,US Senate,,,Scatter,0
+Coos,Success,US Senate,,R,Bolduc,0
+Coos,Success,US Senate,,D,Hassan,0
+Coos,Success,US Senate,,L,Kauffman,0
+Coos,Success,US Senate,,,Scatter,0
+Coos,Thompson & Meserve's Pur.,US Senate,,R,Bolduc,0
+Coos,Thompson & Meserve's Pur.,US Senate,,D,Hassan,0
+Coos,Thompson & Meserve's Pur.,US Senate,,L,Kauffman,0
+Coos,Thompson & Meserve's Pur.,US Senate,,,Scatter,0
+Coos,Wentworth's Location,US Senate,,R,Bolduc,12
+Coos,Wentworth's Location,US Senate,,D,Hassan,6
+Coos,Wentworth's Location,US Senate,,L,Kauffman,1
+Coos,Wentworth's Location,US Senate,,,Scatter,0
+Coos,Whitefield,US Senate,,R,Bolduc,504
+Coos,Whitefield,US Senate,,D,Hassan,546
+Coos,Whitefield,US Senate,,L,Kauffman,39
+Coos,Whitefield,US Senate,,,Scatter,1
+Grafton,Alexandria,US Senate,,R,Bolduc,468
+Grafton,Alexandria,US Senate,,D,Hassan,359
+Grafton,Alexandria,US Senate,,L,Kauffman,23
+Grafton,Alexandria,US Senate,,,Scatter,2
+Grafton,Ashland,US Senate,,R,Bolduc,433
+Grafton,Ashland,US Senate,,D,Hassan,513
+Grafton,Ashland,US Senate,,L,Kauffman,0
+Grafton,Ashland,US Senate,,,Scatter,3
+Grafton,Bath,US Senate,,R,Bolduc,267
+Grafton,Bath,US Senate,,D,Hassan,225
+Grafton,Bath,US Senate,,L,Kauffman,17
+Grafton,Bath,US Senate,,,Scatter,0
+Grafton,Benton,US Senate,,R,Bolduc,115
+Grafton,Benton,US Senate,,D,Hassan,69
+Grafton,Benton,US Senate,,L,Kauffman,4
+Grafton,Benton,US Senate,,,Scatter,0
+Grafton,Bethlehem,US Senate,,R,Bolduc,464
+Grafton,Bethlehem,US Senate,,D,Hassan,856
+Grafton,Bethlehem,US Senate,,L,Kauffman,45
+Grafton,Bethlehem,US Senate,,,Scatter,2
+Grafton,Bridgewater,US Senate,,R,Bolduc,394
+Grafton,Bridgewater,US Senate,,D,Hassan,276
+Grafton,Bridgewater,US Senate,,L,Kauffman,14
+Grafton,Bridgewater,US Senate,,,Scatter,1
+Grafton,Bristol,US Senate,,R,Bolduc,748
+Grafton,Bristol,US Senate,,D,Hassan,762
+Grafton,Bristol,US Senate,,L,Kauffman,38
+Grafton,Bristol,US Senate,,,Scatter,2
+Grafton,Campton,US Senate,,R,Bolduc,750
+Grafton,Campton,US Senate,,D,Hassan,921
+Grafton,Campton,US Senate,,L,Kauffman,44
+Grafton,Campton,US Senate,,,Scatter,2
+Grafton,Canaan,US Senate,,R,Bolduc,633
+Grafton,Canaan,US Senate,,D,Hassan,930
+Grafton,Canaan,US Senate,,L,Kauffman,32
+Grafton,Canaan,US Senate,,,Scatter,0
+Grafton,Dorchester,US Senate,,R,Bolduc,92
+Grafton,Dorchester,US Senate,,D,Hassan,83
+Grafton,Dorchester,US Senate,,L,Kauffman,6
+Grafton,Dorchester,US Senate,,,Scatter,2
+Grafton,Easton,US Senate,,R,Bolduc,63
+Grafton,Easton,US Senate,,D,Hassan,145
+Grafton,Easton,US Senate,,L,Kauffman,5
+Grafton,Easton,US Senate,,,Scatter,0
+Grafton,Ellsworth,US Senate,,R,Bolduc,29
+Grafton,Ellsworth,US Senate,,D,Hassan,33
+Grafton,Ellsworth,US Senate,,L,Kauffman,1
+Grafton,Ellsworth,US Senate,,,Scatter,0
+Grafton,Enfield,US Senate,,R,Bolduc,742
+Grafton,Enfield,US Senate,,D,Hassan,1424
+Grafton,Enfield,US Senate,,L,Kauffman,52
+Grafton,Enfield,US Senate,,,Scatter,1
+Grafton,Franconia,US Senate,,R,Bolduc,225
+Grafton,Franconia,US Senate,,D,Hassan,468
+Grafton,Franconia,US Senate,,L,Kauffman,10
+Grafton,Franconia,US Senate,,,Scatter,0
+Grafton,Grafton,US Senate,,R,Bolduc,328
+Grafton,Grafton,US Senate,,D,Hassan,273
+Grafton,Grafton,US Senate,,L,Kauffman,14
+Grafton,Grafton,US Senate,,,Scatter,2
+Grafton,Groton,US Senate,,R,Bolduc,180
+Grafton,Groton,US Senate,,D,Hassan,124
+Grafton,Groton,US Senate,,L,Kauffman,8
+Grafton,Groton,US Senate,,,Scatter,0
+Grafton,Hanover,US Senate,,R,Bolduc,682
+Grafton,Hanover,US Senate,,D,Hassan,4887
+Grafton,Hanover,US Senate,,L,Kauffman,49
+Grafton,Hanover,US Senate,,,Scatter,4
+Grafton,Haverhill,US Senate,,R,Bolduc,911
+Grafton,Haverhill,US Senate,,D,Hassan,745
+Grafton,Haverhill,US Senate,,L,Kauffman,60
+Grafton,Haverhill,US Senate,,,Scatter,0
+Grafton,Hebron,US Senate,,R,Bolduc,228
+Grafton,Hebron,US Senate,,D,Hassan,233
+Grafton,Hebron,US Senate,,L,Kauffman,5
+Grafton,Hebron,US Senate,,,Scatter,0
+Grafton,Holderness,US Senate,,R,Bolduc,462
+Grafton,Holderness,US Senate,,D,Hassan,736
+Grafton,Holderness,US Senate,,L,Kauffman,20
+Grafton,Holderness,US Senate,,,Scatter,2
+Grafton,Landaff,US Senate,,R,Bolduc,119
+Grafton,Landaff,US Senate,,D,Hassan,99
+Grafton,Landaff,US Senate,,L,Kauffman,1
+Grafton,Landaff,US Senate,,,Scatter,0
+Grafton,Lebanon Ward 1,US Senate,,R,Bolduc,436
+Grafton,Lebanon Ward 1,US Senate,,D,Hassan,1573
+Grafton,Lebanon Ward 1,US Senate,,L,Kauffman,23
+Grafton,Lebanon Ward 1,US Senate,,,Scatter,1
+Grafton,Lebanon Ward 2,US Senate,,R,Bolduc,433
+Grafton,Lebanon Ward 2,US Senate,,D,Hassan,1569
+Grafton,Lebanon Ward 2,US Senate,,L,Kauffman,36
+Grafton,Lebanon Ward 2,US Senate,,,Scatter,1
+Grafton,Lebanon Ward 3,US Senate,,R,Bolduc,470
+Grafton,Lebanon Ward 3,US Senate,,D,Hassan,1582
+Grafton,Lebanon Ward 3,US Senate,,L,Kauffman,33
+Grafton,Lebanon Ward 3,US Senate,,,Scatter,2
+Grafton,Lincoln,US Senate,,R,Bolduc,300
+Grafton,Lincoln,US Senate,,D,Hassan,396
+Grafton,Lincoln,US Senate,,L,Kauffman,23
+Grafton,Lincoln,US Senate,,,Scatter,2
+Grafton,Lisbon,US Senate,,R,Bolduc,315
+Grafton,Lisbon,US Senate,,D,Hassan,273
+Grafton,Lisbon,US Senate,,L,Kauffman,20
+Grafton,Lisbon,US Senate,,,Scatter,0
+Grafton,Littleton,US Senate,,R,Bolduc,1154
+Grafton,Littleton,US Senate,,D,Hassan,1257
+Grafton,Littleton,US Senate,,L,Kauffman,78
+Grafton,Littleton,US Senate,,,Scatter,1
+Grafton,Livermore,US Senate,,R,Bolduc,0
+Grafton,Livermore,US Senate,,D,Hassan,0
+Grafton,Livermore,US Senate,,L,Kauffman,0
+Grafton,Livermore,US Senate,,,Scatter,0
+Grafton,Lyman,US Senate,,R,Bolduc,177
+Grafton,Lyman,US Senate,,D,Hassan,140
+Grafton,Lyman,US Senate,,L,Kauffman,9
+Grafton,Lyman,US Senate,,,Scatter,1
+Grafton,Lyme,US Senate,,R,Bolduc,167
+Grafton,Lyme,US Senate,,D,Hassan,894
+Grafton,Lyme,US Senate,,L,Kauffman,7
+Grafton,Monroe,US Senate,,R,Bolduc,229
+Grafton,Monroe,US Senate,,D,Hassan,178
+Grafton,Monroe,US Senate,,L,Kauffman,9
+Grafton,Monroe,US Senate,,,Scatter,0
+Grafton,Orange,US Senate,,R,Bolduc,68
+Grafton,Orange,US Senate,,D,Hassan,76
+Grafton,Orange,US Senate,,L,Kauffman,5
+Grafton,Orange,US Senate,,,Scatter,0
+Grafton,Orford,US Senate,,R,Bolduc,203
+Grafton,Orford,US Senate,,D,Hassan,440
+Grafton,Orford,US Senate,,L,Kauffman,12
+Grafton,Orford,US Senate,,,Scatter,1
+Grafton,Piermont,US Senate,,R,Bolduc,163
+Grafton,Piermont,US Senate,,D,Hassan,187
+Grafton,Piermont,US Senate,,L,Kauffman,12
+Grafton,Piermont,US Senate,,,Scatter,1
+Grafton,Plymouth,US Senate,,R,Bolduc,684
+Grafton,Plymouth,US Senate,,D,Hassan,1565
+Grafton,Plymouth,US Senate,,L,Kauffman,57
+Grafton,Plymouth,US Senate,,,Scatter,5
+Grafton,Rumney,US Senate,,R,Bolduc,447
+Grafton,Rumney,US Senate,,D,Hassan,342
+Grafton,Rumney,US Senate,,L,Kauffman,23
+Grafton,Rumney,US Senate,,,Scatter,1
+Grafton,Sugar Hill,US Senate,,R,Bolduc,128
+Grafton,Sugar Hill,US Senate,,D,Hassan,284
+Grafton,Sugar Hill,US Senate,,L,Kauffman,7
+Grafton,Sugar Hill,US Senate,,,Scatter,0
+Grafton,Thornton,US Senate,,R,Bolduc,619
+Grafton,Thornton,US Senate,,D,Hassan,794
+Grafton,Thornton,US Senate,,L,Kauffman,1
+Grafton,Thornton,US Senate,,,Scatter,0
+Grafton,Warren,US Senate,,R,Bolduc,204
+Grafton,Warren,US Senate,,D,Hassan,151
+Grafton,Warren,US Senate,,L,Kauffman,19
+Grafton,Warren,US Senate,,,Scatter,0
+Grafton,Waterville Valley,US Senate,,R,Bolduc,153
+Grafton,Waterville Valley,US Senate,,D,Hassan,201
+Grafton,Waterville Valley,US Senate,,L,Kauffman,7
+Grafton,Waterville Valley,US Senate,,,Scatter,0
+Grafton,Wentworth,US Senate,,R,Bolduc,282
+Grafton,Wentworth,US Senate,,D,Hassan,204
+Grafton,Wentworth,US Senate,,L,Kauffman,12
+Grafton,Wentworth,US Senate,,,Scatter,1
+Grafton,Woodstock,US Senate,,R,Bolduc,282
+Grafton,Woodstock,US Senate,,D,Hassan,367
+Grafton,Woodstock,US Senate,,L,Kauffman,10
+Grafton,Woodstock,US Senate,,,Scatter,0
+Hillsborough,Amherst,US Senate,,R,Bolduc,2664
+Hillsborough,Amherst,US Senate,,D,Hassan,3912
+Hillsborough,Amherst,US Senate,,L,Kauffman,105
+Hillsborough,Amherst,US Senate,,,Scatter,8
+Hillsborough,Antrim,US Senate,,R,Bolduc,595
+Hillsborough,Antrim,US Senate,,D,Hassan,653
+Hillsborough,Antrim,US Senate,,L,Kauffman,38
+Hillsborough,Antrim,US Senate,,,Scatter,1
+Hillsborough,Bedford,US Senate,,R,Bolduc,5452
+Hillsborough,Bedford,US Senate,,D,Hassan,5896
+Hillsborough,Bedford,US Senate,,L,Kauffman,145
+Hillsborough,Bedford,US Senate,,,Scatter,16
+Hillsborough,Bennington,US Senate,,R,Bolduc,338
+Hillsborough,Bennington,US Senate,,D,Hassan,333
+Hillsborough,Bennington,US Senate,,L,Kauffman,17
+Hillsborough,Bennington,US Senate,,,Scatter,0
+Hillsborough,Brookline,US Senate,,R,Bolduc,1336
+Hillsborough,Brookline,US Senate,,D,Hassan,1514
+Hillsborough,Brookline,US Senate,,L,Kauffman,61
+Hillsborough,Brookline,US Senate,,,Scatter,5
+Hillsborough,Deering,US Senate,,R,Bolduc,538
+Hillsborough,Deering,US Senate,,D,Hassan,366
+Hillsborough,Deering,US Senate,,L,Kauffman,23
+Hillsborough,Deering,US Senate,,,Scatter,0
+Hillsborough,Francestown,US Senate,,R,Bolduc,439
+Hillsborough,Francestown,US Senate,,D,Hassan,517
+Hillsborough,Francestown,US Senate,,L,Kauffman,18
+Hillsborough,Francestown,US Senate,,,Scatter,0
+Hillsborough,Goffstown,US Senate,,R,Bolduc,3687
+Hillsborough,Goffstown,US Senate,,D,Hassan,3869
+Hillsborough,Goffstown,US Senate,,L,Kauffman,152
+Hillsborough,Goffstown,US Senate,,,Scatter,13
+Hillsborough,Greenfield,US Senate,,R,Bolduc,373
+Hillsborough,Greenfield,US Senate,,D,Hassan,427
+Hillsborough,Greenfield,US Senate,,L,Kauffman,25
+Hillsborough,Greenfield,US Senate,,,Scatter,0
+Hillsborough,Greenville,US Senate,,R,Bolduc,381
+Hillsborough,Greenville,US Senate,,D,Hassan,341
+Hillsborough,Greenville,US Senate,,L,Kauffman,17
+Hillsborough,Greenville,US Senate,,,Scatter,0
+Hillsborough,Hancock,US Senate,,R,Bolduc,349
+Hillsborough,Hancock,US Senate,,D,Hassan,770
+Hillsborough,Hancock,US Senate,,L,Kauffman,6
+Hillsborough,Hancock,US Senate,,,Scatter,3
+Hillsborough,Hillsborough,US Senate,,R,Bolduc,1251
+Hillsborough,Hillsborough,US Senate,,D,Hassan,1167
+Hillsborough,Hillsborough,US Senate,,L,Kauffman,67
+Hillsborough,Hillsborough,US Senate,,,Scatter,5
+Hillsborough,Hollis,US Senate,,R,Bolduc,2030
+Hillsborough,Hollis,US Senate,,D,Hassan,2629
+Hillsborough,Hollis,US Senate,,L,Kauffman,78
+Hillsborough,Hollis,US Senate,,,Scatter,5
+Hillsborough,Hudson,US Senate,,R,Bolduc,5418
+Hillsborough,Hudson,US Senate,,D,Hassan,4663
+Hillsborough,Hudson,US Senate,,L,Kauffman,206
+Hillsborough,Hudson,US Senate,,,Scatter,7
+Hillsborough,Litchfield,US Senate,,R,Bolduc,2133
+Hillsborough,Litchfield,US Senate,,D,Hassan,1908
+Hillsborough,Litchfield,US Senate,,L,Kauffman,79
+Hillsborough,Litchfield,US Senate,,,Scatter,6
+Hillsborough,Lyndeborough,US Senate,,R,Bolduc,435
+Hillsborough,Lyndeborough,US Senate,,D,Hassan,472
+Hillsborough,Lyndeborough,US Senate,,L,Kauffman,30
+Hillsborough,Lyndeborough,US Senate,,,Scatter,4
+Hillsborough,Manchester Ward 1,US Senate,,R,Bolduc,1703
+Hillsborough,Manchester Ward 1,US Senate,,D,Hassan,2791
+Hillsborough,Manchester Ward 1,US Senate,,L,Kauffman,50
+Hillsborough,Manchester Ward 1,US Senate,,,Scatter,6
+Hillsborough,Manchester Ward 2,US Senate,,R,Bolduc,1523
+Hillsborough,Manchester Ward 2,US Senate,,D,Hassan,2316
+Hillsborough,Manchester Ward 2,US Senate,,L,Kauffman,68
+Hillsborough,Manchester Ward 2,US Senate,,,Scatter,2
+Hillsborough,Manchester Ward 3,US Senate,,R,Bolduc,730
+Hillsborough,Manchester Ward 3,US Senate,,D,Hassan,1491
+Hillsborough,Manchester Ward 3,US Senate,,L,Kauffman,59
+Hillsborough,Manchester Ward 3,US Senate,,,Scatter,1
+Hillsborough,Manchester Ward 4,US Senate,,R,Bolduc,972
+Hillsborough,Manchester Ward 4,US Senate,,D,Hassan,1411
+Hillsborough,Manchester Ward 4,US Senate,,L,Kauffman,57
+Hillsborough,Manchester Ward 4,US Senate,,,Scatter,1
+Hillsborough,Manchester Ward 5,US Senate,,R,Bolduc,647
+Hillsborough,Manchester Ward 5,US Senate,,D,Hassan,1019
+Hillsborough,Manchester Ward 5,US Senate,,L,Kauffman,68
+Hillsborough,Manchester Ward 5,US Senate,,,Scatter,0
+Hillsborough,Manchester Ward 6,US Senate,,R,Bolduc,1824
+Hillsborough,Manchester Ward 6,US Senate,,D,Hassan,2059
+Hillsborough,Manchester Ward 6,US Senate,,L,Kauffman,75
+Hillsborough,Manchester Ward 6,US Senate,,,Scatter,2
+Hillsborough,Manchester Ward 7,US Senate,,R,Bolduc,1038
+Hillsborough,Manchester Ward 7,US Senate,,D,Hassan,1440
+Hillsborough,Manchester Ward 7,US Senate,,L,Kauffman,73
+Hillsborough,Manchester Ward 7,US Senate,,,Scatter,12
+Hillsborough,Manchester Ward 8,US Senate,,R,Bolduc,1967
+Hillsborough,Manchester Ward 8,US Senate,,D,Hassan,2040
+Hillsborough,Manchester Ward 8,US Senate,,L,Kauffman,84
+Hillsborough,Manchester Ward 8,US Senate,,,Scatter,8
+Hillsborough,Manchester Ward 9,US Senate,,R,Bolduc,1197
+Hillsborough,Manchester Ward 9,US Senate,,D,Hassan,1631
+Hillsborough,Manchester Ward 9,US Senate,,L,Kauffman,70
+Hillsborough,Manchester Ward 9,US Senate,,,Scatter,2
+Hillsborough,Manchester Ward 10,US Senate,,R,Bolduc,1277
+Hillsborough,Manchester Ward 10,US Senate,,D,Hassan,1643
+Hillsborough,Manchester Ward 10,US Senate,,L,Kauffman,87
+Hillsborough,Manchester Ward 10,US Senate,,,Scatter,4
+Hillsborough,Manchester Ward 11,US Senate,,R,Bolduc,921
+Hillsborough,Manchester Ward 11,US Senate,,D,Hassan,1378
+Hillsborough,Manchester Ward 11,US Senate,,L,Kauffman,93
+Hillsborough,Manchester Ward 11,US Senate,,,Scatter,0
+Hillsborough,Manchester Ward 12,US Senate,,R,Bolduc,1362
+Hillsborough,Manchester Ward 12,US Senate,,D,Hassan,1916
+Hillsborough,Manchester Ward 12,US Senate,,L,Kauffman,75
+Hillsborough,Manchester Ward 12,US Senate,,,Scatter,1
+Hillsborough,Mason,US Senate,,R,Bolduc,433
+Hillsborough,Mason,US Senate,,D,Hassan,310
+Hillsborough,Mason,US Senate,,L,Kauffman,29
+Hillsborough,Mason,US Senate,,,Scatter,0
+Hillsborough,Merrimack,US Senate,,R,Bolduc,5852
+Hillsborough,Merrimack,US Senate,,D,Hassan,6745
+Hillsborough,Merrimack,US Senate,,L,Kauffman,203
+Hillsborough,Merrimack,US Senate,,,Scatter,0
+Hillsborough,Milford,US Senate,,R,Bolduc,3025
+Hillsborough,Milford,US Senate,,D,Hassan,3706
+Hillsborough,Milford,US Senate,,L,Kauffman,168
+Hillsborough,Milford,US Senate,,,Scatter,0
+Hillsborough,Mont Vernon,US Senate,,R,Bolduc,636
+Hillsborough,Mont Vernon,US Senate,,D,Hassan,822
+Hillsborough,Mont Vernon,US Senate,,L,Kauffman,31
+Hillsborough,Mont Vernon,US Senate,,,Scatter,0
+Hillsborough,Nashua Ward 1,US Senate,,R,Bolduc,1920
+Hillsborough,Nashua Ward 1,US Senate,,D,Hassan,2756
+Hillsborough,Nashua Ward 1,US Senate,,L,Kauffman,79
+Hillsborough,Nashua Ward 1,US Senate,,,Scatter,3
+Hillsborough,Nashua Ward 2,US Senate,,R,Bolduc,1602
+Hillsborough,Nashua Ward 2,US Senate,,D,Hassan,2516
+Hillsborough,Nashua Ward 2,US Senate,,L,Kauffman,85
+Hillsborough,Nashua Ward 2,US Senate,,,Scatter,3
+Hillsborough,Nashua Ward 3,US Senate,,R,Bolduc,1206
+Hillsborough,Nashua Ward 3,US Senate,,D,Hassan,1939
+Hillsborough,Nashua Ward 3,US Senate,,L,Kauffman,83
+Hillsborough,Nashua Ward 3,US Senate,,,Scatter,3
+Hillsborough,Nashua Ward 4,US Senate,,R,Bolduc,583
+Hillsborough,Nashua Ward 4,US Senate,,D,Hassan,1048
+Hillsborough,Nashua Ward 4,US Senate,,L,Kauffman,53
+Hillsborough,Nashua Ward 4,US Senate,,,Scatter,5
+Hillsborough,Nashua Ward 5,US Senate,,R,Bolduc,2019
+Hillsborough,Nashua Ward 5,US Senate,,D,Hassan,2755
+Hillsborough,Nashua Ward 5,US Senate,,L,Kauffman,94
+Hillsborough,Nashua Ward 5,US Senate,,,Scatter,2
+Hillsborough,Nashua Ward 6,US Senate,,R,Bolduc,1134
+Hillsborough,Nashua Ward 6,US Senate,,D,Hassan,1632
+Hillsborough,Nashua Ward 6,US Senate,,L,Kauffman,93
+Hillsborough,Nashua Ward 6,US Senate,,,Scatter,0
+Hillsborough,Nashua Ward 7,US Senate,,R,Bolduc,1141
+Hillsborough,Nashua Ward 7,US Senate,,D,Hassan,1645
+Hillsborough,Nashua Ward 7,US Senate,,L,Kauffman,74
+Hillsborough,Nashua Ward 7,US Senate,,,Scatter,2
+Hillsborough,Nashua Ward 8,US Senate,,R,Bolduc,1238
+Hillsborough,Nashua Ward 8,US Senate,,D,Hassan,2213
+Hillsborough,Nashua Ward 8,US Senate,,L,Kauffman,66
+Hillsborough,Nashua Ward 8,US Senate,,,Scatter,2
+Hillsborough,Nashua Ward 9,US Senate,,R,Bolduc,1645
+Hillsborough,Nashua Ward 9,US Senate,,D,Hassan,2354
+Hillsborough,Nashua Ward 9,US Senate,,L,Kauffman,98
+Hillsborough,Nashua Ward 9,US Senate,,,Scatter,3
+Hillsborough,New Boston,US Senate,,R,Bolduc,1557
+Hillsborough,New Boston,US Senate,,D,Hassan,1568
+Hillsborough,New Boston,US Senate,,L,Kauffman,52
+Hillsborough,New Boston,US Senate,,,Scatter,0
+Hillsborough,New Ipswich,US Senate,,R,Bolduc,1674
+Hillsborough,New Ipswich,US Senate,,D,Hassan,710
+Hillsborough,New Ipswich,US Senate,,L,Kauffman,49
+Hillsborough,New Ipswich,US Senate,,,Scatter,0
+Hillsborough,Pelham,US Senate,,R,Bolduc,3864
+Hillsborough,Pelham,US Senate,,D,Hassan,2590
+Hillsborough,Pelham,US Senate,,L,Kauffman,188
+Hillsborough,Pelham,US Senate,,,Scatter,6
+Hillsborough,Peterborough,US Senate,,R,Bolduc,957
+Hillsborough,Peterborough,US Senate,,D,Hassan,2512
+Hillsborough,Peterborough,US Senate,,L,Kauffman,55
+Hillsborough,Peterborough,US Senate,,,Scatter,7
+Hillsborough,Sharon,US Senate,,R,Bolduc,101
+Hillsborough,Sharon,US Senate,,D,Hassan,131
+Hillsborough,Sharon,US Senate,,L,Kauffman,4
+Hillsborough,Sharon,US Senate,,,Scatter,0
+Hillsborough,Temple,US Senate,,R,Bolduc,349
+Hillsborough,Temple,US Senate,,D,Hassan,429
+Hillsborough,Temple,US Senate,,L,Kauffman,13
+Hillsborough,Temple,US Senate,,,Scatter,0
+Hillsborough,Weare,US Senate,,R,Bolduc,2437
+Hillsborough,Weare,US Senate,,D,Hassan,1756
+Hillsborough,Weare,US Senate,,L,Kauffman,89
+Hillsborough,Weare,US Senate,,,Scatter,2
+Hillsborough,Wilton,US Senate,,R,Bolduc,835
+Hillsborough,Wilton,US Senate,,D,Hassan,1046
+Hillsborough,Wilton,US Senate,,L,Kauffman,51
+Hillsborough,Wilton,US Senate,,,Scatter,2
+Hillsborough,Windsor,US Senate,,R,Bolduc,74
+Hillsborough,Windsor,US Senate,,D,Hassan,21
+Hillsborough,Windsor,US Senate,,L,Kauffman,3
+Hillsborough,Windsor,US Senate,,,Scatter,0
+Merrimack,Allenstown,US Senate,,R,Bolduc,897
+Merrimack,Allenstown,US Senate,,D,Hassan,810
+Merrimack,Allenstown,US Senate,,L,Kauffman,45
+Merrimack,Allenstown,US Senate,,,Scatter,3
+Merrimack,Andover,US Senate,,R,Bolduc,547
+Merrimack,Andover,US Senate,,D,Hassan,652
+Merrimack,Andover,US Senate,,L,Kauffman,18
+Merrimack,Andover,US Senate,,,Scatter,0
+Merrimack,Boscawen,US Senate,,R,Bolduc,741
+Merrimack,Boscawen,US Senate,,D,Hassan,734
+Merrimack,Boscawen,US Senate,,L,Kauffman,40
+Merrimack,Boscawen,US Senate,,,Scatter,2
+Merrimack,Bow,US Senate,,R,Bolduc,1752
+Merrimack,Bow,US Senate,,D,Hassan,2638
+Merrimack,Bow,US Senate,,L,Kauffman,83
+Merrimack,Bow,US Senate,,,Scatter,2
+Merrimack,Bradford,US Senate,,R,Bolduc,396
+Merrimack,Bradford,US Senate,,D,Hassan,493
+Merrimack,Bradford,US Senate,,L,Kauffman,14
+Merrimack,Bradford,US Senate,,,Scatter,1
+Merrimack,Canterbury,US Senate,,R,Bolduc,561
+Merrimack,Canterbury,US Senate,,D,Hassan,873
+Merrimack,Canterbury,US Senate,,L,Kauffman,27
+Merrimack,Canterbury,US Senate,,,Scatter,1
+Merrimack,Chichester,US Senate,,R,Bolduc,763
+Merrimack,Chichester,US Senate,,D,Hassan,617
+Merrimack,Chichester,US Senate,,L,Kauffman,21
+Merrimack,Chichester,US Senate,,,Scatter,0
+Merrimack,Concord Ward 1,US Senate,,R,Bolduc,637
+Merrimack,Concord Ward 1,US Senate,,D,Hassan,1141
+Merrimack,Concord Ward 1,US Senate,,L,Kauffman,50
+Merrimack,Concord Ward 1,US Senate,,,Scatter,4
+Merrimack,Concord Ward 2,US Senate,,R,Bolduc,575
+Merrimack,Concord Ward 2,US Senate,,D,Hassan,1042
+Merrimack,Concord Ward 2,US Senate,,L,Kauffman,32
+Merrimack,Concord Ward 2,US Senate,,,Scatter,6
+Merrimack,Concord Ward 3,US Senate,,R,Bolduc,347
+Merrimack,Concord Ward 3,US Senate,,D,Hassan,656
+Merrimack,Concord Ward 3,US Senate,,L,Kauffman,27
+Merrimack,Concord Ward 3,US Senate,,,Scatter,1
+Merrimack,Concord Ward 4,US Senate,,R,Bolduc,452
+Merrimack,Concord Ward 4,US Senate,,D,Hassan,1354
+Merrimack,Concord Ward 4,US Senate,,L,Kauffman,48
+Merrimack,Concord Ward 4,US Senate,,,Scatter,2
+Merrimack,Concord Ward 5,US Senate,,R,Bolduc,561
+Merrimack,Concord Ward 5,US Senate,,D,Hassan,1842
+Merrimack,Concord Ward 5,US Senate,,L,Kauffman,27
+Merrimack,Concord Ward 5,US Senate,,,Scatter,2
+Merrimack,Concord Ward 6,US Senate,,R,Bolduc,406
+Merrimack,Concord Ward 6,US Senate,,D,Hassan,1052
+Merrimack,Concord Ward 6,US Senate,,L,Kauffman,51
+Merrimack,Concord Ward 6,US Senate,,,Scatter,2
+Merrimack,Concord Ward 7,US Senate,,R,Bolduc,663
+Merrimack,Concord Ward 7,US Senate,,D,Hassan,1687
+Merrimack,Concord Ward 7,US Senate,,L,Kauffman,46
+Merrimack,Concord Ward 7,US Senate,,,Scatter,2
+Merrimack,Concord Ward 8,US Senate,,R,Bolduc,632
+Merrimack,Concord Ward 8,US Senate,,D,Hassan,1078
+Merrimack,Concord Ward 8,US Senate,,L,Kauffman,51
+Merrimack,Concord Ward 8,US Senate,,,Scatter,1
+Merrimack,Concord Ward 9,US Senate,,R,Bolduc,487
+Merrimack,Concord Ward 9,US Senate,,D,Hassan,1047
+Merrimack,Concord Ward 9,US Senate,,L,Kauffman,33
+Merrimack,Concord Ward 9,US Senate,,,Scatter,1
+Merrimack,Concord Ward 10,US Senate,,R,Bolduc,884
+Merrimack,Concord Ward 10,US Senate,,D,Hassan,1566
+Merrimack,Concord Ward 10,US Senate,,L,Kauffman,33
+Merrimack,Concord Ward 10,US Senate,,,Scatter,3
+Merrimack,Danbury,US Senate,,R,Bolduc,326
+Merrimack,Danbury,US Senate,,D,Hassan,242
+Merrimack,Danbury,US Senate,,L,Kauffman,33
+Merrimack,Danbury,US Senate,,,Scatter,0
+Merrimack,Dunbarton,US Senate,,R,Bolduc,908
+Merrimack,Dunbarton,US Senate,,D,Hassan,719
+Merrimack,Dunbarton,US Senate,,L,Kauffman,29
+Merrimack,Dunbarton,US Senate,,,Scatter,2
+Merrimack,Epsom,US Senate,,R,Bolduc,1332
+Merrimack,Epsom,US Senate,,D,Hassan,947
+Merrimack,Epsom,US Senate,,L,Kauffman,54
+Merrimack,Epsom,US Senate,,,Scatter,0
+Merrimack,Franklin Ward 1,US Senate,,R,Bolduc,586
+Merrimack,Franklin Ward 1,US Senate,,D,Hassan,473
+Merrimack,Franklin Ward 1,US Senate,,L,Kauffman,22
+Merrimack,Franklin Ward 1,US Senate,,,Scatter,3
+Merrimack,Franklin Ward 2,US Senate,,R,Bolduc,394
+Merrimack,Franklin Ward 2,US Senate,,D,Hassan,327
+Merrimack,Franklin Ward 2,US Senate,,L,Kauffman,31
+Merrimack,Franklin Ward 2,US Senate,,,Scatter,2
+Merrimack,Franklin Ward 3,US Senate,,R,Bolduc,634
+Merrimack,Franklin Ward 3,US Senate,,D,Hassan,594
+Merrimack,Franklin Ward 3,US Senate,,L,Kauffman,35
+Merrimack,Franklin Ward 3,US Senate,,,Scatter,0
+Merrimack,Henniker,US Senate,,R,Bolduc,822
+Merrimack,Henniker,US Senate,,D,Hassan,1242
+Merrimack,Henniker,US Senate,,L,Kauffman,41
+Merrimack,Henniker,US Senate,,,Scatter,2
+Merrimack,Hill,US Senate,,R,Bolduc,301
+Merrimack,Hill,US Senate,,D,Hassan,199
+Merrimack,Hill,US Senate,,L,Kauffman,13
+Merrimack,Hill,US Senate,,,Scatter,1
+Merrimack,Hooksett,US Senate,,R,Bolduc,3304
+Merrimack,Hooksett,US Senate,,D,Hassan,3235
+Merrimack,Hooksett,US Senate,,L,Kauffman,113
+Merrimack,Hooksett,US Senate,,,Scatter,1
+Merrimack,Hopkinton,US Senate,,R,Bolduc,1165
+Merrimack,Hopkinton,US Senate,,D,Hassan,2237
+Merrimack,Hopkinton,US Senate,,L,Kauffman,64
+Merrimack,Hopkinton,US Senate,,,Scatter,1
+Merrimack,Loudon,US Senate,,R,Bolduc,1655
+Merrimack,Loudon,US Senate,,D,Hassan,1226
+Merrimack,Loudon,US Senate,,L,Kauffman,55
+Merrimack,Loudon,US Senate,,,Scatter,0
+Merrimack,New London,US Senate,,R,Bolduc,895
+Merrimack,New London,US Senate,,D,Hassan,1767
+Merrimack,New London,US Senate,,L,Kauffman,29
+Merrimack,New London,US Senate,,,Scatter,5
+Merrimack,Newbury,US Senate,,R,Bolduc,632
+Merrimack,Newbury,US Senate,,D,Hassan,750
+Merrimack,Newbury,US Senate,,L,Kauffman,17
+Merrimack,Newbury,US Senate,,,Scatter,1
+Merrimack,Northfield,US Senate,,R,Bolduc,987
+Merrimack,Northfield,US Senate,,D,Hassan,875
+Merrimack,Northfield,US Senate,,L,Kauffman,70
+Merrimack,Northfield,US Senate,,,Scatter,3
+Merrimack,Pembroke,US Senate,,R,Bolduc,1455
+Merrimack,Pembroke,US Senate,,D,Hassan,1734
+Merrimack,Pembroke,US Senate,,L,Kauffman,66
+Merrimack,Pembroke,US Senate,,,Scatter,4
+Merrimack,Pittsfield,US Senate,,R,Bolduc,902
+Merrimack,Pittsfield,US Senate,,D,Hassan,672
+Merrimack,Pittsfield,US Senate,,L,Kauffman,44
+Merrimack,Pittsfield,US Senate,,,Scatter,3
+Merrimack,Salisbury,US Senate,,R,Bolduc,425
+Merrimack,Salisbury,US Senate,,D,Hassan,325
+Merrimack,Salisbury,US Senate,,L,Kauffman,18
+Merrimack,Salisbury,US Senate,,,Scatter,0
+Merrimack,Sutton,US Senate,,R,Bolduc,494
+Merrimack,Sutton,US Senate,,D,Hassan,630
+Merrimack,Sutton,US Senate,,L,Kauffman,17
+Merrimack,Sutton,US Senate,,,Scatter,2
+Merrimack,Warner,US Senate,,R,Bolduc,634
+Merrimack,Warner,US Senate,,D,Hassan,911
+Merrimack,Warner,US Senate,,L,Kauffman,33
+Merrimack,Warner,US Senate,,,Scatter,1
+Merrimack,Webster,US Senate,,R,Bolduc,509
+Merrimack,Webster,US Senate,,D,Hassan,471
+Merrimack,Webster,US Senate,,L,Kauffman,24
+Merrimack,Webster,US Senate,,,Scatter,0
+Merrimack,Wilmot,US Senate,,R,Bolduc,304
+Merrimack,Wilmot,US Senate,,D,Hassan,509
+Merrimack,Wilmot,US Senate,,L,Kauffman,7
+Merrimack,Wilmot,US Senate,,,Scatter,1
+Rockingham,Atkinson,US Senate,,R,Bolduc,2237
+Rockingham,Atkinson,US Senate,,D,Hassan,1777
+Rockingham,Atkinson,US Senate,,L,Kauffman,65
+Rockingham,Atkinson,US Senate,,,Scatter,4
+Rockingham,Auburn,US Senate,,R,Bolduc,1754
+Rockingham,Auburn,US Senate,,D,Hassan,1301
+Rockingham,Auburn,US Senate,,L,Kauffman,73
+Rockingham,Auburn,US Senate,,,Scatter,2
+Rockingham,Brentwood,US Senate,,R,Bolduc,1152
+Rockingham,Brentwood,US Senate,,D,Hassan,1249
+Rockingham,Brentwood,US Senate,,L,Kauffman,40
+Rockingham,Brentwood,US Senate,,,Scatter,1
+Rockingham,Candia,US Senate,,R,Bolduc,1339
+Rockingham,Candia,US Senate,,D,Hassan,909
+Rockingham,Candia,US Senate,,L,Kauffman,43
+Rockingham,Candia,US Senate,,,Scatter,2
+Rockingham,Chester,US Senate,,R,Bolduc,1528
+Rockingham,Chester,US Senate,,D,Hassan,1150
+Rockingham,Chester,US Senate,,L,Kauffman,58
+Rockingham,Chester,US Senate,,,Scatter,0
+Rockingham,Danville,US Senate,,R,Bolduc,1266
+Rockingham,Danville,US Senate,,D,Hassan,830
+Rockingham,Danville,US Senate,,L,Kauffman,51
+Rockingham,Danville,US Senate,,,Scatter,2
+Rockingham,Deerfield,US Senate,,R,Bolduc,1376
+Rockingham,Deerfield,US Senate,,D,Hassan,1166
+Rockingham,Deerfield,US Senate,,L,Kauffman,60
+Rockingham,Deerfield,US Senate,,,Scatter,2
+Rockingham,Derry,US Senate,,R,Bolduc,6062
+Rockingham,Derry,US Senate,,D,Hassan,5581
+Rockingham,Derry,US Senate,,L,Kauffman,291
+Rockingham,East Kingston,US Senate,,R,Bolduc,715
+Rockingham,East Kingston,US Senate,,D,Hassan,668
+Rockingham,East Kingston,US Senate,,L,Kauffman,27
+Rockingham,East Kingston,US Senate,,,Scatter,0
+Rockingham,Epping,US Senate,,R,Bolduc,1848
+Rockingham,Epping,US Senate,,D,Hassan,1624
+Rockingham,Epping,US Senate,,L,Kauffman,86
+Rockingham,Epping,US Senate,,,Scatter,3
+Rockingham,Exeter,US Senate,,R,Bolduc,2617
+Rockingham,Exeter,US Senate,,D,Hassan,5738
+Rockingham,Exeter,US Senate,,L,Kauffman,101
+Rockingham,Exeter,US Senate,,,Scatter,0
+Rockingham,Fremont,US Senate,,R,Bolduc,1368
+Rockingham,Fremont,US Senate,,D,Hassan,957
+Rockingham,Fremont,US Senate,,L,Kauffman,74
+Rockingham,Fremont,US Senate,,,Scatter,3
+Rockingham,Greenland,US Senate,,R,Bolduc,960
+Rockingham,Greenland,US Senate,,D,Hassan,1422
+Rockingham,Greenland,US Senate,,L,Kauffman,39
+Rockingham,Greenland,US Senate,,,Scatter,1
+Rockingham,Hampstead,US Senate,,R,Bolduc,2590
+Rockingham,Hampstead,US Senate,,D,Hassan,1966
+Rockingham,Hampstead,US Senate,,L,Kauffman,89
+Rockingham,Hampstead,US Senate,,,Scatter,1
+Rockingham,Hampton,US Senate,,R,Bolduc,4214
+Rockingham,Hampton,US Senate,,D,Hassan,5004
+Rockingham,Hampton,US Senate,,L,Kauffman,118
+Rockingham,Hampton,US Senate,,,Scatter,6
+Rockingham,Hampton Falls,US Senate,,R,Bolduc,747
+Rockingham,Hampton Falls,US Senate,,D,Hassan,672
+Rockingham,Hampton Falls,US Senate,,L,Kauffman,21
+Rockingham,Hampton Falls,US Senate,,,Scatter,0
+Rockingham,Kensington,US Senate,,R,Bolduc,583
+Rockingham,Kensington,US Senate,,D,Hassan,640
+Rockingham,Kensington,US Senate,,L,Kauffman,17
+Rockingham,Kensington,US Senate,,,Scatter,1
+Rockingham,Kingston,US Senate,,R,Bolduc,1739
+Rockingham,Kingston,US Senate,,D,Hassan,1376
+Rockingham,Kingston,US Senate,,L,Kauffman,58
+Rockingham,Kingston,US Senate,,,Scatter,0
+Rockingham,Londonderry,US Senate,,R,Bolduc,5930
+Rockingham,Londonderry,US Senate,,D,Hassan,5833
+Rockingham,Londonderry,US Senate,,L,Kauffman,196
+Rockingham,Londonderry,US Senate,,,Scatter,10
+Rockingham,New Castle,US Senate,,R,Bolduc,274
+Rockingham,New Castle,US Senate,,D,Hassan,472
+Rockingham,New Castle,US Senate,,L,Kauffman,7
+Rockingham,New Castle,US Senate,,,Scatter,0
+Rockingham,Newfields,US Senate,,R,Bolduc,444
+Rockingham,Newfields,US Senate,,D,Hassan,622
+Rockingham,Newfields,US Senate,,L,Kauffman,25
+Rockingham,Newfields,US Senate,,,Scatter,1
+Rockingham,Newington,US Senate,,R,Bolduc,277
+Rockingham,Newington,US Senate,,D,Hassan,257
+Rockingham,Newington,US Senate,,L,Kauffman,7
+Rockingham,Newington,US Senate,,,Scatter,0
+Rockingham,Newmarket,US Senate,,R,Bolduc,1429
+Rockingham,Newmarket,US Senate,,D,Hassan,3176
+Rockingham,Newmarket,US Senate,,L,Kauffman,118
+Rockingham,Newmarket,US Senate,,,Scatter,2
+Rockingham,Newton,US Senate,,R,Bolduc,1273
+Rockingham,Newton,US Senate,,D,Hassan,964
+Rockingham,Newton,US Senate,,L,Kauffman,53
+Rockingham,Newton,US Senate,,,Scatter,1
+Rockingham,North Hampton,US Senate,,R,Bolduc,1162
+Rockingham,North Hampton,US Senate,,D,Hassan,1616
+Rockingham,North Hampton,US Senate,,L,Kauffman,48
+Rockingham,North Hampton,US Senate,,,Scatter,3
+Rockingham,Northwood,US Senate,,R,Bolduc,1080
+Rockingham,Northwood,US Senate,,D,Hassan,1066
+Rockingham,Northwood,US Senate,,L,Kauffman,46
+Rockingham,Northwood,US Senate,,,Scatter,1
+Rockingham,Nottingham,US Senate,,R,Bolduc,1386
+Rockingham,Nottingham,US Senate,,D,Hassan,1493
+Rockingham,Nottingham,US Senate,,L,Kauffman,58
+Rockingham,Nottingham,US Senate,,,Scatter,3
+Rockingham,Plaistow,US Senate,,R,Bolduc,1822
+Rockingham,Plaistow,US Senate,,D,Hassan,1455
+Rockingham,Plaistow,US Senate,,L,Kauffman,95
+Rockingham,Plaistow,US Senate,,,Scatter,5
+Rockingham,Portsmouth Ward 1,US Senate,,R,Bolduc,605
+Rockingham,Portsmouth Ward 1,US Senate,,D,Hassan,1703
+Rockingham,Portsmouth Ward 1,US Senate,,L,Kauffman,51
+Rockingham,Portsmouth Ward 1,US Senate,,,Scatter,1
+Rockingham,Portsmouth Ward 2,US Senate,,R,Bolduc,507
+Rockingham,Portsmouth Ward 2,US Senate,,D,Hassan,2129
+Rockingham,Portsmouth Ward 2,US Senate,,L,Kauffman,56
+Rockingham,Portsmouth Ward 2,US Senate,,,Scatter,1
+Rockingham,Portsmouth Ward 3,US Senate,,R,Bolduc,677
+Rockingham,Portsmouth Ward 3,US Senate,,D,Hassan,1556
+Rockingham,Portsmouth Ward 3,US Senate,,L,Kauffman,53
+Rockingham,Portsmouth Ward 3,US Senate,,,Scatter,0
+Rockingham,Portsmouth Ward 4,US Senate,,R,Bolduc,674
+Rockingham,Portsmouth Ward 4,US Senate,,D,Hassan,1307
+Rockingham,Portsmouth Ward 4,US Senate,,L,Kauffman,34
+Rockingham,Portsmouth Ward 4,US Senate,,,Scatter,4
+Rockingham,Portsmouth Ward 5,US Senate,,R,Bolduc,507
+Rockingham,Portsmouth Ward 5,US Senate,,D,Hassan,1819
+Rockingham,Portsmouth Ward 5,US Senate,,L,Kauffman,32
+Rockingham,Portsmouth Ward 5,US Senate,,,Scatter,1
+Rockingham,Raymond,US Senate,,R,Bolduc,2623
+Rockingham,Raymond,US Senate,,D,Hassan,1814
+Rockingham,Raymond,US Senate,,L,Kauffman,105
+Rockingham,Raymond,US Senate,,,Scatter,3
+Rockingham,Rye,US Senate,,R,Bolduc,1480
+Rockingham,Rye,US Senate,,D,Hassan,2194
+Rockingham,Rye,US Senate,,L,Kauffman,39
+Rockingham,Rye,US Senate,,,Scatter,4
+Rockingham,Salem,US Senate,,R,Bolduc,7213
+Rockingham,Salem,US Senate,,D,Hassan,5441
+Rockingham,Salem,US Senate,,L,Kauffman,323
+Rockingham,Salem,US Senate,,,Scatter,12
+Rockingham,Sandown,US Senate,,R,Bolduc,1747
+Rockingham,Sandown,US Senate,,D,Hassan,1202
+Rockingham,Sandown,US Senate,,L,Kauffman,52
+Rockingham,Sandown,US Senate,,,Scatter,0
+Rockingham,Seabrook,US Senate,,R,Bolduc,2046
+Rockingham,Seabrook,US Senate,,D,Hassan,1459
+Rockingham,Seabrook,US Senate,,L,Kauffman,60
+Rockingham,Seabrook,US Senate,,,Scatter,1
+Rockingham,South Hampton,US Senate,,R,Bolduc,267
+Rockingham,South Hampton,US Senate,,D,Hassan,239
+Rockingham,South Hampton,US Senate,,L,Kauffman,10
+Rockingham,South Hampton,US Senate,,,Scatter,1
+Rockingham,Stratham,US Senate,,R,Bolduc,1758
+Rockingham,Stratham,US Senate,,D,Hassan,2792
+Rockingham,Stratham,US Senate,,L,Kauffman,61
+Rockingham,Stratham,US Senate,,,Scatter,5
+Rockingham,Windham,US Senate,,R,Bolduc,3968
+Rockingham,Windham,US Senate,,D,Hassan,3408
+Rockingham,Windham,US Senate,,L,Kauffman,159
+Rockingham,Windham,US Senate,,,Scatter,10
+Strafford,Barrington,US Senate,,R,Bolduc,2091
+Strafford,Barrington,US Senate,,D,Hassan,2528
+Strafford,Barrington,US Senate,,L,Kauffman,91
+Strafford,Barrington,US Senate,,,Scatter,3
+Strafford,Dover Ward 1,US Senate,,R,Bolduc,499
+Strafford,Dover Ward 1,US Senate,,D,Hassan,1858
+Strafford,Dover Ward 1,US Senate,,L,Kauffman,47
+Strafford,Dover Ward 1,US Senate,,,Scatter,2
+Strafford,Dover Ward 2,US Senate,,R,Bolduc,575
+Strafford,Dover Ward 2,US Senate,,D,Hassan,1771
+Strafford,Dover Ward 2,US Senate,,L,Kauffman,43
+Strafford,Dover Ward 2,US Senate,,,Scatter,4
+Strafford,Dover Ward 3,US Senate,,R,Bolduc,1042
+Strafford,Dover Ward 3,US Senate,,D,Hassan,1864
+Strafford,Dover Ward 3,US Senate,,L,Kauffman,45
+Strafford,Dover Ward 3,US Senate,,,Scatter,4
+Strafford,Dover Ward 4,US Senate,,R,Bolduc,861
+Strafford,Dover Ward 4,US Senate,,D,Hassan,1771
+Strafford,Dover Ward 4,US Senate,,L,Kauffman,42
+Strafford,Dover Ward 4,US Senate,,,Scatter,1
+Strafford,Dover Ward 5,US Senate,,R,Bolduc,674
+Strafford,Dover Ward 5,US Senate,,D,Hassan,1449
+Strafford,Dover Ward 5,US Senate,,L,Kauffman,41
+Strafford,Dover Ward 5,US Senate,,,Scatter,2
+Strafford,Dover Ward 6,US Senate,,R,Bolduc,888
+Strafford,Dover Ward 6,US Senate,,D,Hassan,1451
+Strafford,Dover Ward 6,US Senate,,L,Kauffman,42
+Strafford,Dover Ward 6,US Senate,,,Scatter,2
+Strafford,Durham,US Senate,,R,Bolduc,1038
+Strafford,Durham,US Senate,,D,Hassan,4778
+Strafford,Durham,US Senate,,L,Kauffman,90
+Strafford,Durham,US Senate,,,Scatter,3
+Strafford,Farmington,US Senate,,R,Bolduc,1396
+Strafford,Farmington,US Senate,,D,Hassan,1053
+Strafford,Farmington,US Senate,,L,Kauffman,55
+Strafford,Farmington,US Senate,,,Scatter,1
+Strafford,Lee,US Senate,,R,Bolduc,751
+Strafford,Lee,US Senate,,D,Hassan,1580
+Strafford,Lee,US Senate,,L,Kauffman,64
+Strafford,Lee,US Senate,,,Scatter,2
+Strafford,Madbury,US Senate,,R,Bolduc,363
+Strafford,Madbury,US Senate,,D,Hassan,663
+Strafford,Madbury,US Senate,,L,Kauffman,16
+Strafford,Madbury,US Senate,,,Scatter,0
+Strafford,Middleton,US Senate,,R,Bolduc,514
+Strafford,Middleton,US Senate,,D,Hassan,279
+Strafford,Middleton,US Senate,,L,Kauffman,15
+Strafford,Middleton,US Senate,,,Scatter,0
+Strafford,Milton,US Senate,,R,Bolduc,1132
+Strafford,Milton,US Senate,,D,Hassan,751
+Strafford,Milton,US Senate,,L,Kauffman,47
+Strafford,Milton,US Senate,,,Scatter,0
+Strafford,New Durham,US Senate,,R,Bolduc,888
+Strafford,New Durham,US Senate,,D,Hassan,617
+Strafford,New Durham,US Senate,,L,Kauffman,30
+Strafford,New Durham,US Senate,,,Scatter,0
+Strafford,Rochester Ward 1,US Senate,,R,Bolduc,1124
+Strafford,Rochester Ward 1,US Senate,,D,Hassan,1175
+Strafford,Rochester Ward 1,US Senate,,L,Kauffman,8
+Strafford,Rochester Ward 1,US Senate,,,Scatter,3
+Strafford,Rochester Ward 2,US Senate,,R,Bolduc,1032
+Strafford,Rochester Ward 2,US Senate,,D,Hassan,1100
+Strafford,Rochester Ward 2,US Senate,,L,Kauffman,48
+Strafford,Rochester Ward 2,US Senate,,,Scatter,0
+Strafford,Rochester Ward 3,US Senate,,R,Bolduc,1100
+Strafford,Rochester Ward 3,US Senate,,D,Hassan,926
+Strafford,Rochester Ward 3,US Senate,,L,Kauffman,59
+Strafford,Rochester Ward 3,US Senate,,,Scatter,0
+Strafford,Rochester Ward 4,US Senate,,R,Bolduc,899
+Strafford,Rochester Ward 4,US Senate,,D,Hassan,1010
+Strafford,Rochester Ward 4,US Senate,,L,Kauffman,61
+Strafford,Rochester Ward 4,US Senate,,,Scatter,2
+Strafford,Rochester Ward 5,US Senate,,R,Bolduc,1050
+Strafford,Rochester Ward 5,US Senate,,D,Hassan,1023
+Strafford,Rochester Ward 5,US Senate,,L,Kauffman,54
+Strafford,Rochester Ward 5,US Senate,,,Scatter,8
+Strafford,Rochester Ward 6,US Senate,,R,Bolduc,806
+Strafford,Rochester Ward 6,US Senate,,D,Hassan,957
+Strafford,Rochester Ward 6,US Senate,,L,Kauffman,61
+Strafford,Rochester Ward 6,US Senate,,,Scatter,1
+Strafford,Rollinsford,US Senate,,R,Bolduc,555
+Strafford,Rollinsford,US Senate,,D,Hassan,801
+Strafford,Rollinsford,US Senate,,L,Kauffman,26
+Strafford,Rollinsford,US Senate,,,Scatter,0
+Strafford,Somersworth Ward 1,US Senate,,R,Bolduc,474
+Strafford,Somersworth Ward 1,US Senate,,D,Hassan,669
+Strafford,Somersworth Ward 1,US Senate,,L,Kauffman,21
+Strafford,Somersworth Ward 1,US Senate,,,Scatter,0
+Strafford,Somersworth Ward 2,US Senate,,R,Bolduc,382
+Strafford,Somersworth Ward 2,US Senate,,D,Hassan,477
+Strafford,Somersworth Ward 2,US Senate,,L,Kauffman,16
+Strafford,Somersworth Ward 2,US Senate,,,Scatter,0
+Strafford,Somersworth Ward 3,US Senate,,R,Bolduc,353
+Strafford,Somersworth Ward 3,US Senate,,D,Hassan,472
+Strafford,Somersworth Ward 3,US Senate,,L,Kauffman,27
+Strafford,Somersworth Ward 3,US Senate,,,Scatter,0
+Strafford,Somersworth Ward 4,US Senate,,R,Bolduc,370
+Strafford,Somersworth Ward 4,US Senate,,D,Hassan,689
+Strafford,Somersworth Ward 4,US Senate,,L,Kauffman,19
+Strafford,Somersworth Ward 4,US Senate,,,Scatter,0
+Strafford,Somersworth Ward 5,US Senate,,R,Bolduc,215
+Strafford,Somersworth Ward 5,US Senate,,D,Hassan,397
+Strafford,Somersworth Ward 5,US Senate,,L,Kauffman,16
+Strafford,Somersworth Ward 5,US Senate,,,Scatter,0
+Strafford,Strafford,US Senate,,R,Bolduc,1145
+Strafford,Strafford,US Senate,,D,Hassan,1131
+Strafford,Strafford,US Senate,,L,Kauffman,37
+Strafford,Strafford,US Senate,,,Scatter,2
+Sullivan,Acworth,US Senate,,R,Bolduc,218
+Sullivan,Acworth,US Senate,,D,Hassan,243
+Sullivan,Acworth,US Senate,,L,Kauffman,9
+Sullivan,Acworth,US Senate,,,Scatter,1
+Sullivan,Charlestown,US Senate,,R,Bolduc,915
+Sullivan,Charlestown,US Senate,,D,Hassan,869
+Sullivan,Charlestown,US Senate,,L,Kauffman,53
+Sullivan,Charlestown,US Senate,,,Scatter,2
+Sullivan,Claremont Ward 1,US Senate,,R,Bolduc,487
+Sullivan,Claremont Ward 1,US Senate,,D,Hassan,636
+Sullivan,Claremont Ward 1,US Senate,,L,Kauffman,37
+Sullivan,Claremont Ward 1,US Senate,,,Scatter,0
+Sullivan,Claremont Ward 2,US Senate,,R,Bolduc,778
+Sullivan,Claremont Ward 2,US Senate,,D,Hassan,870
+Sullivan,Claremont Ward 2,US Senate,,L,Kauffman,49
+Sullivan,Claremont Ward 2,US Senate,,,Scatter,0
+Sullivan,Claremont Ward 3,US Senate,,R,Bolduc,701
+Sullivan,Claremont Ward 3,US Senate,,D,Hassan,700
+Sullivan,Claremont Ward 3,US Senate,,L,Kauffman,33
+Sullivan,Claremont Ward 3,US Senate,,,Scatter,2
+Sullivan,Cornish,US Senate,,R,Bolduc,371
+Sullivan,Cornish,US Senate,,D,Hassan,561
+Sullivan,Cornish,US Senate,,L,Kauffman,13
+Sullivan,Cornish,US Senate,,,Scatter,1
+Sullivan,Croydon,US Senate,,R,Bolduc,253
+Sullivan,Croydon,US Senate,,D,Hassan,157
+Sullivan,Croydon,US Senate,,L,Kauffman,9
+Sullivan,Croydon,US Senate,,,Scatter,0
+Sullivan,Goshen,US Senate,,R,Bolduc,234
+Sullivan,Goshen,US Senate,,D,Hassan,135
+Sullivan,Goshen,US Senate,,L,Kauffman,4
+Sullivan,Goshen,US Senate,,,Scatter,0
+Sullivan,Grantham,US Senate,,R,Bolduc,625
+Sullivan,Grantham,US Senate,,D,Hassan,1431
+Sullivan,Grantham,US Senate,,L,Kauffman,28
+Sullivan,Grantham,US Senate,,,Scatter,2
+Sullivan,Langdon,US Senate,,R,Bolduc,171
+Sullivan,Langdon,US Senate,,D,Hassan,146
+Sullivan,Langdon,US Senate,,L,Kauffman,8
+Sullivan,Langdon,US Senate,,,Scatter,0
+Sullivan,Lempster,US Senate,,R,Bolduc,333
+Sullivan,Lempster,US Senate,,D,Hassan,229
+Sullivan,Lempster,US Senate,,L,Kauffman,9
+Sullivan,Lempster,US Senate,,,Scatter,0
+Sullivan,Newport,US Senate,,R,Bolduc,1250
+Sullivan,Newport,US Senate,,D,Hassan,1005
+Sullivan,Newport,US Senate,,L,Kauffman,68
+Sullivan,Newport,US Senate,,,Scatter,1
+Sullivan,Plainfield,US Senate,,R,Bolduc,397
+Sullivan,Plainfield,US Senate,,D,Hassan,927
+Sullivan,Plainfield,US Senate,,L,Kauffman,33
+Sullivan,Plainfield,US Senate,,,Scatter,0
+Sullivan,Springfield,US Senate,,R,Bolduc,358
+Sullivan,Springfield,US Senate,,D,Hassan,378
+Sullivan,Springfield,US Senate,,L,Kauffman,18
+Sullivan,Springfield,US Senate,,,Scatter,1
+Sullivan,Sunapee,US Senate,,R,Bolduc,912
+Sullivan,Sunapee,US Senate,,D,Hassan,1088
+Sullivan,Sunapee,US Senate,,L,Kauffman,38
+Sullivan,Sunapee,US Senate,,,Scatter,1
+Sullivan,Unity,US Senate,,R,Bolduc,386
+Sullivan,Unity,US Senate,,D,Hassan,245
+Sullivan,Unity,US Senate,,L,Kauffman,21
+Sullivan,Unity,US Senate,,,Scatter,0
+Sullivan,Washington,US Senate,,R,Bolduc,370
+Sullivan,Washington,US Senate,,D,Hassan,287
+Sullivan,Washington,US Senate,,L,Kauffman,12
+Sullivan,Washington,US Senate,,,Scatter,0
