@@ -6,7 +6,7 @@ scripts/fetch-raw.md for the naming convention and download procedure.
 
 from __future__ import annotations
 
-from oe_nh.jobs import Job
+from oe_nh.jobs import Job, house_files
 from oe_nh.parser import (
     CongressionalConfig,
     ExecutiveCouncilConfig,
@@ -54,6 +54,18 @@ JOBS: list[Job] = [
                 header_row=2,
             )),
         ],
+        auto_discover=False,
+    ),
+    Job(
+        office_slug="state-representative",
+        office_name="State Representative",
+        election="general",
+        date="20241105",
+        output_basename="general__state__representative__precinct",
+        folder=_GENERAL_FOLDER,
+        files=house_files(xlsx_counties=frozenset({
+            "carroll", "grafton", "merrimack", "rockingham", "sullivan",
+        })),
         auto_discover=False,
     ),
     Job(

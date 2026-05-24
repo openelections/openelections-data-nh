@@ -93,6 +93,13 @@ class CongressionalConfig:
     town->county map and use that. Useful for by-district workbooks where
     the source data doesn't include county."""
 
+    drop_column_labels: frozenset[str] = frozenset()
+    """Candidate-header cell values that trigger dropping the column from
+    the output (case-insensitive). NH SoS files sometimes interleave
+    auxiliary columns alongside real candidates — e.g. 'Recount' (recount
+    counts in 2022 House files; we ship certified counts only) or 'BLC'
+    (unknown ballot-related auxiliary in some 2022 House files)."""
+
 
 @dataclass(frozen=True)
 class StatewideByCountyConfig:
@@ -209,6 +216,64 @@ class StateSenateConfig:
     """Sheet names that should be silently skipped (e.g. empty
     leftover 'Sheet1' in some workbooks)."""
 
+    drop_column_labels: frozenset[str] = frozenset({"Recount", "BLC"})
+    """Candidate-header labels to drop from output (case-insensitive).
+    Some 2022 State Senate sheets interleave Recount columns with cert
+    counts; we ship cert only."""
+
+    party_from_candidate: bool = True
+    skip_town_values: frozenset[str] = frozenset({"TOTALS", "Totals", "Total"})
+    skip_empty_votes: bool = True
+
+
+@dataclass(frozen=True)
+class StateRepresentativeConfig:
+    """Per-county workbook with many District sections per sheet.
+
+    Used for NH State Representative (House) general elections. Each county
+    publishes one workbook (one sheet) with many districts back-to-back.
+    A district section begins with ``District No. N (M) [F|FL]`` in col 0,
+    where N is the district number, M is the seat count, and the optional
+    F/FL marks a floterial district (normalized to ``NF`` in output).
+
+    Within a multi-seat district, candidate stripes are stacked: the marker
+    row IS the first stripe's header (col 0 = marker, cols 1+ = candidate
+    labels); per-town data rows follow; then a Totals row; then another
+    stripe header (col 0 blank, cols 1+ = the next batch of candidates).
+
+    Quirks the parser drops:
+    - 2022 files mix 'Recount' columns inline with candidates → column
+      labeled exactly 'Recount' is dropped from output.
+    - 2024 files duplicate some districts with 'RECOUNT FIGURES' suffix
+      on the marker → that section is skipped entirely (we ship the
+      certified counts, which appear in the first occurrence of the
+      district).
+    """
+
+    office: str = "State Representative"
+    """Office name written into every row."""
+
+    county: str = ""
+    """County is determined per-file by the Job (one workbook per county)."""
+
+    district_marker: re.Pattern = re.compile(
+        r"^District\s+No\.?\s*(\d+)\s*\(\d+\)\s*(FL?)?\s*(RECOUNT\s+FIGURES)?\s*$",
+        re.IGNORECASE,
+    )
+    """Pattern for district section headers.
+    Groups: (district_number, floterial_marker_or_None, recount_marker_or_None)."""
+
+    floterial_suffix: str = "F"
+    """Appended to the district number when the marker has F/FL.
+    e.g. district number '8' + floterial → ``8F``."""
+
+    drop_column_labels: frozenset[str] = frozenset({"Recount", "BLC"})
+    """Candidate-header labels to drop from output (case-insensitive).
+    Covers 2022 inline 'Recount' columns; 2024 inline 'RECOUNT' columns;
+    and 'BLC' auxiliary columns in some 2022 Rockingham House districts."""
+
+    town_col: int = 0
+    candidate_cols_start: int = 1
     party_from_candidate: bool = True
     skip_town_values: frozenset[str] = frozenset({"TOTALS", "Totals", "Total"})
     skip_empty_votes: bool = True
@@ -220,6 +285,7 @@ ParserConfig = Union[
     StatewideByCountyConfig,
     ExecutiveCouncilConfig,
     StateSenateConfig,
+    StateRepresentativeConfig,
 ]
 
 
@@ -284,22 +350,32 @@ class CongressionalParser:
             yield from self._rows_at(row)
 
     def _read_candidate_row(self) -> list[tuple[str, str]]:
-        """Return list of (candidate, party) for each data column."""
+        """Return list of (candidate, party) for each data column.
+
+        Cells whose label matches `drop_column_labels` (case-insensitive)
+        become ("", "") so the column emits no rows."""
         row = self._reader.row_values(self._config.header_row)
+        drop_set = {label.casefold() for label in self._config.drop_column_labels}
         out: list[tuple[str, str]] = []
         for col in range(self._config.candidate_cols_start, len(row)):
             label = str(row[col]).strip()
             if not label:
                 out.append(("", ""))
                 continue
+            if label.casefold() in drop_set:
+                out.append(("", ""))
+                continue
             out.append(self._split_candidate(label))
         return out
 
     def _split_candidate(self, label: str) -> tuple[str, str]:
+        # Collapse internal whitespace runs in candidate names so labels
+        # like 'WRITE-IN   Kathy DesRoches' (3 spaces between WRITE-IN and
+        # the name) come out clean — matches what we already do for towns.
         if self._config.party_from_candidate and "," in label:
             name, _, party = label.partition(",")
-            return name.strip(), party.strip().upper()
-        return label, ""
+            return " ".join(name.split()), party.strip().upper()
+        return " ".join(label.split()), ""
 
     def _rows_at(self, row: int) -> Iterator[NormalizedRow]:
         cfg = self._config
@@ -580,6 +656,7 @@ class StateSenateParser:
             skip_town_values=cfg.skip_town_values,
             skip_empty_votes=cfg.skip_empty_votes,
             lookup_county_from_town=True,
+            drop_column_labels=cfg.drop_column_labels,
         )
 
 
@@ -593,6 +670,177 @@ def _with_district_bounds(
     for i, section in enumerate(sections):
         next_start = sections[i + 1].marker_row if i + 1 < len(sections) else total_rows
         yield section, next_start
+
+
+# ---------------------------------------------------------------------------
+# StateRepresentativeParser — per-county, many districts, multi-seat stripes
+# ---------------------------------------------------------------------------
+
+
+@dataclass(frozen=True)
+class _HouseDistrictSection:
+    """One State Rep district section within a sheet."""
+    marker_row: int   # row with 'District No. N (M) [F|FL]'
+    district_num: str # captured district number as a string
+    floterial: bool   # True if the marker carried F or FL
+    skip: bool        # True if RECOUNT FIGURES — section discarded
+
+
+class StateRepresentativeParser:
+    """Parses per-county State House workbooks with stacked candidate stripes.
+
+    Each file is one county, one sheet, many districts. Districts are
+    separated by ``District No. N (M)`` markers. Within a district section,
+    candidates may be split across multiple "stripes": the marker row
+    itself is the first stripe's header, subsequent stripes begin where
+    col 0 is blank and cols 1+ hold candidate-like (non-numeric) labels.
+    Each stripe has its own per-town data rows.
+    """
+
+    def __init__(self, config: StateRepresentativeConfig, path: pathlib.Path):
+        self._config = config
+        self._path = path
+
+    def __iter__(self) -> Iterator[NormalizedRow]:
+        reader = WorkbookReader(self._path, sheet_index=0)
+        sections = self._find_district_sections(reader)
+        for i, section in enumerate(sections):
+            section_end = sections[i + 1].marker_row if i + 1 < len(sections) else reader.nrows
+            if section.skip:
+                continue
+            yield from self._parse_section(reader, section, section_end)
+
+    def _find_district_sections(self, reader: WorkbookReader) -> list[_HouseDistrictSection]:
+        sections: list[_HouseDistrictSection] = []
+        for row in range(reader.nrows):
+            cell = reader.cell_value(row, 0)
+            label = "" if cell is None else str(cell).strip()
+            if not label:
+                continue
+            match = self._config.district_marker.match(label)
+            if match is None:
+                continue
+            sections.append(_HouseDistrictSection(
+                marker_row=row,
+                district_num=match.group(1),
+                floterial=bool(match.group(2)),
+                skip=bool(match.group(3)),
+            ))
+        return sections
+
+    def _parse_section(
+        self,
+        reader: WorkbookReader,
+        section: _HouseDistrictSection,
+        section_end: int,
+    ) -> Iterator[NormalizedRow]:
+        district = self._format_district(section)
+        stripes = self._find_stripes(reader, section.marker_row, section_end)
+        for stripe_header, stripe_end in stripes:
+            yield from self._parse_stripe(reader, district, stripe_header, stripe_end)
+
+    def _format_district(self, section: _HouseDistrictSection) -> str:
+        if section.floterial:
+            return f"{section.district_num}{self._config.floterial_suffix}"
+        return section.district_num
+
+    def _find_stripes(
+        self, reader: WorkbookReader, section_start: int, section_end: int
+    ) -> list[tuple[int, int]]:
+        """Return [(header_row, end_row_exclusive), ...] for each candidate stripe.
+
+        First stripe header is `section_start` (the district marker row,
+        whose cols 1+ hold the first batch of candidates). Subsequent
+        stripe headers are rows where col 0 is blank/whitespace AND cols
+        1+ contain non-numeric strings (candidate labels). Each stripe
+        ends at the next stripe's header or `section_end`.
+        """
+        headers = [section_start]
+        for row in range(section_start + 1, section_end):
+            cell0 = reader.cell_value(row, 0)
+            label0 = "" if cell0 is None else str(cell0).strip()
+            if label0:
+                continue
+            if self._row_has_candidate_labels(reader, row):
+                headers.append(row)
+        return [
+            (h, headers[i + 1] if i + 1 < len(headers) else section_end)
+            for i, h in enumerate(headers)
+        ]
+
+    def _row_has_candidate_labels(self, reader: WorkbookReader, row: int) -> bool:
+        """True if cells 1+ contain at least one non-empty non-numeric value.
+
+        Used to distinguish a continuation stripe header (candidate names)
+        from a blank-cell-0 data row (vote counts, which shouldn't normally
+        appear with a blank town anyway, but be defensive)."""
+        for col in range(self._config.candidate_cols_start, reader.ncols):
+            val = reader.cell_value(row, col)
+            if val is None or val == "":
+                continue
+            if isinstance(val, (int, float)) and not isinstance(val, bool):
+                return False
+            if isinstance(val, str) and val.strip():
+                return True
+        return False
+
+    def _parse_stripe(
+        self,
+        reader: WorkbookReader,
+        district: str,
+        header_row: int,
+        stripe_end: int,
+    ) -> Iterator[NormalizedRow]:
+        candidates = self._read_stripe_candidates(reader, header_row)
+        if not candidates:
+            return
+        cfg = self._config
+        for row in range(header_row + 1, stripe_end):
+            town_value = reader.cell_value(row, cfg.town_col)
+            town = " ".join(str(town_value).split()) if town_value is not None else ""
+            if not town or town in cfg.skip_town_values:
+                continue
+            for col, candidate, party in candidates:
+                if col >= reader.ncols:
+                    break
+                raw = reader.cell_value(row, col)
+                votes = _coerce_votes(raw)
+                if votes is None and cfg.skip_empty_votes:
+                    continue
+                yield NormalizedRow(
+                    county=cfg.county,
+                    precinct=town,
+                    office=cfg.office,
+                    district=district,
+                    party=party,
+                    candidate=candidate,
+                    votes=votes if votes is not None else 0,
+                )
+
+    def _read_stripe_candidates(
+        self, reader: WorkbookReader, header_row: int
+    ) -> list[tuple[int, str, str]]:
+        """Return [(col_index, candidate_name, party), ...] for this stripe.
+
+        Skips blank cells and any cell whose label is in `drop_column_labels`
+        (case-insensitive). Collapses internal whitespace in candidate
+        names so things like 'WRITE-IN   Kathy DesRoches' come out tidy."""
+        row = reader.row_values(header_row)
+        cfg = self._config
+        drop_set = {label.casefold() for label in cfg.drop_column_labels}
+        out: list[tuple[int, str, str]] = []
+        for col in range(cfg.candidate_cols_start, len(row)):
+            label = str(row[col]).strip() if row[col] is not None else ""
+            if not label:
+                continue
+            if label.casefold() in drop_set:
+                continue
+            if cfg.party_from_candidate and "," in label:
+                name, _, party = label.partition(",")
+                out.append((col, " ".join(name.split()), party.strip().upper()))
+            else:
+                out.append((col, " ".join(label.split()), ""))
+        return out
 
 
 # ---------------------------------------------------------------------------
@@ -620,8 +868,11 @@ def parse_workbook(path: pathlib.Path, config: ParserConfig) -> Iterator[Normali
     if isinstance(config, StateSenateConfig):
         yield from StateSenateParser(config, path)
         return
+    if isinstance(config, StateRepresentativeConfig):
+        yield from StateRepresentativeParser(config, path)
+        return
     raise TypeError(
         f"parse_workbook: unknown config type {type(config).__name__}. "
         f"Expected one of: CongressionalConfig, StatewideByCountyConfig, "
-        f"ExecutiveCouncilConfig, StateSenateConfig."
+        f"ExecutiveCouncilConfig, StateSenateConfig, StateRepresentativeConfig."
     )

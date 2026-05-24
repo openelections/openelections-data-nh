@@ -11,7 +11,7 @@ sections. `StatewideByCountyConfig` and the section scanner handle both.
 
 from __future__ import annotations
 
-from oe_nh.jobs import Job
+from oe_nh.jobs import Job, house_files
 from oe_nh.parser import (
     CongressionalConfig,
     ExecutiveCouncilConfig,
@@ -52,6 +52,16 @@ JOBS: list[Job] = [
                 header_row=2,
             )),
         ],
+        auto_discover=False,
+    ),
+    Job(
+        office_slug="state-representative",
+        office_name="State Representative",
+        election="general",
+        date="20221108",
+        output_basename="general__state__representative__precinct",
+        folder=_GENERAL_FOLDER,
+        files=house_files(),  # all 10 county files are .xls in 2022
         auto_discover=False,
     ),
     Job(
