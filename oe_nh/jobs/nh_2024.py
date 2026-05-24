@@ -7,7 +7,11 @@ scripts/fetch-raw.md for the naming convention and download procedure.
 from __future__ import annotations
 
 from oe_nh.jobs import Job
-from oe_nh.parser import ParserConfig
+from oe_nh.parser import (
+    CongressionalConfig,
+    ExecutiveCouncilConfig,
+    StatewideByCountyConfig,
+)
 
 
 _GENERAL_FOLDER = "raw/2024/general"
@@ -17,8 +21,9 @@ _GENERAL_FOLDER = "raw/2024/general"
 # party embedded in candidate label, Undervotes/Overvotes/Write-Ins
 # emitted as candidate rows with empty party.
 #
-# Pres + Gov are multi-sheet workbooks (one summary sheet + one per county).
-# Congressional is a single sheet covering the whole district.
+# Pres + Gov are multi-sheet workbooks (one summary sheet + one per county)
+# parsed by StatewideByCountyParser. Congressional is a single sheet covering
+# the whole district, parsed by CongressionalParser.
 JOBS: list[Job] = [
     Job(
         office_slug="president",
@@ -28,10 +33,9 @@ JOBS: list[Job] = [
         output_basename="general__president__precinct",
         folder=_GENERAL_FOLDER,
         files=[
-            ("president.xls", ParserConfig(
+            ("president.xls", StatewideByCountyConfig(
                 office="President",
                 header_row=2,
-                multi_sheet=True,
             )),
         ],
         auto_discover=False,
@@ -44,11 +48,22 @@ JOBS: list[Job] = [
         output_basename="general__governor__precinct",
         folder=_GENERAL_FOLDER,
         files=[
-            ("governor.xls", ParserConfig(
+            ("governor.xls", StatewideByCountyConfig(
                 office="Governor",
                 header_row=2,
-                multi_sheet=True,
             )),
+        ],
+        auto_discover=False,
+    ),
+    Job(
+        office_slug="executive-council",
+        office_name="Executive Council",
+        election="general",
+        date="20241105",
+        output_basename="general__executive__council__precinct",
+        folder=_GENERAL_FOLDER,
+        files=[
+            ("executive-council.xls", ExecutiveCouncilConfig()),
         ],
         auto_discover=False,
     ),
@@ -60,13 +75,13 @@ JOBS: list[Job] = [
         output_basename="general__congressional__precinct",
         folder=_GENERAL_FOLDER,
         files=[
-            ("congressional-1.xlsx", ParserConfig(
+            ("congressional-1.xlsx", CongressionalConfig(
                 office="Congressional",
                 district="1",
                 header_row=2,
                 lookup_county_from_town=True,
             )),
-            ("congressional-2.xlsx", ParserConfig(
+            ("congressional-2.xlsx", CongressionalConfig(
                 office="Congressional",
                 district="2",
                 header_row=2,

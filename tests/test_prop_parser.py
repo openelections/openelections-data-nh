@@ -1,4 +1,4 @@
-"""Property-based tests for the Parser.
+"""Property-based tests for CongressionalParser.
 
 We synthesize a SheetShape, materialize it as an xlsx, parse it, and assert
 invariants about the resulting rows. The xls path is exercised separately
@@ -13,7 +13,7 @@ import openpyxl
 from hypothesis import given, settings
 from hypothesis import strategies as st
 
-from oe_nh.parser import NormalizedRow, Parser, ParserConfig
+from oe_nh.parser import CongressionalConfig, CongressionalParser, NormalizedRow
 from oe_nh.workbook import WorkbookReader
 from tests.strategies import SynthesizedSheet, synthesized_sheets
 
@@ -31,13 +31,13 @@ def _materialize(sheet: SynthesizedSheet, path: pathlib.Path) -> None:
 
 def _parse(sheet: SynthesizedSheet, path: pathlib.Path) -> list[NormalizedRow]:
     reader = WorkbookReader(path)
-    config = ParserConfig(
+    config = CongressionalConfig(
         office="Office",
         county="County",
         header_row=sheet.header_row,
         candidate_cols_start=1,
     )
-    return list(Parser(config, reader))
+    return list(CongressionalParser(config, reader))
 
 
 @given(sheet=synthesized_sheets())

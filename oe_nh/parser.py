@@ -1,31 +1,30 @@
-"""Turn a workbook + a ParserConfig into normalized OpenElections rows.
+"""Parse NH SoS election workbooks into normalized OpenElections rows.
 
-The default Parser handles the common shape that the NH SoS uses for statewide
-single-district races (President, US Senate, Governor) and per-CD Congressional
-races: town/precinct names down the first column, candidate names in a header
-row, vote counts in the matrix below.
+Each NH office's reporting shape gets its own purpose-named parser class
+plus a small per-shape config dataclass. The top-level `parse_workbook`
+factory dispatches on the config type. This keeps each shape's logic
+locally readable instead of branching one giant class on flags.
 
-Many SoS workbooks split town-level data across multiple sheets (one per
-county) — and sometimes a single sheet contains multiple county "sections"
-back-to-back (e.g. NH 2022 Governor merges Summary + Belknap into sheet 0,
-and Strafford + Sullivan into the last sheet). `multi_sheet=True` plus
-`parse_workbook` handle both shapes: every sheet is scanned for section
-boundaries, marked by a row whose first cell contains a known NH county
-name (with or without `' County'` suffix). Each section has its own
-candidate-header row.
+Public API:
 
-Edge cases (multi-district-per-file like State House) become subclasses that
-override the small set of hook methods at the bottom of Parser.
+- `parse_workbook(path, config) -> Iterator[NormalizedRow]` — top-level entry
+- `NormalizedRow` — output row
+- Config dataclasses, one per shape:
+  - `CongressionalConfig` — single sheet, towns down col 0, candidates across.
+    Used for whole-district races shipped as one workbook (Congressional CD1/CD2).
+  - `StatewideByCountyConfig` — multi-sheet workbook, one sheet per county,
+    plus an optional summary sheet to skip. Used for statewide single-race
+    elections (President, Governor, US Senate).
+- Parser classes, one per shape (`CongressionalParser`, `StatewideByCountyParser`)
+- `ParserConfig` — type alias = union of all config dataclasses, for type hints
 """
 
 from __future__ import annotations
 
-import dataclasses
 import pathlib
 import re
-import sys
 from dataclasses import dataclass
-from typing import Iterator
+from typing import Iterator, Union
 
 from oe_nh.mappings.counties import NH_COUNTIES
 from oe_nh.mappings.town_to_county import county_for_precinct
@@ -43,15 +42,23 @@ class NormalizedRow:
     votes: int
 
 
-@dataclass
-class ParserConfig:
-    """Describes the shape of one workbook so the Parser can iterate it.
+# ---------------------------------------------------------------------------
+# Per-shape config dataclasses
+# ---------------------------------------------------------------------------
 
-    Most knobs have sensible defaults for the common NH SoS shape.
+
+@dataclass(frozen=True)
+class CongressionalConfig:
+    """Single sheet, towns down col 0, candidates across.
+
+    Used for races where one workbook holds the whole race's results
+    (e.g. NH Congressional District 1, District 2). The Parser reads
+    the candidate header row, then yields one NormalizedRow per
+    (town, candidate) pair below it.
     """
 
     office: str
-    """Office name to emit in every row (e.g. 'President', 'US Senate')."""
+    """Office name written into every row (e.g. 'Congressional')."""
 
     sheet_index: int = 0
     """Which sheet to read."""
@@ -66,8 +73,8 @@ class ParserConfig:
     """First data column. Cells `[header_row, candidate_cols_start:]` are candidate names."""
 
     county: str | None = None
-    """If the workbook covers one county, supply it here. None means it's a column
-    (typically set per-section in multi_sheet mode)."""
+    """If the workbook covers one county, supply it here. None + lookup_county_from_town
+    means look up county from the town map; None + neither means emit empty county."""
 
     district: str = ""
     """Empty for statewide; '1'/'2' for Congressional; etc."""
@@ -76,34 +83,106 @@ class ParserConfig:
     """If True, candidate cells like 'Smith, R' split into ('Smith', 'R')."""
 
     skip_town_values: frozenset[str] = frozenset({"TOTALS", "Totals", "Total"})
-    """Town cell values that mean 'skip this row'. The defaults cover the
-    common NH SoS pattern of a county-totals row at the bottom of each section."""
+    """Town cell values that mean 'skip this row'."""
 
     skip_empty_votes: bool = True
     """If True, cells with empty/whitespace votes do not emit a row."""
 
     lookup_county_from_town: bool = False
     """If True AND `county` is empty, look up the row's precinct in the NH
-    town->county map and use that. Useful for by-district workbooks
-    (Congressional, US Senate) where the source data doesn't include county."""
+    town->county map and use that. Useful for by-district workbooks where
+    the source data doesn't include county."""
 
-    multi_sheet: bool = False
-    """If True, `parse_workbook` iterates every sheet in the workbook and
-    scans each sheet for county-name section headers (with `' County'` suffix
-    optional). Each section has its own candidate-header row."""
+
+@dataclass(frozen=True)
+class StatewideByCountyConfig:
+    """Multi-sheet workbook, one sheet per county, with within-sheet section scanning.
+
+    Used for statewide single-race elections (President, Governor, US Senate)
+    where the SoS publishes one tab per county, plus an optional summary
+    tab. Some tabs hold multiple county sections back-to-back (NH 2022
+    Governor stacks Summary + Belknap on sheet 0, and Strafford + Sullivan
+    on the last sheet).
+
+    Each county section gets its own candidate-header row read independently;
+    candidates may differ between counties in primaries.
+    """
+
+    office: str
+    """Office name written into every row."""
+
+    header_row: int = 3
+    """Zero-indexed row of the first candidate header in each section.
+    For 2024 NH SoS workbooks this is row 2; the framework reads the
+    actual header row per-section using the section marker as an anchor."""
+
+    town_col: int = 0
+    """Zero-indexed column containing the town/precinct name."""
+
+    candidate_cols_start: int = 1
+    """First data column within each section."""
+
+    district: str = ""
+    """Statewide races leave this empty."""
+
+    party_from_candidate: bool = True
+    """If True, 'Smith, R' splits into ('Smith', 'R')."""
+
+    skip_town_values: frozenset[str] = frozenset({"TOTALS", "Totals", "Total"})
+
+    skip_empty_votes: bool = True
 
     section_marker_col: int = 0
-    """In multi_sheet mode, the column containing the section-header marker.
-    Defaults to 0 (the leftmost column)."""
+    """Column containing the county-name section header. Defaults to leftmost."""
 
     skip_sheet_markers: frozenset[str] = frozenset({"Summary By Counties"})
-    """Values at `section_marker_col` that mean 'silently skip the section
-    that starts here'. The canonical case is the per-state summary block."""
+    """Values at section_marker_col that mean 'silently skip the section
+    that starts here'. Canonical case: per-state summary block."""
 
-    stop_row: int | None = None
-    """If set, the Parser yields rows up to (but not including) this row index.
-    Set internally by `parse_workbook` to bound each section's iteration at
-    the next section's start. Callers typically don't set this directly."""
+
+@dataclass(frozen=True)
+class ExecutiveCouncilConfig:
+    """Multi-sheet workbook, one district per sheet.
+
+    Used for NH Executive Council general elections: five sheets named
+    ``council 1`` ... ``council 5``, each holding one district's town-by-town
+    results. The district number is parsed from the sheet name. Each sheet
+    has a date cell in col 0 of the header row, then candidates across.
+    Town column is looked up against the NH town->county map so each row
+    carries the right county.
+    """
+
+    office: str = "Executive Council"
+    """Office name written into every row."""
+
+    header_row: int = 2
+    """Zero-indexed row containing candidate names. NH SoS uses row 2:
+    row 0 = state title, row 1 = district label, row 2 = header."""
+
+    town_col: int = 0
+    """Zero-indexed column containing the town/precinct name."""
+
+    candidate_cols_start: int = 1
+    """First data column. The header row's col 0 holds a date, ignored."""
+
+    district_from_sheet_name: re.Pattern = re.compile(
+        r"council\s+(\d+)", re.IGNORECASE
+    )
+    """Pattern applied to each sheet's name. The first capture group is the
+    district number. Sheets that don't match are silently skipped."""
+
+    party_from_candidate: bool = True
+    skip_town_values: frozenset[str] = frozenset({"TOTALS", "Totals", "Total"})
+    skip_empty_votes: bool = True
+
+
+# Type alias for "any parser config", useful in shared callsites (jobs, cli).
+ParserConfig = Union[CongressionalConfig, StatewideByCountyConfig, ExecutiveCouncilConfig]
+
+
+# ---------------------------------------------------------------------------
+# Vote coercion
+# ---------------------------------------------------------------------------
 
 
 _NUMERIC_RE = re.compile(r"^-?\d+(?:\.0+)?$")
@@ -118,7 +197,6 @@ def _coerce_votes(value) -> int | None:
     if isinstance(value, int):
         return value
     if isinstance(value, float):
-        # NH SoS sometimes emits float-looking integers. Reject true fractions.
         if value.is_integer():
             return int(value)
         return None
@@ -130,21 +208,35 @@ def _coerce_votes(value) -> int | None:
     return None
 
 
-class Parser:
-    """The default 'towns down, candidates across' parser.
+# ---------------------------------------------------------------------------
+# CongressionalParser — the matrix-parsing primitive
+# ---------------------------------------------------------------------------
 
-    Subclass for shapes that don't fit (e.g. files with district markers between
-    blocks of rows) and override the `_should_skip_row` hook.
+
+class CongressionalParser:
+    """Parses a single rectangular block of rows: header row + data rows below.
+
+    The default for single-sheet, whole-race workbooks (NH Congressional
+    CD1/CD2). Also reused internally by `StatewideByCountyParser` for each
+    county section it finds — the `stop_row` constructor kwarg lets a caller
+    bound iteration to a single section within a multi-section sheet.
     """
 
-    def __init__(self, config: ParserConfig, reader: WorkbookReader):
+    def __init__(
+        self,
+        config: CongressionalConfig,
+        reader: WorkbookReader,
+        *,
+        stop_row: int | None = None,
+    ):
         self._config = config
         self._reader = reader
+        self._stop_row = stop_row
         self._candidates = self._read_candidate_row()
 
     def __iter__(self) -> Iterator[NormalizedRow]:
         cfg = self._config
-        end_row = cfg.stop_row if cfg.stop_row is not None else self._reader.nrows
+        end_row = self._stop_row if self._stop_row is not None else self._reader.nrows
         for row in range(cfg.header_row + 1, end_row):
             yield from self._rows_at(row)
 
@@ -172,7 +264,7 @@ class Parser:
         # Collapse internal whitespace runs ("Concord  Ward 1" -> "Concord Ward 1")
         # so downstream consumers don't have to guess about source-data noise.
         town = " ".join(str(town_value).split()) if town_value is not None else ""
-        if self._should_skip_row(row, town):
+        if self._should_skip_row(town):
             return
         county = cfg.county or ""
         if not county and cfg.lookup_county_from_town:
@@ -197,67 +289,89 @@ class Parser:
                 votes=votes if votes is not None else 0,
             )
 
-    def _should_skip_row(self, row: int, town: str) -> bool:
-        cfg = self._config
+    def _should_skip_row(self, town: str) -> bool:
         if not town:
             return True
-        if town in cfg.skip_town_values:
+        if town in self._config.skip_town_values:
             return True
         return False
 
 
+# ---------------------------------------------------------------------------
+# StatewideByCountyParser — scans sheets + sections, reuses CongressionalParser per section
+# ---------------------------------------------------------------------------
+
+
 @dataclass(frozen=True)
 class _Section:
-    """One county-section within a sheet."""
+    """One county section within a sheet."""
     header_row: int        # row index of the section header (cell 0 = county marker, cells 1+ = candidates)
     county: str | None     # canonical NH county name, or None for "skip this section"
 
 
-def parse_workbook(path: pathlib.Path, config: ParserConfig) -> Iterator[NormalizedRow]:
-    """Top-level entry point. Handles single-sheet and multi-sheet/multi-section workbooks.
+class StatewideByCountyParser:
+    """Parses multi-sheet workbooks with one or more county sections per sheet.
 
-    Single-sheet (`config.multi_sheet=False`): opens `config.sheet_index` and
-    yields rows with the config's `header_row`.
+    For each sheet, scans rows for section headers: a row whose first cell
+    (after stripping trailing ' County') matches a known NH county AND whose
+    second cell is a non-numeric string (i.e. a candidate label, not a vote
+    count). Each section is then parsed by an internal CongressionalParser
+    bounded to that section's row range.
 
-    Multi-sheet: iterates every sheet in the workbook. Each sheet is scanned
-    row-by-row for section headers (rows whose first cell, after stripping
-    `' County'` suffix, matches a known NH county name). Each section gets
-    its own header row and (optional) stop row. The summary-by-counties
-    section is skipped via `skip_sheet_markers`.
+    The per-state summary block at the top of the first sheet is detected
+    via `skip_sheet_markers` and skipped silently.
     """
-    if not config.multi_sheet:
-        reader = WorkbookReader(path, sheet_index=config.sheet_index)
-        yield from Parser(config, reader)
-        return
 
-    for sheet_index in range(WorkbookReader.sheet_count(path)):
-        reader = WorkbookReader(path, sheet_index=sheet_index)
-        sections = _find_sections(reader, config)
-        for section, next_start in _with_bounds(sections, reader.nrows):
-            if section.county is None:
-                continue  # skip (summary section, or unrecognized marker)
-            sub_config = dataclasses.replace(
-                config,
-                county=section.county,
-                sheet_index=sheet_index,
-                header_row=section.header_row,
-                stop_row=next_start,
-            )
-            yield from Parser(sub_config, reader)
+    def __init__(self, config: StatewideByCountyConfig, path: pathlib.Path):
+        self._config = config
+        self._path = path
+
+    def __iter__(self) -> Iterator[NormalizedRow]:
+        for sheet_index in range(WorkbookReader.sheet_count(self._path)):
+            reader = WorkbookReader(self._path, sheet_index=sheet_index)
+            sections = _find_county_sections(reader, self._config)
+            for section, next_start in _with_bounds(sections, reader.nrows):
+                if section.county is None:
+                    continue
+                section_config = self._config_for_section(section.county, section.header_row)
+                yield from CongressionalParser(section_config, reader, stop_row=next_start)
+
+    def _config_for_section(self, county: str, header_row: int) -> CongressionalConfig:
+        """Synthesize a CongressionalConfig for one county section.
+
+        StatewideByCountyParser delegates section-level parsing to
+        CongressionalParser. This translates between the two configs.
+        """
+        cfg = self._config
+        return CongressionalConfig(
+            office=cfg.office,
+            sheet_index=0,  # ignored; reader is already bound
+            header_row=header_row,
+            town_col=cfg.town_col,
+            candidate_cols_start=cfg.candidate_cols_start,
+            county=county,
+            district=cfg.district,
+            party_from_candidate=cfg.party_from_candidate,
+            skip_town_values=cfg.skip_town_values,
+            skip_empty_votes=cfg.skip_empty_votes,
+            lookup_county_from_town=False,
+        )
 
 
-def _find_sections(reader: WorkbookReader, config: ParserConfig) -> list[_Section]:
-    """Scan a sheet row-by-row, identifying section header rows.
+def _find_county_sections(
+    reader: WorkbookReader, config: StatewideByCountyConfig
+) -> list[_Section]:
+    """Scan a sheet row-by-row, identifying county-section header rows.
 
     A row is a section header iff:
     - cell at `section_marker_col` is a known skip marker (e.g. "Summary By Counties"), OR
-    - cell at `section_marker_col`, stripped of trailing `" County"` whitespace,
-      matches a known NH county AND the next cell (column 1) contains a non-numeric
-      string (i.e. a candidate label, not a vote count).
+    - cell at `section_marker_col`, stripped of trailing ' County', matches a known
+      NH county name AND the next cell (column 1) contains a non-numeric string
+      (i.e. a candidate label, not a vote count).
 
-    The second condition distinguishes a real section header from a row inside
-    the summary section that happens to have a county name in column 0
-    (e.g. row 3 of the summary block: `['Belknap', 20499, ...]`).
+    The second clause's non-numeric check distinguishes a true section header
+    from a row inside the summary block that happens to lead with a county name
+    (e.g. ['Belknap', 20499, ...]).
     """
     sections: list[_Section] = []
     marker_col = config.section_marker_col
@@ -275,17 +389,16 @@ def _find_sections(reader: WorkbookReader, config: ParserConfig) -> list[_Sectio
         candidate = label.removesuffix(" County").strip()
         if candidate not in NH_COUNTIES:
             continue
-        # Likely county name in cell 0; confirm by checking column 1 is a non-numeric string.
-        if not _looks_like_header_row(reader, row, config):
+        if not _looks_like_header_row(reader, row, marker_col):
             continue
         sections.append(_Section(header_row=row, county=candidate))
     return sections
 
 
-def _looks_like_header_row(reader: WorkbookReader, row: int, config: ParserConfig) -> bool:
+def _looks_like_header_row(reader: WorkbookReader, row: int, marker_col: int) -> bool:
     """True if `row` looks like a section header (candidate labels in cells 1+)
     rather than a data row (vote counts in cells 1+)."""
-    next_col = config.section_marker_col + 1
+    next_col = marker_col + 1
     if next_col >= reader.ncols:
         return False
     value = reader.cell_value(row, next_col)
@@ -302,3 +415,81 @@ def _with_bounds(sections: list[_Section], total_rows: int) -> Iterator[tuple[_S
     for i, section in enumerate(sections):
         next_start = sections[i + 1].header_row if i + 1 < len(sections) else total_rows
         yield section, next_start
+
+
+# ---------------------------------------------------------------------------
+# ExecutiveCouncilParser — one district per sheet, district from sheet name
+# ---------------------------------------------------------------------------
+
+
+class ExecutiveCouncilParser:
+    """Parses multi-sheet workbooks where each sheet is one whole district.
+
+    Used for NH Executive Council general elections. For each sheet whose
+    name matches `config.district_from_sheet_name`, the district number is
+    captured and the rest of the sheet is parsed via CongressionalParser
+    with `lookup_county_from_town=True` (since each row's town spans many
+    counties across districts).
+    """
+
+    def __init__(self, config: ExecutiveCouncilConfig, path: pathlib.Path):
+        self._config = config
+        self._path = path
+
+    def __iter__(self) -> Iterator[NormalizedRow]:
+        for sheet_index in range(WorkbookReader.sheet_count(self._path)):
+            reader = WorkbookReader(self._path, sheet_index=sheet_index)
+            district = self._district_for_sheet(reader.sheet_name)
+            if district is None:
+                continue
+            section_config = self._congressional_config_for_district(district)
+            yield from CongressionalParser(section_config, reader)
+
+    def _district_for_sheet(self, sheet_name: str) -> str | None:
+        match = self._config.district_from_sheet_name.search(sheet_name)
+        return match.group(1) if match else None
+
+    def _congressional_config_for_district(self, district: str) -> CongressionalConfig:
+        cfg = self._config
+        return CongressionalConfig(
+            office=cfg.office,
+            sheet_index=0,  # ignored; reader is already bound
+            header_row=cfg.header_row,
+            town_col=cfg.town_col,
+            candidate_cols_start=cfg.candidate_cols_start,
+            county=None,
+            district=district,
+            party_from_candidate=cfg.party_from_candidate,
+            skip_town_values=cfg.skip_town_values,
+            skip_empty_votes=cfg.skip_empty_votes,
+            lookup_county_from_town=True,
+        )
+
+
+# ---------------------------------------------------------------------------
+# Top-level factory
+# ---------------------------------------------------------------------------
+
+
+def parse_workbook(path: pathlib.Path, config: ParserConfig) -> Iterator[NormalizedRow]:
+    """Top-level entry point. Dispatches on the config's type.
+
+    Each shape has its own Parser class and Config dataclass. This factory
+    chooses the right Parser for the supplied Config. Adding a new shape is
+    a matter of writing a new Parser + Config and adding a branch here.
+    """
+    if isinstance(config, CongressionalConfig):
+        reader = WorkbookReader(path, sheet_index=config.sheet_index)
+        yield from CongressionalParser(config, reader)
+        return
+    if isinstance(config, StatewideByCountyConfig):
+        yield from StatewideByCountyParser(config, path)
+        return
+    if isinstance(config, ExecutiveCouncilConfig):
+        yield from ExecutiveCouncilParser(config, path)
+        return
+    raise TypeError(
+        f"parse_workbook: unknown config type {type(config).__name__}. "
+        f"Expected one of: CongressionalConfig, StatewideByCountyConfig, "
+        f"ExecutiveCouncilConfig."
+    )

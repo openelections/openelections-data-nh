@@ -6,13 +6,17 @@
 The Governor and US Senate workbooks use a multi-section-per-sheet shape:
 sheet 0 combines the per-state summary with Belknap's town-level data,
 and the final sheet combines Strafford + Sullivan in two stacked
-sections. `multi_sheet=True` and the section scanner handle both.
+sections. `StatewideByCountyConfig` and the section scanner handle both.
 """
 
 from __future__ import annotations
 
 from oe_nh.jobs import Job
-from oe_nh.parser import ParserConfig
+from oe_nh.parser import (
+    CongressionalConfig,
+    ExecutiveCouncilConfig,
+    StatewideByCountyConfig,
+)
 
 
 _GENERAL_FOLDER = "raw/2022/general"
@@ -27,10 +31,9 @@ JOBS: list[Job] = [
         output_basename="general__us__senate__precinct",
         folder=_GENERAL_FOLDER,
         files=[
-            ("us-senate.xls", ParserConfig(
+            ("us-senate.xls", StatewideByCountyConfig(
                 office="US Senate",
                 header_row=2,
-                multi_sheet=True,
             )),
         ],
         auto_discover=False,
@@ -43,11 +46,22 @@ JOBS: list[Job] = [
         output_basename="general__governor__precinct",
         folder=_GENERAL_FOLDER,
         files=[
-            ("governor.xls", ParserConfig(
+            ("governor.xls", StatewideByCountyConfig(
                 office="Governor",
                 header_row=2,
-                multi_sheet=True,
             )),
+        ],
+        auto_discover=False,
+    ),
+    Job(
+        office_slug="executive-council",
+        office_name="Executive Council",
+        election="general",
+        date="20221108",
+        output_basename="general__executive__council__precinct",
+        folder=_GENERAL_FOLDER,
+        files=[
+            ("executive-council.xls", ExecutiveCouncilConfig()),
         ],
         auto_discover=False,
     ),
@@ -59,13 +73,13 @@ JOBS: list[Job] = [
         output_basename="general__congressional__precinct",
         folder=_GENERAL_FOLDER,
         files=[
-            ("congressional-1.xlsx", ParserConfig(
+            ("congressional-1.xlsx", CongressionalConfig(
                 office="Congressional",
                 district="1",
                 header_row=2,
                 lookup_county_from_town=True,
             )),
-            ("congressional-2.xlsx", ParserConfig(
+            ("congressional-2.xlsx", CongressionalConfig(
                 office="Congressional",
                 district="2",
                 header_row=2,

@@ -1,4 +1,4 @@
-"""Tests for the multi-sheet / multi-section path through parse_workbook."""
+"""Tests for StatewideByCountyParser and the parse_workbook factory."""
 
 from __future__ import annotations
 
@@ -6,7 +6,11 @@ import pathlib
 
 import openpyxl
 
-from oe_nh.parser import ParserConfig, parse_workbook
+from oe_nh.parser import (
+    CongressionalConfig,
+    StatewideByCountyConfig,
+    parse_workbook,
+)
 
 
 def _multi_sheet_xlsx(path: pathlib.Path, sheets: list[tuple[str, list[list]]]) -> None:
@@ -58,7 +62,7 @@ def test_one_section_per_sheet(tmp_path: pathlib.Path) -> None:
         ("belknap", _county_sheet("Belknap")),
         ("carroll", _county_sheet("Carroll")),
     ])
-    cfg = ParserConfig(office="President", multi_sheet=True)
+    cfg = StatewideByCountyConfig(office="President")
     rows = list(parse_workbook(p, cfg))
     assert sorted({r.county for r in rows}) == ["Belknap", "Carroll"]
     # 2 counties * 2 towns * (2 candidates + Write-Ins) = 12; TOTALS skipped.
@@ -71,7 +75,7 @@ def test_skip_summary_section(tmp_path: pathlib.Path) -> None:
     _multi_sheet_xlsx(p, [
         ("sheet0", _summary_then_county_sheet("Belknap")),
     ])
-    cfg = ParserConfig(office="President", multi_sheet=True)
+    cfg = StatewideByCountyConfig(office="President")
     rows = list(parse_workbook(p, cfg))
     # Only Belknap rows should be emitted, not the per-county summary roll-up
     assert all(r.county == "Belknap" for r in rows)
@@ -90,7 +94,7 @@ def test_multiple_sections_in_one_sheet(tmp_path: pathlib.Path) -> None:
     ] + _county_section("Sullivan County")
     _multi_sheet_xlsx(p, [("combined", contents)])
 
-    cfg = ParserConfig(office="Governor", multi_sheet=True)
+    cfg = StatewideByCountyConfig(office="Governor")
     rows = list(parse_workbook(p, cfg))
     assert sorted({r.county for r in rows}) == ["Strafford", "Sullivan"]
     # Each section: 2 towns x 3 candidate-like columns = 6 rows -> 12 total
@@ -105,7 +109,7 @@ def test_county_section_data_rows_not_treated_as_headers(tmp_path: pathlib.Path)
     _multi_sheet_xlsx(p, [
         ("sheet0", _summary_then_county_sheet("Belknap")),
     ])
-    cfg = ParserConfig(office="President", multi_sheet=True)
+    cfg = StatewideByCountyConfig(office="President")
     rows = list(parse_workbook(p, cfg))
     # If the Summary's 'Belknap' data row were mistakenly treated as a section
     # header, we'd get duplicated Belknap output. Confirm we only see Belknap
@@ -118,7 +122,7 @@ def test_county_section_data_rows_not_treated_as_headers(tmp_path: pathlib.Path)
 def test_skips_county_totals_row(tmp_path: pathlib.Path) -> None:
     p = tmp_path / "x.xlsx"
     _multi_sheet_xlsx(p, [("c", _county_sheet("Belknap"))])
-    cfg = ParserConfig(office="X", multi_sheet=True)
+    cfg = StatewideByCountyConfig(office="X")
     rows = list(parse_workbook(p, cfg))
     assert "TOTALS" not in {r.precinct for r in rows}
 
@@ -134,7 +138,7 @@ def test_county_label_with_or_without_suffix(tmp_path: pathlib.Path) -> None:
     ] + _county_section("Coos County")
     _multi_sheet_xlsx(p, [("x", contents)])
 
-    cfg = ParserConfig(office="X", multi_sheet=True)
+    cfg = StatewideByCountyConfig(office="X")
     rows = list(parse_workbook(p, cfg))
     assert sorted({r.county for r in rows}) == ["Coos", "Hillsborough"]
 
@@ -147,13 +151,13 @@ def test_county_label_trailing_whitespace(tmp_path: pathlib.Path) -> None:
         ["", "noise", "", ""],
     ] + _county_section("Strafford   ")
     )])
-    cfg = ParserConfig(office="X", multi_sheet=True)
+    cfg = StatewideByCountyConfig(office="X")
     rows = list(parse_workbook(p, cfg))
     assert all(r.county == "Strafford" for r in rows)
 
 
 def test_single_sheet_unchanged(tmp_path: pathlib.Path) -> None:
-    """multi_sheet=False (Congressional-style) still goes through the simple path."""
+    """CongressionalConfig (single sheet) routes to CongressionalParser via the factory."""
     p = tmp_path / "x.xlsx"
     _multi_sheet_xlsx(p, [
         ("only", [
@@ -164,7 +168,7 @@ def test_single_sheet_unchanged(tmp_path: pathlib.Path) -> None:
             ["Albany", 100],
         ]),
     ])
-    cfg = ParserConfig(office="X", county="C", header_row=3)
+    cfg = CongressionalConfig(office="X", county="C", header_row=3)
     rows = list(parse_workbook(p, cfg))
     assert len(rows) == 1
     assert rows[0].precinct == "Albany"

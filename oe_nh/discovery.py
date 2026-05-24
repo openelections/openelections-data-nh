@@ -18,7 +18,7 @@ import pathlib
 import re
 
 from oe_nh.mappings.counties import county_from_slug
-from oe_nh.parser import ParserConfig
+from oe_nh.parser import CongressionalConfig, ParserConfig
 
 
 _EXTS = (".xls", ".xlsx")
@@ -33,7 +33,9 @@ def discover_files(
     """Return [(filename, ParserConfig)] for every file in `folder` matching the convention.
 
     Filenames are leaf names (not paths); callers compose with `folder` to get
-    a real path. Filenames are sorted for stable output.
+    a real path. Filenames are sorted for stable output. Auto-discovery only
+    produces `CongressionalConfig`s — multi-sheet shapes (StatewideByCountyConfig
+    etc.) must be set explicitly in the Job's `files=`.
     """
     if not folder.is_dir():
         return []
@@ -48,10 +50,10 @@ def discover_files(
     return out
 
 
-def _classify(stem: str, office_slug: str, office_name: str) -> ParserConfig | None:
-    """Turn a filename stem into a ParserConfig if it matches the convention."""
+def _classify(stem: str, office_slug: str, office_name: str) -> CongressionalConfig | None:
+    """Turn a filename stem into a CongressionalConfig if it matches the convention."""
     if stem == office_slug:
-        return ParserConfig(office=office_name)
+        return CongressionalConfig(office=office_name)
 
     prefix = f"{office_slug}-"
     if not stem.startswith(prefix):
@@ -60,16 +62,16 @@ def _classify(stem: str, office_slug: str, office_name: str) -> ParserConfig | N
 
     county = county_from_slug(location)
     if county is not None:
-        return ParserConfig(office=office_name, county=county)
+        return CongressionalConfig(office=office_name, county=county)
 
     digits = _DIGITS.search(location)
     if digits is not None:
-        return ParserConfig(office=office_name, district=digits.group(0))
+        return CongressionalConfig(office=office_name, district=digits.group(0))
 
     # Unknown location segment — emit with an empty county/district. The
     # parser will still produce rows; the user can override via Job.files
     # if they want a smarter mapping for this file.
-    return ParserConfig(office=office_name)
+    return CongressionalConfig(office=office_name)
 
 
 def merge(

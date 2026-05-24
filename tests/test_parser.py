@@ -1,4 +1,4 @@
-"""Unit tests for Parser + ParserConfig."""
+"""Unit tests for CongressionalParser + CongressionalConfig."""
 
 from __future__ import annotations
 
@@ -6,7 +6,12 @@ import pathlib
 
 import openpyxl
 
-from oe_nh.parser import NormalizedRow, Parser, ParserConfig, _coerce_votes
+from oe_nh.parser import (
+    CongressionalConfig,
+    CongressionalParser,
+    NormalizedRow,
+    _coerce_votes,
+)
 from oe_nh.workbook import WorkbookReader
 
 
@@ -18,8 +23,8 @@ def _xlsx(path: pathlib.Path, rows: list[list]) -> None:
     wb.save(path)
 
 
-def _read(path: pathlib.Path, config: ParserConfig) -> list[NormalizedRow]:
-    return list(Parser(config, WorkbookReader(path)))
+def _read(path: pathlib.Path, config: CongressionalConfig) -> list[NormalizedRow]:
+    return list(CongressionalParser(config, WorkbookReader(path)))
 
 
 def test_basic_two_candidates(tmp_path: pathlib.Path) -> None:
@@ -32,7 +37,7 @@ def test_basic_two_candidates(tmp_path: pathlib.Path) -> None:
         ["Albany", 142, 202],
         ["Bartlett", 730, 1094],
     ])
-    rows = _read(p, ParserConfig(office="President", county="Carroll"))
+    rows = _read(p, CongressionalConfig(office="President", county="Carroll"))
     assert rows == [
         NormalizedRow("Carroll", "Albany", "President", "", "R", "Trump", 142),
         NormalizedRow("Carroll", "Albany", "President", "", "D", "Biden", 202),
@@ -52,7 +57,7 @@ def test_blank_rows_skipped(tmp_path: pathlib.Path) -> None:
         ["", ""],            # blank town -> skip
         ["Bartlett", 50],
     ])
-    rows = _read(p, ParserConfig(office="President", county="Carroll"))
+    rows = _read(p, CongressionalConfig(office="President", county="Carroll"))
     assert [r.precinct for r in rows] == ["Albany", "Bartlett"]
 
 
@@ -69,7 +74,7 @@ def test_skip_town_values(tmp_path: pathlib.Path) -> None:
     ])
     rows = _read(
         p,
-        ParserConfig(
+        CongressionalConfig(
             office="President",
             county="Carroll",
             skip_town_values=frozenset({"County Total"}),
@@ -85,7 +90,7 @@ def test_party_in_candidate_label(tmp_path: pathlib.Path) -> None:
         ["Town", "Smith"],   # no party in label
         ["Albany", 100],
     ])
-    rows = _read(p, ParserConfig(office="X", county="Y"))
+    rows = _read(p, CongressionalConfig(office="X", county="Y"))
     assert rows[0].candidate == "Smith"
     assert rows[0].party == ""
 
@@ -97,7 +102,7 @@ def test_empty_votes_skipped_by_default(tmp_path: pathlib.Path) -> None:
         ["Town", "Trump, R", "Biden, D"],
         ["Albany", 100, ""],
     ])
-    rows = _read(p, ParserConfig(office="X", county="Y"))
+    rows = _read(p, CongressionalConfig(office="X", county="Y"))
     assert [(r.candidate, r.votes) for r in rows] == [("Trump", 100)]
 
 
@@ -108,7 +113,7 @@ def test_empty_votes_emitted_as_zero_when_configured(tmp_path: pathlib.Path) -> 
         ["Town", "Trump, R", "Biden, D"],
         ["Albany", 100, ""],
     ])
-    rows = _read(p, ParserConfig(office="X", county="Y", skip_empty_votes=False))
+    rows = _read(p, CongressionalConfig(office="X", county="Y", skip_empty_votes=False))
     assert [(r.candidate, r.votes) for r in rows] == [("Trump", 100), ("Biden", 0)]
 
 
@@ -119,7 +124,7 @@ def test_district_set_on_every_row(tmp_path: pathlib.Path) -> None:
         ["Town", "Smith, R"],
         ["Albany", 100],
     ])
-    rows = _read(p, ParserConfig(office="Congressional", county="Carroll", district="1"))
+    rows = _read(p, CongressionalConfig(office="Congressional", county="Carroll", district="1"))
     assert rows[0].district == "1"
 
 
@@ -130,7 +135,7 @@ def test_county_empty_string_when_none(tmp_path: pathlib.Path) -> None:
         ["Town", "Smith, R"],
         ["Albany", 100],
     ])
-    rows = _read(p, ParserConfig(office="X"))
+    rows = _read(p, CongressionalConfig(office="X"))
     assert rows[0].county == ""
 
 
@@ -142,7 +147,7 @@ def test_float_int_values_coerced(tmp_path: pathlib.Path) -> None:
         ["Town", "Smith, R"],
         ["Albany", 100.0],
     ])
-    rows = _read(p, ParserConfig(office="X"))
+    rows = _read(p, CongressionalConfig(office="X"))
     assert rows[0].votes == 100
     assert isinstance(rows[0].votes, int)
 

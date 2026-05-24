@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import importlib
 import pathlib
+import re
 import sys
 from typing import Iterable
 
@@ -15,6 +16,34 @@ from oe_nh.writer import write_csv
 
 
 REPO_ROOT = pathlib.Path(__file__).resolve().parent.parent
+
+_YEAR_MODULE_RE = re.compile(r"^nh_(\d{4})\.py$")
+
+
+def _registered_years() -> list[int]:
+    """Discover all `nh_<year>.py` modules under oe_nh/jobs/ at runtime.
+
+    This lets `--year` and `--office` choices stay in lock-step with the
+    registry without manual maintenance: drop a new nh_<year>.py file in
+    place and it shows up in --help automatically.
+    """
+    pkg = importlib.import_module("oe_nh.jobs")
+    pkg_dir = pathlib.Path(pkg.__file__).parent  # type: ignore[arg-type]
+    years: list[int] = []
+    for path in pkg_dir.iterdir():
+        match = _YEAR_MODULE_RE.match(path.name)
+        if match:
+            years.append(int(match.group(1)))
+    return sorted(years)
+
+
+def _all_office_slugs() -> list[str]:
+    """Union of office_slugs across every registered year module."""
+    offices: set[str] = set()
+    for year in _registered_years():
+        for job in _load_jobs(year):
+            offices.add(job.office_slug)
+    return sorted(offices)
 
 
 def _load_jobs(year: int) -> list[Job]:
@@ -66,11 +95,10 @@ def _output_path(year: int, job: Job) -> pathlib.Path:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Parse NH election workbooks into OpenElections CSVs.")
-    parser.add_argument("--year", type=int, required=True, choices=[2022, 2024])
+    parser.add_argument("--year", type=int, required=True, choices=_registered_years())
     parser.add_argument("--election", required=True,
                         choices=["presidential-primary", "state-primary", "general"])
-    parser.add_argument("--office", required=True,
-                        choices=["president", "us-senate", "governor", "congressional"])
+    parser.add_argument("--office", required=True, choices=_all_office_slugs())
     # us-senate is the canonical slug; the NH SoS files sometimes use 'us-senator'.
     args = parser.parse_args(argv)
 
