@@ -19,6 +19,15 @@ read-only history.
 
 ### Quick start: re-generate an existing year's CSVs
 
+The framework runs on Python 3 via [uv](https://docs.astral.sh/uv/).
+If you don't have `uv` yet, install it with one of:
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh   # Mac or Linux
+brew install uv                                    # Mac with Homebrew
+pip install uv                                     # any platform with Python + pip
+```
+
 All `uv` commands below run in a terminal, from the project root
 (the directory that contains this `README.md`).
 
@@ -44,7 +53,7 @@ the build's pre-flight scan, not at argument-parse time.
 ### Adding a new election year
 
 NH SoS publishes new election workbooks roughly six weeks after the
-election. To add a year (say 2026), three commands total:
+election. To add a year (say 2026):
 
 1. **Scaffold the year:**
 
@@ -65,46 +74,31 @@ election. To add a year (say 2026), three commands total:
    [scripts/fetch-raw.md](scripts/fetch-raw.md) for the per-office
    download details.
 
-   **Drop the downloaded files into `raw/2026/general/`.** You don't
-   have to rename them — the framework recognizes both canonical
-   short-form names and the longer names the SoS publishes
-   (`2026-ge-house-belknap_1.xls` and `house-belknap.xls` both work).
-   The canonical short forms for reference:
+   **Drop the downloaded files into `raw/2026/general/`.** No need to
+   rename them — the framework recognizes SoS-shaped filenames as well
+   as canonical short forms.
 
-   | Office | Canonical filename(s) |
-   | --- | --- |
-   | President | `president.xls[x]` |
-   | Governor | `governor.xls[x]` |
-   | US Senate | `us-senate.xls[x]` |
-   | Congressional | `congressional-1.xls[x]`, `congressional-2.xls[x]` |
-   | Executive Council | `executive-council.xls[x]` |
-   | State Senate | `state-senate.xls[x]` |
-   | State Representative | `house-belknap.xls[x]`, `house-carroll.xls[x]`, … (one per NH county) |
-
-   The build command's pre-flight scan tells you which files matched
-   which office (and which weren't recognized), so any naming mistake
-   is surfaced before parsing starts. Offices that aren't on the
-   year's ballot (e.g. no Presidential in midterms) just show up as
-   `⚠️ skipped` in the summary — not an error.
-
-3. **Build everything in one shot:**
+3. **Build the CSVs:**
 
    ```bash
    uv run python -m oe_nh.cli --year 2026
    ```
 
-   You'll get a pre-flight scan ("found these files, will build these
-   offices, ignoring these unknowns"), per-office build lines, and a
-   trailing summary with ✅/⚠️/❌ status and total row counts. CSVs
-   land under `2026/`. Anything missing or surprising is reported
-   once, in the summary — no need to scroll through logs.
+   You'll get a pre-flight scan, per-office build lines, and a trailing
+   summary with ✅/⚠️/❌ status and row counts. CSVs land under
+   `2026/`. Anything missing or surprising is reported once, in the
+   summary — see "Details for Nerds" below for what `⚠️` and `❓` mean.
 
-4. **Commit** the new raw files (`raw/2026/general/*.xls*`) AND the
-   generated CSVs (`2026/*.csv`) AND `raw/2026/.dates.json`. All three
+4. **Commit** the new raw files (`raw/2026/general/*.xls*`), the
+   generated CSVs (`2026/*.csv`), and `raw/2026/.dates.json`. All three
    belong in version control: raw files so the build is reproducible,
    CSVs because they're the published product OpenElections consumes,
    and the dates file because it's what tells the framework this year
    is registered.
+
+---------
+
+## Details for Nerds
 
 ### Output conventions
 
@@ -134,3 +128,27 @@ Parser + Config dataclass (`CongressionalParser`,
 `parse_workbook(path, config)` factory dispatches on config type. Add a
 new shape by writing a new Parser + Config and adding a branch to the
 factory plus an entry to `discovery._DISPATCH`.
+
+### File Naming Details
+
+**Drop the downloaded files into `raw/2026/general/`.** You don't
+   have to rename them — the framework recognizes both canonical
+   short-form names and the longer names the SoS publishes
+   (`2026-ge-house-belknap_1.xls` and `house-belknap.xls` both work).
+   The canonical short forms for reference:
+
+   | Office | Canonical filename(s) |
+   | --- | --- |
+   | President | `president.xls[x]` |
+   | Governor | `governor.xls[x]` |
+   | US Senate | `us-senate.xls[x]` |
+   | Congressional | `congressional-1.xls[x]`, `congressional-2.xls[x]` |
+   | Executive Council | `executive-council.xls[x]` |
+   | State Senate | `state-senate.xls[x]` |
+   | State Representative | `house-belknap.xls[x]`, `house-carroll.xls[x]`, … (one per NH county) |
+
+   The build command's pre-flight scan tells you which files matched
+   which office (and which weren't recognized), so any naming mistake
+   is surfaced before parsing starts. Offices that aren't on the
+   year's ballot (e.g. no Presidential in midterms) just show up as
+   `⚠️ skipped` in the summary — not an error.
