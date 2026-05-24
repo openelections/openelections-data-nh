@@ -15,6 +15,7 @@ from oe_nh.jobs import Job
 from oe_nh.parser import (
     CongressionalConfig,
     ExecutiveCouncilConfig,
+    StateSenateConfig,
     StatewideByCountyConfig,
 )
 
@@ -50,6 +51,18 @@ JOBS: list[Job] = [
                 office="Governor",
                 header_row=2,
             )),
+        ],
+        auto_discover=False,
+    ),
+    Job(
+        office_slug="state-senate",
+        office_name="State Senate",
+        election="general",
+        date="20221108",
+        output_basename="general__state__senate__precinct",
+        folder=_GENERAL_FOLDER,
+        files=[
+            ("state-senate.xls", StateSenateConfig()),
         ],
         auto_discover=False,
     ),

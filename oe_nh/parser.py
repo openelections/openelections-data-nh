@@ -176,8 +176,51 @@ class ExecutiveCouncilConfig:
     skip_empty_votes: bool = True
 
 
+@dataclass(frozen=True)
+class StateSenateConfig:
+    """Multi-sheet workbook with one or more district sections per sheet.
+
+    Used for NH State Senate general elections. Most sheets hold one
+    district (``senate 1`` ... ``senate 9``), but a handful bundle 2–3
+    districts back-to-back (``senate 10 and 11``, ``Senate 14 - 16``,
+    etc.). Each district begins with a marker row whose first cell
+    matches ``district_section_marker``; the candidate header is the
+    NEXT row, and data continues until the following marker or the end
+    of the sheet. Sheets named in ``skip_sheet_names`` (e.g. an empty
+    'Sheet1' tab in 2024) are silently skipped.
+    """
+
+    office: str = "State Senate"
+    """Office name written into every row."""
+
+    town_col: int = 0
+    """Zero-indexed column containing the town/precinct name."""
+
+    candidate_cols_start: int = 1
+    """First data column. The header row's col 0 holds a date (or blank), ignored."""
+
+    district_section_marker: re.Pattern = re.compile(
+        r"^State Senate District\s+(\d+)", re.IGNORECASE
+    )
+    """Pattern matched against cell 0 of each row. The first capture group
+    is the district number. The candidate header row sits at marker_row + 1."""
+
+    skip_sheet_names: frozenset[str] = frozenset({"Sheet1"})
+    """Sheet names that should be silently skipped (e.g. empty
+    leftover 'Sheet1' in some workbooks)."""
+
+    party_from_candidate: bool = True
+    skip_town_values: frozenset[str] = frozenset({"TOTALS", "Totals", "Total"})
+    skip_empty_votes: bool = True
+
+
 # Type alias for "any parser config", useful in shared callsites (jobs, cli).
-ParserConfig = Union[CongressionalConfig, StatewideByCountyConfig, ExecutiveCouncilConfig]
+ParserConfig = Union[
+    CongressionalConfig,
+    StatewideByCountyConfig,
+    ExecutiveCouncilConfig,
+    StateSenateConfig,
+]
 
 
 # ---------------------------------------------------------------------------
@@ -467,6 +510,92 @@ class ExecutiveCouncilParser:
 
 
 # ---------------------------------------------------------------------------
+# StateSenateParser — multi-sheet with within-sheet district scanning
+# ---------------------------------------------------------------------------
+
+
+@dataclass(frozen=True)
+class _DistrictSection:
+    """One district section within a sheet (State Senate shape)."""
+    marker_row: int   # row where 'State Senate District N' lives (cell 0)
+    header_row: int   # marker_row + 1; row with candidate names in cells 1+
+    district: str     # captured district number as a string
+
+
+class StateSenateParser:
+    """Parses multi-sheet workbooks where each sheet holds one or more districts.
+
+    Used for NH State Senate. For each sheet (except those in
+    `skip_sheet_names`), scans every row for the district marker pattern.
+    Each match opens a section bounded by the next marker (or end of sheet)
+    and is parsed by an internal CongressionalParser whose header is at
+    marker_row + 1.
+    """
+
+    def __init__(self, config: StateSenateConfig, path: pathlib.Path):
+        self._config = config
+        self._path = path
+
+    def __iter__(self) -> Iterator[NormalizedRow]:
+        for sheet_index in range(WorkbookReader.sheet_count(self._path)):
+            reader = WorkbookReader(self._path, sheet_index=sheet_index)
+            if reader.sheet_name in self._config.skip_sheet_names:
+                continue
+            sections = self._find_district_sections(reader)
+            for section, next_start in _with_district_bounds(sections, reader.nrows):
+                cong_config = self._congressional_config_for_district(section)
+                yield from CongressionalParser(cong_config, reader, stop_row=next_start)
+
+    def _find_district_sections(self, reader: WorkbookReader) -> list[_DistrictSection]:
+        sections: list[_DistrictSection] = []
+        marker_re = self._config.district_section_marker
+        for row in range(reader.nrows):
+            cell = reader.cell_value(row, 0)
+            label = "" if cell is None else str(cell).strip()
+            if not label:
+                continue
+            match = marker_re.match(label)
+            if match is None:
+                continue
+            sections.append(_DistrictSection(
+                marker_row=row,
+                header_row=row + 1,
+                district=match.group(1),
+            ))
+        return sections
+
+    def _congressional_config_for_district(
+        self, section: _DistrictSection
+    ) -> CongressionalConfig:
+        cfg = self._config
+        return CongressionalConfig(
+            office=cfg.office,
+            sheet_index=0,  # ignored; reader is already bound
+            header_row=section.header_row,
+            town_col=cfg.town_col,
+            candidate_cols_start=cfg.candidate_cols_start,
+            county=None,
+            district=section.district,
+            party_from_candidate=cfg.party_from_candidate,
+            skip_town_values=cfg.skip_town_values,
+            skip_empty_votes=cfg.skip_empty_votes,
+            lookup_county_from_town=True,
+        )
+
+
+def _with_district_bounds(
+    sections: list[_DistrictSection], total_rows: int
+) -> Iterator[tuple[_DistrictSection, int]]:
+    """Yield each district section paired with the next section's marker row
+    (or `total_rows` for the last). Using the next marker_row (not header_row)
+    as the bound ensures the next section's marker is excluded from the
+    current section's data iteration."""
+    for i, section in enumerate(sections):
+        next_start = sections[i + 1].marker_row if i + 1 < len(sections) else total_rows
+        yield section, next_start
+
+
+# ---------------------------------------------------------------------------
 # Top-level factory
 # ---------------------------------------------------------------------------
 
@@ -488,8 +617,11 @@ def parse_workbook(path: pathlib.Path, config: ParserConfig) -> Iterator[Normali
     if isinstance(config, ExecutiveCouncilConfig):
         yield from ExecutiveCouncilParser(config, path)
         return
+    if isinstance(config, StateSenateConfig):
+        yield from StateSenateParser(config, path)
+        return
     raise TypeError(
         f"parse_workbook: unknown config type {type(config).__name__}. "
         f"Expected one of: CongressionalConfig, StatewideByCountyConfig, "
-        f"ExecutiveCouncilConfig."
+        f"ExecutiveCouncilConfig, StateSenateConfig."
     )
