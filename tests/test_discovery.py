@@ -5,8 +5,9 @@ from __future__ import annotations
 import pathlib
 
 import openpyxl
+import pytest
 
-from oe_nh.discovery import discover_files, merge
+from oe_nh.discovery import _normalize_sos_stem, discover_files, merge
 from oe_nh.parser import (
     CongressionalConfig,
     ExecutiveCouncilConfig,
@@ -240,3 +241,105 @@ def test_merge_preserves_discovered_order() -> None:
     explicit = [("c.xls", CongressionalConfig(office="X"))]
     out = merge(discovered, explicit)
     assert [name for name, _ in out] == ["a.xls", "b.xls", "c.xls"]
+
+
+# ---------------------------------------------------------------------------
+# SoS-shape normalization (strip year prefix, election prefix, _N revision,
+# -district-N-M suffix, and the standalone "district" word in compound names)
+# ---------------------------------------------------------------------------
+
+
+@pytest.mark.parametrize("stem,expected", [
+    # Already canonical → unchanged
+    ("governor", "governor"),
+    ("house-belknap", "house-belknap"),
+    ("congressional-1", "congressional-1"),
+    ("executive-council", "executive-council"),
+    # Year prefix
+    ("2024-governor", "governor"),
+    ("2022-governor", "governor"),
+    # Election prefix (ge = General, sp = State Primary, pp = Presidential Primary)
+    ("2024-ge-house-belknap", "house-belknap"),
+    ("2022-ge-governor", "governor"),
+    # _N revision suffix
+    ("house-belknap_1", "house-belknap"),
+    ("2024-ge-house-belknap_2", "house-belknap"),
+    # Multi-district statewide suffix (Exec Council 1-5, State Senate 1-24)
+    ("executive-council-district-1-5", "executive-council"),
+    ("2022-executive-council-district-1-5_0", "executive-council"),
+    ("state-senate-district-1-24", "state-senate"),
+    ("2022-ge-state-senate-district-1-24_1", "state-senate"),
+    # Standalone "district" word in single-district compounds
+    ("congressional-district-1", "congressional-1"),
+    ("congressional-district-2", "congressional-2"),
+    # All decorations at once
+    ("2024-ge-state-senate-district-1-24_4", "state-senate"),
+    # Unknown stems pass through (discovery decides whether they match)
+    ("ballots-cast", "ballots-cast"),
+    ("notes", "notes"),
+])
+def test_normalize_sos_stem(stem: str, expected: str) -> None:
+    assert _normalize_sos_stem(stem) == expected
+
+
+# ---------------------------------------------------------------------------
+# Discovery picks up SoS-shaped filenames (not just canonical)
+# ---------------------------------------------------------------------------
+
+
+def test_discover_governor_accepts_sos_form(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "2024-ge-governor.xls")
+    out = discover_files(tmp_path, "governor", "Governor")
+    assert out == [(
+        "2024-ge-governor.xls",
+        StatewideByCountyConfig(office="Governor", header_row=2),
+    )]
+
+
+def test_discover_state_senate_accepts_sos_form(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "2022-ge-state-senate-district-1-24_1.xls")
+    out = discover_files(tmp_path, "state-senate", "State Senate")
+    assert out == [(
+        "2022-ge-state-senate-district-1-24_1.xls",
+        StateSenateConfig(office="State Senate"),
+    )]
+
+
+def test_discover_executive_council_accepts_sos_form(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "2022-executive-council-district-1-5_0.xls")
+    out = discover_files(tmp_path, "executive-council", "Executive Council")
+    assert out == [(
+        "2022-executive-council-district-1-5_0.xls",
+        ExecutiveCouncilConfig(office="Executive Council"),
+    )]
+
+
+def test_discover_house_accepts_sos_form(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "2024-ge-house-belknap_2.xls")
+    _make(tmp_path / "house-carroll.xlsx")
+    out = discover_files(tmp_path, "state-representative", "State Representative")
+    assert out == [
+        ("2024-ge-house-belknap_2.xls", StateRepresentativeConfig(
+            office="State Representative", county="Belknap",
+        )),
+        ("house-carroll.xlsx", StateRepresentativeConfig(
+            office="State Representative", county="Carroll",
+        )),
+    ]
+
+
+def test_discover_congressional_accepts_district_word(tmp_path: pathlib.Path) -> None:
+    """`congressional-district-1.xlsx` (which Tom encountered) should match."""
+    _make(tmp_path / "congressional-district-1.xlsx")
+    _make(tmp_path / "congressional-district-2.xlsx")
+    out = discover_files(tmp_path, "congressional", "Congressional")
+    assert out == [
+        ("congressional-district-1.xlsx", CongressionalConfig(
+            office="Congressional", district="1", header_row=2,
+            lookup_county_from_town=True,
+        )),
+        ("congressional-district-2.xlsx", CongressionalConfig(
+            office="Congressional", district="2", header_row=2,
+            lookup_county_from_town=True,
+        )),
+    ]

@@ -42,6 +42,39 @@ from oe_nh.parser import (
 _EXTS = (".xls", ".xlsx")
 _DIGITS = re.compile(r"\d+")
 
+# Decorations the NH SoS puts on filenames that we strip before matching:
+_SOS_YEAR_PREFIX = re.compile(r"^\d{4}-")
+_SOS_ELECTION_PREFIX = re.compile(r"^(?:ge|gn|sp|pp)-")
+_SOS_REVISION_SUFFIX = re.compile(r"_\d+$")
+# Multi-district statewide files end in `-district-N-M` (e.g.
+# `executive-council-district-1-5` for Exec Council's 5 districts, or
+# `state-senate-district-1-24` for State Senate's 24).
+_SOS_DISTRICT_RANGE_SUFFIX = re.compile(r"-district-\d+-\d+$")
+# Single-district files sometimes spell it `-district-N` (e.g.
+# `congressional-district-1`); compress to `-N`.
+_SOS_DISTRICT_WORD = re.compile(r"-district-(\d+)$")
+
+
+def _normalize_sos_stem(stem: str) -> str:
+    """Strip common NH SoS upstream decorations from a filename stem to expose
+    the canonical form the dispatch table expects.
+
+    Examples (left = SoS form, right = canonical):
+      `2024-ge-house-belknap_1`             -> `house-belknap`
+      `2022-executive-council-district-1-5_0` -> `executive-council`
+      `2022-ge-state-senate-district-1-24_1`  -> `state-senate`
+      `congressional-district-1`            -> `congressional-1`
+      `governor`                            -> `governor`  (no change)
+
+    Idempotent — already-canonical stems pass through unchanged.
+    """
+    s = _SOS_YEAR_PREFIX.sub("", stem)
+    s = _SOS_ELECTION_PREFIX.sub("", s)
+    s = _SOS_REVISION_SUFFIX.sub("", s)
+    s = _SOS_DISTRICT_RANGE_SUFFIX.sub("", s)
+    s = _SOS_DISTRICT_WORD.sub(r"-\1", s)
+    return s
+
 
 @dataclass(frozen=True)
 class _OfficeDispatch:
@@ -132,7 +165,8 @@ def discover_files(
     for path in sorted(folder.iterdir()):
         if path.suffix.lower() not in _EXTS:
             continue
-        location = _match_filename(path.stem, office_slug, dispatch.filename_pattern)
+        canonical_stem = _normalize_sos_stem(path.stem)
+        location = _match_filename(canonical_stem, office_slug, dispatch.filename_pattern)
         if location is None:
             continue
         config = dispatch.config_factory(office_name, location)
@@ -142,7 +176,8 @@ def discover_files(
 
 def _match_filename(stem: str, office_slug: str, pattern: str) -> str | None:
     """Return the captured location (or '' for statewide-no-location) if `stem`
-    matches the pattern, else None."""
+    matches the pattern, else None. `stem` is the canonical form (post-
+    `_normalize_sos_stem`)."""
     if pattern == "statewide":
         return "" if stem == office_slug else None
 
