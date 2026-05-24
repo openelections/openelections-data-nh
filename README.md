@@ -9,3 +9,15 @@ Here is what a [finished CSV file (from Ohio)](https://github.com/openelections/
 For extracting text from PDF tables, we recommend [Tabula](http://tabula.technology/), which can be installed and run locally on OSX, Windows or Linux.
 
 If you're familiar with git and Github, clone this repository and get started. If not, you can still help: leave a comment on a task you'd like to work on, or just convert any of the files into CSV and send the result to openelections@gmail.com.
+
+## Conventions for the modern parser framework
+
+The 2022+ output CSVs (produced by `oe_nh/`) follow these conventions:
+
+- **Output schema** is `county,precinct,office,district,party,candidate,votes` — one row per (precinct, candidate) pair.
+- **Office names** are: `President`, `Governor`, `US Senate`, `Congressional`, `Executive Council`, `State Senate`, `State Representative`.
+- **Floterial House districts** are emitted with an `F` suffix on the district column — e.g. Belknap's two-seat floterial that overlays Districts 1–7 appears as `district="8F"`. The SoS source file marks these with either `F` or `FL` on the district header (`District No. 8 (2) F` or `District No. 14 (1) FL`); both are normalized to `F` in output.
+- **Recount columns** that the SoS sometimes interleaves alongside certified counts (e.g. inline `Recount` columns in some 2022 House districts; whole `RECOUNT FIGURES` duplicate district sections in 2024 Strafford) are **dropped**. We ship certified counts only. To get recount data, go to the SoS source files.
+- **`BLC` columns** that appear in a handful of 2022 Rockingham House districts alongside Recount columns (an auxiliary ballot-related count whose meaning we haven't confirmed) are also **dropped**. If you know what BLC stands for and want it surfaced, open an issue.
+- **Write-Ins / Undervotes / Overvotes** (in 2024 SoS files) are emitted as candidate rows with empty `party`. The `candidate` value is the literal column header (`Write-Ins`, `Undervotes`, `Overvotes`).
+- **Source-file naming and per-office shape details** live in [scripts/fetch-raw.md](scripts/fetch-raw.md).
