@@ -85,6 +85,12 @@ def _parsed_rows(job: Job) -> Iterable[NormalizedRow]:
     for path, config in resolved:
         if not path.exists():
             raise SystemExit(f"Missing raw file: {path}")
+        # Surface what auto-discovery picked so a human can sanity-check.
+        # Goes to stderr so it doesn't pollute the CSV pipeline.
+        print(
+            f"  {path.relative_to(REPO_ROOT)} -> {type(config).__name__}",
+            file=sys.stderr,
+        )
         yield from parse_workbook(path, config)
 
 

@@ -16,29 +16,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 
-from oe_nh.parser import ParserConfig, StateRepresentativeConfig
-
-
-# State Rep ships one workbook per county. Shared by every year's Job
-# registry so the canonical county list lives in one place.
-HOUSE_COUNTIES: tuple[str, ...] = (
-    "Belknap", "Carroll", "Cheshire", "Coos", "Grafton",
-    "Hillsborough", "Merrimack", "Rockingham", "Strafford", "Sullivan",
-)
-
-
-def house_files(
-    xlsx_counties: frozenset[str] = frozenset(),
-) -> list[tuple[str, StateRepresentativeConfig]]:
-    """Build `[(filename, StateRepresentativeConfig(county=X)), ...]` for all
-    10 counties. `xlsx_counties` is the set of county slugs (lowercase) whose
-    file is .xlsx instead of .xls — NH SoS mixes formats year to year."""
-    out = []
-    for county in HOUSE_COUNTIES:
-        slug = county.lower()
-        ext = "xlsx" if slug in xlsx_counties else "xls"
-        out.append((f"house-{slug}.{ext}", StateRepresentativeConfig(county=county)))
-    return out
+from oe_nh.parser import ParserConfig
 
 
 @dataclass(frozen=True)

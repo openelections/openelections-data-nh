@@ -1,4 +1,4 @@
-"""Unit tests for oe_nh.discovery."""
+"""Unit tests for oe_nh.discovery (per-shape dispatch + legacy fallback)."""
 
 from __future__ import annotations
 
@@ -7,7 +7,13 @@ import pathlib
 import openpyxl
 
 from oe_nh.discovery import discover_files, merge
-from oe_nh.parser import CongressionalConfig
+from oe_nh.parser import (
+    CongressionalConfig,
+    ExecutiveCouncilConfig,
+    StateRepresentativeConfig,
+    StateSenateConfig,
+    StatewideByCountyConfig,
+)
 
 
 def _make(path: pathlib.Path) -> None:
@@ -20,6 +26,140 @@ def _make(path: pathlib.Path) -> None:
         path.write_bytes(b"\xd0\xcf\x11\xe0fake")
 
 
+# ---------------------------------------------------------------------------
+# Statewide-shape dispatch (president, governor, us-senate, executive-council,
+# state-senate) — exactly one canonical file per office.
+# ---------------------------------------------------------------------------
+
+
+def test_discover_president_statewide(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "president.xls")
+    out = discover_files(tmp_path, "president", "President")
+    assert out == [(
+        "president.xls",
+        StatewideByCountyConfig(office="President", header_row=2),
+    )]
+
+
+def test_discover_governor_statewide(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "governor.xlsx")
+    out = discover_files(tmp_path, "governor", "Governor")
+    assert out == [(
+        "governor.xlsx",
+        StatewideByCountyConfig(office="Governor", header_row=2),
+    )]
+
+
+def test_discover_us_senate_statewide(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "us-senate.xlsx")
+    out = discover_files(tmp_path, "us-senate", "US Senate")
+    assert out == [(
+        "us-senate.xlsx",
+        StatewideByCountyConfig(office="US Senate", header_row=2),
+    )]
+
+
+def test_discover_executive_council(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "executive-council.xls")
+    out = discover_files(tmp_path, "executive-council", "Executive Council")
+    assert out == [(
+        "executive-council.xls",
+        ExecutiveCouncilConfig(office="Executive Council"),
+    )]
+
+
+def test_discover_state_senate(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "state-senate.xls")
+    out = discover_files(tmp_path, "state-senate", "State Senate")
+    assert out == [(
+        "state-senate.xls",
+        StateSenateConfig(office="State Senate"),
+    )]
+
+
+def test_statewide_dispatch_ignores_per_county_files(tmp_path: pathlib.Path) -> None:
+    """A statewide-only office should not pick up per-county-looking files."""
+    _make(tmp_path / "president.xls")
+    _make(tmp_path / "president-belknap.xls")
+    out = discover_files(tmp_path, "president", "President")
+    assert [name for name, _ in out] == ["president.xls"]
+
+
+# ---------------------------------------------------------------------------
+# Congressional dispatch (one file per district, district captured from filename)
+# ---------------------------------------------------------------------------
+
+
+def test_discover_congressional_districts(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "congressional-1.xlsx")
+    _make(tmp_path / "congressional-2.xlsx")
+    out = discover_files(tmp_path, "congressional", "Congressional")
+    assert out == [
+        ("congressional-1.xlsx", CongressionalConfig(
+            office="Congressional", district="1", header_row=2,
+            lookup_county_from_town=True,
+        )),
+        ("congressional-2.xlsx", CongressionalConfig(
+            office="Congressional", district="2", header_row=2,
+            lookup_county_from_town=True,
+        )),
+    ]
+
+
+def test_discover_congressional_district_from_prefix(tmp_path: pathlib.Path) -> None:
+    """`congressional-cd-1.xlsx` should still extract district='1'."""
+    _make(tmp_path / "congressional-cd-1.xlsx")
+    out = discover_files(tmp_path, "congressional", "Congressional")
+    assert out == [(
+        "congressional-cd-1.xlsx",
+        CongressionalConfig(
+            office="Congressional", district="1", header_row=2,
+            lookup_county_from_town=True,
+        ),
+    )]
+
+
+# ---------------------------------------------------------------------------
+# State Representative dispatch (one file per county, prefix is "house-")
+# ---------------------------------------------------------------------------
+
+
+def test_discover_state_representative_by_county(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "house-belknap.xls")
+    _make(tmp_path / "house-carroll.xlsx")
+    _make(tmp_path / "house-cheshire.xls")
+    out = discover_files(tmp_path, "state-representative", "State Representative")
+    assert out == [
+        ("house-belknap.xls", StateRepresentativeConfig(
+            office="State Representative", county="Belknap",
+        )),
+        ("house-carroll.xlsx", StateRepresentativeConfig(
+            office="State Representative", county="Carroll",
+        )),
+        ("house-cheshire.xls", StateRepresentativeConfig(
+            office="State Representative", county="Cheshire",
+        )),
+    ]
+
+
+def test_discover_state_representative_ignores_unknown_county(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "house-mars.xls")
+    out = discover_files(tmp_path, "state-representative", "State Representative")
+    assert out == []
+
+
+def test_discover_state_representative_ignores_non_house_files(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "house-belknap.xls")
+    _make(tmp_path / "executive-council.xls")
+    out = discover_files(tmp_path, "state-representative", "State Representative")
+    assert [name for name, _ in out] == ["house-belknap.xls"]
+
+
+# ---------------------------------------------------------------------------
+# Generic discovery behaviors (apply regardless of dispatch path)
+# ---------------------------------------------------------------------------
+
+
 def test_discover_empty_folder(tmp_path: pathlib.Path) -> None:
     assert discover_files(tmp_path, "president", "President") == []
 
@@ -28,71 +168,50 @@ def test_discover_missing_folder(tmp_path: pathlib.Path) -> None:
     assert discover_files(tmp_path / "nope", "president", "President") == []
 
 
-def test_discover_single_statewide_file(tmp_path: pathlib.Path) -> None:
-    _make(tmp_path / "us-senate.xlsx")
-    out = discover_files(tmp_path, "us-senate", "US Senate")
-    assert out == [("us-senate.xlsx", CongressionalConfig(office="US Senate"))]
-
-
-def test_discover_by_county(tmp_path: pathlib.Path) -> None:
-    _make(tmp_path / "president-belknap.xlsx")
-    _make(tmp_path / "president-carroll.xlsx")
-    _make(tmp_path / "president-cheshire.xlsx")
-    out = discover_files(tmp_path, "president", "President")
-    assert out == [
-        ("president-belknap.xlsx", CongressionalConfig(office="President", county="Belknap")),
-        ("president-carroll.xlsx", CongressionalConfig(office="President", county="Carroll")),
-        ("president-cheshire.xlsx", CongressionalConfig(office="President", county="Cheshire")),
-    ]
-
-
-def test_discover_district_from_number(tmp_path: pathlib.Path) -> None:
-    _make(tmp_path / "congressional-1.xlsx")
-    _make(tmp_path / "congressional-2.xlsx")
-    out = discover_files(tmp_path, "congressional", "Congressional")
-    assert out == [
-        ("congressional-1.xlsx", CongressionalConfig(office="Congressional", district="1")),
-        ("congressional-2.xlsx", CongressionalConfig(office="Congressional", district="2")),
-    ]
-
-
-def test_discover_district_with_prefix(tmp_path: pathlib.Path) -> None:
-    """`cd-1.xlsx` should still extract district='1'."""
-    _make(tmp_path / "congressional-cd-1.xlsx")
-    out = discover_files(tmp_path, "congressional", "Congressional")
-    assert out == [
-        ("congressional-cd-1.xlsx", CongressionalConfig(office="Congressional", district="1")),
-    ]
-
-
-def test_discover_ignores_non_workbooks(tmp_path: pathlib.Path) -> None:
-    _make(tmp_path / "president-belknap.xlsx")
+def test_discover_ignores_non_workbook_extensions(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "president.xls")
     (tmp_path / "notes.txt").write_text("ignore me")
-    (tmp_path / "president-belknap.pdf").write_bytes(b"%PDF-")
+    (tmp_path / "president.pdf").write_bytes(b"%PDF-")
     out = discover_files(tmp_path, "president", "President")
-    assert [name for name, _ in out] == ["president-belknap.xlsx"]
+    assert [name for name, _ in out] == ["president.xls"]
 
 
-def test_discover_ignores_unrelated_office(tmp_path: pathlib.Path) -> None:
-    _make(tmp_path / "governor-belknap.xlsx")
-    _make(tmp_path / "us-senate.xlsx")
-    out = discover_files(tmp_path, "president", "President")
-    assert out == []
+def test_discover_xls_and_xlsx_extensions(tmp_path: pathlib.Path) -> None:
+    """Both .xls and .xlsx are recognized; only office_slug pattern matters."""
+    _make(tmp_path / "house-belknap.xls")
+    _make(tmp_path / "house-carroll.xlsx")
+    out = discover_files(tmp_path, "state-representative", "State Representative")
+    assert [name for name, _ in out] == ["house-belknap.xls", "house-carroll.xlsx"]
 
 
-def test_discover_mixed_xls_xlsx(tmp_path: pathlib.Path) -> None:
-    """Convention is case-insensitive on extension and supports both."""
-    _make(tmp_path / "president-belknap.xls")
-    _make(tmp_path / "president-carroll.xlsx")
-    out = discover_files(tmp_path, "president", "President")
-    assert [name for name, _ in out] == ["president-belknap.xls", "president-carroll.xlsx"]
+# ---------------------------------------------------------------------------
+# Legacy fallback for unknown office slugs
+# ---------------------------------------------------------------------------
 
 
-def test_discover_unknown_location_falls_back(tmp_path: pathlib.Path) -> None:
-    """Unknown location segments don't crash; we just emit an empty county/district."""
-    _make(tmp_path / "president-mystery.xlsx")
-    out = discover_files(tmp_path, "president", "President")
-    assert out == [("president-mystery.xlsx", CongressionalConfig(office="President"))]
+def test_unknown_slug_falls_back_to_legacy_single_file(tmp_path: pathlib.Path) -> None:
+    """An office_slug not in _DISPATCH falls back to the legacy
+    CongressionalConfig-only discovery."""
+    _make(tmp_path / "future-office.xls")
+    out = discover_files(tmp_path, "future-office", "Future Office")
+    assert out == [(
+        "future-office.xls",
+        CongressionalConfig(office="Future Office"),
+    )]
+
+
+def test_unknown_slug_falls_back_to_legacy_per_county(tmp_path: pathlib.Path) -> None:
+    _make(tmp_path / "future-office-belknap.xls")
+    out = discover_files(tmp_path, "future-office", "Future Office")
+    assert out == [(
+        "future-office-belknap.xls",
+        CongressionalConfig(office="Future Office", county="Belknap"),
+    )]
+
+
+# ---------------------------------------------------------------------------
+# merge() — unchanged from before; explicit configs override discovered ones
+# ---------------------------------------------------------------------------
 
 
 def test_merge_no_overlap_concats() -> None:

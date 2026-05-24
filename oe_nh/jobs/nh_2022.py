@@ -1,114 +1,59 @@
 """2022 NH election jobs.
 
 2022 was a midterm: no Presidential race. US Senate (Hassan), Governor
-(Sununu), and both Congressional Districts were on the ballot.
+(Sununu), Executive Council (5 districts), State Senate (24 districts),
+State Representative (per-county), and both Congressional Districts were
+on the ballot.
 
-The Governor and US Senate workbooks use a multi-section-per-sheet shape:
-sheet 0 combines the per-state summary with Belknap's town-level data,
-and the final sheet combines Strafford + Sullivan in two stacked
-sections. `StatewideByCountyConfig` and the section scanner handle both.
+Each Job lets auto-discovery find raw files and build the right Config
+based on the office_slug (see oe_nh/discovery.py). Override via `files=`
+only when a specific file needs non-canonical config knobs.
 """
 
 from __future__ import annotations
 
-from oe_nh.jobs import Job, house_files
-from oe_nh.parser import (
-    CongressionalConfig,
-    ExecutiveCouncilConfig,
-    StateSenateConfig,
-    StatewideByCountyConfig,
-)
+from oe_nh.jobs import Job
 
 
-_GENERAL_FOLDER = "raw/2022/general"
+_GENERAL = "raw/2022/general"
+_DATE = "20221108"
 
 
 JOBS: list[Job] = [
     Job(
-        office_slug="us-senate",
-        office_name="US Senate",
-        election="general",
-        date="20221108",
+        office_slug="us-senate", office_name="US Senate",
+        election="general", date=_DATE,
         output_basename="general__us__senate__precinct",
-        folder=_GENERAL_FOLDER,
-        files=[
-            ("us-senate.xls", StatewideByCountyConfig(
-                office="US Senate",
-                header_row=2,
-            )),
-        ],
-        auto_discover=False,
+        folder=_GENERAL,
     ),
     Job(
-        office_slug="governor",
-        office_name="Governor",
-        election="general",
-        date="20221108",
+        office_slug="governor", office_name="Governor",
+        election="general", date=_DATE,
         output_basename="general__governor__precinct",
-        folder=_GENERAL_FOLDER,
-        files=[
-            ("governor.xls", StatewideByCountyConfig(
-                office="Governor",
-                header_row=2,
-            )),
-        ],
-        auto_discover=False,
+        folder=_GENERAL,
     ),
     Job(
-        office_slug="state-representative",
-        office_name="State Representative",
-        election="general",
-        date="20221108",
-        output_basename="general__state__representative__precinct",
-        folder=_GENERAL_FOLDER,
-        files=house_files(),  # all 10 county files are .xls in 2022
-        auto_discover=False,
-    ),
-    Job(
-        office_slug="state-senate",
-        office_name="State Senate",
-        election="general",
-        date="20221108",
-        output_basename="general__state__senate__precinct",
-        folder=_GENERAL_FOLDER,
-        files=[
-            ("state-senate.xls", StateSenateConfig()),
-        ],
-        auto_discover=False,
-    ),
-    Job(
-        office_slug="executive-council",
-        office_name="Executive Council",
-        election="general",
-        date="20221108",
-        output_basename="general__executive__council__precinct",
-        folder=_GENERAL_FOLDER,
-        files=[
-            ("executive-council.xls", ExecutiveCouncilConfig()),
-        ],
-        auto_discover=False,
-    ),
-    Job(
-        office_slug="congressional",
-        office_name="Congressional",
-        election="general",
-        date="20221108",
+        office_slug="congressional", office_name="Congressional",
+        election="general", date=_DATE,
         output_basename="general__congressional__precinct",
-        folder=_GENERAL_FOLDER,
-        files=[
-            ("congressional-1.xlsx", CongressionalConfig(
-                office="Congressional",
-                district="1",
-                header_row=2,
-                lookup_county_from_town=True,
-            )),
-            ("congressional-2.xlsx", CongressionalConfig(
-                office="Congressional",
-                district="2",
-                header_row=2,
-                lookup_county_from_town=True,
-            )),
-        ],
-        auto_discover=False,
+        folder=_GENERAL,
+    ),
+    Job(
+        office_slug="executive-council", office_name="Executive Council",
+        election="general", date=_DATE,
+        output_basename="general__executive__council__precinct",
+        folder=_GENERAL,
+    ),
+    Job(
+        office_slug="state-senate", office_name="State Senate",
+        election="general", date=_DATE,
+        output_basename="general__state__senate__precinct",
+        folder=_GENERAL,
+    ),
+    Job(
+        office_slug="state-representative", office_name="State Representative",
+        election="general", date=_DATE,
+        output_basename="general__state__representative__precinct",
+        folder=_GENERAL,
     ),
 ]

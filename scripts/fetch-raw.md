@@ -71,17 +71,13 @@ explicitly in `Job.files=`.
      ... (8 more counties)
    ```
 
-5. Register a `Job` for each office in `oe_nh/jobs/nh_<year>.py`, picking
-   the right config dataclass per office shape (see "File shapes" below):
+5. Register a `Job` for each office in `oe_nh/jobs/nh_<year>.py`.
+   Auto-discovery is the default: for known office slugs (the seven covered
+   above), the framework finds the right files in `folder` and builds the
+   right Config dataclass automatically. Most Jobs need no `files=` block:
 
    ```python
-   from oe_nh.jobs import Job, house_files
-   from oe_nh.parser import (
-       CongressionalConfig,
-       ExecutiveCouncilConfig,
-       StateSenateConfig,
-       StatewideByCountyConfig,
-   )
+   from oe_nh.jobs import Job
 
    _GENERAL = "raw/2024/general"
 
@@ -89,18 +85,32 @@ explicitly in `Job.files=`.
        Job(office_slug="president", office_name="President",
            election="general", date="20241105",
            output_basename="general__president__precinct",
-           folder=_GENERAL,
-           files=[("president.xls", StatewideByCountyConfig(office="President", header_row=2))],
-           auto_discover=False),
+           folder=_GENERAL),
        Job(office_slug="executive-council", office_name="Executive Council",
            election="general", date="20241105",
            output_basename="general__executive__council__precinct",
-           folder=_GENERAL,
-           files=[("executive-council.xls", ExecutiveCouncilConfig())],
-           auto_discover=False),
+           folder=_GENERAL),
        # ... and so on for the other 5 offices
    ]
    ```
+
+   The dispatch table in `oe_nh/discovery.py` knows which Config to build
+   per office slug. To override (e.g. a non-canonical filename or a custom
+   header_row), import the specific Config and supply it explicitly:
+
+   ```python
+   from oe_nh.parser import StatewideByCountyConfig
+
+   Job(office_slug="president", office_name="President",
+       election="general", date="20241105",
+       output_basename="general__president__precinct",
+       folder=_GENERAL,
+       files=[("weird-president-name.xls",
+               StatewideByCountyConfig(office="President", header_row=4))])
+   ```
+
+   Explicit entries in `files=` win over auto-discovered ones at the same
+   filename; entries with new filenames are added.
 
 6. Run the parser:
 
