@@ -10,45 +10,45 @@ from __future__ import annotations
 from oe_nh.jobs import Job
 
 
-_GENERAL = "raw/2024/general"
-_DATE = "20241105"
+GENERAL_FOLDER = "raw/2024/general"
+GENERAL_DATE = "20241105"
 
 
 JOBS: list[Job] = [
     Job(
         office_slug="president", office_name="President",
-        election="general", date=_DATE,
+        election="general", date=GENERAL_DATE,
         output_basename="general__president__precinct",
-        folder=_GENERAL,
+        folder=GENERAL_FOLDER,
     ),
     Job(
         office_slug="governor", office_name="Governor",
-        election="general", date=_DATE,
+        election="general", date=GENERAL_DATE,
         output_basename="general__governor__precinct",
-        folder=_GENERAL,
+        folder=GENERAL_FOLDER,
     ),
     Job(
         office_slug="congressional", office_name="Congressional",
-        election="general", date=_DATE,
+        election="general", date=GENERAL_DATE,
         output_basename="general__congressional__precinct",
-        folder=_GENERAL,
+        folder=GENERAL_FOLDER,
     ),
     Job(
         office_slug="executive-council", office_name="Executive Council",
-        election="general", date=_DATE,
+        election="general", date=GENERAL_DATE,
         output_basename="general__executive__council__precinct",
-        folder=_GENERAL,
+        folder=GENERAL_FOLDER,
     ),
     Job(
         office_slug="state-senate", office_name="State Senate",
-        election="general", date=_DATE,
+        election="general", date=GENERAL_DATE,
         output_basename="general__state__senate__precinct",
-        folder=_GENERAL,
+        folder=GENERAL_FOLDER,
     ),
     Job(
         office_slug="state-representative", office_name="State Representative",
-        election="general", date=_DATE,
+        election="general", date=GENERAL_DATE,
         output_basename="general__state__representative__precinct",
-        folder=_GENERAL,
+        folder=GENERAL_FOLDER,
     ),
 ]

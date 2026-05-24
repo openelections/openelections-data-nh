@@ -19,14 +19,15 @@ read-only history.
 
 ### Quick start: re-generate an existing year's CSVs
 
+All `uv` commands below run in a terminal, from the project root
+(the directory that contains this `README.md`).
+
 ```bash
 uv sync --all-groups                       # install deps (one-time)
-uv run pytest                              # 57 tests, all should pass
+uv run pytest                              # 57 framework tests, all should pass
 uv run python -m oe_nh.cli \
     --year 2024 --election general --office governor
 # -> writes 2024/20241105__nh__general__governor__precinct.csv
-
-scripts/run-data-tests.sh                  # run OpenElections data-format checks
 ```
 
 `--year` and `--office` show the available choices in `--help`; they
