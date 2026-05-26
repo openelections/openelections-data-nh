@@ -24,9 +24,16 @@ _WARD_OR_DISTRICT_SUFFIX = re.compile(
 # to those existing keys.
 PRECINCT_ALIASES: dict[str, str] = {
     "At. & Gil Ac. Gt": "At. & Gil. Academy Grant",
+    "Atkinson & Gilm Academy Gt": "At. & Gil. Academy Grant",
     "Atkinson & Gilmanton Academy Gt": "At. & Gil. Academy Grant",
+    "Atkinson and Gilmanton Ac. Gt.": "At. & Gil. Academy Grant",
+    "Low and Burbank's Grant": "Low & Burbank's Grant",
+    "Stratham*": "Stratham",
     "Thomp. and Mes's Pur.": "Thompson & Meserve's Pur.",
+    "Thompson & Mes's Purchase": "Thompson & Meserve's Pur.",
+    "Thompson & Meserve's Pur": "Thompson & Meserve's Pur.",
     "Thompson & Meserve's Purchase": "Thompson & Meserve's Pur.",
+    "Martins' Location": "Martin's Location",
 }
 
 

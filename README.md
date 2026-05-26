@@ -9,3 +9,146 @@ Here is what a [finished CSV file (from Ohio)](https://github.com/openelections/
 For extracting text from PDF tables, we recommend [Tabula](http://tabula.technology/), which can be installed and run locally on OSX, Windows or Linux.
 
 If you're familiar with git and Github, clone this repository and get started. If not, you can still help: leave a comment on a task you'd like to work on, or just convert any of the files into CSV and send the result to openelections@gmail.com.
+
+## The modern parser framework (`oe_nh/`)
+
+Everything from 2022 onward is produced by the framework under `oe_nh/`.
+Older years (`2012/`, `2014/`, …, `2020/`) are pre-existing CSVs from
+earlier contributors and use different conventions; treat them as
+read-only history.
+
+### Quick start: re-generate an existing year's CSVs
+
+The framework runs on Python 3 via [uv](https://docs.astral.sh/uv/).
+If you don't have `uv` yet, install it with one of:
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh   # Mac or Linux
+brew install uv                                    # Mac with Homebrew
+pip install uv                                     # any platform with Python + pip
+```
+
+All `uv` commands below run in a terminal, from the project root
+(the directory that contains this `README.md`).
+
+```bash
+uv sync --all-groups                       # install deps (one-time)
+uv run pytest                              # framework unit tests, all should pass
+uv run python -m oe_nh.cli --year 2024     # build every office found in raw/2024/general/
+# -> writes 2024/20241105__nh__general__<office>__precinct.csv files
+#    prints a pre-flight scan, then a per-office summary with row counts
+```
+
+To re-build just one office (for debugging), pass `--office`:
+
+```bash
+uv run python -m oe_nh.cli --year 2024 --office governor
+```
+
+`--year` auto-derives from `raw/<year>/.dates.json` files (created by
+`new-year`, see below). `--office` accepts any office slug the framework
+knows; whether files exist for that office in this year is reported in
+the build's pre-flight scan, not at argument-parse time.
+
+### Adding a new election year
+
+NH SoS publishes new election workbooks roughly six weeks after the
+election. To add a year (say 2026):
+
+1. **Scaffold the year:**
+
+   ```bash
+   uv run python -m oe_nh.cli new-year 2026
+   ```
+
+   It'll prompt for the General election date (or you can pass
+   `--general 2026-11-03`), create `raw/2026/general/` and `2026/`
+   directories, and persist the date in `raw/2026/.dates.json`.
+
+2. **Download** the source workbooks from the SoS site
+   (<https://www.sos.nh.gov/elections>). Under the "Elections" box
+   there will be a link for "[year] Election Results"; click that and
+   then the "[year] General Election Results" link (unless you're
+   working on primaries). One workbook per office, except State
+   Representative which is 10 files (one per county). See
+   [scripts/fetch-raw.md](scripts/fetch-raw.md) for the per-office
+   download details.
+
+   **Drop the downloaded files into `raw/2026/general/`.** No need to
+   rename them — the framework recognizes SoS-shaped filenames as well
+   as canonical short forms.
+
+3. **Build the CSVs:**
+
+   ```bash
+   uv run python -m oe_nh.cli --year 2026
+   ```
+
+   You'll get a pre-flight scan, per-office build lines, and a trailing
+   summary with ✅/⚠️/❌ status and row counts. CSVs land under
+   `2026/`. Anything missing or surprising is reported once, in the
+   summary — see "Details for Nerds" below for what `⚠️` and `❓` mean.
+
+4. **Commit** the new raw files (`raw/2026/general/*.xls*`), the
+   generated CSVs (`2026/*.csv`), and `raw/2026/.dates.json`. All three
+   belong in version control: raw files so the build is reproducible,
+   CSVs because they're the published product OpenElections consumes,
+   and the dates file because it's what tells the framework this year
+   is registered.
+
+---------
+
+## Details for Nerds
+
+### Output conventions
+
+- **Schema** is `county,precinct,office,district,party,candidate,votes` — one row per (precinct, candidate) pair.
+- **Office names** are exactly: `President`, `Governor`, `US Senate`, `Congressional`, `Executive Council`, `State Senate`, `State Representative`.
+- **Floterial House districts** are emitted with an `F` suffix on the district column — e.g. Belknap's two-seat floterial that overlays Districts 1–7 appears as `district="8F"`. The SoS source file marks these with either `F` or `FL` on the district header (`District No. 8 (2) F` or `District No. 14 (1) FL`); both normalize to `F`.
+- **Recount columns** that the SoS sometimes interleaves alongside certified counts (inline `Recount` columns in some 2022 House districts; whole `RECOUNT FIGURES` duplicate district sections in 2024 Strafford) are **dropped**. We ship certified counts only. To get recount data, go to the SoS source files.
+- **`BLC` columns** in a handful of 2022 Rockingham House districts (an auxiliary ballot-related count we haven't been able to confirm the meaning of) are also **dropped**. If you know what BLC stands for and want it surfaced, open an issue.
+- **Write-Ins / Undervotes / Overvotes** (in 2024 SoS files) are emitted as candidate rows with empty `party`. The `candidate` value is the literal column header.
+
+### Architecture in one paragraph
+
+`oe_nh/cli.py` is the orchestrator: it derives Jobs at runtime by
+scanning `raw/<year>/<election>/` and reading the election date from
+`raw/<year>/.dates.json`, then calls `oe_nh/discovery.py` to find raw
+files and build per-shape configs, runs each through
+`oe_nh/parser.py`, and writes CSVs via `oe_nh/writer.py`. There are
+no year-specific Python modules — adding a year is just `new-year
+<year>` (creates the dates.json and folders) followed by dropping
+files. `discovery.py` strips common SoS filename decorations (year
+prefix, election prefix, `_N` revision suffix, `-district-N-M`
+suffix) before matching, so SoS-named files work alongside canonical
+short forms. Each NH-SoS reporting shape has its own purpose-named
+Parser + Config dataclass (`CongressionalParser`,
+`StatewideByCountyParser`, `ExecutiveCouncilParser`,
+`StateSenateParser`, `StateRepresentativeParser`); the
+`parse_workbook(path, config)` factory dispatches on config type. Add a
+new shape by writing a new Parser + Config and adding a branch to the
+factory plus an entry to `discovery._DISPATCH`.
+
+### File Naming Details
+
+**Drop the downloaded files into `raw/2026/general/`.** You don't
+   have to rename them — the framework recognizes both canonical
+   short-form names and the longer names the SoS publishes
+   (`2026-ge-house-belknap_1.xls` and `house-belknap.xls` both work).
+   The canonical short forms for reference:
+
+   | Office | Canonical filename(s) |
+   | --- | --- |
+   | President | `president.xls[x]` |
+   | Governor | `governor.xls[x]` |
+   | US Senate | `us-senate.xls[x]` |
+   | Congressional | `congressional-1.xls[x]`, `congressional-2.xls[x]` |
+   | Executive Council | `executive-council.xls[x]` |
+   | State Senate | `state-senate.xls[x]` |
+   | State Representative | `house-belknap.xls[x]`, `house-carroll.xls[x]`, … (one per NH county) |
+
+   The build command's pre-flight scan tells you which files matched
+   which office (and which weren't recognized), so any naming mistake
+   is surfaced before parsing starts. Offices that aren't on the
+   year's ballot (e.g. no Presidential in midterms) just show up as
+   `⚠️ skipped` in the summary — not an error.

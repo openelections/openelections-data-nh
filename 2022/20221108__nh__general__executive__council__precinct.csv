@@ -1,0 +1,961 @@
+county,precinct,office,district,party,candidate,votes
+Carroll,Albany,Executive Council,1,R,Joseph D. Kenney,164
+Carroll,Albany,Executive Council,1,D,Dana S. Hilliard,184
+Carroll,Albany,Executive Council,1,,Scatter,0
+Grafton,Alexandria,Executive Council,1,R,Joseph D. Kenney,511
+Grafton,Alexandria,Executive Council,1,D,Dana S. Hilliard,308
+Grafton,Alexandria,Executive Council,1,,Scatter,0
+Belknap,Alton,Executive Council,1,R,Joseph D. Kenney,2059
+Belknap,Alton,Executive Council,1,D,Dana S. Hilliard,1052
+Belknap,Alton,Executive Council,1,,Scatter,0
+Coos,Atkinson & Gilm Academy Gt,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Atkinson & Gilm Academy Gt,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Atkinson & Gilm Academy Gt,Executive Council,1,,Scatter,0
+Carroll,Bartlett,Executive Council,1,R,Joseph D. Kenney,751
+Carroll,Bartlett,Executive Council,1,D,Dana S. Hilliard,1022
+Carroll,Bartlett,Executive Council,1,,Scatter,0
+Coos,Bean's Grant,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Bean's Grant,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Bean's Grant,Executive Council,1,,Scatter,0
+Coos,Bean's Purchase,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Bean's Purchase,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Bean's Purchase,Executive Council,1,,Scatter,0
+Belknap,Belmont,Executive Council,1,R,Joseph D. Kenney,1934
+Belknap,Belmont,Executive Council,1,D,Dana S. Hilliard,1130
+Belknap,Belmont,Executive Council,1,,Scatter,1
+Coos,Berlin,Executive Council,1,R,Joseph D. Kenney,1586
+Coos,Berlin,Executive Council,1,D,Dana S. Hilliard,1314
+Coos,Berlin,Executive Council,1,,Scatter,1
+Grafton,Bridgewater,Executive Council,1,R,Joseph D. Kenney,422
+Grafton,Bridgewater,Executive Council,1,D,Dana S. Hilliard,277
+Grafton,Bridgewater,Executive Council,1,,Scatter,1
+Grafton,Bristol,Executive Council,1,R,Joseph D. Kenney,837
+Grafton,Bristol,Executive Council,1,D,Dana S. Hilliard,663
+Grafton,Bristol,Executive Council,1,,Scatter,1
+Carroll,Brookfield,Executive Council,1,R,Joseph D. Kenney,297
+Carroll,Brookfield,Executive Council,1,D,Dana S. Hilliard,167
+Carroll,Brookfield,Executive Council,1,,Scatter,0
+Coos,Cambridge,Executive Council,1,R,Joseph D. Kenney,2
+Coos,Cambridge,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Cambridge,Executive Council,1,,Scatter,0
+Belknap,Center Harbor,Executive Council,1,R,Joseph D. Kenney,368
+Belknap,Center Harbor,Executive Council,1,D,Dana S. Hilliard,288
+Belknap,Center Harbor,Executive Council,1,,Scatter,0
+Coos,Chandler's Purchase,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Chandler's Purchase,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Chandler's Purchase,Executive Council,1,,Scatter,0
+Carroll,Chatham,Executive Council,1,R,Joseph D. Kenney,107
+Carroll,Chatham,Executive Council,1,D,Dana S. Hilliard,82
+Carroll,Chatham,Executive Council,1,,Scatter,0
+Coos,Clarksville,Executive Council,1,R,Joseph D. Kenney,103
+Coos,Clarksville,Executive Council,1,D,Dana S. Hilliard,50
+Coos,Clarksville,Executive Council,1,,Scatter,0
+Coos,Colebrook,Executive Council,1,R,Joseph D. Kenney,616
+Coos,Colebrook,Executive Council,1,D,Dana S. Hilliard,244
+Coos,Colebrook,Executive Council,1,,Scatter,0
+Coos,Columbia,Executive Council,1,R,Joseph D. Kenney,220
+Coos,Columbia,Executive Council,1,D,Dana S. Hilliard,78
+Coos,Columbia,Executive Council,1,,Scatter,0
+Carroll,Conway,Executive Council,1,R,Joseph D. Kenney,1987
+Carroll,Conway,Executive Council,1,D,Dana S. Hilliard,2281
+Carroll,Conway,Executive Council,1,,Scatter,1
+Coos,Crawford's Purchase,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Crawford's Purchase,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Crawford's Purchase,Executive Council,1,,Scatter,0
+Coos,Cutt's Grant,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Cutt's Grant,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Cutt's Grant,Executive Council,1,,Scatter,0
+Coos,Dalton,Executive Council,1,R,Joseph D. Kenney,268
+Coos,Dalton,Executive Council,1,D,Dana S. Hilliard,179
+Coos,Dalton,Executive Council,1,,Scatter,0
+Merrimack,Danbury,Executive Council,1,R,Joseph D. Kenney,356
+Merrimack,Danbury,Executive Council,1,D,Dana S. Hilliard,231
+Merrimack,Danbury,Executive Council,1,,Scatter,0
+Coos,Dix's Grant,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Dix's Grant,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Dix's Grant,Executive Council,1,,Scatter,0
+Coos,Dixville,Executive Council,1,R,Joseph D. Kenney,4
+Coos,Dixville,Executive Council,1,D,Dana S. Hilliard,1
+Coos,Dixville,Executive Council,1,,Scatter,0
+Strafford,Dover Ward 1,Executive Council,1,R,Joseph D. Kenney,577
+Strafford,Dover Ward 1,Executive Council,1,D,Dana S. Hilliard,1771
+Strafford,Dover Ward 1,Executive Council,1,,Scatter,3
+Strafford,Dover Ward 2,Executive Council,1,R,Joseph D. Kenney,620
+Strafford,Dover Ward 2,Executive Council,1,D,Dana S. Hilliard,1718
+Strafford,Dover Ward 2,Executive Council,1,,Scatter,0
+Strafford,Dover Ward 3,Executive Council,1,R,Joseph D. Kenney,1104
+Strafford,Dover Ward 3,Executive Council,1,D,Dana S. Hilliard,1796
+Strafford,Dover Ward 3,Executive Council,1,,Scatter,2
+Strafford,Dover Ward 4,Executive Council,1,R,Joseph D. Kenney,898
+Strafford,Dover Ward 4,Executive Council,1,D,Dana S. Hilliard,1711
+Strafford,Dover Ward 4,Executive Council,1,,Scatter,1
+Strafford,Dover Ward 5,Executive Council,1,R,Joseph D. Kenney,739
+Strafford,Dover Ward 5,Executive Council,1,D,Dana S. Hilliard,1368
+Strafford,Dover Ward 5,Executive Council,1,,Scatter,0
+Strafford,Dover Ward 6,Executive Council,1,R,Joseph D. Kenney,943
+Strafford,Dover Ward 6,Executive Council,1,D,Dana S. Hilliard,1354
+Strafford,Dover Ward 6,Executive Council,1,,Scatter,2
+Coos,Dummer,Executive Council,1,R,Joseph D. Kenney,87
+Coos,Dummer,Executive Council,1,D,Dana S. Hilliard,40
+Coos,Dummer,Executive Council,1,,Scatter,0
+Strafford,Durham,Executive Council,1,R,Joseph D. Kenney,1200
+Strafford,Durham,Executive Council,1,D,Dana S. Hilliard,4548
+Strafford,Durham,Executive Council,1,,Scatter,3
+Carroll,Eaton,Executive Council,1,R,Joseph D. Kenney,106
+Carroll,Eaton,Executive Council,1,D,Dana S. Hilliard,154
+Carroll,Eaton,Executive Council,1,,Scatter,1
+Carroll,Effingham,Executive Council,1,R,Joseph D. Kenney,458
+Carroll,Effingham,Executive Council,1,D,Dana S. Hilliard,268
+Carroll,Effingham,Executive Council,1,,Scatter,1
+Coos,Errol,Executive Council,1,R,Joseph D. Kenney,128
+Coos,Errol,Executive Council,1,D,Dana S. Hilliard,46
+Coos,Errol,Executive Council,1,,Scatter,0
+Coos,Erving's Location,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Erving's Location,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Erving's Location,Executive Council,1,,Scatter,0
+Strafford,Farmington,Executive Council,1,R,Joseph D. Kenney,1473
+Strafford,Farmington,Executive Council,1,D,Dana S. Hilliard,979
+Strafford,Farmington,Executive Council,1,,Scatter,4
+Merrimack,Franklin Ward 1,Executive Council,1,R,Joseph D. Kenney,615
+Merrimack,Franklin Ward 1,Executive Council,1,D,Dana S. Hilliard,443
+Merrimack,Franklin Ward 1,Executive Council,1,,Scatter,2
+Merrimack,Franklin Ward 2,Executive Council,1,R,Joseph D. Kenney,418
+Merrimack,Franklin Ward 2,Executive Council,1,D,Dana S. Hilliard,308
+Merrimack,Franklin Ward 2,Executive Council,1,,Scatter,1
+Merrimack,Franklin Ward 3,Executive Council,1,R,Joseph D. Kenney,679
+Merrimack,Franklin Ward 3,Executive Council,1,D,Dana S. Hilliard,558
+Merrimack,Franklin Ward 3,Executive Council,1,,Scatter,1
+Carroll,Freedom,Executive Council,1,R,Joseph D. Kenney,537
+Carroll,Freedom,Executive Council,1,D,Dana S. Hilliard,396
+Carroll,Freedom,Executive Council,1,,Scatter,0
+Belknap,Gilford,Executive Council,1,R,Joseph D. Kenney,2323
+Belknap,Gilford,Executive Council,1,D,Dana S. Hilliard,1733
+Belknap,Gilford,Executive Council,1,,Scatter,0
+Belknap,Gilmanton,Executive Council,1,R,Joseph D. Kenney,1204
+Belknap,Gilmanton,Executive Council,1,D,Dana S. Hilliard,779
+Belknap,Gilmanton,Executive Council,1,,Scatter,2
+Coos,Gorham,Executive Council,1,R,Joseph D. Kenney,660
+Coos,Gorham,Executive Council,1,D,Dana S. Hilliard,605
+Coos,Gorham,Executive Council,1,,Scatter,2
+Coos,Green's Grant,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Green's Grant,Executive Council,1,D,Dana S. Hilliard,1
+Coos,Green's Grant,Executive Council,1,,Scatter,0
+Coos,Hadley's Purchase,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Hadley's Purchase,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Hadley's Purchase,Executive Council,1,,Scatter,0
+Carroll,Hale's Location,Executive Council,1,R,Joseph D. Kenney,82
+Carroll,Hale's Location,Executive Council,1,D,Dana S. Hilliard,40
+Carroll,Hale's Location,Executive Council,1,,Scatter,0
+Carroll,Hart's Location,Executive Council,1,R,Joseph D. Kenney,22
+Carroll,Hart's Location,Executive Council,1,D,Dana S. Hilliard,15
+Carroll,Hart's Location,Executive Council,1,,Scatter,0
+Grafton,Hebron,Executive Council,1,R,Joseph D. Kenney,257
+Grafton,Hebron,Executive Council,1,D,Dana S. Hilliard,190
+Grafton,Hebron,Executive Council,1,,Scatter,0
+Merrimack,Hill,Executive Council,1,R,Joseph D. Kenney,325
+Merrimack,Hill,Executive Council,1,D,Dana S. Hilliard,177
+Merrimack,Hill,Executive Council,1,,Scatter,1
+Carroll,Jackson,Executive Council,1,R,Joseph D. Kenney,238
+Carroll,Jackson,Executive Council,1,D,Dana S. Hilliard,452
+Carroll,Jackson,Executive Council,1,,Scatter,0
+Coos,Jefferson,Executive Council,1,R,Joseph D. Kenney,362
+Coos,Jefferson,Executive Council,1,D,Dana S. Hilliard,169
+Coos,Jefferson,Executive Council,1,,Scatter,0
+Coos,Kilkenny,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Kilkenny,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Kilkenny,Executive Council,1,,Scatter,0
+Belknap,Laconia Ward 1,Executive Council,1,R,Joseph D. Kenney,937
+Belknap,Laconia Ward 1,Executive Council,1,D,Dana S. Hilliard,654
+Belknap,Laconia Ward 1,Executive Council,1,,Scatter,1
+Belknap,Laconia Ward 2,Executive Council,1,R,Joseph D. Kenney,495
+Belknap,Laconia Ward 2,Executive Council,1,D,Dana S. Hilliard,445
+Belknap,Laconia Ward 2,Executive Council,1,,Scatter,0
+Belknap,Laconia Ward 3,Executive Council,1,R,Joseph D. Kenney,529
+Belknap,Laconia Ward 3,Executive Council,1,D,Dana S. Hilliard,596
+Belknap,Laconia Ward 3,Executive Council,1,,Scatter,0
+Belknap,Laconia Ward 4,Executive Council,1,R,Joseph D. Kenney,489
+Belknap,Laconia Ward 4,Executive Council,1,D,Dana S. Hilliard,392
+Belknap,Laconia Ward 4,Executive Council,1,,Scatter,0
+Belknap,Laconia Ward 5,Executive Council,1,R,Joseph D. Kenney,472
+Belknap,Laconia Ward 5,Executive Council,1,D,Dana S. Hilliard,354
+Belknap,Laconia Ward 5,Executive Council,1,,Scatter,2
+Belknap,Laconia Ward 6,Executive Council,1,R,Joseph D. Kenney,908
+Belknap,Laconia Ward 6,Executive Council,1,D,Dana S. Hilliard,522
+Belknap,Laconia Ward 6,Executive Council,1,,Scatter,0
+Coos,Lancaster,Executive Council,1,R,Joseph D. Kenney,741
+Coos,Lancaster,Executive Council,1,D,Dana S. Hilliard,525
+Coos,Lancaster,Executive Council,1,,Scatter,0
+Grafton,Livermore,Executive Council,1,R,Joseph D. Kenney,0
+Grafton,Livermore,Executive Council,1,D,Dana S. Hilliard,0
+Grafton,Livermore,Executive Council,1,,Scatter,0
+Coos,Low & Burbank's Grant,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Low & Burbank's Grant,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Low & Burbank's Grant,Executive Council,1,,Scatter,0
+Strafford,Madbury,Executive Council,1,R,Joseph D. Kenney,391
+Strafford,Madbury,Executive Council,1,D,Dana S. Hilliard,621
+Strafford,Madbury,Executive Council,1,,Scatter,0
+Carroll,Madison,Executive Council,1,R,Joseph D. Kenney,669
+Carroll,Madison,Executive Council,1,D,Dana S. Hilliard,701
+Carroll,Madison,Executive Council,1,,Scatter,1
+Coos,Martins' Location,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Martins' Location,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Martins' Location,Executive Council,1,,Scatter,0
+Belknap,Meredith,Executive Council,1,R,Joseph D. Kenney,2003
+Belknap,Meredith,Executive Council,1,D,Dana S. Hilliard,1531
+Belknap,Meredith,Executive Council,1,,Scatter,1
+Strafford,Middleton,Executive Council,1,R,Joseph D. Kenney,550
+Strafford,Middleton,Executive Council,1,D,Dana S. Hilliard,240
+Strafford,Middleton,Executive Council,1,,Scatter,0
+Coos,Milan,Executive Council,1,R,Joseph D. Kenney,367
+Coos,Milan,Executive Council,1,D,Dana S. Hilliard,230
+Coos,Milan,Executive Council,1,,Scatter,0
+Coos,Millsfield,Executive Council,1,R,Joseph D. Kenney,16
+Coos,Millsfield,Executive Council,1,D,Dana S. Hilliard,2
+Coos,Millsfield,Executive Council,1,,Scatter,0
+Strafford,Milton,Executive Council,1,R,Joseph D. Kenney,1207
+Strafford,Milton,Executive Council,1,D,Dana S. Hilliard,676
+Strafford,Milton,Executive Council,1,,Scatter,1
+Carroll,Moultonborough,Executive Council,1,R,Joseph D. Kenney,1896
+Carroll,Moultonborough,Executive Council,1,D,Dana S. Hilliard,1168
+Carroll,Moultonborough,Executive Council,1,,Scatter,1
+Strafford,New Durham,Executive Council,1,R,Joseph D. Kenney,955
+Strafford,New Durham,Executive Council,1,D,Dana S. Hilliard,540
+Strafford,New Durham,Executive Council,1,,Scatter,0
+Belknap,New Hampton,Executive Council,1,R,Joseph D. Kenney,750
+Belknap,New Hampton,Executive Council,1,D,Dana S. Hilliard,535
+Belknap,New Hampton,Executive Council,1,,Scatter,1
+Merrimack,Northfield,Executive Council,1,R,Joseph D. Kenney,1036
+Merrimack,Northfield,Executive Council,1,D,Dana S. Hilliard,839
+Merrimack,Northfield,Executive Council,1,,Scatter,1
+Coos,Northumberland,Executive Council,1,R,Joseph D. Kenney,505
+Coos,Northumberland,Executive Council,1,D,Dana S. Hilliard,232
+Coos,Northumberland,Executive Council,1,,Scatter,0
+Coos,Odell,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Odell,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Odell,Executive Council,1,,Scatter,0
+Carroll,Ossipee,Executive Council,1,R,Joseph D. Kenney,1271
+Carroll,Ossipee,Executive Council,1,D,Dana S. Hilliard,683
+Carroll,Ossipee,Executive Council,1,,Scatter,0
+Coos,Pinkham's Grant,Executive Council,1,R,Joseph D. Kenney,1
+Coos,Pinkham's Grant,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Pinkham's Grant,Executive Council,1,,Scatter,0
+Coos,Pittsburg,Executive Council,1,R,Joseph D. Kenney,358
+Coos,Pittsburg,Executive Council,1,D,Dana S. Hilliard,105
+Coos,Pittsburg,Executive Council,1,,Scatter,0
+Coos,Randolph,Executive Council,1,R,Joseph D. Kenney,84
+Coos,Randolph,Executive Council,1,D,Dana S. Hilliard,149
+Coos,Randolph,Executive Council,1,,Scatter,0
+Strafford,Rochester Ward 1,Executive Council,1,R,Joseph D. Kenney,1181
+Strafford,Rochester Ward 1,Executive Council,1,D,Dana S. Hilliard,1144
+Strafford,Rochester Ward 1,Executive Council,1,,Scatter,0
+Strafford,Rochester Ward 2,Executive Council,1,R,Joseph D. Kenney,1100
+Strafford,Rochester Ward 2,Executive Council,1,D,Dana S. Hilliard,1026
+Strafford,Rochester Ward 2,Executive Council,1,,Scatter,3
+Strafford,Rochester Ward 3,Executive Council,1,R,Joseph D. Kenney,1152
+Strafford,Rochester Ward 3,Executive Council,1,D,Dana S. Hilliard,890
+Strafford,Rochester Ward 3,Executive Council,1,,Scatter,0
+Strafford,Rochester Ward 4,Executive Council,1,R,Joseph D. Kenney,972
+Strafford,Rochester Ward 4,Executive Council,1,D,Dana S. Hilliard,962
+Strafford,Rochester Ward 4,Executive Council,1,,Scatter,4
+Strafford,Rochester Ward 5,Executive Council,1,R,Joseph D. Kenney,1111
+Strafford,Rochester Ward 5,Executive Council,1,D,Dana S. Hilliard,967
+Strafford,Rochester Ward 5,Executive Council,1,,Scatter,3
+Strafford,Rochester Ward 6,Executive Council,1,R,Joseph D. Kenney,871
+Strafford,Rochester Ward 6,Executive Council,1,D,Dana S. Hilliard,900
+Strafford,Rochester Ward 6,Executive Council,1,,Scatter,1
+Strafford,Rollinsford,Executive Council,1,R,Joseph D. Kenney,571
+Strafford,Rollinsford,Executive Council,1,D,Dana S. Hilliard,779
+Strafford,Rollinsford,Executive Council,1,,Scatter,0
+Belknap,Sanbornton,Executive Council,1,R,Joseph D. Kenney,981
+Belknap,Sanbornton,Executive Council,1,D,Dana S. Hilliard,697
+Belknap,Sanbornton,Executive Council,1,,Scatter,0
+Carroll,Sandwich,Executive Council,1,R,Joseph D. Kenney,370
+Carroll,Sandwich,Executive Council,1,D,Dana S. Hilliard,625
+Carroll,Sandwich,Executive Council,1,,Scatter,0
+Coos,Sargent's Purchase,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Sargent's Purchase,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Sargent's Purchase,Executive Council,1,,Scatter,0
+Coos,Second College Grant,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Second College Grant,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Second College Grant,Executive Council,1,,Scatter,0
+Coos,Shelburne,Executive Council,1,R,Joseph D. Kenney,131
+Coos,Shelburne,Executive Council,1,D,Dana S. Hilliard,86
+Coos,Shelburne,Executive Council,1,,Scatter,0
+Strafford,Somersworth Ward 1,Executive Council,1,R,Joseph D. Kenney,472
+Strafford,Somersworth Ward 1,Executive Council,1,D,Dana S. Hilliard,673
+Strafford,Somersworth Ward 1,Executive Council,1,,Scatter,0
+Strafford,Somersworth Ward 2,Executive Council,1,R,Joseph D. Kenney,376
+Strafford,Somersworth Ward 2,Executive Council,1,D,Dana S. Hilliard,486
+Strafford,Somersworth Ward 2,Executive Council,1,,Scatter,0
+Strafford,Somersworth Ward 3,Executive Council,1,R,Joseph D. Kenney,363
+Strafford,Somersworth Ward 3,Executive Council,1,D,Dana S. Hilliard,477
+Strafford,Somersworth Ward 3,Executive Council,1,,Scatter,0
+Strafford,Somersworth Ward 4,Executive Council,1,R,Joseph D. Kenney,369
+Strafford,Somersworth Ward 4,Executive Council,1,D,Dana S. Hilliard,698
+Strafford,Somersworth Ward 4,Executive Council,1,,Scatter,0
+Strafford,Somersworth Ward 5,Executive Council,1,R,Joseph D. Kenney,217
+Strafford,Somersworth Ward 5,Executive Council,1,D,Dana S. Hilliard,401
+Strafford,Somersworth Ward 5,Executive Council,1,,Scatter,0
+Coos,Stark,Executive Council,1,R,Joseph D. Kenney,182
+Coos,Stark,Executive Council,1,D,Dana S. Hilliard,69
+Coos,Stark,Executive Council,1,,Scatter,0
+Coos,Stewartstown,Executive Council,1,R,Joseph D. Kenney,246
+Coos,Stewartstown,Executive Council,1,D,Dana S. Hilliard,48
+Coos,Stewartstown,Executive Council,1,,Scatter,1
+Coos,Stratford,Executive Council,1,R,Joseph D. Kenney,137
+Coos,Stratford,Executive Council,1,D,Dana S. Hilliard,100
+Coos,Stratford,Executive Council,1,,Scatter,0
+Coos,Success,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Success,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Success,Executive Council,1,,Scatter,0
+Carroll,Tamworth,Executive Council,1,R,Joseph D. Kenney,717
+Carroll,Tamworth,Executive Council,1,D,Dana S. Hilliard,668
+Carroll,Tamworth,Executive Council,1,,Scatter,1
+Coos,Thompson & Meserve's Pur,Executive Council,1,R,Joseph D. Kenney,0
+Coos,Thompson & Meserve's Pur,Executive Council,1,D,Dana S. Hilliard,0
+Coos,Thompson & Meserve's Pur,Executive Council,1,,Scatter,0
+Belknap,Tilton,Executive Council,1,R,Joseph D. Kenney,817
+Belknap,Tilton,Executive Council,1,D,Dana S. Hilliard,676
+Belknap,Tilton,Executive Council,1,,Scatter,1
+Carroll,Tuftonboro,Executive Council,1,R,Joseph D. Kenney,933
+Carroll,Tuftonboro,Executive Council,1,D,Dana S. Hilliard,616
+Carroll,Tuftonboro,Executive Council,1,,Scatter,1
+Carroll,Wakefield,Executive Council,1,R,Joseph D. Kenney,1771
+Carroll,Wakefield,Executive Council,1,D,Dana S. Hilliard,791
+Carroll,Wakefield,Executive Council,1,,Scatter,0
+Grafton,Waterville Valley,Executive Council,1,R,Joseph D. Kenney,168
+Grafton,Waterville Valley,Executive Council,1,D,Dana S. Hilliard,183
+Grafton,Waterville Valley,Executive Council,1,,Scatter,0
+Coos,Wentworth's Location,Executive Council,1,R,Joseph D. Kenney,15
+Coos,Wentworth's Location,Executive Council,1,D,Dana S. Hilliard,4
+Coos,Wentworth's Location,Executive Council,1,,Scatter,0
+Coos,Whitefield,Executive Council,1,R,Joseph D. Kenney,576
+Coos,Whitefield,Executive Council,1,D,Dana S. Hilliard,474
+Coos,Whitefield,Executive Council,1,,Scatter,0
+Carroll,Wolfeboro,Executive Council,1,R,Joseph D. Kenney,2154
+Carroll,Wolfeboro,Executive Council,1,D,Dana S. Hilliard,1710
+Carroll,Wolfeboro,Executive Council,1,,Scatter,1
+Sullivan,Acworth,Executive Council,2,R,Harold F. French,217
+Sullivan,Acworth,Executive Council,2,D,Cinde Warmington,239
+Sullivan,Acworth,Executive Council,2,,Scatter,0
+Cheshire,Alstead,Executive Council,2,R,Harold F. French,393
+Cheshire,Alstead,Executive Council,2,D,Cinde Warmington,513
+Cheshire,Alstead,Executive Council,2,,Scatter,0
+Merrimack,Andover,Executive Council,2,R,Harold F. French,585
+Merrimack,Andover,Executive Council,2,D,Cinde Warmington,602
+Merrimack,Andover,Executive Council,2,,Scatter,2
+Grafton,Ashland,Executive Council,2,R,Harold F. French,478
+Grafton,Ashland,Executive Council,2,D,Cinde Warmington,443
+Grafton,Ashland,Executive Council,2,,Scatter,2
+Grafton,Bath,Executive Council,2,R,Harold F. French,282
+Grafton,Bath,Executive Council,2,D,Cinde Warmington,198
+Grafton,Bath,Executive Council,2,,Scatter,0
+Grafton,Benton,Executive Council,2,R,Harold F. French,114
+Grafton,Benton,Executive Council,2,D,Cinde Warmington,62
+Grafton,Benton,Executive Council,2,,Scatter,0
+Grafton,Bethlehem,Executive Council,2,R,Harold F. French,517
+Grafton,Bethlehem,Executive Council,2,D,Cinde Warmington,825
+Grafton,Bethlehem,Executive Council,2,,Scatter,4
+Merrimack,Boscawen,Executive Council,2,R,Harold F. French,816
+Merrimack,Boscawen,Executive Council,2,D,Cinde Warmington,637
+Merrimack,Boscawen,Executive Council,2,,Scatter,3
+Merrimack,Bow,Executive Council,2,R,Harold F. French,1905
+Merrimack,Bow,Executive Council,2,D,Cinde Warmington,2429
+Merrimack,Bow,Executive Council,2,,Scatter,0
+Merrimack,Bradford,Executive Council,2,R,Harold F. French,441
+Merrimack,Bradford,Executive Council,2,D,Cinde Warmington,440
+Merrimack,Bradford,Executive Council,2,,Scatter,0
+Grafton,Campton,Executive Council,2,R,Harold F. French,819
+Grafton,Campton,Executive Council,2,D,Cinde Warmington,845
+Grafton,Campton,Executive Council,2,,Scatter,3
+Grafton,Canaan,Executive Council,2,R,Harold F. French,672
+Grafton,Canaan,Executive Council,2,D,Cinde Warmington,876
+Grafton,Canaan,Executive Council,2,,Scatter,0
+Merrimack,Canterbury,Executive Council,2,R,Harold F. French,630
+Merrimack,Canterbury,Executive Council,2,D,Cinde Warmington,798
+Merrimack,Canterbury,Executive Council,2,,Scatter,1
+Coos,Carroll,Executive Council,2,R,Harold F. French,233
+Coos,Carroll,Executive Council,2,D,Cinde Warmington,183
+Coos,Carroll,Executive Council,2,,Scatter,0
+Cheshire,Chesterfield,Executive Council,2,R,Harold F. French,838
+Cheshire,Chesterfield,Executive Council,2,D,Cinde Warmington,1063
+Cheshire,Chesterfield,Executive Council,2,,Scatter,0
+Sullivan,Charlestown,Executive Council,2,R,Harold F. French,975
+Sullivan,Charlestown,Executive Council,2,D,Cinde Warmington,798
+Sullivan,Charlestown,Executive Council,2,,Scatter,1
+Sullivan,Claremont Ward 1,Executive Council,2,R,Harold F. French,523
+Sullivan,Claremont Ward 1,Executive Council,2,D,Cinde Warmington,593
+Sullivan,Claremont Ward 1,Executive Council,2,,Scatter,0
+Sullivan,Claremont Ward 2,Executive Council,2,R,Harold F. French,809
+Sullivan,Claremont Ward 2,Executive Council,2,D,Cinde Warmington,818
+Sullivan,Claremont Ward 2,Executive Council,2,,Scatter,0
+Sullivan,Claremont Ward 3,Executive Council,2,R,Harold F. French,747
+Sullivan,Claremont Ward 3,Executive Council,2,D,Cinde Warmington,642
+Sullivan,Claremont Ward 3,Executive Council,2,,Scatter,0
+Merrimack,Concord Ward 1,Executive Council,2,R,Harold F. French,700
+Merrimack,Concord Ward 1,Executive Council,2,D,Cinde Warmington,1077
+Merrimack,Concord Ward 1,Executive Council,2,,Scatter,0
+Merrimack,Concord Ward 2,Executive Council,2,R,Harold F. French,645
+Merrimack,Concord Ward 2,Executive Council,2,D,Cinde Warmington,968
+Merrimack,Concord Ward 2,Executive Council,2,,Scatter,3
+Merrimack,Concord Ward 3,Executive Council,2,R,Harold F. French,371
+Merrimack,Concord Ward 3,Executive Council,2,D,Cinde Warmington,628
+Merrimack,Concord Ward 3,Executive Council,2,,Scatter,0
+Merrimack,Concord Ward 4,Executive Council,2,R,Harold F. French,508
+Merrimack,Concord Ward 4,Executive Council,2,D,Cinde Warmington,1301
+Merrimack,Concord Ward 4,Executive Council,2,,Scatter,1
+Merrimack,Concord Ward 5,Executive Council,2,R,Harold F. French,612
+Merrimack,Concord Ward 5,Executive Council,2,D,Cinde Warmington,1763
+Merrimack,Concord Ward 5,Executive Council,2,,Scatter,3
+Merrimack,Concord Ward 6,Executive Council,2,R,Harold F. French,459
+Merrimack,Concord Ward 6,Executive Council,2,D,Cinde Warmington,1005
+Merrimack,Concord Ward 6,Executive Council,2,,Scatter,1
+Merrimack,Concord Ward 7,Executive Council,2,R,Harold F. French,710
+Merrimack,Concord Ward 7,Executive Council,2,D,Cinde Warmington,1620
+Merrimack,Concord Ward 7,Executive Council,2,,Scatter,1
+Merrimack,Concord Ward 8,Executive Council,2,R,Harold F. French,698
+Merrimack,Concord Ward 8,Executive Council,2,D,Cinde Warmington,1015
+Merrimack,Concord Ward 8,Executive Council,2,,Scatter,0
+Merrimack,Concord Ward 9,Executive Council,2,R,Harold F. French,537
+Merrimack,Concord Ward 9,Executive Council,2,D,Cinde Warmington,992
+Merrimack,Concord Ward 9,Executive Council,2,,Scatter,0
+Merrimack,Concord Ward 10,Executive Council,2,R,Harold F. French,929
+Merrimack,Concord Ward 10,Executive Council,2,D,Cinde Warmington,1492
+Merrimack,Concord Ward 10,Executive Council,2,,Scatter,0
+Sullivan,Cornish,Executive Council,2,R,Harold F. French,395
+Sullivan,Cornish,Executive Council,2,D,Cinde Warmington,524
+Sullivan,Cornish,Executive Council,2,,Scatter,1
+Sullivan,Croydon,Executive Council,2,R,Harold F. French,283
+Sullivan,Croydon,Executive Council,2,D,Cinde Warmington,144
+Sullivan,Croydon,Executive Council,2,,Scatter,0
+Grafton,Dorchester,Executive Council,2,R,Harold F. French,93
+Grafton,Dorchester,Executive Council,2,D,Cinde Warmington,85
+Grafton,Dorchester,Executive Council,2,,Scatter,0
+Cheshire,Dublin,Executive Council,2,R,Harold F. French,364
+Cheshire,Dublin,Executive Council,2,D,Cinde Warmington,541
+Cheshire,Dublin,Executive Council,2,,Scatter,0
+Grafton,Easton,Executive Council,2,R,Harold F. French,59
+Grafton,Easton,Executive Council,2,D,Cinde Warmington,148
+Grafton,Easton,Executive Council,2,,Scatter,0
+Grafton,Ellsworth,Executive Council,2,R,Harold F. French,30
+Grafton,Ellsworth,Executive Council,2,D,Cinde Warmington,31
+Grafton,Ellsworth,Executive Council,2,,Scatter,0
+Grafton,Enfield,Executive Council,2,R,Harold F. French,789
+Grafton,Enfield,Executive Council,2,D,Cinde Warmington,1373
+Grafton,Enfield,Executive Council,2,,Scatter,0
+Grafton,Franconia,Executive Council,2,R,Harold F. French,242
+Grafton,Franconia,Executive Council,2,D,Cinde Warmington,441
+Grafton,Franconia,Executive Council,2,,Scatter,1
+Cheshire,Gilsum,Executive Council,2,R,Harold F. French,195
+Cheshire,Gilsum,Executive Council,2,D,Cinde Warmington,193
+Cheshire,Gilsum,Executive Council,2,,Scatter,0
+Grafton,Grafton,Executive Council,2,R,Harold F. French,358
+Grafton,Grafton,Executive Council,2,D,Cinde Warmington,244
+Grafton,Grafton,Executive Council,2,,Scatter,0
+Sullivan,Grantham,Executive Council,2,R,Harold F. French,678
+Sullivan,Grantham,Executive Council,2,D,Cinde Warmington,1370
+Sullivan,Grantham,Executive Council,2,,Scatter,0
+Grafton,Groton,Executive Council,2,R,Harold F. French,194
+Grafton,Groton,Executive Council,2,D,Cinde Warmington,112
+Grafton,Groton,Executive Council,2,,Scatter,0
+Hillsborough,Hancock,Executive Council,2,R,Harold F. French,364
+Hillsborough,Hancock,Executive Council,2,D,Cinde Warmington,773
+Hillsborough,Hancock,Executive Council,2,,Scatter,0
+Grafton,Hanover,Executive Council,2,R,Harold F. French,746
+Grafton,Hanover,Executive Council,2,D,Cinde Warmington,4662
+Grafton,Hanover,Executive Council,2,,Scatter,3
+Cheshire,Harrisville,Executive Council,2,R,Harold F. French,168
+Cheshire,Harrisville,Executive Council,2,D,Cinde Warmington,460
+Cheshire,Harrisville,Executive Council,2,,Scatter,0
+Grafton,Haverhill,Executive Council,2,R,Harold F. French,996
+Grafton,Haverhill,Executive Council,2,D,Cinde Warmington,659
+Grafton,Haverhill,Executive Council,2,,Scatter,0
+Merrimack,Henniker,Executive Council,2,R,Harold F. French,895
+Merrimack,Henniker,Executive Council,2,D,Cinde Warmington,1146
+Merrimack,Henniker,Executive Council,2,,Scatter,3
+Cheshire,Hinsdale,Executive Council,2,R,Harold F. French,588
+Cheshire,Hinsdale,Executive Council,2,D,Cinde Warmington,682
+Cheshire,Hinsdale,Executive Council,2,,Scatter,0
+Grafton,Holderness,Executive Council,2,R,Harold F. French,500
+Grafton,Holderness,Executive Council,2,D,Cinde Warmington,681
+Grafton,Holderness,Executive Council,2,,Scatter,1
+Merrimack,Hopkinton,Executive Council,2,R,Harold F. French,1298
+Merrimack,Hopkinton,Executive Council,2,D,Cinde Warmington,2110
+Merrimack,Hopkinton,Executive Council,2,,Scatter,4
+Cheshire,Keene Ward 1,Executive Council,2,R,Harold F. French,335
+Cheshire,Keene Ward 1,Executive Council,2,D,Cinde Warmington,1063
+Cheshire,Keene Ward 1,Executive Council,2,,Scatter,2
+Cheshire,Keene Ward 2,Executive Council,2,R,Harold F. French,513
+Cheshire,Keene Ward 2,Executive Council,2,D,Cinde Warmington,1386
+Cheshire,Keene Ward 2,Executive Council,2,,Scatter,0
+Cheshire,Keene Ward 3,Executive Council,2,R,Harold F. French,550
+Cheshire,Keene Ward 3,Executive Council,2,D,Cinde Warmington,1273
+Cheshire,Keene Ward 3,Executive Council,2,,Scatter,0
+Cheshire,Keene Ward 4,Executive Council,2,R,Harold F. French,603
+Cheshire,Keene Ward 4,Executive Council,2,D,Cinde Warmington,1265
+Cheshire,Keene Ward 4,Executive Council,2,,Scatter,0
+Cheshire,Keene Ward 5,Executive Council,2,R,Harold F. French,648
+Cheshire,Keene Ward 5,Executive Council,2,D,Cinde Warmington,1486
+Cheshire,Keene Ward 5,Executive Council,2,,Scatter,0
+Grafton,Landaff,Executive Council,2,R,Harold F. French,134
+Grafton,Landaff,Executive Council,2,D,Cinde Warmington,76
+Grafton,Landaff,Executive Council,2,,Scatter,0
+Sullivan,Langdon,Executive Council,2,R,Harold F. French,173
+Sullivan,Langdon,Executive Council,2,D,Cinde Warmington,145
+Sullivan,Langdon,Executive Council,2,,Scatter,0
+Grafton,Lebanon Ward 1,Executive Council,2,R,Harold F. French,476
+Grafton,Lebanon Ward 1,Executive Council,2,D,Cinde Warmington,1498
+Grafton,Lebanon Ward 1,Executive Council,2,,Scatter,3
+Grafton,Lebanon Ward 2,Executive Council,2,R,Harold F. French,485
+Grafton,Lebanon Ward 2,Executive Council,2,D,Cinde Warmington,1502
+Grafton,Lebanon Ward 2,Executive Council,2,,Scatter,2
+Grafton,Lebanon Ward 3,Executive Council,2,R,Harold F. French,517
+Grafton,Lebanon Ward 3,Executive Council,2,D,Cinde Warmington,1530
+Grafton,Lebanon Ward 3,Executive Council,2,,Scatter,1
+Grafton,Lincoln,Executive Council,2,R,Harold F. French,328
+Grafton,Lincoln,Executive Council,2,D,Cinde Warmington,365
+Grafton,Lincoln,Executive Council,2,,Scatter,0
+Grafton,Lisbon,Executive Council,2,R,Harold F. French,339
+Grafton,Lisbon,Executive Council,2,D,Cinde Warmington,249
+Grafton,Lisbon,Executive Council,2,,Scatter,1
+Grafton,Littleton,Executive Council,2,R,Harold F. French,1281
+Grafton,Littleton,Executive Council,2,D,Cinde Warmington,1111
+Grafton,Littleton,Executive Council,2,,Scatter,3
+Grafton,Lyman,Executive Council,2,R,Harold F. French,189
+Grafton,Lyman,Executive Council,2,D,Cinde Warmington,130
+Grafton,Lyman,Executive Council,2,,Scatter,0
+Grafton,Lyme,Executive Council,2,R,Harold F. French,184
+Grafton,Lyme,Executive Council,2,D,Cinde Warmington,860
+Grafton,Lyme,Executive Council,2,,Scatter,0
+Cheshire,Marlborough,Executive Council,2,R,Harold F. French,326
+Cheshire,Marlborough,Executive Council,2,D,Cinde Warmington,640
+Cheshire,Marlborough,Executive Council,2,,Scatter,0
+Cheshire,Marlow,Executive Council,2,R,Harold F. French,172
+Cheshire,Marlow,Executive Council,2,D,Cinde Warmington,186
+Cheshire,Marlow,Executive Council,2,,Scatter,0
+Grafton,Monroe,Executive Council,2,R,Harold F. French,252
+Grafton,Monroe,Executive Council,2,D,Cinde Warmington,151
+Grafton,Monroe,Executive Council,2,,Scatter,0
+Cheshire,Nelson,Executive Council,2,R,Harold F. French,134
+Cheshire,Nelson,Executive Council,2,D,Cinde Warmington,221
+Cheshire,Nelson,Executive Council,2,,Scatter,0
+Merrimack,New London,Executive Council,2,R,Harold F. French,982
+Merrimack,New London,Executive Council,2,D,Cinde Warmington,1643
+Merrimack,New London,Executive Council,2,,Scatter,0
+Merrimack,Newbury,Executive Council,2,R,Harold F. French,663
+Merrimack,Newbury,Executive Council,2,D,Cinde Warmington,686
+Merrimack,Newbury,Executive Council,2,,Scatter,0
+Sullivan,Newport,Executive Council,2,R,Harold F. French,1313
+Sullivan,Newport,Executive Council,2,D,Cinde Warmington,938
+Sullivan,Newport,Executive Council,2,,Scatter,0
+Grafton,Orange,Executive Council,2,R,Harold F. French,78
+Grafton,Orange,Executive Council,2,D,Cinde Warmington,70
+Grafton,Orange,Executive Council,2,,Scatter,0
+Grafton,Orford,Executive Council,2,R,Harold F. French,215
+Grafton,Orford,Executive Council,2,D,Cinde Warmington,418
+Grafton,Orford,Executive Council,2,,Scatter,1
+Hillsborough,Peterborough,Executive Council,2,R,Harold F. French,1032
+Hillsborough,Peterborough,Executive Council,2,D,Cinde Warmington,2429
+Hillsborough,Peterborough,Executive Council,2,,Scatter,4
+Grafton,Piermont,Executive Council,2,R,Harold F. French,181
+Grafton,Piermont,Executive Council,2,D,Cinde Warmington,167
+Grafton,Piermont,Executive Council,2,,Scatter,1
+Sullivan,Plainfield,Executive Council,2,R,Harold F. French,424
+Sullivan,Plainfield,Executive Council,2,D,Cinde Warmington,900
+Sullivan,Plainfield,Executive Council,2,,Scatter,1
+Grafton,Plymouth,Executive Council,2,R,Harold F. French,773
+Grafton,Plymouth,Executive Council,2,D,Cinde Warmington,1453
+Grafton,Plymouth,Executive Council,2,,Scatter,6
+Cheshire,Roxbury,Executive Council,2,R,Harold F. French,34
+Cheshire,Roxbury,Executive Council,2,D,Cinde Warmington,72
+Cheshire,Roxbury,Executive Council,2,,Scatter,0
+Grafton,Rumney,Executive Council,2,R,Harold F. French,474
+Grafton,Rumney,Executive Council,2,D,Cinde Warmington,308
+Grafton,Rumney,Executive Council,2,,Scatter,0
+Merrimack,Salisbury,Executive Council,2,R,Harold F. French,463
+Merrimack,Salisbury,Executive Council,2,D,Cinde Warmington,291
+Merrimack,Salisbury,Executive Council,2,,Scatter,0
+Hillsborough,Sharon,Executive Council,2,R,Harold F. French,105
+Hillsborough,Sharon,Executive Council,2,D,Cinde Warmington,124
+Hillsborough,Sharon,Executive Council,2,,Scatter,2
+Sullivan,Springfield,Executive Council,2,R,Harold F. French,372
+Sullivan,Springfield,Executive Council,2,D,Cinde Warmington,356
+Sullivan,Springfield,Executive Council,2,,Scatter,1
+Grafton,Sugar Hill,Executive Council,2,R,Harold F. French,144
+Grafton,Sugar Hill,Executive Council,2,D,Cinde Warmington,261
+Grafton,Sugar Hill,Executive Council,2,,Scatter,0
+Cheshire,Sullivan,Executive Council,2,R,Harold F. French,154
+Cheshire,Sullivan,Executive Council,2,D,Cinde Warmington,157
+Cheshire,Sullivan,Executive Council,2,,Scatter,1
+Sullivan,Sunapee,Executive Council,2,R,Harold F. French,995
+Sullivan,Sunapee,Executive Council,2,D,Cinde Warmington,956
+Sullivan,Sunapee,Executive Council,2,,Scatter,0
+Cheshire,Surry,Executive Council,2,R,Harold F. French,198
+Cheshire,Surry,Executive Council,2,D,Cinde Warmington,237
+Cheshire,Surry,Executive Council,2,,Scatter,0
+Merrimack,Sutton,Executive Council,2,R,Harold F. French,525
+Merrimack,Sutton,Executive Council,2,D,Cinde Warmington,588
+Merrimack,Sutton,Executive Council,2,,Scatter,0
+Grafton,Thornton,Executive Council,2,R,Harold F. French,678
+Grafton,Thornton,Executive Council,2,D,Cinde Warmington,731
+Grafton,Thornton,Executive Council,2,,Scatter,1
+Sullivan,Unity,Executive Council,2,R,Harold F. French,404
+Sullivan,Unity,Executive Council,2,D,Cinde Warmington,220
+Sullivan,Unity,Executive Council,2,,Scatter,0
+Cheshire,Walpole,Executive Council,2,R,Harold F. French,685
+Cheshire,Walpole,Executive Council,2,D,Cinde Warmington,1132
+Cheshire,Walpole,Executive Council,2,,Scatter,1
+Merrimack,Warner,Executive Council,2,R,Harold F. French,693
+Merrimack,Warner,Executive Council,2,D,Cinde Warmington,845
+Merrimack,Warner,Executive Council,2,,Scatter,1
+Grafton,Warren,Executive Council,2,R,Harold F. French,236
+Grafton,Warren,Executive Council,2,D,Cinde Warmington,125
+Grafton,Warren,Executive Council,2,,Scatter,0
+Merrimack,Webster,Executive Council,2,R,Harold F. French,555
+Merrimack,Webster,Executive Council,2,D,Cinde Warmington,426
+Merrimack,Webster,Executive Council,2,,Scatter,1
+Grafton,Wentworth,Executive Council,2,R,Harold F. French,304
+Grafton,Wentworth,Executive Council,2,D,Cinde Warmington,186
+Grafton,Wentworth,Executive Council,2,,Scatter,0
+Cheshire,Westmoreland,Executive Council,2,R,Harold F. French,366
+Cheshire,Westmoreland,Executive Council,2,D,Cinde Warmington,519
+Cheshire,Westmoreland,Executive Council,2,,Scatter,0
+Merrimack,Wilmot,Executive Council,2,R,Harold F. French,330
+Merrimack,Wilmot,Executive Council,2,D,Cinde Warmington,468
+Merrimack,Wilmot,Executive Council,2,,Scatter,0
+Cheshire,Winchester,Executive Council,2,R,Harold F. French,724
+Cheshire,Winchester,Executive Council,2,D,Cinde Warmington,682
+Cheshire,Winchester,Executive Council,2,,Scatter,4
+Grafton,Woodstock,Executive Council,2,R,Harold F. French,291
+Grafton,Woodstock,Executive Council,2,D,Cinde Warmington,338
+Grafton,Woodstock,Executive Council,2,,Scatter,2
+Rockingham,Atkinson,Executive Council,3,R,Janet Stevens,2435
+Rockingham,Atkinson,Executive Council,3,D,Katherine Harake,1542
+Rockingham,Atkinson,Executive Council,3,,Scatter,1
+Rockingham,Brentwood,Executive Council,3,R,Janet Stevens,1257
+Rockingham,Brentwood,Executive Council,3,D,Katherine Harake,1116
+Rockingham,Brentwood,Executive Council,3,,Scatter,0
+Rockingham,Chester,Executive Council,3,R,Janet Stevens,1649
+Rockingham,Chester,Executive Council,3,D,Katherine Harake,998
+Rockingham,Chester,Executive Council,3,,Scatter,2
+Rockingham,Danville,Executive Council,3,R,Janet Stevens,1348
+Rockingham,Danville,Executive Council,3,D,Katherine Harake,721
+Rockingham,Danville,Executive Council,3,,Scatter,1
+Rockingham,Derry,Executive Council,3,R,Janet Stevens,6462
+Rockingham,Derry,Executive Council,3,D,Katherine Harake,5033
+Rockingham,Derry,Executive Council,3,,Scatter,0
+Rockingham,East Kingston,Executive Council,3,R,Janet Stevens,800
+Rockingham,East Kingston,Executive Council,3,D,Katherine Harake,564
+Rockingham,East Kingston,Executive Council,3,,Scatter,0
+Rockingham,Epping,Executive Council,3,R,Janet Stevens,2015
+Rockingham,Epping,Executive Council,3,D,Katherine Harake,1423
+Rockingham,Epping,Executive Council,3,,Scatter,0
+Rockingham,Exeter,Executive Council,3,R,Janet Stevens,2938
+Rockingham,Exeter,Executive Council,3,D,Katherine Harake,5261
+Rockingham,Exeter,Executive Council,3,,Scatter,0
+Rockingham,Fremont,Executive Council,3,R,Janet Stevens,1505
+Rockingham,Fremont,Executive Council,3,D,Katherine Harake,807
+Rockingham,Fremont,Executive Council,3,,Scatter,1
+Rockingham,Greenland,Executive Council,3,R,Janet Stevens,1066
+Rockingham,Greenland,Executive Council,3,D,Katherine Harake,1259
+Rockingham,Greenland,Executive Council,3,,Scatter,1
+Rockingham,Hampstead,Executive Council,3,R,Janet Stevens,2802
+Rockingham,Hampstead,Executive Council,3,D,Katherine Harake,1685
+Rockingham,Hampstead,Executive Council,3,,Scatter,2
+Rockingham,Hampton,Executive Council,3,R,Janet Stevens,4450
+Rockingham,Hampton,Executive Council,3,D,Katherine Harake,4582
+Rockingham,Hampton,Executive Council,3,,Scatter,4
+Rockingham,Hampton Falls,Executive Council,3,R,Janet Stevens,793
+Rockingham,Hampton Falls,Executive Council,3,D,Katherine Harake,595
+Rockingham,Hampton Falls,Executive Council,3,,Scatter,0
+Rockingham,Kensington,Executive Council,3,R,Janet Stevens,639
+Rockingham,Kensington,Executive Council,3,D,Katherine Harake,567
+Rockingham,Kensington,Executive Council,3,,Scatter,1
+Rockingham,Kingston,Executive Council,3,R,Janet Stevens,1871
+Rockingham,Kingston,Executive Council,3,D,Katherine Harake,1211
+Rockingham,Kingston,Executive Council,3,,Scatter,3
+Rockingham,New Castle,Executive Council,3,R,Janet Stevens,291
+Rockingham,New Castle,Executive Council,3,D,Katherine Harake,442
+Rockingham,New Castle,Executive Council,3,,Scatter,0
+Rockingham,Newfields,Executive Council,3,R,Janet Stevens,484
+Rockingham,Newfields,Executive Council,3,D,Katherine Harake,570
+Rockingham,Newfields,Executive Council,3,,Scatter,1
+Rockingham,Newington,Executive Council,3,R,Janet Stevens,296
+Rockingham,Newington,Executive Council,3,D,Katherine Harake,231
+Rockingham,Newington,Executive Council,3,,Scatter,0
+Rockingham,Newmarket,Executive Council,3,R,Janet Stevens,1647
+Rockingham,Newmarket,Executive Council,3,D,Katherine Harake,2937
+Rockingham,Newmarket,Executive Council,3,,Scatter,5
+Rockingham,Newton,Executive Council,3,R,Janet Stevens,1352
+Rockingham,Newton,Executive Council,3,D,Katherine Harake,871
+Rockingham,Newton,Executive Council,3,,Scatter,1
+Rockingham,North Hampton,Executive Council,3,R,Janet Stevens,1283
+Rockingham,North Hampton,Executive Council,3,D,Katherine Harake,1445
+Rockingham,North Hampton,Executive Council,3,,Scatter,2
+Hillsborough,Pelham,Executive Council,3,R,Janet Stevens,4168
+Hillsborough,Pelham,Executive Council,3,D,Katherine Harake,2269
+Hillsborough,Pelham,Executive Council,3,,Scatter,3
+Rockingham,Plaistow,Executive Council,3,R,Janet Stevens,1992
+Rockingham,Plaistow,Executive Council,3,D,Katherine Harake,1286
+Rockingham,Plaistow,Executive Council,3,,Scatter,4
+Rockingham,Portsmouth Ward 1,Executive Council,3,R,Janet Stevens,687
+Rockingham,Portsmouth Ward 1,Executive Council,3,D,Katherine Harake,1573
+Rockingham,Portsmouth Ward 1,Executive Council,3,,Scatter,1
+Rockingham,Portsmouth Ward 2,Executive Council,3,R,Janet Stevens,608
+Rockingham,Portsmouth Ward 2,Executive Council,3,D,Katherine Harake,1993
+Rockingham,Portsmouth Ward 2,Executive Council,3,,Scatter,0
+Rockingham,Portsmouth Ward 3,Executive Council,3,R,Janet Stevens,734
+Rockingham,Portsmouth Ward 3,Executive Council,3,D,Katherine Harake,1444
+Rockingham,Portsmouth Ward 3,Executive Council,3,,Scatter,2
+Rockingham,Portsmouth Ward 4,Executive Council,3,R,Janet Stevens,755
+Rockingham,Portsmouth Ward 4,Executive Council,3,D,Katherine Harake,1194
+Rockingham,Portsmouth Ward 4,Executive Council,3,,Scatter,1
+Rockingham,Portsmouth Ward 5,Executive Council,3,R,Janet Stevens,598
+Rockingham,Portsmouth Ward 5,Executive Council,3,D,Katherine Harake,1698
+Rockingham,Portsmouth Ward 5,Executive Council,3,,Scatter,3
+Rockingham,Raymond,Executive Council,3,R,Janet Stevens,2804
+Rockingham,Raymond,Executive Council,3,D,Katherine Harake,1618
+Rockingham,Raymond,Executive Council,3,,Scatter,4
+Rockingham,Rye,Executive Council,3,R,Janet Stevens,1636
+Rockingham,Rye,Executive Council,3,D,Katherine Harake,2001
+Rockingham,Rye,Executive Council,3,,Scatter,4
+Rockingham,Salem,Executive Council,3,R,Janet Stevens,7791
+Rockingham,Salem,Executive Council,3,D,Katherine Harake,4687
+Rockingham,Salem,Executive Council,3,,Scatter,19
+Rockingham,Sandown,Executive Council,3,R,Janet Stevens,1886
+Rockingham,Sandown,Executive Council,3,D,Katherine Harake,1055
+Rockingham,Sandown,Executive Council,3,,Scatter,1
+Rockingham,Seabrook,Executive Council,3,R,Janet Stevens,2182
+Rockingham,Seabrook,Executive Council,3,D,Katherine Harake,1250
+Rockingham,Seabrook,Executive Council,3,,Scatter,3
+Rockingham,South Hampton,Executive Council,3,R,Janet Stevens,282
+Rockingham,South Hampton,Executive Council,3,D,Katherine Harake,220
+Rockingham,South Hampton,Executive Council,3,,Scatter,0
+Rockingham,Stratham,Executive Council,3,R,Janet Stevens,2000
+Rockingham,Stratham,Executive Council,3,D,Katherine Harake,2499
+Rockingham,Stratham,Executive Council,3,,Scatter,3
+Rockingham,Windham,Executive Council,3,R,Janet Stevens,4392
+Rockingham,Windham,Executive Council,3,D,Katherine Harake,2859
+Rockingham,Windham,Executive Council,3,,Scatter,10
+Merrimack,Allenstown,Executive Council,4,R,Ted Gatsas,992
+Merrimack,Allenstown,Executive Council,4,D,Kevin J. Cavanaugh,722
+Merrimack,Allenstown,Executive Council,4,,Scatter,0
+Rockingham,Auburn,Executive Council,4,R,Ted Gatsas,1943
+Rockingham,Auburn,Executive Council,4,D,Kevin J. Cavanaugh,1153
+Rockingham,Auburn,Executive Council,4,,Scatter,5
+Belknap,Barnstead,Executive Council,4,R,Ted Gatsas,1402
+Belknap,Barnstead,Executive Council,4,D,Kevin J. Cavanaugh,786
+Belknap,Barnstead,Executive Council,4,,Scatter,2
+Strafford,Barrington,Executive Council,4,R,Ted Gatsas,2237
+Strafford,Barrington,Executive Council,4,D,Kevin J. Cavanaugh,2387
+Strafford,Barrington,Executive Council,4,,Scatter,0
+Hillsborough,Bedford,Executive Council,4,R,Ted Gatsas,6049
+Hillsborough,Bedford,Executive Council,4,D,Kevin J. Cavanaugh,5257
+Hillsborough,Bedford,Executive Council,4,,Scatter,3
+Rockingham,Candia,Executive Council,4,R,Ted Gatsas,1462
+Rockingham,Candia,Executive Council,4,D,Kevin J. Cavanaugh,800
+Rockingham,Candia,Executive Council,4,,Scatter,4
+Merrimack,Chichester,Executive Council,4,R,Ted Gatsas,803
+Merrimack,Chichester,Executive Council,4,D,Kevin J. Cavanaugh,562
+Merrimack,Chichester,Executive Council,4,,Scatter,4
+Rockingham,Deerfield,Executive Council,4,R,Ted Gatsas,1470
+Rockingham,Deerfield,Executive Council,4,D,Kevin J. Cavanaugh,1092
+Rockingham,Deerfield,Executive Council,4,,Scatter,4
+Merrimack,Epsom,Executive Council,4,R,Ted Gatsas,1408
+Merrimack,Epsom,Executive Council,4,D,Kevin J. Cavanaugh,863
+Merrimack,Epsom,Executive Council,4,,Scatter,2
+Hillsborough,Goffstown,Executive Council,4,R,Ted Gatsas,4075
+Hillsborough,Goffstown,Executive Council,4,D,Kevin J. Cavanaugh,3499
+Hillsborough,Goffstown,Executive Council,4,,Scatter,6
+Merrimack,Hooksett,Executive Council,4,R,Ted Gatsas,3499
+Merrimack,Hooksett,Executive Council,4,D,Kevin J. Cavanaugh,3075
+Merrimack,Hooksett,Executive Council,4,,Scatter,10
+Strafford,Lee,Executive Council,4,R,Ted Gatsas,815
+Strafford,Lee,Executive Council,4,D,Kevin J. Cavanaugh,1521
+Strafford,Lee,Executive Council,4,,Scatter,0
+Rockingham,Londonderry,Executive Council,4,R,Ted Gatsas,6414
+Rockingham,Londonderry,Executive Council,4,D,Kevin J. Cavanaugh,5248
+Rockingham,Londonderry,Executive Council,4,,Scatter,6
+Merrimack,Loudon,Executive Council,4,R,Ted Gatsas,1810
+Merrimack,Loudon,Executive Council,4,D,Kevin J. Cavanaugh,1070
+Merrimack,Loudon,Executive Council,4,,Scatter,7
+Hillsborough,Manchester Ward 1,Executive Council,4,R,Ted Gatsas,1913
+Hillsborough,Manchester Ward 1,Executive Council,4,D,Kevin J. Cavanaugh,2596
+Hillsborough,Manchester Ward 1,Executive Council,4,,Scatter,2
+Hillsborough,Manchester Ward 2,Executive Council,4,R,Ted Gatsas,1673
+Hillsborough,Manchester Ward 2,Executive Council,4,D,Kevin J. Cavanaugh,2196
+Hillsborough,Manchester Ward 2,Executive Council,4,,Scatter,4
+Hillsborough,Manchester Ward 3,Executive Council,4,R,Ted Gatsas,865
+Hillsborough,Manchester Ward 3,Executive Council,4,D,Kevin J. Cavanaugh,1355
+Hillsborough,Manchester Ward 3,Executive Council,4,,Scatter,1
+Hillsborough,Manchester Ward 4,Executive Council,4,R,Ted Gatsas,1087
+Hillsborough,Manchester Ward 4,Executive Council,4,D,Kevin J. Cavanaugh,1299
+Hillsborough,Manchester Ward 4,Executive Council,4,,Scatter,5
+Hillsborough,Manchester Ward 5,Executive Council,4,R,Ted Gatsas,789
+Hillsborough,Manchester Ward 5,Executive Council,4,D,Kevin J. Cavanaugh,879
+Hillsborough,Manchester Ward 5,Executive Council,4,,Scatter,3
+Hillsborough,Manchester Ward 6,Executive Council,4,R,Ted Gatsas,2071
+Hillsborough,Manchester Ward 6,Executive Council,4,D,Kevin J. Cavanaugh,1828
+Hillsborough,Manchester Ward 6,Executive Council,4,,Scatter,3
+Hillsborough,Manchester Ward 7,Executive Council,4,R,Ted Gatsas,1193
+Hillsborough,Manchester Ward 7,Executive Council,4,D,Kevin J. Cavanaugh,1302
+Hillsborough,Manchester Ward 7,Executive Council,4,,Scatter,2
+Hillsborough,Manchester Ward 8,Executive Council,4,R,Ted Gatsas,2208
+Hillsborough,Manchester Ward 8,Executive Council,4,D,Kevin J. Cavanaugh,1824
+Hillsborough,Manchester Ward 8,Executive Council,4,,Scatter,1
+Hillsborough,Manchester Ward 9,Executive Council,4,R,Ted Gatsas,1395
+Hillsborough,Manchester Ward 9,Executive Council,4,D,Kevin J. Cavanaugh,1472
+Hillsborough,Manchester Ward 9,Executive Council,4,,Scatter,1
+Hillsborough,Manchester Ward 10,Executive Council,4,R,Ted Gatsas,1489
+Hillsborough,Manchester Ward 10,Executive Council,4,D,Kevin J. Cavanaugh,1441
+Hillsborough,Manchester Ward 10,Executive Council,4,,Scatter,5
+Hillsborough,Manchester Ward 11,Executive Council,4,R,Ted Gatsas,1100
+Hillsborough,Manchester Ward 11,Executive Council,4,D,Kevin J. Cavanaugh,1236
+Hillsborough,Manchester Ward 11,Executive Council,4,,Scatter,3
+Hillsborough,Manchester Ward 12,Executive Council,4,R,Ted Gatsas,1561
+Hillsborough,Manchester Ward 12,Executive Council,4,D,Kevin J. Cavanaugh,1738
+Hillsborough,Manchester Ward 12,Executive Council,4,,Scatter,0
+Rockingham,Northwood,Executive Council,4,R,Ted Gatsas,1167
+Rockingham,Northwood,Executive Council,4,D,Kevin J. Cavanaugh,977
+Rockingham,Northwood,Executive Council,4,,Scatter,4
+Rockingham,Nottingham,Executive Council,4,R,Ted Gatsas,1479
+Rockingham,Nottingham,Executive Council,4,D,Kevin J. Cavanaugh,1409
+Rockingham,Nottingham,Executive Council,4,,Scatter,3
+Merrimack,Pembroke,Executive Council,4,R,Ted Gatsas,1589
+Merrimack,Pembroke,Executive Council,4,D,Kevin J. Cavanaugh,1613
+Merrimack,Pembroke,Executive Council,4,,Scatter,3
+Merrimack,Pittsfield,Executive Council,4,R,Ted Gatsas,951
+Merrimack,Pittsfield,Executive Council,4,D,Kevin J. Cavanaugh,613
+Merrimack,Pittsfield,Executive Council,4,,Scatter,10
+Strafford,Strafford,Executive Council,4,R,Ted Gatsas,1214
+Strafford,Strafford,Executive Council,4,D,Kevin J. Cavanaugh,1045
+Strafford,Strafford,Executive Council,4,,Scatter,1
+Hillsborough,Amherst,Executive Council,5,R,Dave Wheeler,2995
+Hillsborough,Amherst,Executive Council,5,D,Shoshanna Kelly,3571
+Hillsborough,Amherst,Executive Council,5,,Scatter,6
+Hillsborough,Antrim,Executive Council,5,R,Dave Wheeler,680
+Hillsborough,Antrim,Executive Council,5,D,Shoshanna Kelly,585
+Hillsborough,Antrim,Executive Council,5,,Scatter,1
+Hillsborough,Bennington,Executive Council,5,R,Dave Wheeler,378
+Hillsborough,Bennington,Executive Council,5,D,Shoshanna Kelly,300
+Hillsborough,Bennington,Executive Council,5,,Scatter,0
+Hillsborough,Brookline,Executive Council,5,R,Dave Wheeler,1538
+Hillsborough,Brookline,Executive Council,5,D,Shoshanna Kelly,1334
+Hillsborough,Brookline,Executive Council,5,,Scatter,0
+Hillsborough,Deering,Executive Council,5,R,Dave Wheeler,581
+Hillsborough,Deering,Executive Council,5,D,Shoshanna Kelly,321
+Hillsborough,Deering,Executive Council,5,,Scatter,1
+Merrimack,Dunbarton,Executive Council,5,R,Dave Wheeler,986
+Merrimack,Dunbarton,Executive Council,5,D,Shoshanna Kelly,635
+Merrimack,Dunbarton,Executive Council,5,,Scatter,3
+Cheshire,Fitzwilliam,Executive Council,5,R,Dave Wheeler,603
+Cheshire,Fitzwilliam,Executive Council,5,D,Shoshanna Kelly,504
+Cheshire,Fitzwilliam,Executive Council,5,,Scatter,0
+Hillsborough,Francestown,Executive Council,5,R,Dave Wheeler,469
+Hillsborough,Francestown,Executive Council,5,D,Shoshanna Kelly,477
+Hillsborough,Francestown,Executive Council,5,,Scatter,0
+Sullivan,Goshen,Executive Council,5,R,Dave Wheeler,245
+Sullivan,Goshen,Executive Council,5,D,Shoshanna Kelly,107
+Sullivan,Goshen,Executive Council,5,,Scatter,0
+Hillsborough,Greenfield,Executive Council,5,R,Dave Wheeler,422
+Hillsborough,Greenfield,Executive Council,5,D,Shoshanna Kelly,387
+Hillsborough,Greenfield,Executive Council,5,,Scatter,0
+Hillsborough,Greenville,Executive Council,5,R,Dave Wheeler,429
+Hillsborough,Greenville,Executive Council,5,D,Shoshanna Kelly,296
+Hillsborough,Greenville,Executive Council,5,,Scatter,1
+Hillsborough,Hillsborough,Executive Council,5,R,Dave Wheeler,1344
+Hillsborough,Hillsborough,Executive Council,5,D,Shoshanna Kelly,1071
+Hillsborough,Hillsborough,Executive Council,5,,Scatter,0
+Hillsborough,Hollis,Executive Council,5,R,Dave Wheeler,2283
+Hillsborough,Hollis,Executive Council,5,D,Shoshanna Kelly,2362
+Hillsborough,Hollis,Executive Council,5,,Scatter,1
+Hillsborough,Hudson,Executive Council,5,R,Dave Wheeler,5952
+Hillsborough,Hudson,Executive Council,5,D,Shoshanna Kelly,4091
+Hillsborough,Hudson,Executive Council,5,,Scatter,2
+Cheshire,Jaffrey,Executive Council,5,R,Dave Wheeler,1219
+Cheshire,Jaffrey,Executive Council,5,D,Shoshanna Kelly,1129
+Cheshire,Jaffrey,Executive Council,5,,Scatter,1
+Sullivan,Lempster,Executive Council,5,R,Dave Wheeler,363
+Sullivan,Lempster,Executive Council,5,D,Shoshanna Kelly,199
+Sullivan,Lempster,Executive Council,5,,Scatter,0
+Hillsborough,Litchfield,Executive Council,5,R,Dave Wheeler,2382
+Hillsborough,Litchfield,Executive Council,5,D,Shoshanna Kelly,1633
+Hillsborough,Litchfield,Executive Council,5,,Scatter,2
+Hillsborough,Lyndeborough,Executive Council,5,R,Dave Wheeler,487
+Hillsborough,Lyndeborough,Executive Council,5,D,Shoshanna Kelly,433
+Hillsborough,Lyndeborough,Executive Council,5,,Scatter,0
+Hillsborough,Mason,Executive Council,5,R,Dave Wheeler,482
+Hillsborough,Mason,Executive Council,5,D,Shoshanna Kelly,272
+Hillsborough,Mason,Executive Council,5,,Scatter,0
+Hillsborough,Merrimack,Executive Council,5,R,Dave Wheeler,6447
+Hillsborough,Merrimack,Executive Council,5,D,Shoshanna Kelly,5989
+Hillsborough,Merrimack,Executive Council,5,,Scatter,0
+Hillsborough,Milford,Executive Council,5,R,Dave Wheeler,3468
+Hillsborough,Milford,Executive Council,5,D,Shoshanna Kelly,3343
+Hillsborough,Milford,Executive Council,5,,Scatter,0
+Hillsborough,Mont Vernon,Executive Council,5,R,Dave Wheeler,712
+Hillsborough,Mont Vernon,Executive Council,5,D,Shoshanna Kelly,761
+Hillsborough,Mont Vernon,Executive Council,5,,Scatter,0
+Hillsborough,Nashua Ward 1,Executive Council,5,R,Dave Wheeler,2206
+Hillsborough,Nashua Ward 1,Executive Council,5,D,Shoshanna Kelly,2483
+Hillsborough,Nashua Ward 1,Executive Council,5,,Scatter,0
+Hillsborough,Nashua Ward 2,Executive Council,5,R,Dave Wheeler,1831
+Hillsborough,Nashua Ward 2,Executive Council,5,D,Shoshanna Kelly,2281
+Hillsborough,Nashua Ward 2,Executive Council,5,,Scatter,0
+Hillsborough,Nashua Ward 3,Executive Council,5,R,Dave Wheeler,1336
+Hillsborough,Nashua Ward 3,Executive Council,5,D,Shoshanna Kelly,1793
+Hillsborough,Nashua Ward 3,Executive Council,5,,Scatter,0
+Hillsborough,Nashua Ward 4,Executive Council,5,R,Dave Wheeler,657
+Hillsborough,Nashua Ward 4,Executive Council,5,D,Shoshanna Kelly,990
+Hillsborough,Nashua Ward 4,Executive Council,5,,Scatter,0
+Hillsborough,Nashua Ward 5,Executive Council,5,R,Dave Wheeler,2280
+Hillsborough,Nashua Ward 5,Executive Council,5,D,Shoshanna Kelly,2485
+Hillsborough,Nashua Ward 5,Executive Council,5,,Scatter,0
+Hillsborough,Nashua Ward 6,Executive Council,5,R,Dave Wheeler,1282
+Hillsborough,Nashua Ward 6,Executive Council,5,D,Shoshanna Kelly,1504
+Hillsborough,Nashua Ward 6,Executive Council,5,,Scatter,0
+Hillsborough,Nashua Ward 7,Executive Council,5,R,Dave Wheeler,1282
+Hillsborough,Nashua Ward 7,Executive Council,5,D,Shoshanna Kelly,1491
+Hillsborough,Nashua Ward 7,Executive Council,5,,Scatter,0
+Hillsborough,Nashua Ward 8,Executive Council,5,R,Dave Wheeler,1399
+Hillsborough,Nashua Ward 8,Executive Council,5,D,Shoshanna Kelly,2233
+Hillsborough,Nashua Ward 8,Executive Council,5,,Scatter,0
+Hillsborough,Nashua Ward 9,Executive Council,5,R,Dave Wheeler,1870
+Hillsborough,Nashua Ward 9,Executive Council,5,D,Shoshanna Kelly,2166
+Hillsborough,Nashua Ward 9,Executive Council,5,,Scatter,0
+Hillsborough,New Boston,Executive Council,5,R,Dave Wheeler,1723
+Hillsborough,New Boston,Executive Council,5,D,Shoshanna Kelly,1402
+Hillsborough,New Boston,Executive Council,5,,Scatter,0
+Hillsborough,New Ipswich,Executive Council,5,R,Dave Wheeler,1779
+Hillsborough,New Ipswich,Executive Council,5,D,Shoshanna Kelly,618
+Hillsborough,New Ipswich,Executive Council,5,,Scatter,1
+Cheshire,Richmond,Executive Council,5,R,Dave Wheeler,342
+Cheshire,Richmond,Executive Council,5,D,Shoshanna Kelly,184
+Cheshire,Richmond,Executive Council,5,,Scatter,1
+Cheshire,Rindge,Executive Council,5,R,Dave Wheeler,1775
+Cheshire,Rindge,Executive Council,5,D,Shoshanna Kelly,1000
+Cheshire,Rindge,Executive Council,5,,Scatter,1
+Cheshire,Stoddard,Executive Council,5,R,Dave Wheeler,369
+Cheshire,Stoddard,Executive Council,5,D,Shoshanna Kelly,317
+Cheshire,Stoddard,Executive Council,5,,Scatter,0
+Cheshire,Swanzey,Executive Council,5,R,Dave Wheeler,1551
+Cheshire,Swanzey,Executive Council,5,D,Shoshanna Kelly,1432
+Cheshire,Swanzey,Executive Council,5,,Scatter,0
+Hillsborough,Temple,Executive Council,5,R,Dave Wheeler,386
+Hillsborough,Temple,Executive Council,5,D,Shoshanna Kelly,397
+Hillsborough,Temple,Executive Council,5,,Scatter,0
+Cheshire,Troy,Executive Council,5,R,Dave Wheeler,474
+Cheshire,Troy,Executive Council,5,D,Shoshanna Kelly,321
+Cheshire,Troy,Executive Council,5,,Scatter,0
+Sullivan,Washington,Executive Council,5,R,Dave Wheeler,381
+Sullivan,Washington,Executive Council,5,D,Shoshanna Kelly,261
+Sullivan,Washington,Executive Council,5,,Scatter,0
+Hillsborough,Weare,Executive Council,5,R,Dave Wheeler,2654
+Hillsborough,Weare,Executive Council,5,D,Shoshanna Kelly,1544
+Hillsborough,Weare,Executive Council,5,,Scatter,2
+Hillsborough,Wilton,Executive Council,5,R,Dave Wheeler,927
+Hillsborough,Wilton,Executive Council,5,D,Shoshanna Kelly,969
+Hillsborough,Wilton,Executive Council,5,,Scatter,0
+Hillsborough,Windsor,Executive Council,5,R,Dave Wheeler,75
+Hillsborough,Windsor,Executive Council,5,D,Shoshanna Kelly,21
+Hillsborough,Windsor,Executive Council,5,,Scatter,0

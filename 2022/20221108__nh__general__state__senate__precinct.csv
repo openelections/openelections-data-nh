@@ -1,0 +1,933 @@
+county,precinct,office,district,party,candidate,votes
+Coos,Atkinson and Gilmanton Ac. Gt.,State Senate,1,R,Carrie L. Gendreau,0
+Coos,Atkinson and Gilmanton Ac. Gt.,State Senate,1,D,Edith Tucker,0
+Coos,Atkinson and Gilmanton Ac. Gt.,State Senate,1,,Scatter,0
+Grafton,Bath,State Senate,1,R,Carrie L. Gendreau,297
+Grafton,Bath,State Senate,1,D,Edith Tucker,200
+Grafton,Bath,State Senate,1,,Scatter,0
+Grafton,Benton,State Senate,1,R,Carrie L. Gendreau,119
+Grafton,Benton,State Senate,1,D,Edith Tucker,62
+Grafton,Benton,State Senate,1,,Scatter,0
+Coos,Berlin,State Senate,1,R,Carrie L. Gendreau,1533
+Coos,Berlin,State Senate,1,D,Edith Tucker,1394
+Coos,Berlin,State Senate,1,,Scatter,3
+Grafton,Bethlehem,State Senate,1,R,Carrie L. Gendreau,519
+Grafton,Bethlehem,State Senate,1,D,Edith Tucker,841
+Grafton,Bethlehem,State Senate,1,,Scatter,0
+Coos,Cambridge,State Senate,1,R,Carrie L. Gendreau,2
+Coos,Cambridge,State Senate,1,D,Edith Tucker,1
+Coos,Cambridge,State Senate,1,,Scatter,0
+Coos,Carroll,State Senate,1,R,Carrie L. Gendreau,227
+Coos,Carroll,State Senate,1,D,Edith Tucker,193
+Coos,Carroll,State Senate,1,,Scatter,1
+Coos,Clarksville,State Senate,1,R,Carrie L. Gendreau,106
+Coos,Clarksville,State Senate,1,D,Edith Tucker,50
+Coos,Clarksville,State Senate,1,,Scatter,1
+Coos,Colebrook,State Senate,1,R,Carrie L. Gendreau,581
+Coos,Colebrook,State Senate,1,D,Edith Tucker,294
+Coos,Colebrook,State Senate,1,,Scatter,0
+Coos,Columbia,State Senate,1,R,Carrie L. Gendreau,202
+Coos,Columbia,State Senate,1,D,Edith Tucker,97
+Coos,Columbia,State Senate,1,,Scatter,0
+Coos,Dalton,State Senate,1,R,Carrie L. Gendreau,253
+Coos,Dalton,State Senate,1,D,Edith Tucker,196
+Coos,Dalton,State Senate,1,,Scatter,2
+Coos,Dix's Grant,State Senate,1,R,Carrie L. Gendreau,0
+Coos,Dix's Grant,State Senate,1,D,Edith Tucker,0
+Coos,Dix's Grant,State Senate,1,,Scatter,0
+Coos,Dixville,State Senate,1,R,Carrie L. Gendreau,2
+Coos,Dixville,State Senate,1,D,Edith Tucker,3
+Coos,Dixville,State Senate,1,,Scatter,0
+Coos,Dummer,State Senate,1,R,Carrie L. Gendreau,83
+Coos,Dummer,State Senate,1,D,Edith Tucker,46
+Coos,Dummer,State Senate,1,,Scatter,0
+Grafton,Easton,State Senate,1,R,Carrie L. Gendreau,64
+Grafton,Easton,State Senate,1,D,Edith Tucker,147
+Grafton,Easton,State Senate,1,,Scatter,0
+Grafton,Ellsworth,State Senate,1,R,Carrie L. Gendreau,31
+Grafton,Ellsworth,State Senate,1,D,Edith Tucker,29
+Grafton,Ellsworth,State Senate,1,,Scatter,0
+Coos,Errol,State Senate,1,R,Carrie L. Gendreau,120
+Coos,Errol,State Senate,1,D,Edith Tucker,56
+Coos,Errol,State Senate,1,,Scatter,0
+Coos,Erving's Location,State Senate,1,R,Carrie L. Gendreau,0
+Coos,Erving's Location,State Senate,1,D,Edith Tucker,0
+Coos,Erving's Location,State Senate,1,,Scatter,0
+Grafton,Franconia,State Senate,1,R,Carrie L. Gendreau,243
+Grafton,Franconia,State Senate,1,D,Edith Tucker,447
+Grafton,Franconia,State Senate,1,,Scatter,0
+Coos,Gorham,State Senate,1,R,Carrie L. Gendreau,621
+Coos,Gorham,State Senate,1,D,Edith Tucker,651
+Coos,Gorham,State Senate,1,,Scatter,2
+Grafton,Haverhill,State Senate,1,R,Carrie L. Gendreau,1063
+Grafton,Haverhill,State Senate,1,D,Edith Tucker,634
+Grafton,Haverhill,State Senate,1,,Scatter,0
+Coos,Jefferson,State Senate,1,R,Carrie L. Gendreau,341
+Coos,Jefferson,State Senate,1,D,Edith Tucker,198
+Coos,Jefferson,State Senate,1,,Scatter,1
+Coos,Kilkenny,State Senate,1,R,Carrie L. Gendreau,0
+Coos,Kilkenny,State Senate,1,D,Edith Tucker,0
+Coos,Kilkenny,State Senate,1,,Scatter,0
+Coos,Lancaster,State Senate,1,R,Carrie L. Gendreau,695
+Coos,Lancaster,State Senate,1,D,Edith Tucker,580
+Coos,Lancaster,State Senate,1,,Scatter,1
+Grafton,Landaff,State Senate,1,R,Carrie L. Gendreau,137
+Grafton,Landaff,State Senate,1,D,Edith Tucker,81
+Grafton,Landaff,State Senate,1,,Scatter,0
+Grafton,Lisbon,State Senate,1,R,Carrie L. Gendreau,353
+Grafton,Lisbon,State Senate,1,D,Edith Tucker,244
+Grafton,Lisbon,State Senate,1,,Scatter,2
+Grafton,Littleton,State Senate,1,R,Carrie L. Gendreau,1308
+Grafton,Littleton,State Senate,1,D,Edith Tucker,1138
+Grafton,Littleton,State Senate,1,,Scatter,0
+Coos,Low and Burbank's Grant,State Senate,1,R,Carrie L. Gendreau,0
+Coos,Low and Burbank's Grant,State Senate,1,D,Edith Tucker,0
+Coos,Low and Burbank's Grant,State Senate,1,,Scatter,0
+Grafton,Lyman,State Senate,1,R,Carrie L. Gendreau,189
+Grafton,Lyman,State Senate,1,D,Edith Tucker,135
+Grafton,Lyman,State Senate,1,,Scatter,0
+Coos,Milan,State Senate,1,R,Carrie L. Gendreau,350
+Coos,Milan,State Senate,1,D,Edith Tucker,254
+Coos,Milan,State Senate,1,,Scatter,0
+Coos,Millsfield,State Senate,1,R,Carrie L. Gendreau,13
+Coos,Millsfield,State Senate,1,D,Edith Tucker,4
+Coos,Millsfield,State Senate,1,,Scatter,0
+Grafton,Monroe,State Senate,1,R,Carrie L. Gendreau,256
+Grafton,Monroe,State Senate,1,D,Edith Tucker,162
+Grafton,Monroe,State Senate,1,,Scatter,0
+Coos,Northumberland,State Senate,1,R,Carrie L. Gendreau,434
+Coos,Northumberland,State Senate,1,D,Edith Tucker,309
+Coos,Northumberland,State Senate,1,,Scatter,0
+Coos,Odell,State Senate,1,R,Carrie L. Gendreau,0
+Coos,Odell,State Senate,1,D,Edith Tucker,0
+Coos,Odell,State Senate,1,,Scatter,0
+Grafton,Piermont,State Senate,1,R,Carrie L. Gendreau,181
+Grafton,Piermont,State Senate,1,D,Edith Tucker,175
+Grafton,Piermont,State Senate,1,,Scatter,0
+Coos,Pittsburg,State Senate,1,R,Carrie L. Gendreau,337
+Coos,Pittsburg,State Senate,1,D,Edith Tucker,122
+Coos,Pittsburg,State Senate,1,,Scatter,1
+Coos,Randolph,State Senate,1,R,Carrie L. Gendreau,69
+Coos,Randolph,State Senate,1,D,Edith Tucker,168
+Coos,Randolph,State Senate,1,,Scatter,0
+Grafton,Rumney,State Senate,1,R,Carrie L. Gendreau,472
+Grafton,Rumney,State Senate,1,D,Edith Tucker,322
+Grafton,Rumney,State Senate,1,,Scatter,0
+Coos,Second College Grant,State Senate,1,R,Carrie L. Gendreau,0
+Coos,Second College Grant,State Senate,1,D,Edith Tucker,0
+Coos,Second College Grant,State Senate,1,,Scatter,0
+Coos,Shelburne,State Senate,1,R,Carrie L. Gendreau,123
+Coos,Shelburne,State Senate,1,D,Edith Tucker,98
+Coos,Shelburne,State Senate,1,,Scatter,0
+Coos,Stark,State Senate,1,R,Carrie L. Gendreau,176
+Coos,Stark,State Senate,1,D,Edith Tucker,76
+Coos,Stark,State Senate,1,,Scatter,0
+Coos,Stewartstown,State Senate,1,R,Carrie L. Gendreau,232
+Coos,Stewartstown,State Senate,1,D,Edith Tucker,71
+Coos,Stewartstown,State Senate,1,,Scatter,0
+Coos,Stratford,State Senate,1,R,Carrie L. Gendreau,124
+Coos,Stratford,State Senate,1,D,Edith Tucker,118
+Coos,Stratford,State Senate,1,,Scatter,0
+Coos,Success,State Senate,1,R,Carrie L. Gendreau,0
+Coos,Success,State Senate,1,D,Edith Tucker,0
+Coos,Success,State Senate,1,,Scatter,0
+Grafton,Sugar Hill,State Senate,1,R,Carrie L. Gendreau,148
+Grafton,Sugar Hill,State Senate,1,D,Edith Tucker,263
+Grafton,Sugar Hill,State Senate,1,,Scatter,0
+Grafton,Warren,State Senate,1,R,Carrie L. Gendreau,234
+Grafton,Warren,State Senate,1,D,Edith Tucker,127
+Grafton,Warren,State Senate,1,,Scatter,0
+Coos,Wentworth's Location,State Senate,1,R,Carrie L. Gendreau,14
+Coos,Wentworth's Location,State Senate,1,D,Edith Tucker,4
+Coos,Wentworth's Location,State Senate,1,,Scatter,0
+Coos,Whitefield,State Senate,1,R,Carrie L. Gendreau,550
+Coos,Whitefield,State Senate,1,D,Edith Tucker,528
+Coos,Whitefield,State Senate,1,,Scatter,2
+Grafton,Woodstock,State Senate,1,R,Carrie L. Gendreau,310
+Grafton,Woodstock,State Senate,1,D,Edith Tucker,337
+Grafton,Woodstock,State Senate,1,,Scatter,0
+Grafton,Ashland,State Senate,2,R,Timothy Lang,486
+Grafton,Ashland,State Senate,2,D,Kate Miller,442
+Grafton,Ashland,State Senate,2,,Scatter,1
+Belknap,Belmont,State Senate,2,R,Timothy Lang,1993
+Belknap,Belmont,State Senate,2,D,Kate Miller,1080
+Belknap,Belmont,State Senate,2,,Scatter,3
+Grafton,Campton,State Senate,2,R,Timothy Lang,828
+Grafton,Campton,State Senate,2,D,Kate Miller,852
+Grafton,Campton,State Senate,2,,Scatter,4
+Belknap,Center Harbor,State Senate,2,R,Timothy Lang,362
+Belknap,Center Harbor,State Senate,2,D,Kate Miller,297
+Belknap,Center Harbor,State Senate,2,,Scatter,0
+Belknap,Gilford,State Senate,2,R,Timothy Lang,2346
+Belknap,Gilford,State Senate,2,D,Kate Miller,1708
+Belknap,Gilford,State Senate,2,,Scatter,2
+Grafton,Holderness,State Senate,2,R,Timothy Lang,520
+Grafton,Holderness,State Senate,2,D,Kate Miller,673
+Grafton,Holderness,State Senate,2,,Scatter,0
+Belknap,Laconia Ward 1,State Senate,2,R,Timothy Lang,950
+Belknap,Laconia Ward 1,State Senate,2,D,Kate Miller,634
+Belknap,Laconia Ward 1,State Senate,2,,Scatter,3
+Belknap,Laconia Ward 2,State Senate,2,R,Timothy Lang,515
+Belknap,Laconia Ward 2,State Senate,2,D,Kate Miller,433
+Belknap,Laconia Ward 2,State Senate,2,,Scatter,1
+Belknap,Laconia Ward 3,State Senate,2,R,Timothy Lang,521
+Belknap,Laconia Ward 3,State Senate,2,D,Kate Miller,597
+Belknap,Laconia Ward 3,State Senate,2,,Scatter,2
+Belknap,Laconia Ward 4,State Senate,2,R,Timothy Lang,507
+Belknap,Laconia Ward 4,State Senate,2,D,Kate Miller,381
+Belknap,Laconia Ward 4,State Senate,2,,Scatter,0
+Belknap,Laconia Ward 5,State Senate,2,R,Timothy Lang,495
+Belknap,Laconia Ward 5,State Senate,2,D,Kate Miller,343
+Belknap,Laconia Ward 5,State Senate,2,,Scatter,1
+Belknap,Laconia Ward 6,State Senate,2,R,Timothy Lang,931
+Belknap,Laconia Ward 6,State Senate,2,D,Kate Miller,506
+Belknap,Laconia Ward 6,State Senate,2,,Scatter,1
+Belknap,Meredith,State Senate,2,R,Timothy Lang,1989
+Belknap,Meredith,State Senate,2,D,Kate Miller,1570
+Belknap,Meredith,State Senate,2,,Scatter,5
+Belknap,New Hampton,State Senate,2,R,Timothy Lang,758
+Belknap,New Hampton,State Senate,2,D,Kate Miller,530
+Belknap,New Hampton,State Senate,2,,Scatter,1
+Belknap,Sanbornton,State Senate,2,R,Timothy Lang,1069
+Belknap,Sanbornton,State Senate,2,D,Kate Miller,630
+Belknap,Sanbornton,State Senate,2,,Scatter,2
+Carroll,Sandwich,State Senate,2,R,Timothy Lang,369
+Carroll,Sandwich,State Senate,2,D,Kate Miller,630
+Carroll,Sandwich,State Senate,2,,Scatter,0
+Grafton,Thornton,State Senate,2,R,Timothy Lang,682
+Grafton,Thornton,State Senate,2,D,Kate Miller,732
+Grafton,Thornton,State Senate,2,,Scatter,1
+Carroll,Albany,State Senate,3,R,Jeb Bradley,189
+Carroll,Albany,State Senate,3,D,Bill Marsh,162
+Carroll,Albany,State Senate,3,,Scatter,1
+Carroll,Bartlett,State Senate,3,R,Jeb Bradley,850
+Carroll,Bartlett,State Senate,3,D,Bill Marsh,950
+Carroll,Bartlett,State Senate,3,,Scatter,1
+Coos,Bean's Grant,State Senate,3,R,Jeb Bradley,0
+Coos,Bean's Grant,State Senate,3,D,Bill Marsh,0
+Coos,Bean's Grant,State Senate,3,,Scatter,0
+Coos,Bean's Purchase,State Senate,3,R,Jeb Bradley,0
+Coos,Bean's Purchase,State Senate,3,D,Bill Marsh,0
+Coos,Bean's Purchase,State Senate,3,,Scatter,0
+Carroll,Brookfield,State Senate,3,R,Jeb Bradley,297
+Carroll,Brookfield,State Senate,3,D,Bill Marsh,179
+Carroll,Brookfield,State Senate,3,,Scatter,1
+Coos,Chandler's Purchase,State Senate,3,R,Jeb Bradley,0
+Coos,Chandler's Purchase,State Senate,3,D,Bill Marsh,0
+Coos,Chandler's Purchase,State Senate,3,,Scatter,0
+Carroll,Chatham,State Senate,3,R,Jeb Bradley,110
+Carroll,Chatham,State Senate,3,D,Bill Marsh,79
+Carroll,Chatham,State Senate,3,,Scatter,0
+Carroll,Conway,State Senate,3,R,Jeb Bradley,2120
+Carroll,Conway,State Senate,3,D,Bill Marsh,2188
+Carroll,Conway,State Senate,3,,Scatter,9
+Coos,Crawford's Purchase,State Senate,3,R,Jeb Bradley,0
+Coos,Crawford's Purchase,State Senate,3,D,Bill Marsh,0
+Coos,Crawford's Purchase,State Senate,3,,Scatter,0
+Coos,Cutt's Grant,State Senate,3,R,Jeb Bradley,0
+Coos,Cutt's Grant,State Senate,3,D,Bill Marsh,0
+Coos,Cutt's Grant,State Senate,3,,Scatter,0
+Carroll,Eaton,State Senate,3,R,Jeb Bradley,119
+Carroll,Eaton,State Senate,3,D,Bill Marsh,148
+Carroll,Eaton,State Senate,3,,Scatter,0
+Carroll,Effingham,State Senate,3,R,Jeb Bradley,473
+Carroll,Effingham,State Senate,3,D,Bill Marsh,266
+Carroll,Effingham,State Senate,3,,Scatter,0
+Carroll,Freedom,State Senate,3,R,Jeb Bradley,574
+Carroll,Freedom,State Senate,3,D,Bill Marsh,366
+Carroll,Freedom,State Senate,3,,Scatter,1
+Coos,Green's Grant,State Senate,3,R,Jeb Bradley,0
+Coos,Green's Grant,State Senate,3,D,Bill Marsh,1
+Coos,Green's Grant,State Senate,3,,Scatter,0
+Coos,Hadley's Purchase,State Senate,3,R,Jeb Bradley,0
+Coos,Hadley's Purchase,State Senate,3,D,Bill Marsh,0
+Coos,Hadley's Purchase,State Senate,3,,Scatter,0
+Carroll,Hale's Location,State Senate,3,R,Jeb Bradley,84
+Carroll,Hale's Location,State Senate,3,D,Bill Marsh,38
+Carroll,Hale's Location,State Senate,3,,Scatter,0
+Carroll,Hart's Location,State Senate,3,R,Jeb Bradley,23
+Carroll,Hart's Location,State Senate,3,D,Bill Marsh,15
+Carroll,Hart's Location,State Senate,3,,Scatter,0
+Carroll,Jackson,State Senate,3,R,Jeb Bradley,280
+Carroll,Jackson,State Senate,3,D,Bill Marsh,426
+Carroll,Jackson,State Senate,3,,Scatter,0
+Grafton,Lincoln,State Senate,3,R,Jeb Bradley,366
+Grafton,Lincoln,State Senate,3,D,Bill Marsh,337
+Grafton,Lincoln,State Senate,3,,Scatter,0
+Grafton,Livermore,State Senate,3,R,Jeb Bradley,0
+Grafton,Livermore,State Senate,3,D,Bill Marsh,0
+Grafton,Livermore,State Senate,3,,Scatter,0
+Carroll,Madison,State Senate,3,R,Jeb Bradley,729
+Carroll,Madison,State Senate,3,D,Bill Marsh,657
+Carroll,Madison,State Senate,3,,Scatter,1
+Coos,Martin's Location,State Senate,3,R,Jeb Bradley,0
+Coos,Martin's Location,State Senate,3,D,Bill Marsh,0
+Coos,Martin's Location,State Senate,3,,Scatter,0
+Strafford,Middleton,State Senate,3,R,Jeb Bradley,558
+Strafford,Middleton,State Senate,3,D,Bill Marsh,229
+Strafford,Middleton,State Senate,3,,Scatter,0
+Strafford,Milton,State Senate,3,R,Jeb Bradley,1267
+Strafford,Milton,State Senate,3,D,Bill Marsh,633
+Strafford,Milton,State Senate,3,,Scatter,3
+Carroll,Moultonborough,State Senate,3,R,Jeb Bradley,1983
+Carroll,Moultonborough,State Senate,3,D,Bill Marsh,1134
+Carroll,Moultonborough,State Senate,3,,Scatter,0
+Carroll,Ossipee,State Senate,3,R,Jeb Bradley,1330
+Carroll,Ossipee,State Senate,3,D,Bill Marsh,650
+Carroll,Ossipee,State Senate,3,,Scatter,3
+Coos,Pinkham's Grant,State Senate,3,R,Jeb Bradley,1
+Coos,Pinkham's Grant,State Senate,3,D,Bill Marsh,0
+Coos,Pinkham's Grant,State Senate,3,,Scatter,0
+Coos,Sargent's Purchase,State Senate,3,R,Jeb Bradley,0
+Coos,Sargent's Purchase,State Senate,3,D,Bill Marsh,0
+Coos,Sargent's Purchase,State Senate,3,,Scatter,0
+Carroll,Tamworth,State Senate,3,R,Jeb Bradley,747
+Carroll,Tamworth,State Senate,3,D,Bill Marsh,660
+Carroll,Tamworth,State Senate,3,,Scatter,1
+Coos,Thompson & Mes's Purchase,State Senate,3,R,Jeb Bradley,0
+Coos,Thompson & Mes's Purchase,State Senate,3,D,Bill Marsh,0
+Coos,Thompson & Mes's Purchase,State Senate,3,,Scatter,0
+Carroll,Tuftonboro,State Senate,3,R,Jeb Bradley,974
+Carroll,Tuftonboro,State Senate,3,D,Bill Marsh,602
+Carroll,Tuftonboro,State Senate,3,,Scatter,2
+Carroll,Wakefield,State Senate,3,R,Jeb Bradley,1807
+Carroll,Wakefield,State Senate,3,D,Bill Marsh,786
+Carroll,Wakefield,State Senate,3,,Scatter,2
+Grafton,Waterville Valley,State Senate,3,R,Jeb Bradley,172
+Grafton,Waterville Valley,State Senate,3,D,Bill Marsh,179
+Grafton,Waterville Valley,State Senate,3,,Scatter,0
+Carroll,Wolfeboro,State Senate,3,R,Jeb Bradley,2283
+Carroll,Wolfeboro,State Senate,3,D,Bill Marsh,1624
+Carroll,Wolfeboro,State Senate,3,,Scatter,3
+Strafford,Barrington,State Senate,4,R,Seamus Casey,2147
+Strafford,Barrington,State Senate,4,D,David H. Watters,2462
+Strafford,Barrington,State Senate,4,,Scatter,0
+Strafford,Dover Ward 1,State Senate,4,R,Seamus Casey,546
+Strafford,Dover Ward 1,State Senate,4,D,David H. Watters,1816
+Strafford,Dover Ward 1,State Senate,4,,Scatter,2
+Strafford,Dover Ward 2,State Senate,4,R,Seamus Casey,595
+Strafford,Dover Ward 2,State Senate,4,D,David H. Watters,1742
+Strafford,Dover Ward 2,State Senate,4,,Scatter,2
+Strafford,Dover Ward 3,State Senate,4,R,Seamus Casey,1088
+Strafford,Dover Ward 3,State Senate,4,D,David H. Watters,1830
+Strafford,Dover Ward 3,State Senate,4,,Scatter,2
+Strafford,Dover Ward 4,State Senate,4,R,Seamus Casey,882
+Strafford,Dover Ward 4,State Senate,4,D,David H. Watters,1733
+Strafford,Dover Ward 4,State Senate,4,,Scatter,2
+Strafford,Dover Ward 5,State Senate,4,R,Seamus Casey,716
+Strafford,Dover Ward 5,State Senate,4,D,David H. Watters,1393
+Strafford,Dover Ward 5,State Senate,4,,Scatter,0
+Strafford,Dover Ward 6,State Senate,4,R,Seamus Casey,887
+Strafford,Dover Ward 6,State Senate,4,D,David H. Watters,1416
+Strafford,Dover Ward 6,State Senate,4,,Scatter,3
+Strafford,Rollinsford,State Senate,4,R,Seamus Casey,555
+Strafford,Rollinsford,State Senate,4,D,David H. Watters,793
+Strafford,Rollinsford,State Senate,4,,Scatter,0
+Strafford,Somersworth Ward 1,State Senate,4,R,Seamus Casey,457
+Strafford,Somersworth Ward 1,State Senate,4,D,David H. Watters,681
+Strafford,Somersworth Ward 1,State Senate,4,,Scatter,0
+Strafford,Somersworth Ward 2,State Senate,4,R,Seamus Casey,376
+Strafford,Somersworth Ward 2,State Senate,4,D,David H. Watters,472
+Strafford,Somersworth Ward 2,State Senate,4,,Scatter,0
+Strafford,Somersworth Ward 3,State Senate,4,R,Seamus Casey,369
+Strafford,Somersworth Ward 3,State Senate,4,D,David H. Watters,462
+Strafford,Somersworth Ward 3,State Senate,4,,Scatter,0
+Strafford,Somersworth Ward 4,State Senate,4,R,Seamus Casey,372
+Strafford,Somersworth Ward 4,State Senate,4,D,David H. Watters,684
+Strafford,Somersworth Ward 4,State Senate,4,,Scatter,0
+Strafford,Somersworth Ward 5,State Senate,4,R,Seamus Casey,217
+Strafford,Somersworth Ward 5,State Senate,4,D,David H. Watters,395
+Strafford,Somersworth Ward 5,State Senate,4,,Scatter,0
+Grafton,Canaan,State Senate,5,R,John McIntyre,695
+Grafton,Canaan,State Senate,5,D,Suzanne M. Prentiss,875
+Grafton,Canaan,State Senate,5,,Scatter,0
+Sullivan,Cornish,State Senate,5,R,John McIntyre,396
+Sullivan,Cornish,State Senate,5,D,Suzanne M. Prentiss,530
+Sullivan,Cornish,State Senate,5,,Scatter,1
+Grafton,Dorchester,State Senate,5,R,John McIntyre,98
+Grafton,Dorchester,State Senate,5,D,Suzanne M. Prentiss,83
+Grafton,Dorchester,State Senate,5,,Scatter,0
+Grafton,Enfield,State Senate,5,R,John McIntyre,812
+Grafton,Enfield,State Senate,5,D,Suzanne M. Prentiss,1370
+Grafton,Enfield,State Senate,5,,Scatter,16
+Sullivan,Grantham,State Senate,5,R,John McIntyre,687
+Sullivan,Grantham,State Senate,5,D,Suzanne M. Prentiss,1374
+Sullivan,Grantham,State Senate,5,,Scatter,1
+Grafton,Groton,State Senate,5,R,John McIntyre,199
+Grafton,Groton,State Senate,5,D,Suzanne M. Prentiss,112
+Grafton,Groton,State Senate,5,,Scatter,0
+Grafton,Hanover,State Senate,5,R,John McIntyre,833
+Grafton,Hanover,State Senate,5,D,Suzanne M. Prentiss,4631
+Grafton,Hanover,State Senate,5,,Scatter,6
+Grafton,Lebanon Ward 1,State Senate,5,R,John McIntyre,486
+Grafton,Lebanon Ward 1,State Senate,5,D,Suzanne M. Prentiss,1527
+Grafton,Lebanon Ward 1,State Senate,5,,Scatter,1
+Grafton,Lebanon Ward 2,State Senate,5,R,John McIntyre,505
+Grafton,Lebanon Ward 2,State Senate,5,D,Suzanne M. Prentiss,1504
+Grafton,Lebanon Ward 2,State Senate,5,,Scatter,0
+Grafton,Lebanon Ward 3,State Senate,5,R,John McIntyre,541
+Grafton,Lebanon Ward 3,State Senate,5,D,Suzanne M. Prentiss,1522
+Grafton,Lebanon Ward 3,State Senate,5,,Scatter,1
+Grafton,Lyme,State Senate,5,R,John McIntyre,204
+Grafton,Lyme,State Senate,5,D,Suzanne M. Prentiss,850
+Grafton,Lyme,State Senate,5,,Scatter,0
+Merrimack,New London,State Senate,5,R,John McIntyre,1015
+Merrimack,New London,State Senate,5,D,Suzanne M. Prentiss,1627
+Merrimack,New London,State Senate,5,,Scatter,1
+Grafton,Orford,State Senate,5,R,John McIntyre,263
+Grafton,Orford,State Senate,5,D,Suzanne M. Prentiss,377
+Grafton,Orford,State Senate,5,,Scatter,2
+Sullivan,Plainfield,State Senate,5,R,John McIntyre,449
+Sullivan,Plainfield,State Senate,5,D,Suzanne M. Prentiss,901
+Sullivan,Plainfield,State Senate,5,,Scatter,1
+Grafton,Plymouth,State Senate,5,R,John McIntyre,789
+Grafton,Plymouth,State Senate,5,D,Suzanne M. Prentiss,1448
+Grafton,Plymouth,State Senate,5,,Scatter,5
+Sullivan,Springfield,State Senate,5,R,John McIntyre,383
+Sullivan,Springfield,State Senate,5,D,Suzanne M. Prentiss,355
+Sullivan,Springfield,State Senate,5,,Scatter,1
+Grafton,Wentworth,State Senate,5,R,John McIntyre,301
+Grafton,Wentworth,State Senate,5,D,Suzanne M. Prentiss,183
+Grafton,Wentworth,State Senate,5,,Scatter,0
+Belknap,Alton,State Senate,6,R,James P. Gray,2006
+Belknap,Alton,State Senate,6,D,Ruth Larson,1128
+Belknap,Alton,State Senate,6,,Scatter,0
+Belknap,Gilmanton,State Senate,6,R,James P. Gray,1195
+Belknap,Gilmanton,State Senate,6,D,Ruth Larson,815
+Belknap,Gilmanton,State Senate,6,,Scatter,1
+Strafford,Farmington,State Senate,6,R,James P. Gray,1466
+Strafford,Farmington,State Senate,6,D,Ruth Larson,990
+Strafford,Farmington,State Senate,6,,Scatter,1
+Strafford,New Durham,State Senate,6,R,James P. Gray,940
+Strafford,New Durham,State Senate,6,D,Ruth Larson,561
+Strafford,New Durham,State Senate,6,,Scatter,1
+Strafford,Rochester Ward 1,State Senate,6,R,James P. Gray,1196
+Strafford,Rochester Ward 1,State Senate,6,D,Ruth Larson,1137
+Strafford,Rochester Ward 1,State Senate,6,,Scatter,4
+Strafford,Rochester Ward 2,State Senate,6,R,James P. Gray,1123
+Strafford,Rochester Ward 2,State Senate,6,D,Ruth Larson,1023
+Strafford,Rochester Ward 2,State Senate,6,,Scatter,2
+Strafford,Rochester Ward 3,State Senate,6,R,James P. Gray,1159
+Strafford,Rochester Ward 3,State Senate,6,D,Ruth Larson,891
+Strafford,Rochester Ward 3,State Senate,6,,Scatter,2
+Strafford,Rochester Ward 4,State Senate,6,R,James P. Gray,962
+Strafford,Rochester Ward 4,State Senate,6,D,Ruth Larson,973
+Strafford,Rochester Ward 4,State Senate,6,,Scatter,3
+Strafford,Rochester Ward 5,State Senate,6,R,James P. Gray,1031
+Strafford,Rochester Ward 5,State Senate,6,D,Ruth Larson,955
+Strafford,Rochester Ward 5,State Senate,6,,Scatter,2
+Strafford,Rochester Ward 6,State Senate,6,R,James P. Gray,893
+Strafford,Rochester Ward 6,State Senate,6,D,Ruth Larson,899
+Strafford,Rochester Ward 6,State Senate,6,,Scatter,3
+Strafford,Strafford,State Senate,6,R,James P. Gray,1196
+Strafford,Strafford,State Senate,6,D,Ruth Larson,1062
+Strafford,Strafford,State Senate,6,,Scatter,1
+Grafton,Alexandria,State Senate,7,R,Daniel E. Innis,520
+Grafton,Alexandria,State Senate,7,"JR., D",Richard A. Lobban,301
+Grafton,Alexandria,State Senate,7,,Scatter,0
+Merrimack,Andover,State Senate,7,R,Daniel E. Innis,595
+Merrimack,Andover,State Senate,7,"JR., D",Richard A. Lobban,588
+Merrimack,Andover,State Senate,7,,Scatter,2
+Merrimack,Boscawen,State Senate,7,R,Daniel E. Innis,797
+Merrimack,Boscawen,State Senate,7,"JR., D",Richard A. Lobban,631
+Merrimack,Boscawen,State Senate,7,,Scatter,4
+Merrimack,Bradford,State Senate,7,R,Daniel E. Innis,445
+Merrimack,Bradford,State Senate,7,"JR., D",Richard A. Lobban,434
+Merrimack,Bradford,State Senate,7,,Scatter,6
+Grafton,Bridgewater,State Senate,7,R,Daniel E. Innis,412
+Grafton,Bridgewater,State Senate,7,"JR., D",Richard A. Lobban,288
+Grafton,Bridgewater,State Senate,7,,Scatter,0
+Grafton,Bristol,State Senate,7,R,Daniel E. Innis,817
+Grafton,Bristol,State Senate,7,"JR., D",Richard A. Lobban,683
+Grafton,Bristol,State Senate,7,,Scatter,1
+Merrimack,Danbury,State Senate,7,R,Daniel E. Innis,354
+Merrimack,Danbury,State Senate,7,"JR., D",Richard A. Lobban,211
+Merrimack,Danbury,State Senate,7,,Scatter,3
+Merrimack,Franklin Ward 1,State Senate,7,R,Daniel E. Innis,635
+Merrimack,Franklin Ward 1,State Senate,7,"JR., D",Richard A. Lobban,408
+Merrimack,Franklin Ward 1,State Senate,7,,Scatter,4
+Merrimack,Franklin Ward 2,State Senate,7,R,Daniel E. Innis,431
+Merrimack,Franklin Ward 2,State Senate,7,"JR., D",Richard A. Lobban,295
+Merrimack,Franklin Ward 2,State Senate,7,,Scatter,4
+Merrimack,Franklin Ward 3,State Senate,7,R,Daniel E. Innis,710
+Merrimack,Franklin Ward 3,State Senate,7,"JR., D",Richard A. Lobban,512
+Merrimack,Franklin Ward 3,State Senate,7,,Scatter,0
+Sullivan,Goshen,State Senate,7,R,Daniel E. Innis,241
+Sullivan,Goshen,State Senate,7,"JR., D",Richard A. Lobban,106
+Sullivan,Goshen,State Senate,7,,Scatter,3
+Grafton,Grafton,State Senate,7,R,Daniel E. Innis,353
+Grafton,Grafton,State Senate,7,"JR., D",Richard A. Lobban,245
+Grafton,Grafton,State Senate,7,,Scatter,0
+Grafton,Hebron,State Senate,7,R,Daniel E. Innis,251
+Grafton,Hebron,State Senate,7,"JR., D",Richard A. Lobban,201
+Grafton,Hebron,State Senate,7,,Scatter,0
+Merrimack,Henniker,State Senate,7,R,Daniel E. Innis,924
+Merrimack,Henniker,State Senate,7,"JR., D",Richard A. Lobban,1118
+Merrimack,Henniker,State Senate,7,,Scatter,5
+Merrimack,Hill,State Senate,7,R,Daniel E. Innis,330
+Merrimack,Hill,State Senate,7,"JR., D",Richard A. Lobban,167
+Merrimack,Hill,State Senate,7,,Scatter,0
+Hillsborough,Hillsborough,State Senate,7,R,Daniel E. Innis,1366
+Hillsborough,Hillsborough,State Senate,7,"JR., D",Richard A. Lobban,1042
+Hillsborough,Hillsborough,State Senate,7,,Scatter,0
+Merrimack,Newbury,State Senate,7,R,Daniel E. Innis,707
+Merrimack,Newbury,State Senate,7,"JR., D",Richard A. Lobban,646
+Merrimack,Newbury,State Senate,7,,Scatter,0
+Grafton,Orange,State Senate,7,R,Daniel E. Innis,82
+Grafton,Orange,State Senate,7,"JR., D",Richard A. Lobban,67
+Grafton,Orange,State Senate,7,,Scatter,0
+Merrimack,Salisbury,State Senate,7,R,Daniel E. Innis,469
+Merrimack,Salisbury,State Senate,7,"JR., D",Richard A. Lobban,283
+Merrimack,Salisbury,State Senate,7,,Scatter,0
+Merrimack,Sutton,State Senate,7,R,Daniel E. Innis,550
+Merrimack,Sutton,State Senate,7,"JR., D",Richard A. Lobban,567
+Merrimack,Sutton,State Senate,7,,Scatter,2
+Belknap,Tilton,State Senate,7,R,Daniel E. Innis,843
+Belknap,Tilton,State Senate,7,"JR., D",Richard A. Lobban,630
+Belknap,Tilton,State Senate,7,,Scatter,0
+Merrimack,Warner,State Senate,7,R,Daniel E. Innis,694
+Merrimack,Warner,State Senate,7,"JR., D",Richard A. Lobban,838
+Merrimack,Warner,State Senate,7,,Scatter,0
+Merrimack,Webster,State Senate,7,R,Daniel E. Innis,544
+Merrimack,Webster,State Senate,7,"JR., D",Richard A. Lobban,427
+Merrimack,Webster,State Senate,7,,Scatter,0
+Merrimack,Wilmot,State Senate,7,R,Daniel E. Innis,343
+Merrimack,Wilmot,State Senate,7,"JR., D",Richard A. Lobban,458
+Merrimack,Wilmot,State Senate,7,,Scatter,0
+Sullivan,Acworth,State Senate,8,R,Ruth Ward,248
+Sullivan,Acworth,State Senate,8,D,Charlene Marcotte Lovett,220
+Sullivan,Acworth,State Senate,8,,Scatter,0
+Hillsborough,Antrim,State Senate,8,R,Ruth Ward,675
+Hillsborough,Antrim,State Senate,8,D,Charlene Marcotte Lovett,589
+Hillsborough,Antrim,State Senate,8,,Scatter,0
+Hillsborough,Bennington,State Senate,8,R,Ruth Ward,371
+Hillsborough,Bennington,State Senate,8,D,Charlene Marcotte Lovett,307
+Hillsborough,Bennington,State Senate,8,,Scatter,0
+Sullivan,Charlestown,State Senate,8,R,Ruth Ward,1008
+Sullivan,Charlestown,State Senate,8,D,Charlene Marcotte Lovett,793
+Sullivan,Charlestown,State Senate,8,,Scatter,2
+Sullivan,Claremont Ward 1,State Senate,8,R,Ruth Ward,535
+Sullivan,Claremont Ward 1,State Senate,8,D,Charlene Marcotte Lovett,617
+Sullivan,Claremont Ward 1,State Senate,8,,Scatter,0
+Sullivan,Claremont Ward 2,State Senate,8,R,Ruth Ward,832
+Sullivan,Claremont Ward 2,State Senate,8,D,Charlene Marcotte Lovett,840
+Sullivan,Claremont Ward 2,State Senate,8,,Scatter,0
+Sullivan,Claremont Ward 3,State Senate,8,R,Ruth Ward,772
+Sullivan,Claremont Ward 3,State Senate,8,D,Charlene Marcotte Lovett,648
+Sullivan,Claremont Ward 3,State Senate,8,,Scatter,0
+Sullivan,Croydon,State Senate,8,R,Ruth Ward,298
+Sullivan,Croydon,State Senate,8,D,Charlene Marcotte Lovett,134
+Sullivan,Croydon,State Senate,8,,Scatter,0
+Hillsborough,Deering,State Senate,8,R,Ruth Ward,594
+Hillsborough,Deering,State Senate,8,D,Charlene Marcotte Lovett,315
+Hillsborough,Deering,State Senate,8,,Scatter,2
+Merrimack,Dunbarton,State Senate,8,R,Ruth Ward,955
+Merrimack,Dunbarton,State Senate,8,D,Charlene Marcotte Lovett,655
+Merrimack,Dunbarton,State Senate,8,,Scatter,2
+Hillsborough,Francestown,State Senate,8,R,Ruth Ward,481
+Hillsborough,Francestown,State Senate,8,D,Charlene Marcotte Lovett,470
+Hillsborough,Francestown,State Senate,8,,Scatter,0
+Cheshire,Gilsum,State Senate,8,R,Ruth Ward,206
+Cheshire,Gilsum,State Senate,8,D,Charlene Marcotte Lovett,189
+Cheshire,Gilsum,State Senate,8,,Scatter,0
+Sullivan,Langdon,State Senate,8,R,Ruth Ward,181
+Sullivan,Langdon,State Senate,8,D,Charlene Marcotte Lovett,139
+Sullivan,Langdon,State Senate,8,,Scatter,0
+Sullivan,Lempster,State Senate,8,R,Ruth Ward,368
+Sullivan,Lempster,State Senate,8,D,Charlene Marcotte Lovett,201
+Sullivan,Lempster,State Senate,8,,Scatter,0
+Cheshire,Marlow,State Senate,8,R,Ruth Ward,185
+Cheshire,Marlow,State Senate,8,D,Charlene Marcotte Lovett,179
+Cheshire,Marlow,State Senate,8,,Scatter,0
+Sullivan,Newport,State Senate,8,R,Ruth Ward,1400
+Sullivan,Newport,State Senate,8,D,Charlene Marcotte Lovett,893
+Sullivan,Newport,State Senate,8,,Scatter,0
+Cheshire,Stoddard,State Senate,8,R,Ruth Ward,378
+Cheshire,Stoddard,State Senate,8,D,Charlene Marcotte Lovett,315
+Cheshire,Stoddard,State Senate,8,,Scatter,1
+Sullivan,Sunapee,State Senate,8,R,Ruth Ward,1053
+Sullivan,Sunapee,State Senate,8,D,Charlene Marcotte Lovett,950
+Sullivan,Sunapee,State Senate,8,,Scatter,2
+Sullivan,Unity,State Senate,8,R,Ruth Ward,416
+Sullivan,Unity,State Senate,8,D,Charlene Marcotte Lovett,227
+Sullivan,Unity,State Senate,8,,Scatter,0
+Sullivan,Washington,State Senate,8,R,Ruth Ward,405
+Sullivan,Washington,State Senate,8,D,Charlene Marcotte Lovett,256
+Sullivan,Washington,State Senate,8,,Scatter,0
+Hillsborough,Weare,State Senate,8,R,Ruth Ward,2643
+Hillsborough,Weare,State Senate,8,D,Charlene Marcotte Lovett,1563
+Hillsborough,Weare,State Senate,8,,Scatter,1
+Hillsborough,Windsor,State Senate,8,R,Ruth Ward,76
+Hillsborough,Windsor,State Senate,8,D,Charlene Marcotte Lovett,20
+Hillsborough,Windsor,State Senate,8,,Scatter,0
+Hillsborough,Bedford,State Senate,9,R,Denise Ricciardi,5976
+Hillsborough,Bedford,State Senate,9,D,Matthew McLaughlin,5364
+Hillsborough,Bedford,State Senate,9,,Scatter,5
+Cheshire,Fitzwilliam,State Senate,9,R,Denise Ricciardi,610
+Cheshire,Fitzwilliam,State Senate,9,D,Matthew McLaughlin,502
+Cheshire,Fitzwilliam,State Senate,9,,Scatter,0
+Hillsborough,Greenfield,State Senate,9,R,Denise Ricciardi,418
+Hillsborough,Greenfield,State Senate,9,D,Matthew McLaughlin,397
+Hillsborough,Greenfield,State Senate,9,,Scatter,0
+Cheshire,Hinsdale,State Senate,9,R,Denise Ricciardi,588
+Cheshire,Hinsdale,State Senate,9,D,Matthew McLaughlin,689
+Cheshire,Hinsdale,State Senate,9,,Scatter,0
+Cheshire,Jaffrey,State Senate,9,R,Denise Ricciardi,1171
+Cheshire,Jaffrey,State Senate,9,D,Matthew McLaughlin,1186
+Cheshire,Jaffrey,State Senate,9,,Scatter,3
+Hillsborough,Lyndeborough,State Senate,9,R,Denise Ricciardi,500
+Hillsborough,Lyndeborough,State Senate,9,D,Matthew McLaughlin,424
+Hillsborough,Lyndeborough,State Senate,9,,Scatter,1
+Hillsborough,Mont Vernon,State Senate,9,R,Denise Ricciardi,699
+Hillsborough,Mont Vernon,State Senate,9,D,Matthew McLaughlin,765
+Hillsborough,Mont Vernon,State Senate,9,,Scatter,0
+Hillsborough,New Boston,State Senate,9,R,Denise Ricciardi,1667
+Hillsborough,New Boston,State Senate,9,D,Matthew McLaughlin,1480
+Hillsborough,New Boston,State Senate,9,,Scatter,0
+Cheshire,Richmond,State Senate,9,R,Denise Ricciardi,332
+Cheshire,Richmond,State Senate,9,D,Matthew McLaughlin,191
+Cheshire,Richmond,State Senate,9,,Scatter,0
+Hillsborough,Sharon,State Senate,9,R,Denise Ricciardi,109
+Hillsborough,Sharon,State Senate,9,D,Matthew McLaughlin,123
+Hillsborough,Sharon,State Senate,9,,Scatter,3
+Hillsborough,Temple,State Senate,9,R,Denise Ricciardi,386
+Hillsborough,Temple,State Senate,9,D,Matthew McLaughlin,393
+Hillsborough,Temple,State Senate,9,,Scatter,0
+Cheshire,Troy,State Senate,9,R,Denise Ricciardi,473
+Cheshire,Troy,State Senate,9,D,Matthew McLaughlin,321
+Cheshire,Troy,State Senate,9,,Scatter,0
+Cheshire,Winchester,State Senate,9,R,Denise Ricciardi,758
+Cheshire,Winchester,State Senate,9,D,Matthew McLaughlin,675
+Cheshire,Winchester,State Senate,9,,Scatter,2
+Cheshire,Alstead,State Senate,10,R,Sly Karasinski,379
+Cheshire,Alstead,State Senate,10,D,Donovan Fenton,539
+Cheshire,Alstead,State Senate,10,,Scatter,1
+Cheshire,Chesterfield,State Senate,10,R,Sly Karasinski,819
+Cheshire,Chesterfield,State Senate,10,D,Donovan Fenton,1096
+Cheshire,Chesterfield,State Senate,10,,Scatter,1
+Cheshire,Dublin,State Senate,10,R,Sly Karasinski,360
+Cheshire,Dublin,State Senate,10,D,Donovan Fenton,544
+Cheshire,Dublin,State Senate,10,,Scatter,0
+Hillsborough,Hancock,State Senate,10,R,Sly Karasinski,359
+Hillsborough,Hancock,State Senate,10,D,Donovan Fenton,740
+Hillsborough,Hancock,State Senate,10,,Scatter,0
+Cheshire,Harrisville,State Senate,10,R,Sly Karasinski,165
+Cheshire,Harrisville,State Senate,10,D,Donovan Fenton,466
+Cheshire,Harrisville,State Senate,10,,Scatter,0
+Cheshire,Keene Ward 1,State Senate,10,R,Sly Karasinski,317
+Cheshire,Keene Ward 1,State Senate,10,D,Donovan Fenton,1093
+Cheshire,Keene Ward 1,State Senate,10,,Scatter,2
+Cheshire,Keene Ward 2,State Senate,10,R,Sly Karasinski,477
+Cheshire,Keene Ward 2,State Senate,10,D,Donovan Fenton,1444
+Cheshire,Keene Ward 2,State Senate,10,,Scatter,1
+Cheshire,Keene Ward 3,State Senate,10,R,Sly Karasinski,524
+Cheshire,Keene Ward 3,State Senate,10,D,Donovan Fenton,1338
+Cheshire,Keene Ward 3,State Senate,10,,Scatter,0
+Cheshire,Keene Ward 4,State Senate,10,R,Sly Karasinski,567
+Cheshire,Keene Ward 4,State Senate,10,D,Donovan Fenton,1344
+Cheshire,Keene Ward 4,State Senate,10,,Scatter,1
+Cheshire,Keene Ward 5,State Senate,10,R,Sly Karasinski,610
+Cheshire,Keene Ward 5,State Senate,10,D,Donovan Fenton,1577
+Cheshire,Keene Ward 5,State Senate,10,,Scatter,0
+Cheshire,Marlborough,State Senate,10,R,Sly Karasinski,322
+Cheshire,Marlborough,State Senate,10,D,Donovan Fenton,654
+Cheshire,Marlborough,State Senate,10,,Scatter,0
+Cheshire,Nelson,State Senate,10,R,Sly Karasinski,124
+Cheshire,Nelson,State Senate,10,D,Donovan Fenton,232
+Cheshire,Nelson,State Senate,10,,Scatter,0
+Hillsborough,Peterborough,State Senate,10,R,Sly Karasinski,1006
+Hillsborough,Peterborough,State Senate,10,D,Donovan Fenton,2446
+Hillsborough,Peterborough,State Senate,10,,Scatter,7
+Cheshire,Roxbury,State Senate,10,R,Sly Karasinski,36
+Cheshire,Roxbury,State Senate,10,D,Donovan Fenton,69
+Cheshire,Roxbury,State Senate,10,,Scatter,0
+Cheshire,Sullivan,State Senate,10,R,Sly Karasinski,152
+Cheshire,Sullivan,State Senate,10,D,Donovan Fenton,156
+Cheshire,Sullivan,State Senate,10,,Scatter,2
+Cheshire,Surry,State Senate,10,R,Sly Karasinski,184
+Cheshire,Surry,State Senate,10,D,Donovan Fenton,259
+Cheshire,Surry,State Senate,10,,Scatter,0
+Cheshire,Swanzey,State Senate,10,R,Sly Karasinski,1447
+Cheshire,Swanzey,State Senate,10,D,Donovan Fenton,1583
+Cheshire,Swanzey,State Senate,10,,Scatter,0
+Cheshire,Walpole,State Senate,10,R,Sly Karasinski,662
+Cheshire,Walpole,State Senate,10,D,Donovan Fenton,1177
+Cheshire,Walpole,State Senate,10,,Scatter,0
+Cheshire,Westmoreland,State Senate,10,R,Sly Karasinski,350
+Cheshire,Westmoreland,State Senate,10,D,Donovan Fenton,548
+Cheshire,Westmoreland,State Senate,10,,Scatter,0
+Hillsborough,Amherst,State Senate,11,R,Gary L. Daniels,2861
+Hillsborough,Amherst,State Senate,11,D,Shannon E. Chandley,3758
+Hillsborough,Amherst,State Senate,11,,Scatter,1
+Hillsborough,Merrimack,State Senate,11,R,Gary L. Daniels,6359
+Hillsborough,Merrimack,State Senate,11,D,Shannon E. Chandley,6184
+Hillsborough,Merrimack,State Senate,11,,Scatter,2
+Hillsborough,Milford,State Senate,11,R,Gary L. Daniels,3453
+Hillsborough,Milford,State Senate,11,D,Shannon E. Chandley,3395
+Hillsborough,Milford,State Senate,11,,Scatter,0
+Hillsborough,Wilton,State Senate,11,R,Gary L. Daniels,918
+Hillsborough,Wilton,State Senate,11,D,Shannon E. Chandley,983
+Hillsborough,Wilton,State Senate,11,,Scatter,0
+Hillsborough,Brookline,State Senate,12,R,Kevin A. Avard,1449
+Hillsborough,Brookline,State Senate,12,D,Melanie Levesque,1456
+Hillsborough,Brookline,State Senate,12,,Scatter,1
+Hillsborough,Greenville,State Senate,12,R,Kevin A. Avard,422
+Hillsborough,Greenville,State Senate,12,D,Melanie Levesque,311
+Hillsborough,Greenville,State Senate,12,,Scatter,0
+Hillsborough,Hollis,State Senate,12,R,Kevin A. Avard,2249
+Hillsborough,Hollis,State Senate,12,D,Melanie Levesque,2436
+Hillsborough,Hollis,State Senate,12,,Scatter,1
+Hillsborough,Mason,State Senate,12,R,Kevin A. Avard,467
+Hillsborough,Mason,State Senate,12,D,Melanie Levesque,289
+Hillsborough,Mason,State Senate,12,,Scatter,0
+Hillsborough,Nashua Ward 1,State Senate,12,R,Kevin A. Avard,2182
+Hillsborough,Nashua Ward 1,State Senate,12,D,Melanie Levesque,2533
+Hillsborough,Nashua Ward 2,State Senate,12,R,Kevin A. Avard,1798
+Hillsborough,Nashua Ward 2,State Senate,12,D,Melanie Levesque,2344
+Hillsborough,Nashua Ward 5,State Senate,12,R,Kevin A. Avard,2250
+Hillsborough,Nashua Ward 5,State Senate,12,D,Melanie Levesque,2564
+Hillsborough,New Ipswich,State Senate,12,R,Kevin A. Avard,1741
+Hillsborough,New Ipswich,State Senate,12,D,Melanie Levesque,662
+Hillsborough,New Ipswich,State Senate,12,,Scatter,1
+Cheshire,Rindge,State Senate,12,R,Kevin A. Avard,1756
+Cheshire,Rindge,State Senate,12,D,Melanie Levesque,1031
+Cheshire,Rindge,State Senate,12,,Scatter,0
+Hillsborough,Nashua Ward 3,State Senate,13,R,Stephen Scaer,1211
+Hillsborough,Nashua Ward 3,State Senate,13,D,Cindy Rosenwald,1947
+Hillsborough,Nashua Ward 4,State Senate,13,R,Stephen Scaer,627
+Hillsborough,Nashua Ward 4,State Senate,13,D,Cindy Rosenwald,1014
+Hillsborough,Nashua Ward 6,State Senate,13,R,Stephen Scaer,1197
+Hillsborough,Nashua Ward 6,State Senate,13,D,Cindy Rosenwald,1569
+Hillsborough,Nashua Ward 7,State Senate,13,R,Stephen Scaer,1199
+Hillsborough,Nashua Ward 7,State Senate,13,D,Cindy Rosenwald,1571
+Hillsborough,Nashua Ward 7,State Senate,13,,Scatter,4
+Hillsborough,Nashua Ward 8,State Senate,13,R,Stephen Scaer,1340
+Hillsborough,Nashua Ward 8,State Senate,13,D,Cindy Rosenwald,2087
+Hillsborough,Nashua Ward 8,State Senate,13,,Scatter,1
+Hillsborough,Nashua Ward 9,State Senate,13,R,Stephen Scaer,1745
+Hillsborough,Nashua Ward 9,State Senate,13,D,Cindy Rosenwald,2257
+Hillsborough,Nashua Ward 9,State Senate,13,,Scatter,3
+Rockingham,Auburn,State Senate,14,R,Sharon M. Carson,1972
+Rockingham,Auburn,State Senate,14,D,John Robinson,1094
+Rockingham,Auburn,State Senate,14,,Scatter,4
+Hillsborough,Hudson,State Senate,14,R,Sharon M. Carson,5979
+Hillsborough,Hudson,State Senate,14,D,John Robinson,4039
+Hillsborough,Hudson,State Senate,14,,Scatter,4
+Rockingham,Londonderry,State Senate,14,R,Sharon M. Carson,6680
+Rockingham,Londonderry,State Senate,14,D,John Robinson,5000
+Rockingham,Londonderry,State Senate,14,,Scatter,4
+Merrimack,Bow,State Senate,15,R,Linda Rae Banfill,1852
+Merrimack,Bow,State Senate,15,D,Becky Whitley,2478
+Merrimack,Bow,State Senate,15,,Scatter,1
+Merrimack,Concord Ward 1,State Senate,15,R,Linda Rae Banfill,690
+Merrimack,Concord Ward 1,State Senate,15,D,Becky Whitley,1084
+Merrimack,Concord Ward 1,State Senate,15,,Scatter,0
+Merrimack,Concord Ward 2,State Senate,15,R,Linda Rae Banfill,607
+Merrimack,Concord Ward 2,State Senate,15,D,Becky Whitley,996
+Merrimack,Concord Ward 2,State Senate,15,,Scatter,1
+Merrimack,Concord Ward 3,State Senate,15,R,Linda Rae Banfill,365
+Merrimack,Concord Ward 3,State Senate,15,D,Becky Whitley,632
+Merrimack,Concord Ward 3,State Senate,15,,Scatter,1
+Merrimack,Concord Ward 4,State Senate,15,R,Linda Rae Banfill,484
+Merrimack,Concord Ward 4,State Senate,15,D,Becky Whitley,1314
+Merrimack,Concord Ward 4,State Senate,15,,Scatter,3
+Merrimack,Concord Ward 5,State Senate,15,R,Linda Rae Banfill,595
+Merrimack,Concord Ward 5,State Senate,15,D,Becky Whitley,1782
+Merrimack,Concord Ward 5,State Senate,15,,Scatter,3
+Merrimack,Concord Ward 6,State Senate,15,R,Linda Rae Banfill,440
+Merrimack,Concord Ward 6,State Senate,15,D,Becky Whitley,1025
+Merrimack,Concord Ward 6,State Senate,15,,Scatter,0
+Merrimack,Concord Ward 7,State Senate,15,R,Linda Rae Banfill,686
+Merrimack,Concord Ward 7,State Senate,15,D,Becky Whitley,1633
+Merrimack,Concord Ward 7,State Senate,15,,Scatter,1
+Merrimack,Concord Ward 8,State Senate,15,R,Linda Rae Banfill,695
+Merrimack,Concord Ward 8,State Senate,15,D,Becky Whitley,1014
+Merrimack,Concord Ward 8,State Senate,15,,Scatter,0
+Merrimack,Concord Ward 9,State Senate,15,R,Linda Rae Banfill,543
+Merrimack,Concord Ward 9,State Senate,15,D,Becky Whitley,983
+Merrimack,Concord Ward 9,State Senate,15,,Scatter,0
+Merrimack,Concord Ward 10,State Senate,15,R,Linda Rae Banfill,923
+Merrimack,Concord Ward 10,State Senate,15,D,Becky Whitley,1479
+Merrimack,Concord Ward 10,State Senate,15,,Scatter,4
+Merrimack,Hopkinton,State Senate,15,R,Linda Rae Banfill,1191
+Merrimack,Hopkinton,State Senate,15,D,Becky Whitley,2205
+Merrimack,Hopkinton,State Senate,15,,Scatter,5
+Rockingham,Candia,State Senate,16,R,Keith Murphy,1458
+Rockingham,Candia,State Senate,16,D,June Trisciani,799
+Rockingham,Candia,State Senate,16,,Scatter,1
+Hillsborough,Goffstown,State Senate,16,R,Keith Murphy,3927
+Hillsborough,Goffstown,State Senate,16,D,June Trisciani,3570
+Hillsborough,Goffstown,State Senate,16,,Scatter,6
+Merrimack,Hooksett,State Senate,16,R,Keith Murphy,3548
+Merrimack,Hooksett,State Senate,16,D,June Trisciani,2982
+Merrimack,Hooksett,State Senate,16,,Scatter,7
+Hillsborough,Manchester Ward 1,State Senate,16,R,Keith Murphy,1774
+Hillsborough,Manchester Ward 1,State Senate,16,D,June Trisciani,2671
+Hillsborough,Manchester Ward 1,State Senate,16,,Scatter,6
+Rockingham,Raymond,State Senate,16,R,Keith Murphy,2787
+Rockingham,Raymond,State Senate,16,D,June Trisciani,1761
+Rockingham,Raymond,State Senate,16,,Scatter,4
+Merrimack,Allenstown,State Senate,17,R,Howard Pearl,974
+Merrimack,Allenstown,State Senate,17,D,Christine M. Tappan,737
+Merrimack,Allenstown,State Senate,17,,Scatter,2
+Belknap,Barnstead,State Senate,17,R,Howard Pearl,1402
+Belknap,Barnstead,State Senate,17,D,Christine M. Tappan,792
+Belknap,Barnstead,State Senate,17,,Scatter,3
+Merrimack,Canterbury,State Senate,17,R,Howard Pearl,625
+Merrimack,Canterbury,State Senate,17,D,Christine M. Tappan,806
+Merrimack,Canterbury,State Senate,17,,Scatter,2
+Merrimack,Chichester,State Senate,17,R,Howard Pearl,821
+Merrimack,Chichester,State Senate,17,D,Christine M. Tappan,555
+Merrimack,Chichester,State Senate,17,,Scatter,1
+Rockingham,Deerfield,State Senate,17,R,Howard Pearl,1469
+Rockingham,Deerfield,State Senate,17,D,Christine M. Tappan,1086
+Rockingham,Deerfield,State Senate,17,,Scatter,3
+Merrimack,Epsom,State Senate,17,R,Howard Pearl,1415
+Merrimack,Epsom,State Senate,17,D,Christine M. Tappan,862
+Merrimack,Epsom,State Senate,17,,Scatter,0
+Merrimack,Loudon,State Senate,17,R,Howard Pearl,1873
+Merrimack,Loudon,State Senate,17,D,Christine M. Tappan,1034
+Merrimack,Loudon,State Senate,17,,Scatter,6
+Merrimack,Northfield,State Senate,17,R,Howard Pearl,1111
+Merrimack,Northfield,State Senate,17,D,Christine M. Tappan,781
+Merrimack,Northfield,State Senate,17,,Scatter,1
+Rockingham,Northwood,State Senate,17,R,Howard Pearl,1159
+Rockingham,Northwood,State Senate,17,D,Christine M. Tappan,1001
+Rockingham,Northwood,State Senate,17,,Scatter,2
+Rockingham,Nottingham,State Senate,17,R,Howard Pearl,1465
+Rockingham,Nottingham,State Senate,17,D,Christine M. Tappan,1427
+Rockingham,Nottingham,State Senate,17,,Scatter,4
+Merrimack,Pembroke,State Senate,17,R,Howard Pearl,1590
+Merrimack,Pembroke,State Senate,17,D,Christine M. Tappan,1615
+Merrimack,Pembroke,State Senate,17,,Scatter,3
+Merrimack,Pittsfield,State Senate,17,R,Howard Pearl,974
+Merrimack,Pittsfield,State Senate,17,D,Christine M. Tappan,615
+Merrimack,Pittsfield,State Senate,17,,Scatter,5
+Hillsborough,Litchfield,State Senate,18,R,George A. Lambert,2175
+Hillsborough,Litchfield,State Senate,18,D,Donna M. Soucy,1854
+Hillsborough,Litchfield,State Senate,18,,Scatter,7
+Hillsborough,Manchester Ward 5,State Senate,18,R,George A. Lambert,696
+Hillsborough,Manchester Ward 5,State Senate,18,D,Donna M. Soucy,977
+Hillsborough,Manchester Ward 5,State Senate,18,,Scatter,3
+Hillsborough,Manchester Ward 6,State Senate,18,R,George A. Lambert,1841
+Hillsborough,Manchester Ward 6,State Senate,18,D,Donna M. Soucy,2041
+Hillsborough,Manchester Ward 6,State Senate,18,,Scatter,9
+Hillsborough,Manchester Ward 7,State Senate,18,R,George A. Lambert,1061
+Hillsborough,Manchester Ward 7,State Senate,18,D,Donna M. Soucy,1431
+Hillsborough,Manchester Ward 7,State Senate,18,,Scatter,0
+Hillsborough,Manchester Ward 8,State Senate,18,R,George A. Lambert,2007
+Hillsborough,Manchester Ward 8,State Senate,18,D,Donna M. Soucy,2015
+Hillsborough,Manchester Ward 8,State Senate,18,,Scatter,6
+Hillsborough,Manchester Ward 9,State Senate,18,R,George A. Lambert,1235
+Hillsborough,Manchester Ward 9,State Senate,18,D,Donna M. Soucy,1602
+Hillsborough,Manchester Ward 9,State Senate,18,,Scatter,1
+Rockingham,Derry,State Senate,19,R,Regina Birdsell,7111
+Rockingham,Derry,State Senate,19,,Scatter,0
+Rockingham,Hampstead,State Senate,19,R,Regina Birdsell,3111
+Rockingham,Hampstead,State Senate,19,,Scatter,12
+Rockingham,Windham,State Senate,19,R,Regina Birdsell,4921
+Rockingham,Windham,State Senate,19,,Scatter,98
+Hillsborough,Manchester Ward 2,State Senate,20,R,Richard H. Girard,1578
+Hillsborough,Manchester Ward 2,State Senate,20,D,Lou D'Allesandro,2258
+Hillsborough,Manchester Ward 2,State Senate,20,,Scatter,8
+Hillsborough,Manchester Ward 3,State Senate,20,R,Richard H. Girard,781
+Hillsborough,Manchester Ward 3,State Senate,20,D,Lou D'Allesandro,1427
+Hillsborough,Manchester Ward 3,State Senate,20,,Scatter,2
+Hillsborough,Manchester Ward 4,State Senate,20,R,Richard H. Girard,1027
+Hillsborough,Manchester Ward 4,State Senate,20,D,Lou D'Allesandro,1371
+Hillsborough,Manchester Ward 4,State Senate,20,,Scatter,1
+Hillsborough,Manchester Ward 10,State Senate,20,R,Richard H. Girard,1331
+Hillsborough,Manchester Ward 10,State Senate,20,D,Lou D'Allesandro,1608
+Hillsborough,Manchester Ward 10,State Senate,20,,Scatter,8
+Hillsborough,Manchester Ward 11,State Senate,20,R,Richard H. Girard,993
+Hillsborough,Manchester Ward 11,State Senate,20,D,Lou D'Allesandro,1354
+Hillsborough,Manchester Ward 11,State Senate,20,,Scatter,2
+Hillsborough,Manchester Ward 12,State Senate,20,R,Richard H. Girard,1462
+Hillsborough,Manchester Ward 12,State Senate,20,D,Lou D'Allesandro,1841
+Hillsborough,Manchester Ward 12,State Senate,20,,Scatter,4
+Strafford,Durham,State Senate,21,D,Rebecca Perkins Kwoka,4729
+Strafford,Durham,State Senate,21,,Scatter,33
+Strafford,Lee,State Senate,21,D,Rebecca Perkins Kwoka,1610
+Strafford,Lee,State Senate,21,,Scatter,31
+Strafford,Madbury,State Senate,21,D,Rebecca Perkins Kwoka,664
+Strafford,Madbury,State Senate,21,,Scatter,4
+Rockingham,New Castle,State Senate,21,D,Rebecca Perkins Kwoka,484
+Rockingham,New Castle,State Senate,21,,Scatter,10
+Rockingham,Newfields,State Senate,21,D,Rebecca Perkins Kwoka,608
+Rockingham,Newfields,State Senate,21,,Scatter,6
+Rockingham,Newington,State Senate,21,D,Rebecca Perkins Kwoka,261
+Rockingham,Newington,State Senate,21,,Scatter,2
+Rockingham,Newmarket,State Senate,21,D,Rebecca Perkins Kwoka,3193
+Rockingham,Newmarket,State Senate,21,,Scatter,21
+Rockingham,Portsmouth Ward 1,State Senate,21,D,Rebecca Perkins Kwoka,1726
+Rockingham,Portsmouth Ward 1,State Senate,21,,Scatter,13
+Rockingham,Portsmouth Ward 2,State Senate,21,D,Rebecca Perkins Kwoka,2119
+Rockingham,Portsmouth Ward 2,State Senate,21,,Scatter,16
+Rockingham,Portsmouth Ward 3,State Senate,21,D,Rebecca Perkins Kwoka,1572
+Rockingham,Portsmouth Ward 3,State Senate,21,,Scatter,34
+Rockingham,Portsmouth Ward 4,State Senate,21,D,Rebecca Perkins Kwoka,1305
+Rockingham,Portsmouth Ward 4,State Senate,21,,Scatter,42
+Rockingham,Portsmouth Ward 5,State Senate,21,D,Rebecca Perkins Kwoka,1813
+Rockingham,Portsmouth Ward 5,State Senate,21,,Scatter,19
+Rockingham,Atkinson,State Senate,22,R,Daryl Abbas,2443
+Rockingham,Atkinson,State Senate,22,D,Wayne Haubner,1571
+Rockingham,Atkinson,State Senate,22,,Scatter,3
+Hillsborough,Pelham,State Senate,22,R,Daryl Abbas,4208
+Hillsborough,Pelham,State Senate,22,D,Wayne Haubner,2321
+Hillsborough,Pelham,State Senate,22,,Scatter,2
+Rockingham,Plaistow,State Senate,22,R,Daryl Abbas,2014
+Rockingham,Plaistow,State Senate,22,D,Wayne Haubner,1292
+Rockingham,Plaistow,State Senate,22,,Scatter,3
+Rockingham,Salem,State Senate,22,R,Daryl Abbas,7957
+Rockingham,Salem,State Senate,22,D,Wayne Haubner,4743
+Rockingham,Salem,State Senate,22,,Scatter,12
+Rockingham,Brentwood,State Senate,23,R,Bill Gannon,1251
+Rockingham,Brentwood,State Senate,23,D,Brenda Oldak,1147
+Rockingham,Brentwood,State Senate,23,,Scatter,0
+Rockingham,Chester,State Senate,23,R,Bill Gannon,1673
+Rockingham,Chester,State Senate,23,D,Brenda Oldak,1024
+Rockingham,Chester,State Senate,23,,Scatter,1
+Rockingham,Danville,State Senate,23,R,Bill Gannon,1366
+Rockingham,Danville,State Senate,23,D,Brenda Oldak,736
+Rockingham,Danville,State Senate,23,,Scatter,1
+Rockingham,East Kingston,State Senate,23,R,Bill Gannon,789
+Rockingham,East Kingston,State Senate,23,D,Brenda Oldak,597
+Rockingham,East Kingston,State Senate,23,,Scatter,0
+Rockingham,Epping,State Senate,23,R,Bill Gannon,2049
+Rockingham,Epping,State Senate,23,D,Brenda Oldak,1441
+Rockingham,Epping,State Senate,23,,Scatter,0
+Rockingham,Fremont,State Senate,23,R,Bill Gannon,1518
+Rockingham,Fremont,State Senate,23,D,Brenda Oldak,831
+Rockingham,Fremont,State Senate,23,,Scatter,4
+Rockingham,Kensington,State Senate,23,R,Bill Gannon,627
+Rockingham,Kensington,State Senate,23,D,Brenda Oldak,602
+Rockingham,Kensington,State Senate,23,,Scatter,1
+Rockingham,Kingston,State Senate,23,R,Bill Gannon,1913
+Rockingham,Kingston,State Senate,23,D,Brenda Oldak,1215
+Rockingham,Kingston,State Senate,23,,Scatter,0
+Rockingham,Newton,State Senate,23,R,Bill Gannon,1353
+Rockingham,Newton,State Senate,23,D,Brenda Oldak,894
+Rockingham,Newton,State Senate,23,,Scatter,2
+Rockingham,Sandown,State Senate,23,R,Bill Gannon,1933
+Rockingham,Sandown,State Senate,23,D,Brenda Oldak,1054
+Rockingham,Sandown,State Senate,23,,Scatter,3
+Rockingham,Seabrook,State Senate,23,R,Bill Gannon,2162
+Rockingham,Seabrook,State Senate,23,D,Brenda Oldak,1279
+Rockingham,Seabrook,State Senate,23,,Scatter,3
+Rockingham,South Hampton,State Senate,23,R,Bill Gannon,268
+Rockingham,South Hampton,State Senate,23,D,Brenda Oldak,244
+Rockingham,South Hampton,State Senate,23,,Scatter,0
+Rockingham,Exeter,State Senate,24,R,Lou Gargiulo,2908
+Rockingham,Exeter,State Senate,24,D,Debra Altschiller,5408
+Rockingham,Greenland,State Senate,24,R,Lou Gargiulo,1060
+Rockingham,Greenland,State Senate,24,D,Debra Altschiller,1312
+Rockingham,Hampton,State Senate,24,R,Lou Gargiulo,4649
+Rockingham,Hampton,State Senate,24,D,Debra Altschiller,4513
+Rockingham,Hampton Falls,State Senate,24,R,Lou Gargiulo,821
+Rockingham,Hampton Falls,State Senate,24,D,Debra Altschiller,598
+Rockingham,North Hampton,State Senate,24,R,Lou Gargiulo,1299
+Rockingham,North Hampton,State Senate,24,D,Debra Altschiller,1480
+Rockingham,Rye,State Senate,24,R,Lou Gargiulo,1619
+Rockingham,Rye,State Senate,24,D,Debra Altschiller,2036
+Rockingham,Stratham*,State Senate,24,R,Lou Gargiulo,1930
+Rockingham,Stratham*,State Senate,24,D,Debra Altschiller,2622

@@ -1,0 +1,2222 @@
+county,precinct,office,district,party,candidate,votes
+Belknap,Center Harbor,State Representative,1,R,Ploszaj,343
+Belknap,Center Harbor,State Representative,1,R,Kavanagh,313
+Belknap,Center Harbor,State Representative,1,,Scatter,3
+Belknap,New Hampton,State Representative,1,R,Ploszaj,710
+Belknap,New Hampton,State Representative,1,R,Kavanagh,579
+Belknap,New Hampton,State Representative,1,,Scatter,0
+Belknap,Meredith,State Representative,2,R,Smart,1649
+Belknap,Meredith,State Representative,2,R,Creteau-Miller,1445
+Belknap,Meredith,State Representative,2,D,Mucci,1546
+Belknap,Meredith,State Representative,2,D,Coker,1581
+Belknap,Meredith,State Representative,2,,Scatter,4
+Belknap,Meredith,State Representative,2,,Tofts w-in,272
+Belknap,Sanbornton,State Representative,3,R,Harvey-Bolia,1000
+Belknap,Sanbornton,State Representative,3,D,Anderson,680
+Belknap,Tilton,State Representative,3,R,Harvey-Bolia,817
+Belknap,Tilton,State Representative,3,D,Anderson,667
+Belknap,Belmont,State Representative,4,R,O'Hara,2021
+Belknap,Belmont,State Representative,4,D,Borden,1048
+Belknap,Belmont,State Representative,4,,Scatter,6
+Belknap,Laconia Ward 1,State Representative,5,R,Bordes,901
+Belknap,Laconia Ward 1,State Representative,5,R,Johnson,666
+Belknap,Laconia Ward 1,State Representative,5,R,Littlefield,743
+Belknap,Laconia Ward 1,State Representative,5,R,Bogert,768
+Belknap,Laconia Ward 3,State Representative,5,R,Bordes,472
+Belknap,Laconia Ward 3,State Representative,5,R,Johnson,388
+Belknap,Laconia Ward 3,State Representative,5,R,Littlefield,402
+Belknap,Laconia Ward 3,State Representative,5,R,Bogert,401
+Belknap,Laconia Ward 4,State Representative,5,R,Bordes,446
+Belknap,Laconia Ward 4,State Representative,5,R,Johnson,357
+Belknap,Laconia Ward 4,State Representative,5,R,Littlefield,390
+Belknap,Laconia Ward 4,State Representative,5,R,Bogert,395
+Belknap,Laconia Ward 5,State Representative,5,R,Bordes,425
+Belknap,Laconia Ward 5,State Representative,5,R,Johnson,375
+Belknap,Laconia Ward 5,State Representative,5,R,Littlefield,392
+Belknap,Laconia Ward 5,State Representative,5,R,Bogert,392
+Belknap,Laconia Ward 6,State Representative,5,R,Bordes,855
+Belknap,Laconia Ward 6,State Representative,5,R,Johnson,692
+Belknap,Laconia Ward 6,State Representative,5,R,Littlefield,749
+Belknap,Laconia Ward 6,State Representative,5,R,Bogert,758
+Belknap,Laconia Ward 1,State Representative,5,D,Huot,751
+Belknap,Laconia Ward 1,State Representative,5,D,St. Clair,801
+Belknap,Laconia Ward 1,State Representative,5,D,Wood,711
+Belknap,Laconia Ward 1,State Representative,5,D,Hoffman,637
+Belknap,Laconia Ward 1,State Representative,5,,Scatter,4
+Belknap,Laconia Ward 3,State Representative,5,D,Huot,645
+Belknap,Laconia Ward 3,State Representative,5,D,St. Clair,658
+Belknap,Laconia Ward 3,State Representative,5,D,Wood,631
+Belknap,Laconia Ward 3,State Representative,5,D,Hoffman,583
+Belknap,Laconia Ward 3,State Representative,5,,Scatter,9
+Belknap,Laconia Ward 4,State Representative,5,D,Huot,435
+Belknap,Laconia Ward 4,State Representative,5,D,St. Clair,436
+Belknap,Laconia Ward 4,State Representative,5,D,Wood,402
+Belknap,Laconia Ward 4,State Representative,5,D,Hoffman,464
+Belknap,Laconia Ward 4,State Representative,5,,Scatter,1
+Belknap,Laconia Ward 5,State Representative,5,D,Huot,377
+Belknap,Laconia Ward 5,State Representative,5,D,St. Clair,395
+Belknap,Laconia Ward 5,State Representative,5,D,Wood,346
+Belknap,Laconia Ward 5,State Representative,5,D,Hoffman,325
+Belknap,Laconia Ward 5,State Representative,5,,Scatter,3
+Belknap,Laconia Ward 6,State Representative,5,D,Huot,554
+Belknap,Laconia Ward 6,State Representative,5,D,St. Clair,603
+Belknap,Laconia Ward 6,State Representative,5,D,Wood,543
+Belknap,Laconia Ward 6,State Representative,5,D,Hoffman,485
+Belknap,Laconia Ward 6,State Representative,5,,Scatter,0
+Belknap,Gilford,State Representative,6,R,Beaudoin,1749
+Belknap,Gilford,State Representative,6,R,Dumais,2259
+Belknap,Gilford,State Representative,6,R,Nagel,1948
+Belknap,Gilmanton,State Representative,6,R,Beaudoin,1036
+Belknap,Gilmanton,State Representative,6,R,Dumais,1059
+Belknap,Gilmanton,State Representative,6,R,Nagel,1175
+Belknap,Laconia Ward 2,State Representative,6,R,Beaudoin,411
+Belknap,Laconia Ward 2,State Representative,6,R,Dumais,444
+Belknap,Laconia Ward 2,State Representative,6,R,Nagel,405
+Belknap,Gilford,State Representative,6,R,Bean,2191
+Belknap,Gilford,State Representative,6,I,Webber,797
+Belknap,Gilford,State Representative,6,D,DiMartino,1974
+Belknap,Gilmanton,State Representative,6,R,Bean,1110
+Belknap,Gilmanton,State Representative,6,I,Webber,176
+Belknap,Gilmanton,State Representative,6,D,DiMartino,753
+Belknap,Laconia Ward 2,State Representative,6,R,Bean,473
+Belknap,Laconia Ward 2,State Representative,6,I,Webber,113
+Belknap,Laconia Ward 2,State Representative,6,D,DiMartino,452
+Belknap,Gilford,State Representative,6,D,Hackett,1598
+Belknap,Gilford,State Representative,6,D,McLean,1775
+Belknap,Gilford,State Representative,6,D,Cracraft,1063
+Belknap,Gilmanton,State Representative,6,D,Hackett,692
+Belknap,Gilmanton,State Representative,6,D,McLean,699
+Belknap,Gilmanton,State Representative,6,D,Cracraft,516
+Belknap,Laconia Ward 2,State Representative,6,D,Hackett,413
+Belknap,Laconia Ward 2,State Representative,6,D,McLean,403
+Belknap,Laconia Ward 2,State Representative,6,D,Cracraft,293
+Belknap,Alton,State Representative,7,R,Comtois,1755
+Belknap,Alton,State Representative,7,R,Terry,1756
+Belknap,Alton,State Representative,7,R,Varney,1783
+Belknap,Alton,State Representative,7,D,Copithorne,1037
+Belknap,Alton,State Representative,7,D,Dumais,1134
+Belknap,Alton,State Representative,7,D,O'Neil,1085
+Belknap,Alton,State Representative,7,,Scatter,0
+Belknap,Barnstead,State Representative,7,R,Comtois,1237
+Belknap,Barnstead,State Representative,7,R,Terry,1210
+Belknap,Barnstead,State Representative,7,R,Varney,1216
+Belknap,Barnstead,State Representative,7,D,Copithorne,737
+Belknap,Barnstead,State Representative,7,D,Dumais,817
+Belknap,Barnstead,State Representative,7,D,O'Neil,768
+Belknap,Barnstead,State Representative,7,,Scatter,3
+Belknap,Belmont,State Representative,8F,R,Trottier,1858
+Belknap,Belmont,State Representative,8F,R,McCarter,1559
+Belknap,Belmont,State Representative,8F,D,House,1103
+Belknap,Belmont,State Representative,8F,D,Condodeme-traky,844
+Belknap,Belmont,State Representative,8F,,Scatter,4
+Belknap,Sanbornton,State Representative,8F,R,Trottier,933
+Belknap,Sanbornton,State Representative,8F,R,McCarter,819
+Belknap,Sanbornton,State Representative,8F,D,House,674
+Belknap,Sanbornton,State Representative,8F,D,Condodeme-traky,505
+Belknap,Sanbornton,State Representative,8F,,Scatter,0
+Belknap,Tilton,State Representative,8F,R,Trottier,751
+Belknap,Tilton,State Representative,8F,R,McCarter,690
+Belknap,Tilton,State Representative,8F,D,House,649
+Belknap,Tilton,State Representative,8F,D,Condodeme-traky,511
+Belknap,Tilton,State Representative,8F,,Scatter,9
+Carroll,Conway,State Representative,1,R,DiGregorio,1730
+Carroll,Conway,State Representative,1,R,McCarthy,1614
+Carroll,Conway,State Representative,1,R,Umberger,1835
+Carroll,Conway,State Representative,1,D,Buco,2206
+Carroll,Conway,State Representative,1,D,Paige,2129
+Carroll,Conway,State Representative,1,D,Woodcock,2375
+Carroll,Conway,State Representative,1,,Scatter,7
+Carroll,Albany,State Representative,2,R,Chandler,158
+Carroll,Albany,State Representative,2,"JR., R",Bacon,125
+Carroll,Albany,State Representative,2,D,McAleer,163
+Carroll,Albany,State Representative,2,D,Burroughs,184
+Carroll,Albany,State Representative,2,,Scatter,0
+Carroll,Bartlett,State Representative,2,R,Chandler,856
+Carroll,Bartlett,State Representative,2,"JR., R",Bacon,547
+Carroll,Bartlett,State Representative,2,D,McAleer,879
+Carroll,Bartlett,State Representative,2,D,Burroughs,1015
+Carroll,Bartlett,State Representative,2,,Scatter,2
+Carroll,Chatham,State Representative,2,R,Chandler,101
+Carroll,Chatham,State Representative,2,"JR., R",Bacon,88
+Carroll,Chatham,State Representative,2,D,McAleer,75
+Carroll,Chatham,State Representative,2,D,Burroughs,83
+Carroll,Chatham,State Representative,2,,Scatter,1
+Carroll,Hale's Location,State Representative,2,R,Chandler,77
+Carroll,Hale's Location,State Representative,2,"JR., R",Bacon,68
+Carroll,Hale's Location,State Representative,2,D,McAleer,41
+Carroll,Hale's Location,State Representative,2,D,Burroughs,38
+Carroll,Hale's Location,State Representative,2,,Scatter,0
+Carroll,Hart's Location,State Representative,2,R,Chandler,23
+Carroll,Hart's Location,State Representative,2,"JR., R",Bacon,18
+Carroll,Hart's Location,State Representative,2,D,McAleer,12
+Carroll,Hart's Location,State Representative,2,D,Burroughs,16
+Carroll,Hart's Location,State Representative,2,,Scatter,0
+Carroll,Jackson,State Representative,2,R,Chandler,246
+Carroll,Jackson,State Representative,2,"JR., R",Bacon,165
+Carroll,Jackson,State Representative,2,D,McAleer,468
+Carroll,Jackson,State Representative,2,D,Burroughs,455
+Carroll,Jackson,State Representative,2,,Scatter,0
+Carroll,Sandwich,State Representative,2,R,Chandler,366
+Carroll,Sandwich,State Representative,2,"JR., R",Bacon,308
+Carroll,Sandwich,State Representative,2,D,McAleer,594
+Carroll,Sandwich,State Representative,2,D,Burroughs,626
+Carroll,Sandwich,State Representative,2,,Scatter,0
+Carroll,Madison,State Representative,3,R,Crawford,559
+Carroll,Madison,State Representative,3,R,Brown,580
+Carroll,Madison,State Representative,3,D,Watson,721
+Carroll,Madison,State Representative,3,D,Todd,665
+Carroll,Madison,State Representative,3,,Scatter,2
+Carroll,Moultonborough,State Representative,3,R,Crawford,1826
+Carroll,Moultonborough,State Representative,3,R,Brown,1762
+Carroll,Moultonborough,State Representative,3,D,Watson,1139
+Carroll,Moultonborough,State Representative,3,D,Todd,978
+Carroll,Moultonborough,State Representative,3,,Scatter,8
+Carroll,Tamworth,State Representative,3,R,Crawford,615
+Carroll,Tamworth,State Representative,3,R,Brown,605
+Carroll,Tamworth,State Representative,3,D,Watson,692
+Carroll,Tamworth,State Representative,3,D,Todd,648
+Carroll,Tamworth,State Representative,3,,Scatter,1
+Carroll,Brookfield,State Representative,4,R,Belcher,234
+Carroll,Brookfield,State Representative,4,R,Avellani,275
+Carroll,Brookfield,State Representative,4,D,Ogren,164
+Carroll,Brookfield,State Representative,4,D,Gehring,167
+Carroll,Brookfield,State Representative,4,,Scatter,0
+Carroll,Eaton,State Representative,4,R,Belcher,93
+Carroll,Eaton,State Representative,4,R,Avellani,79
+Carroll,Eaton,State Representative,4,D,Ogren,164
+Carroll,Eaton,State Representative,4,D,Gehring,148
+Carroll,Eaton,State Representative,4,,Scatter,0
+Carroll,Effingham,State Representative,4,R,Belcher,397
+Carroll,Effingham,State Representative,4,R,Avellani,367
+Carroll,Effingham,State Representative,4,D,Ogren,292
+Carroll,Effingham,State Representative,4,D,Gehring,240
+Carroll,Effingham,State Representative,4,,Scatter,0
+Carroll,Freedom,State Representative,4,R,Belcher,484
+Carroll,Freedom,State Representative,4,R,Avellani,385
+Carroll,Freedom,State Representative,4,D,Ogren,442
+Carroll,Freedom,State Representative,4,D,Gehring,363
+Carroll,Freedom,State Representative,4,,Scatter,0
+Carroll,Wakefield,State Representative,4,R,Belcher,1428
+Carroll,Wakefield,State Representative,4,R,Avellani,1665
+Carroll,Wakefield,State Representative,4,D,Ogren,739
+Carroll,Wakefield,State Representative,4,D,Gehring,761
+Carroll,Wakefield,State Representative,4,,Scatter,0
+Carroll,Ossipee,State Representative,5,R,Smith,1211
+Carroll,Ossipee,State Representative,5,D,Pustell,743
+Carroll,Ossipee,State Representative,5,,Scatter,4
+Carroll,Tuftonboro,State Representative,6,R,Peternel,863
+Carroll,Tuftonboro,State Representative,6,R,MacDonald,783
+Carroll,Tuftonboro,State Representative,6,D,Millner,541
+Carroll,Tuftonboro,State Representative,6,D,Duran,605
+Carroll,Tuftonboro,State Representative,6,,Scatter,4
+Carroll,Wolfeboro,State Representative,6,R,Peternel,1958
+Carroll,Wolfeboro,State Representative,6,R,MacDonald,1998
+Carroll,Wolfeboro,State Representative,6,D,Millner,1540
+Carroll,Wolfeboro,State Representative,6,D,Duran,1709
+Carroll,Wolfeboro,State Representative,6,,Scatter,8
+Carroll,Ossipee,State Representative,7F,R,Cordelli,1215
+Carroll,Ossipee,State Representative,7F,D,Boudman,736
+Carroll,Ossipee,State Representative,7F,,Scatter,1
+Carroll,Tuftonboro,State Representative,7F,R,Cordelli,892
+Carroll,Tuftonboro,State Representative,7F,D,Boudman,658
+Carroll,Tuftonboro,State Representative,7F,,Scatter,2
+Carroll,Wolfeboro,State Representative,7F,R,Cordelli,2012
+Carroll,Wolfeboro,State Representative,7F,D,Boudman,1809
+Carroll,Wolfeboro,State Representative,7F,,Scatter,2
+Carroll,Brookfield,State Representative,8F,R,McConkey,261
+Carroll,Brookfield,State Representative,8F,"JR., R",Costable,225
+Carroll,Brookfield,State Representative,8F,D,Ringelstein,166
+Carroll,Brookfield,State Representative,8F,D,Knirk,161
+Carroll,Brookfield,State Representative,8F,,Scatter,0
+Carroll,Eaton,State Representative,8F,R,McConkey,103
+Carroll,Eaton,State Representative,8F,"JR., R",Costable,71
+Carroll,Eaton,State Representative,8F,D,Ringelstein,142
+Carroll,Eaton,State Representative,8F,D,Knirk,158
+Carroll,Eaton,State Representative,8F,,Scatter,0
+Carroll,Effingham,State Representative,8F,R,McConkey,444
+Carroll,Effingham,State Representative,8F,"JR., R",Costable,368
+Carroll,Effingham,State Representative,8F,D,Ringelstein,233
+Carroll,Effingham,State Representative,8F,D,Knirk,253
+Carroll,Effingham,State Representative,8F,,Scatter,0
+Carroll,Freedom,State Representative,8F,R,McConkey,513
+Carroll,Freedom,State Representative,8F,"JR., R",Costable,358
+Carroll,Freedom,State Representative,8F,D,Ringelstein,349
+Carroll,Freedom,State Representative,8F,D,Knirk,457
+Carroll,Freedom,State Representative,8F,,Scatter,0
+Carroll,Madison,State Representative,8F,R,McConkey,656
+Carroll,Madison,State Representative,8F,"JR., R",Costable,466
+Carroll,Madison,State Representative,8F,D,Ringelstein,645
+Carroll,Madison,State Representative,8F,D,Knirk,727
+Carroll,Madison,State Representative,8F,,Scatter,2
+Carroll,Moultonborough,State Representative,8F,R,McConkey,1779
+Carroll,Moultonborough,State Representative,8F,"JR., R",Costable,1463
+Carroll,Moultonborough,State Representative,8F,D,Ringelstein,1336
+Carroll,Moultonborough,State Representative,8F,D,Knirk,1098
+Carroll,Moultonborough,State Representative,8F,,Scatter,0
+Carroll,Tamworth,State Representative,8F,R,McConkey,698
+Carroll,Tamworth,State Representative,8F,"JR., R",Costable,515
+Carroll,Tamworth,State Representative,8F,D,Ringelstein,634
+Carroll,Tamworth,State Representative,8F,D,Knirk,697
+Carroll,Tamworth,State Representative,8F,,Scatter,2
+Carroll,Wakefield,State Representative,8F,R,McConkey,1608
+Carroll,Wakefield,State Representative,8F,"JR., R",Costable,1319
+Carroll,Wakefield,State Representative,8F,D,Ringelstein,782
+Carroll,Wakefield,State Representative,8F,D,Knirk,747
+Carroll,Wakefield,State Representative,8F,,Scatter,0
+Cheshire,Keene Ward 1,State Representative,1,R,DiMezzo,272
+Cheshire,Keene Ward 1,State Representative,1,D,Germana,1095
+Cheshire,Keene Ward 1,State Representative,1,,Scatter,11
+Cheshire,Keene Ward 3,State Representative,2,R,Felix,529
+Cheshire,Keene Ward 3,State Representative,2,D,Fox,1289
+Cheshire,Keene Ward 3,State Representative,2,,Scatter,0
+Cheshire,Keene Ward 5,State Representative,3,R,Sickels,636
+Cheshire,Keene Ward 5,State Representative,3,D,Jones,1484
+Cheshire,Keene Ward 5,State Representative,3,,Scatter,3
+Cheshire,Keene Ward 4,State Representative,4,R,Savastano,633
+Cheshire,Keene Ward 4,State Representative,4,D,Newell,1276
+Cheshire,Keene Ward 4,State Representative,4,,Scatter,1
+Cheshire,Surry,State Representative,5,R,Winter,192
+Cheshire,Surry,State Representative,5,D,Weber,242
+Cheshire,Surry,State Representative,5,,Scatter,0
+Cheshire,Walpole,State Representative,5,R,Winter,655
+Cheshire,Walpole,State Representative,5,D,Weber,1197
+Cheshire,Walpole,State Representative,5,,Scatter,3
+Cheshire,Chesterfield,State Representative,6,R,Merkt,793
+Cheshire,Chesterfield,State Representative,6,R,Barton,799
+Cheshire,Chesterfield,State Representative,6,D,Harvey,1036
+Cheshire,Chesterfield,State Representative,6,D,Abbott,1027
+Cheshire,Chesterfield,State Representative,6,,Scatter,1
+Cheshire,Hinsdale,State Representative,6,R,Merkt,495
+Cheshire,Hinsdale,State Representative,6,R,Barton,509
+Cheshire,Hinsdale,State Representative,6,D,Harvey,646
+Cheshire,Hinsdale,State Representative,6,D,Abbott,716
+Cheshire,Hinsdale,State Representative,6,,Scatter,0
+Cheshire,Westmoreland,State Representative,6,R,Merkt,372
+Cheshire,Westmoreland,State Representative,6,R,Barton,348
+Cheshire,Westmoreland,State Representative,6,D,Harvey,494
+Cheshire,Westmoreland,State Representative,6,D,Abbott,494
+Cheshire,Westmoreland,State Representative,6,,Scatter,0
+Cheshire,Keene Ward 2,State Representative,7,R,Kamm,497
+Cheshire,Keene Ward 2,State Representative,7,D,Filiault,1409
+Cheshire,Keene Ward 2,State Representative,7,,Scatter,1
+Cheshire,Harrisville,State Representative,8,D,Parshall,486
+Cheshire,Harrisville,State Representative,8,,Scatter,7
+Cheshire,Marlborough,State Representative,8,D,Parshall,732
+Cheshire,Marlborough,State Representative,8,,Scatter,14
+Cheshire,Nelson,State Representative,8,D,Parshall,249
+Cheshire,Nelson,State Representative,8,,Scatter,3
+Cheshire,Roxbury,State Representative,8,D,Parshall,82
+Cheshire,Roxbury,State Representative,8,,Scatter,0
+Cheshire,Sullivan,State Representative,8,D,Parshall,196
+Cheshire,Sullivan,State Representative,8,,Scatter,5
+Cheshire,Alstead,State Representative,9,R,Nalevanko,410
+Cheshire,Alstead,State Representative,9,D,Eaton,516
+Cheshire,Alstead,State Representative,9,,Scatter,0
+Cheshire,Gilsum,State Representative,9,R,Nalevanko,193
+Cheshire,Gilsum,State Representative,9,D,Eaton,201
+Cheshire,Gilsum,State Representative,9,,Scatter,0
+Cheshire,Marlow,State Representative,9,R,Nalevanko,180
+Cheshire,Marlow,State Representative,9,D,Eaton,187
+Cheshire,Marlow,State Representative,9,,Scatter,1
+Cheshire,Stoddard,State Representative,9,R,Nalevanko,344
+Cheshire,Stoddard,State Representative,9,D,Eaton,351
+Cheshire,Stoddard,State Representative,9,,Scatter,0
+Cheshire,Richmond,State Representative,10,R,York,264
+Cheshire,Richmond,State Representative,10,R,LeClair,298
+Cheshire,Richmond,State Representative,10,D,Tatro,201
+Cheshire,Richmond,State Representative,10,D,Faulkner,191
+Cheshire,Richmond,State Representative,10,,Scatter,2
+Cheshire,Swanzey,State Representative,10,R,York,1218
+Cheshire,Swanzey,State Representative,10,R,LeClair,1265
+Cheshire,Swanzey,State Representative,10,D,Tatro,1571
+Cheshire,Swanzey,State Representative,10,D,Faulkner,1467
+Cheshire,Swanzey,State Representative,10,,Scatter,0
+Cheshire,Winchester,State Representative,11,R,Nutting,766
+Cheshire,Winchester,State Representative,11,D,Quevedo,679
+Cheshire,Winchester,State Representative,11,,Scatter,2
+Cheshire,Fitzwilliam,State Representative,12,R,Thackston,597
+Cheshire,Fitzwilliam,State Representative,12,D,Gettens,505
+Cheshire,Fitzwilliam,State Representative,12,,Scatter,2
+Cheshire,Troy,State Representative,12,R,Thackston,449
+Cheshire,Troy,State Representative,12,D,Gettens,355
+Cheshire,Troy,State Representative,12,,Scatter,1
+Cheshire,Dublin,State Representative,13,R,Mattson,375
+Cheshire,Dublin,State Representative,13,D,Ames,548
+Cheshire,Dublin,State Representative,13,,Scatter,0
+Cheshire,Jaffrey,State Representative,13,R,Mattson,1150
+Cheshire,Jaffrey,State Representative,13,D,Ames,1228
+Cheshire,Jaffrey,State Representative,13,,Scatter,2
+Cheshire,Rindge,State Representative,14F,R,Hunt,1766
+Cheshire,Rindge,State Representative,14F,D,Bissex,1028
+Cheshire,Rindge,State Representative,14F,,Scatter,2
+Cheshire,Chesterfield,State Representative,15F,R,Schmitt,818
+Cheshire,Chesterfield,State Representative,15F,R,Mirzoeff,745
+Cheshire,Chesterfield,State Representative,15F,D,Toll,1030
+Cheshire,Chesterfield,State Representative,15F,D,Monteil,976
+Cheshire,Chesterfield,State Representative,15F,,Scatter,2
+Cheshire,Hinsdale,State Representative,15F,R,Schmitt,556
+Cheshire,Hinsdale,State Representative,15F,R,Mirzoeff,487
+Cheshire,Hinsdale,State Representative,15F,D,Toll,666
+Cheshire,Hinsdale,State Representative,15F,D,Monteil,620
+Cheshire,Hinsdale,State Representative,15F,,Scatter,0
+Cheshire,Keene Ward 1,State Representative,15F,R,Schmitt,325
+Cheshire,Keene Ward 1,State Representative,15F,R,Mirzoeff,295
+Cheshire,Keene Ward 1,State Representative,15F,D,Toll,1017
+Cheshire,Keene Ward 1,State Representative,15F,D,Monteil,962
+Cheshire,Keene Ward 1,State Representative,15F,,Scatter,8
+Cheshire,Keene Ward 3,State Representative,15F,R,Schmitt,524
+Cheshire,Keene Ward 3,State Representative,15F,R,Mirzoeff,464
+Cheshire,Keene Ward 3,State Representative,15F,D,Toll,1221
+Cheshire,Keene Ward 3,State Representative,15F,D,Monteil,1147
+Cheshire,Keene Ward 3,State Representative,15F,,Scatter,0
+Cheshire,Keene Ward 4,State Representative,15F,R,Schmitt,582
+Cheshire,Keene Ward 4,State Representative,15F,R,Mirzoeff,522
+Cheshire,Keene Ward 4,State Representative,15F,D,Toll,1243
+Cheshire,Keene Ward 4,State Representative,15F,D,Monteil,1141
+Cheshire,Keene Ward 4,State Representative,15F,,Scatter,4
+Cheshire,Keene Ward 5,State Representative,15F,R,Schmitt,623
+Cheshire,Keene Ward 5,State Representative,15F,R,Mirzoeff,567
+Cheshire,Keene Ward 5,State Representative,15F,D,Toll,1462
+Cheshire,Keene Ward 5,State Representative,15F,D,Monteil,1366
+Cheshire,Keene Ward 5,State Representative,15F,,Scatter,0
+Cheshire,Surry,State Representative,15F,R,Schmitt,184
+Cheshire,Surry,State Representative,15F,R,Mirzoeff,162
+Cheshire,Surry,State Representative,15F,D,Toll,227
+Cheshire,Surry,State Representative,15F,D,Monteil,214
+Cheshire,Surry,State Representative,15F,,Scatter,1
+Cheshire,Walpole,State Representative,15F,R,Schmitt,667
+Cheshire,Walpole,State Representative,15F,R,Mirzoeff,593
+Cheshire,Walpole,State Representative,15F,D,Toll,1129
+Cheshire,Walpole,State Representative,15F,D,Monteil,1033
+Cheshire,Walpole,State Representative,15F,,Scatter,1
+Cheshire,Westmoreland,State Representative,15F,R,Schmitt,368
+Cheshire,Westmoreland,State Representative,15F,R,Mirzoeff,336
+Cheshire,Westmoreland,State Representative,15F,D,Toll,490
+Cheshire,Westmoreland,State Representative,15F,D,Monteil,563
+Cheshire,Westmoreland,State Representative,15F,,Scatter,0
+Cheshire,Alstead,State Representative,16F,R,Ward,394
+Cheshire,Alstead,State Representative,16F,D,Schapiro,517
+Cheshire,Alstead,State Representative,16F,,Scatter,0
+Cheshire,Gilsum,State Representative,16F,R,Ward,195
+Cheshire,Gilsum,State Representative,16F,D,Schapiro,193
+Cheshire,Gilsum,State Representative,16F,,Scatter,0
+Cheshire,Harrisville,State Representative,16F,R,Ward,166
+Cheshire,Harrisville,State Representative,16F,D,Schapiro,455
+Cheshire,Harrisville,State Representative,16F,,Scatter,0
+Cheshire,Keene Ward 2,State Representative,16F,R,Ward,514
+Cheshire,Keene Ward 2,State Representative,16F,D,Schapiro,1404
+Cheshire,Keene Ward 2,State Representative,16F,,Scatter,1
+Cheshire,Marlborough,State Representative,16F,R,Ward,343
+Cheshire,Marlborough,State Representative,16F,D,Schapiro,624
+Cheshire,Marlborough,State Representative,16F,,Scatter,0
+Cheshire,Marlow,State Representative,16F,R,Ward,169
+Cheshire,Marlow,State Representative,16F,D,Schapiro,196
+Cheshire,Marlow,State Representative,16F,,Scatter,0
+Cheshire,Nelson,State Representative,16F,R,Ward,133
+Cheshire,Nelson,State Representative,16F,D,Schapiro,219
+Cheshire,Nelson,State Representative,16F,,Scatter,0
+Cheshire,Roxbury,State Representative,16F,R,Ward,33
+Cheshire,Roxbury,State Representative,16F,D,Schapiro,73
+Cheshire,Roxbury,State Representative,16F,,Scatter,0
+Cheshire,Stoddard,State Representative,16F,R,Ward,328
+Cheshire,Stoddard,State Representative,16F,D,Schapiro,358
+Cheshire,Stoddard,State Representative,16F,,Scatter,2
+Cheshire,Sullivan,State Representative,16F,R,Ward,149
+Cheshire,Sullivan,State Representative,16F,D,Schapiro,157
+Cheshire,Sullivan,State Representative,16F,,Scatter,1
+Cheshire,Fitzwilliam,State Representative,17F,R,Rhodes,606
+Cheshire,Fitzwilliam,State Representative,17F,D,Murphy,500
+Cheshire,Fitzwilliam,State Representative,17F,,Scatter,1
+Cheshire,Richmond,State Representative,17F,R,Rhodes,340
+Cheshire,Richmond,State Representative,17F,D,Murphy,186
+Cheshire,Richmond,State Representative,17F,,Scatter,0
+Cheshire,Swanzey,State Representative,17F,R,Rhodes,1568
+Cheshire,Swanzey,State Representative,17F,D,Murphy,1428
+Cheshire,Swanzey,State Representative,17F,,Scatter,0
+Cheshire,Troy,State Representative,17F,R,Rhodes,479
+Cheshire,Troy,State Representative,17F,D,Murphy,320
+Cheshire,Troy,State Representative,17F,,Scatter,0
+Cheshire,Winchester,State Representative,17F,R,Rhodes,799
+Cheshire,Winchester,State Representative,17F,D,Murphy,636
+Cheshire,Winchester,State Representative,17F,,Scatter,4
+Cheshire,Dublin,State Representative,18F,R,Santonastaso,328
+Cheshire,Dublin,State Representative,18F,R,Qualey,331
+Cheshire,Dublin,State Representative,18F,D,McCarthy,534
+Cheshire,Dublin,State Representative,18F,D,Dickler,518
+Cheshire,Dublin,State Representative,18F,,Scatter,0
+Cheshire,Jaffrey,State Representative,18F,R,Santonastaso,1040
+Cheshire,Jaffrey,State Representative,18F,R,Qualey,985
+Cheshire,Jaffrey,State Representative,18F,D,McCarthy,1257
+Cheshire,Jaffrey,State Representative,18F,D,Dickler,1135
+Cheshire,Jaffrey,State Representative,18F,,Scatter,1
+Cheshire,Rindge,State Representative,18F,R,Santonastaso,1549
+Cheshire,Rindge,State Representative,18F,R,Qualey,1611
+Cheshire,Rindge,State Representative,18F,D,McCarthy,1020
+Cheshire,Rindge,State Representative,18F,D,Dickler,968
+Cheshire,Rindge,State Representative,18F,,Scatter,3
+Coos,Dalton,State Representative,1,R,Tierney,215
+Coos,Dalton,State Representative,1,R,Merner,211
+Coos,Dalton,State Representative,1,D,Fountain,204
+Coos,Dalton,State Representative,1,,Scatter,3
+Coos,Lancaster,State Representative,1,R,Tierney,641
+Coos,Lancaster,State Representative,1,R,Merner,668
+Coos,Lancaster,State Representative,1,D,Fountain,565
+Coos,Lancaster,State Representative,1,,Scatter,2
+Coos,Northumberland,State Representative,1,R,Tierney,472
+Coos,Northumberland,State Representative,1,R,Merner,405
+Coos,Northumberland,State Representative,1,D,Fountain,227
+Coos,Northumberland,State Representative,1,,Scatter,0
+Coos,Stratford,State Representative,1,R,Tierney,118
+Coos,Stratford,State Representative,1,R,Merner,96
+Coos,Stratford,State Representative,1,D,Fountain,114
+Coos,Stratford,State Representative,1,,Scatter,2
+Coos,At. & Gilm. Ac. Grant,State Representative,2,R,Davis,0
+Coos,At. & Gilm. Ac. Grant,State Representative,2,D,Doherty,0
+Coos,At. & Gilm. Ac. Grant,State Representative,2,,Scatter,0
+Coos,Cambridge,State Representative,2,R,Davis,2
+Coos,Cambridge,State Representative,2,D,Doherty,1
+Coos,Cambridge,State Representative,2,,Scatter,0
+Coos,Clarksville,State Representative,2,R,Davis,90
+Coos,Clarksville,State Representative,2,D,Doherty,60
+Coos,Clarksville,State Representative,2,,Scatter,2
+Coos,Dix's Grant,State Representative,2,R,Davis,0
+Coos,Dix's Grant,State Representative,2,D,Doherty,0
+Coos,Dix's Grant,State Representative,2,,Scatter,0
+Coos,Dixville,State Representative,2,R,Davis,3
+Coos,Dixville,State Representative,2,D,Doherty,2
+Coos,Dixville,State Representative,2,,Scatter,0
+Coos,Dummer,State Representative,2,R,Davis,79
+Coos,Dummer,State Representative,2,D,Doherty,50
+Coos,Dummer,State Representative,2,,Scatter,0
+Coos,Errol,State Representative,2,R,Davis,119
+Coos,Errol,State Representative,2,D,Doherty,55
+Coos,Errol,State Representative,2,,Scatter,0
+Coos,Milan,State Representative,2,R,Davis,360
+Coos,Milan,State Representative,2,D,Doherty,249
+Coos,Milan,State Representative,2,,Scatter,0
+Coos,Millsfield,State Representative,2,R,Davis,13
+Coos,Millsfield,State Representative,2,D,Doherty,4
+Coos,Millsfield,State Representative,2,,Scatter,0
+Coos,Odell,State Representative,2,R,Davis,0
+Coos,Odell,State Representative,2,D,Doherty,0
+Coos,Odell,State Representative,2,,Scatter,0
+Coos,Pittsburg,State Representative,2,R,Davis,333
+Coos,Pittsburg,State Representative,2,D,Doherty,123
+Coos,Pittsburg,State Representative,2,,Scatter,0
+Coos,Second College Grant,State Representative,2,R,Davis,0
+Coos,Second College Grant,State Representative,2,D,Doherty,0
+Coos,Second College Grant,State Representative,2,,Scatter,0
+Coos,Stark,State Representative,2,R,Davis,167
+Coos,Stark,State Representative,2,D,Doherty,80
+Coos,Stark,State Representative,2,,Scatter,0
+Coos,Wentworth's Loc.,State Representative,2,R,Davis,14
+Coos,Wentworth's Loc.,State Representative,2,D,Doherty,4
+Coos,Wentworth's Loc.,State Representative,2,,Scatter,0
+Coos,Colebrook,State Representative,3,R,Ouellet,695
+Coos,Colebrook,State Representative,3,,Scatter,12
+Coos,Columbia,State Representative,3,R,Ouellet,236
+Coos,Columbia,State Representative,3,,Scatter,1
+Coos,Erving's Location,State Representative,3,R,Ouellet,0
+Coos,Erving's Location,State Representative,3,,Scatter,0
+Coos,Stewartstown,State Representative,3,R,Ouellet,238
+Coos,Stewartstown,State Representative,3,,Scatter,10
+Coos,Carroll,State Representative,4,R,King,227
+Coos,Carroll,State Representative,4,D,Colt,194
+Coos,Carroll,State Representative,4,,Scatter,0
+Coos,Jefferson,State Representative,4,R,King,352
+Coos,Jefferson,State Representative,4,D,Colt,187
+Coos,Jefferson,State Representative,4,,Scatter,0
+Coos,Kilkenny,State Representative,4,R,King,0
+Coos,Kilkenny,State Representative,4,D,Colt,0
+Coos,Kilkenny,State Representative,4,,Scatter,0
+Coos,Whitefield,State Representative,4,R,King,530
+Coos,Whitefield,State Representative,4,D,Colt,530
+Coos,Whitefield,State Representative,4,,Scatter,1
+Coos,Berlin,State Representative,5,R,Hale,1048
+Coos,Berlin,State Representative,5,R,Korzen,1355
+Coos,Berlin,State Representative,5,D,Noel,1410
+Coos,Berlin,State Representative,5,D,Cascadden,1515
+Coos,Berlin,State Representative,5,,Scatter,3
+Coos,Recount,State Representative,5,R,Hale,1048
+Coos,Recount,State Representative,5,R,Korzen,1361
+Coos,Recount,State Representative,5,D,Noel,1418
+Coos,Recount,State Representative,5,D,Cascadden,1519
+Coos,Bean's Grant,State Representative,6,"JR., R",Unger,0
+Coos,Bean's Grant,State Representative,6,D,Hatch,0
+Coos,Bean's Grant,State Representative,6,,Scatter,0
+Coos,Bean's Purchase,State Representative,6,"JR., R",Unger,0
+Coos,Bean's Purchase,State Representative,6,D,Hatch,0
+Coos,Bean's Purchase,State Representative,6,,Scatter,0
+Coos,Chandler's Purchase,State Representative,6,"JR., R",Unger,0
+Coos,Chandler's Purchase,State Representative,6,D,Hatch,0
+Coos,Chandler's Purchase,State Representative,6,,Scatter,0
+Coos,Crawford's Purchase,State Representative,6,"JR., R",Unger,0
+Coos,Crawford's Purchase,State Representative,6,D,Hatch,0
+Coos,Crawford's Purchase,State Representative,6,,Scatter,0
+Coos,Cutt's Grant,State Representative,6,"JR., R",Unger,0
+Coos,Cutt's Grant,State Representative,6,D,Hatch,0
+Coos,Cutt's Grant,State Representative,6,,Scatter,0
+Coos,Gorham,State Representative,6,"JR., R",Unger,540
+Coos,Gorham,State Representative,6,D,Hatch,727
+Coos,Gorham,State Representative,6,,Scatter,1
+Coos,Green's Grant,State Representative,6,"JR., R",Unger,0
+Coos,Green's Grant,State Representative,6,D,Hatch,1
+Coos,Green's Grant,State Representative,6,,Scatter,0
+Coos,Hadley's Purchase,State Representative,6,"JR., R",Unger,0
+Coos,Hadley's Purchase,State Representative,6,D,Hatch,0
+Coos,Hadley's Purchase,State Representative,6,,Scatter,0
+Coos,Low and Burbank's Gt.,State Representative,6,"JR., R",Unger,0
+Coos,Low and Burbank's Gt.,State Representative,6,D,Hatch,0
+Coos,Low and Burbank's Gt.,State Representative,6,,Scatter,0
+Coos,Martin's Location,State Representative,6,"JR., R",Unger,0
+Coos,Martin's Location,State Representative,6,D,Hatch,0
+Coos,Martin's Location,State Representative,6,,Scatter,0
+Coos,Pinkham's Grant,State Representative,6,"JR., R",Unger,0
+Coos,Pinkham's Grant,State Representative,6,D,Hatch,1
+Coos,Pinkham's Grant,State Representative,6,,Scatter,0
+Coos,Randolph,State Representative,6,"JR., R",Unger,66
+Coos,Randolph,State Representative,6,D,Hatch,168
+Coos,Randolph,State Representative,6,,Scatter,0
+Coos,Sargent's Purchase,State Representative,6,"JR., R",Unger,0
+Coos,Sargent's Purchase,State Representative,6,D,Hatch,0
+Coos,Sargent's Purchase,State Representative,6,,Scatter,0
+Coos,Shelburne,State Representative,6,"JR., R",Unger,116
+Coos,Shelburne,State Representative,6,D,Hatch,101
+Coos,Shelburne,State Representative,6,,Scatter,0
+Coos,Success,State Representative,6,"JR., R",Unger,0
+Coos,Success,State Representative,6,D,Hatch,0
+Coos,Success,State Representative,6,,Scatter,0
+Coos,Thomp and Mes's Pur,State Representative,6,"JR., R",Unger,0
+Coos,Thomp and Mes's Pur,State Representative,6,D,Hatch,0
+Coos,Thomp and Mes's Pur,State Representative,6,,Scatter,0
+Coos,Berlin,State Representative,7F,R,Greer,1325
+Coos,Berlin,State Representative,7F,D,Kelley,1595
+Coos,Berlin,State Representative,7F,,Scatter,1
+Coos,Carroll,State Representative,7F,R,Greer,230
+Coos,Carroll,State Representative,7F,D,Kelley,186
+Coos,Carroll,State Representative,7F,,Scatter,0
+Coos,Jefferson,State Representative,7F,R,Greer,339
+Coos,Jefferson,State Representative,7F,D,Kelley,182
+Coos,Jefferson,State Representative,7F,,Scatter,0
+Coos,Kilkenny,State Representative,7F,R,Greer,0
+Coos,Kilkenny,State Representative,7F,D,Kelley,0
+Coos,Kilkenny,State Representative,7F,,Scatter,0
+Coos,Whitefield,State Representative,7F,R,Greer,553
+Coos,Whitefield,State Representative,7F,D,Kelley,480
+Coos,Whitefield,State Representative,7F,,Scatter,0
+Grafton,Bath,State Representative,1,R,Beaulier,249
+Grafton,Bath,State Representative,1,R,Rochefort,263
+Grafton,Bath,State Representative,1,R,Simon,237
+Grafton,Bath,State Representative,1,D,Applewhite,188
+Grafton,Bath,State Representative,1,D,Egan,184
+Grafton,Bath,State Representative,1,D,Massimilla,193
+Grafton,Bath,State Representative,1,,Scatter,0
+Grafton,Lisbon,State Representative,1,R,Beaulier,286
+Grafton,Lisbon,State Representative,1,R,Rochefort,309
+Grafton,Lisbon,State Representative,1,R,Simon,307
+Grafton,Lisbon,State Representative,1,D,Applewhite,238
+Grafton,Lisbon,State Representative,1,D,Egan,237
+Grafton,Lisbon,State Representative,1,D,Massimilla,257
+Grafton,Lisbon,State Representative,1,,Scatter,0
+Grafton,Littleton,State Representative,1,R,Beaulier,1037
+Grafton,Littleton,State Representative,1,R,Rochefort,1177
+Grafton,Littleton,State Representative,1,R,Simon,1307
+Grafton,Littleton,State Representative,1,D,Applewhite,1028
+Grafton,Littleton,State Representative,1,D,Egan,1007
+Grafton,Littleton,State Representative,1,D,Massimilla,1198
+Grafton,Littleton,State Representative,1,,Scatter,1
+Grafton,Lyman,State Representative,1,R,Beaulier,156
+Grafton,Lyman,State Representative,1,R,Rochefort,179
+Grafton,Lyman,State Representative,1,R,Simon,164
+Grafton,Lyman,State Representative,1,D,Applewhite,122
+Grafton,Lyman,State Representative,1,D,Egan,127
+Grafton,Lyman,State Representative,1,D,Massimilla,135
+Grafton,Lyman,State Representative,1,,Scatter,0
+Grafton,Monroe,State Representative,1,R,Beaulier,213
+Grafton,Monroe,State Representative,1,R,Rochefort,234
+Grafton,Monroe,State Representative,1,R,Simon,217
+Grafton,Monroe,State Representative,1,D,Applewhite,153
+Grafton,Monroe,State Representative,1,D,Egan,145
+Grafton,Monroe,State Representative,1,D,Massimilla,148
+Grafton,Monroe,State Representative,1,,Scatter,0
+Grafton,Sugar Hill,State Representative,1,R,Beaulier,117
+Grafton,Sugar Hill,State Representative,1,R,Rochefort,130
+Grafton,Sugar Hill,State Representative,1,R,Simon,126
+Grafton,Sugar Hill,State Representative,1,D,Applewhite,255
+Grafton,Sugar Hill,State Representative,1,D,Egan,258
+Grafton,Sugar Hill,State Representative,1,D,Massimilla,240
+Grafton,Sugar Hill,State Representative,1,,Scatter,0
+Grafton,Bethlehem,State Representative,2,R,Qi,494
+Grafton,Bethlehem,State Representative,2,D,Sullivan,857
+Grafton,Bethlehem,State Representative,2,,Scatter,3
+Grafton,Franconia,State Representative,2,R,Qi,229
+Grafton,Franconia,State Representative,2,D,Sullivan,462
+Grafton,Franconia,State Representative,2,,Scatter,0
+Grafton,Easton,State Representative,3,R,Ham,67
+Grafton,Easton,State Representative,3,D,Stringham,143
+Grafton,Easton,State Representative,3,,Scatter,0
+Grafton,Lincoln,State Representative,3,R,Ham,328
+Grafton,Lincoln,State Representative,3,D,Stringham,377
+Grafton,Lincoln,State Representative,3,,Scatter,5
+Grafton,Livermore,State Representative,3,R,Ham,0
+Grafton,Livermore,State Representative,3,D,Stringham,0
+Grafton,Livermore,State Representative,3,,Scatter,0
+Grafton,Woodstock,State Representative,3,R,Ham,304
+Grafton,Woodstock,State Representative,3,D,Stringham,342
+Grafton,Woodstock,State Representative,3,,Scatter,2
+Grafton,Ellsworth,State Representative,4,R,Babin,27
+Grafton,Ellsworth,State Representative,4,D,Baldwin,34
+Grafton,Ellsworth,State Representative,4,,Scatter,0
+Grafton,Thornton,State Representative,4,R,Babin,666
+Grafton,Thornton,State Representative,4,D,Baldwin,763
+Grafton,Thornton,State Representative,4,,Scatter,0
+Grafton,Waterville Valley,State Representative,4,R,Babin,158
+Grafton,Waterville Valley,State Representative,4,D,Baldwin,191
+Grafton,Waterville Valley,State Representative,4,,Scatter,0
+Grafton,Benton,State Representative,5,R,Ladd,136
+Grafton,Benton,State Representative,5,R,Coulon,103
+Grafton,Benton,State Representative,5,,scatter,0
+Grafton,Haverhill,State Representative,5,R,Ladd,1173
+Grafton,Haverhill,State Representative,5,R,Coulon,950
+Grafton,Haverhill,State Representative,5,,scatter,17
+Grafton,Landaff,State Representative,5,R,Ladd,135
+Grafton,Landaff,State Representative,5,R,Coulon,123
+Grafton,Landaff,State Representative,5,,scatter,6
+Grafton,Piermont,State Representative,5,R,Ladd,223
+Grafton,Piermont,State Representative,5,R,Coulon,185
+Grafton,Piermont,State Representative,5,,scatter,8
+Grafton,Warren,State Representative,5,R,Ladd,236
+Grafton,Warren,State Representative,5,R,Coulon,199
+Grafton,Warren,State Representative,5,,scatter,7
+Grafton,Orford,State Representative,6,R,Greeson,237
+Grafton,Orford,State Representative,6,D,Tomlinson,410
+Grafton,Orford,State Representative,6,,Scatter,2
+Grafton,Rumney,State Representative,6,R,Greeson,462
+Grafton,Rumney,State Representative,6,D,Tomlinson,330
+Grafton,Wentworth,State Representative,6,R,Greeson,307
+Grafton,Wentworth,State Representative,6,D,Tomlinson,184
+Grafton,Wentworth,State Representative,6,,Scatter,3
+Grafton,Campton,State Representative,7,R,Alliegro,837
+Grafton,Campton,State Representative,7,D,Hoyt,856
+Grafton,Campton,State Representative,7,,Scatter,4
+Grafton,Recount,State Representative,7,R,Alliegro,840
+Grafton,Recount,State Representative,7,D,Hoyt,858
+Grafton,Ashland,State Representative,8,R,Hughes,490
+Grafton,Ashland,State Representative,8,R,Kirk,332
+Grafton,Ashland,State Representative,8,R,McLaughlin,362
+Grafton,Ashland,State Representative,8,D,Bolton,406
+Grafton,Ashland,State Representative,8,D,Fellows,435
+Grafton,Ashland,State Representative,8,D,Lovett,427
+Grafton,Ashland,State Representative,8,,Scatter,5
+Grafton,Holderness,State Representative,8,R,Hughes,463
+Grafton,Holderness,State Representative,8,R,Kirk,407
+Grafton,Holderness,State Representative,8,R,McLaughlin,422
+Grafton,Holderness,State Representative,8,D,Bolton,638
+Grafton,Holderness,State Representative,8,D,Fellows,676
+Grafton,Holderness,State Representative,8,D,Lovett,696
+Grafton,Holderness,State Representative,8,,Scatter,1
+Grafton,Plymouth,State Representative,8,R,Hughes,709
+Grafton,Plymouth,State Representative,8,R,Kirk,620
+Grafton,Plymouth,State Representative,8,R,McLaughlin,666
+Grafton,Plymouth,State Representative,8,D,Bolton,1377
+Grafton,Plymouth,State Representative,8,D,Fellows,1414
+Grafton,Plymouth,State Representative,8,D,Lovett,1345
+Grafton,Plymouth,State Representative,8,,Scatter,8
+Grafton,Canaan,State Representative,9,R,McFarlane,692
+Grafton,Canaan,State Representative,9,D,Morse,884
+Grafton,Canaan,State Representative,9,,Scatter,0
+Grafton,Dorchester,State Representative,9,R,McFarlane,99
+Grafton,Dorchester,State Representative,9,D,Morse,82
+Grafton,Dorchester,State Representative,9,,Scatter,0
+Grafton,Orange,State Representative,9,R,McFarlane,84
+Grafton,Orange,State Representative,9,D,Morse,64
+Grafton,Orange,State Representative,9,,Scatter,0
+Grafton,Bridgewater,State Representative,10,"JR., R",Brown,349
+Grafton,Bridgewater,State Representative,10,D,Largmann,259
+Grafton,Bridgewater,State Representative,10,,Scatter,0
+Grafton,Bristol,State Representative,10,"JR., R",Brown,906
+Grafton,Bristol,State Representative,10,D,Largmann,604
+Grafton,Bristol,State Representative,10,,Scatter,1
+Grafton,Alexandria,State Representative,11,R,Berezhny,483
+Grafton,Alexandria,State Representative,11,D,Mulholland,331
+Grafton,Alexandria,State Representative,11,,Scatter,2
+Grafton,Grafton,State Representative,11,R,Berezhny,349
+Grafton,Grafton,State Representative,11,D,Mulholland,254
+Grafton,Grafton,State Representative,11,,Scatter,0
+Grafton,Groton,State Representative,11,R,Berezhny,191
+Grafton,Groton,State Representative,11,D,Mulholland,114
+Grafton,Groton,State Representative,11,,Scatter,0
+Grafton,Hebron,State Representative,11,R,Berezhny,241
+Grafton,Hebron,State Representative,11,D,Mulholland,206
+Grafton,Hebron,State Representative,11,,Scatter,0
+Grafton,Hanover,State Representative,12,D,Muirhead,4527
+Grafton,Hanover,State Representative,12,D,Murphy,4500
+Grafton,Hanover,State Representative,12,D,Nordgren,4449
+Grafton,Hanover,State Representative,12,D,Hakken-Phillips,4464
+Grafton,Hanover,State Representative,12,,Scatter,109
+Grafton,Lyme,State Representative,12,D,Muirhead,859
+Grafton,Lyme,State Representative,12,D,Murphy,865
+Grafton,Lyme,State Representative,12,D,Nordgren,863
+Grafton,Lyme,State Representative,12,D,Hakken-Phillips,858
+Grafton,Lyme,State Representative,12,,Scatter,12
+Grafton,Lebanon Ward 1,State Representative,13,D,Stavis,1640
+Grafton,Lebanon Ward 1,State Representative,13,,Scatter,8
+Grafton,Lebanon Ward 2,State Representative,14,D,Sykes,1641
+Grafton,Lebanon Ward 2,State Representative,14,,Scatter,12
+Grafton,Lebanon Ward 3,State Representative,15,D,Cormen,1416
+Grafton,Lebanon Ward 3,State Representative,15,I,Mouzourakis,486
+Grafton,Lebanon Ward 3,State Representative,15,,Scatter,0
+Grafton,Enfield,State Representative,16F,D,Adjutant,1597
+Grafton,Enfield,State Representative,16F,,Scatter,0
+Grafton,Lebanon Ward 1,State Representative,17F,D,Almy,1646
+Grafton,Lebanon Ward 1,State Representative,17F,,Scatter,4
+Grafton,Lebanon Ward 2,State Representative,17F,D,Almy,1638
+Grafton,Lebanon Ward 2,State Representative,17F,,Scatter,9
+Grafton,Lebanon Ward 3,State Representative,17F,D,Almy,1701
+Grafton,Lebanon Ward 3,State Representative,17F,,Scatter,20
+Grafton,Alexandria,State Representative,18F,R,Sellers,506
+Grafton,Alexandria,State Representative,18F,D,Fluehr-Lobban,318
+Grafton,Alexandria,State Representative,18F,,Scatter,1
+Grafton,Bridgewater,State Representative,18F,R,Sellers,410
+Grafton,Bridgewater,State Representative,18F,D,Fluehr-Lobban,246
+Grafton,Bridgewater,State Representative,18F,,Scatter,0
+Grafton,Bristol,State Representative,18F,R,Sellers,804
+Grafton,Bristol,State Representative,18F,D,Fluehr-Lobban,703
+Grafton,Bristol,State Representative,18F,,Scatter,2
+Grafton,Canaan,State Representative,18F,R,Sellers,696
+Grafton,Canaan,State Representative,18F,D,Fluehr-Lobban,865
+Grafton,Canaan,State Representative,18F,,Scatter,0
+Grafton,Dorchester,State Representative,18F,R,Sellers,98
+Grafton,Dorchester,State Representative,18F,D,Fluehr-Lobban,81
+Grafton,Dorchester,State Representative,18F,,Scatter,0
+Grafton,Enfield,State Representative,18F,R,Sellers,825
+Grafton,Enfield,State Representative,18F,D,Fluehr-Lobban,1341
+Grafton,Enfield,State Representative,18F,,Scatter,0
+Grafton,Grafton,State Representative,18F,R,Sellers,358
+Grafton,Grafton,State Representative,18F,D,Fluehr-Lobban,247
+Grafton,Grafton,State Representative,18F,,Scatter,0
+Grafton,Groton,State Representative,18F,R,Sellers,197
+Grafton,Groton,State Representative,18F,D,Fluehr-Lobban,110
+Grafton,Groton,State Representative,18F,,Scatter,0
+Grafton,Hebron,State Representative,18F,R,Sellers,249
+Grafton,Hebron,State Representative,18F,D,Fluehr-Lobban,207
+Grafton,Hebron,State Representative,18F,,Scatter,0
+Grafton,Orange,State Representative,18F,R,Sellers,80
+Grafton,Orange,State Representative,18F,D,Fluehr-Lobban,70
+Grafton,Orange,State Representative,18F,,Scatter,0
+Hillsborough,Pelham,State Representative,1,R,Mannion,3610
+Hillsborough,Pelham,State Representative,1,R,Panek,3540
+Hillsborough,Pelham,State Representative,1,R,Tenczar,3533
+Hillsborough,Pelham,State Representative,1,R,Abare,4240
+Hillsborough,Pelham,State Representative,1,D,Dadak,2157
+Hillsborough,Pelham,State Representative,1,D,Hennessey,2339
+Hillsborough,Pelham,State Representative,1,D,Lynde,2294
+Hillsborough,Pelham,State Representative,1,D,Chapman,2171
+Hillsborough,Pelham,State Representative,1,,Scattrer,11
+Hillsborough,Bedford,State Representative,2,R,Schneller,5176
+Hillsborough,Bedford,State Representative,2,R,Albiston,5107
+Hillsborough,Bedford,State Representative,2,R,Gorski,5466
+Hillsborough,Bedford,State Representative,2,R,Gould,5607
+Hillsborough,Bedford,State Representative,2,R,Hynes,5227
+Hillsborough,Bedford,State Representative,2,R,Noble,5320
+Hillsborough,Bedford,State Representative,2,R,Sanborn,5602
+Hillsborough,Bedford,State Representative,2,D,Schmitt,4818
+Hillsborough,Bedford,State Representative,2,D,Fitzgerald,5107
+Hillsborough,Bedford,State Representative,2,D,Foxx,5223
+Hillsborough,Bedford,State Representative,2,D,Kerr,4946
+Hillsborough,Bedford,State Representative,2,D,LaMarche,5168
+Hillsborough,Bedford,State Representative,2,D,Potvin,4909
+Hillsborough,Bedford,State Representative,2,D,Rombeau,5397
+Hillsborough,Bedford,State Representative,2,,Scatter,34
+Hillsborough,Nashua Ward 4,State Representative,3,R,Baumeister,668
+Hillsborough,Nashua Ward 4,State Representative,3,D,Cote,894
+Hillsborough,Nashua Ward 4,State Representative,3,D,Davis,778
+Hillsborough,Nashua Ward 4,State Representative,3,D,Laughton,841
+Hillsborough,Nashua Ward 2,State Representative,4,R,MacLean,1559
+Hillsborough,Nashua Ward 2,State Representative,4,R,McCarthy,1694
+Hillsborough,Nashua Ward 2,State Representative,4,R,Smith,1621
+Hillsborough,Nashua Ward 2,State Representative,4,"R., D",Newman,2198
+Hillsborough,Nashua Ward 2,State Representative,4,"S., D",Newman,2284
+Hillsborough,Nashua Ward 2,State Representative,4,D,Ryan,2180
+Hillsborough,Nashua Ward 1,State Representative,5,R,Dyer,1926
+Hillsborough,Nashua Ward 1,State Representative,5,R,Ferreira,1964
+Hillsborough,Nashua Ward 1,State Representative,5,R,Lanzara,2111
+Hillsborough,Nashua Ward 1,State Representative,5,D,Devine,2367
+Hillsborough,Nashua Ward 1,State Representative,5,D,Elberger,2414
+Hillsborough,Nashua Ward 1,State Representative,5,D,Raymond,2375
+Hillsborough,Recount,State Representative,5,R,Dyer,1930
+Hillsborough,Recount,State Representative,5,R,Ferreira,1969
+Hillsborough,Recount,State Representative,5,R,Lanzara,2119
+Hillsborough,Recount,State Representative,5,D,Devine,2369
+Hillsborough,Recount,State Representative,5,D,Elberger,2424
+Hillsborough,Recount,State Representative,5,D,Raymond,2381
+Hillsborough,Nashua Ward 3,State Representative,6,R,Berube,1240
+Hillsborough,Nashua Ward 3,State Representative,6,R,Canaway,1257
+Hillsborough,Nashua Ward 3,State Representative,6,R,Schoneman,1188
+Hillsborough,Nashua Ward 3,State Representative,6,D,Dutzy,1731
+Hillsborough,Nashua Ward 3,State Representative,6,D,Spier,1708
+Hillsborough,Nashua Ward 3,State Representative,6,D,Vail,1725
+Hillsborough,Nashua Ward 7,State Representative,7,R,Hogan,1107
+Hillsborough,Nashua Ward 7,State Representative,7,R,Lewis,1119
+Hillsborough,Nashua Ward 7,State Representative,7,R,Moriarty,1098
+Hillsborough,Nashua Ward 7,State Representative,7,D,Gregg,1496
+Hillsborough,Nashua Ward 7,State Representative,7,D,Juris,1351
+Hillsborough,Nashua Ward 7,State Representative,7,D,Sofikitis,1368
+Hillsborough,Nashua Ward 6,State Representative,8,R,Decatur,1009
+Hillsborough,Nashua Ward 6,State Representative,8,R,Scully,1204
+Hillsborough,Nashua Ward 6,State Representative,8,R,Thibodeau,1103
+Hillsborough,Nashua Ward 6,State Representative,8,D,Booras,1409
+Hillsborough,Nashua Ward 6,State Representative,8,D,Lloyd,1411
+Hillsborough,Nashua Ward 6,State Representative,8,D,Nutter-Upham,1348
+Hillsborough,Nashua Ward 5,State Representative,9,R,Johnson,2148
+Hillsborough,Nashua Ward 5,State Representative,9,R,Lothrop,1901
+Hillsborough,Nashua Ward 5,State Representative,9,R,Schmidt,1984
+Hillsborough,Nashua Ward 5,State Representative,9,D,Dolan,2313
+Hillsborough,Nashua Ward 5,State Representative,9,D,Nutting-Wong,2433
+Hillsborough,Nashua Ward 5,State Representative,9,D,Pedersen,2287
+Hillsborough,Recount,State Representative,9,R,Johnson,2151
+Hillsborough,Recount,State Representative,9,R,Lothrop,1902
+Hillsborough,Recount,State Representative,9,R,Schmidt,1980
+Hillsborough,Recount,State Representative,9,D,Dolan,2314
+Hillsborough,Recount,State Representative,9,D,Nutting-Wong,2436
+Hillsborough,Recount,State Representative,9,D,Pedersen,2291
+Hillsborough,Nashua Ward 9,State Representative,10,R,Cawthron,1574
+Hillsborough,Nashua Ward 9,State Representative,10,R,Ohm,1805
+Hillsborough,Nashua Ward 9,State Representative,10,R,Thoman,1522
+Hillsborough,Nashua Ward 9,State Representative,10,D,Harriott-Gathright,2102
+Hillsborough,Nashua Ward 9,State Representative,10,D,Jack,2023
+Hillsborough,Nashua Ward 9,State Representative,10,"SR., D",O'Brien,2136
+Hillsborough,Recount,State Representative,10,R,Cawthron,1594
+Hillsborough,Recount,State Representative,10,R,Ohm,1828
+Hillsborough,Recount,State Representative,10,R,Thoman,1541
+Hillsborough,Recount,State Representative,10,D,Harriott-Gathright,2118
+Hillsborough,Recount,State Representative,10,D,Jack,2039
+Hillsborough,Recount,State Representative,10,"SR., D",O'Brien,2155
+Hillsborough,Nashua Ward 8,State Representative,11,R,Hart,1334
+Hillsborough,Nashua Ward 8,State Representative,11,R,Powell,1166
+Hillsborough,Nashua Ward 8,State Representative,11,R,Silva,1319
+Hillsborough,Nashua Ward 8,State Representative,11,D,Darby,1926
+Hillsborough,Nashua Ward 8,State Representative,11,D,Mangipudi,2011
+Hillsborough,Nashua Ward 8,State Representative,11,D,Telerski,2009
+Hillsborough,Merrimack,State Representative,12,R,Mooney,6037
+Hillsborough,Merrimack,State Representative,12,R,Notter,5860
+Hillsborough,Merrimack,State Representative,12,R,Blasek,5635
+Hillsborough,Merrimack,State Representative,12,R,Boyd,5839
+Hillsborough,Merrimack,State Representative,12,"BARB, R",Healey,5625
+Hillsborough,Merrimack,State Representative,12,"BOB, R",Healey,5710
+Hillsborough,Merrimack,State Representative,12,R,Mayville,5456
+Hillsborough,Merrimack,State Representative,12,R,McGough,5828
+Hillsborough,Merrimack,State Representative,12,D,Stack,5545
+Hillsborough,Merrimack,State Representative,12,D,Thomas,5843
+Hillsborough,Merrimack,State Representative,12,D,LaRue,5341
+Hillsborough,Merrimack,State Representative,12,D,Locke,5522
+Hillsborough,Merrimack,State Representative,12,D,Manning,5262
+Hillsborough,Merrimack,State Representative,12,D,Murphy,6131
+Hillsborough,Merrimack,State Representative,12,D,Plante,5258
+Hillsborough,Merrimack,State Representative,12,D,Rung,6245
+Hillsborough,Hudson,State Representative,13,R,Kennedy,5474
+Hillsborough,Hudson,State Representative,13,R,Kenny,5454
+Hillsborough,Hudson,State Representative,13,R,Prout,5161
+Hillsborough,Hudson,State Representative,13,R,Renzullo,5170
+Hillsborough,Hudson,State Representative,13,R,Ulery,5293
+Hillsborough,Hudson,State Representative,13,R,Wherry,4882
+Hillsborough,Hudson,State Representative,13,D,Katsos,4068
+Hillsborough,Hudson,State Representative,13,D,Knowles,4135
+Hillsborough,Hudson,State Representative,13,D,Urrutia,3894
+Hillsborough,Hudson,State Representative,13,D,Blue,4052
+Hillsborough,Hudson,State Representative,13,,Scatter,44
+Hillsborough,Litchfield,State Representative,14,R,Lascelles,2358
+Hillsborough,Litchfield,State Representative,14,R,Boehm,2090
+Hillsborough,Litchfield,State Representative,14,D,Stanieich-Burke,1702
+Hillsborough,Litchfield,State Representative,14,D,Bakshi,1370
+Hillsborough,Manchester Ward 8,State Representative,15,R,Proulx,2011
+Hillsborough,Manchester Ward 8,State Representative,15,R,McLean,1946
+Hillsborough,Manchester Ward 8,State Representative,15,D,Quiroga,1627
+Hillsborough,Manchester Ward 8,State Representative,15,D,Lemay,1678
+Hillsborough,Manchester Ward 8,State Representative,15,,Scatter,3
+Hillsborough,Manchester Ward 6,State Representative,16,R,Infantine,1895
+Hillsborough,Manchester Ward 6,State Representative,16,R,Gagne,1820
+Hillsborough,Manchester Ward 6,State Representative,16,D,Mosley,1797
+Hillsborough,Manchester Ward 6,State Representative,16,D,Hillhouse,1644
+Hillsborough,Manchester Ward 6,State Representative,16,,Scatter,4
+Hillsborough,Recount,State Representative,16,R,Infantine,1877
+Hillsborough,Recount,State Representative,16,R,Gagne,1798
+Hillsborough,Recount,State Representative,16,D,Mosley,1799
+Hillsborough,Recount,State Representative,16,D,Hillhouse,1643
+Hillsborough,Court ordered recount,State Representative,16,R,Infantine,1903
+Hillsborough,Court ordered recount,State Representative,16,R,Gagne,1824
+Hillsborough,Court ordered recount,State Representative,16,D,Mosley,1798
+Hillsborough,Court ordered recount,State Representative,16,D,Hillhouse,1643
+Hillsborough,Manchester Ward 2,State Representative,17,R,Davis,1243
+Hillsborough,Manchester Ward 2,State Representative,17,R,Chase,1397
+Hillsborough,Manchester Ward 2,State Representative,17,D,Preece,1940
+Hillsborough,Manchester Ward 2,State Representative,17,D,DiSilvestro,2053
+Hillsborough,Manchester Ward 2,State Representative,17,L,Sarwark,323
+Hillsborough,Manchester Ward 2,State Representative,17,,Scatter,2
+Hillsborough,Manchester Ward 12,State Representative,18,R,Whitlock,1295
+Hillsborough,Manchester Ward 12,State Representative,18,R,Marston,1458
+Hillsborough,Manchester Ward 12,State Representative,18,D,Smith,1665
+Hillsborough,Manchester Ward 12,State Representative,18,D,Grill,1719
+Hillsborough,Manchester Ward 12,State Representative,18,,Scatter,6
+Hillsborough,Manchester Ward 10,State Representative,19,"T., R",Garthwaite,1300
+Hillsborough,Manchester Ward 10,State Representative,19,"D., R",Garthwaite,1242
+Hillsborough,Manchester Ward 10,State Representative,19,D,Hamer,1471
+Hillsborough,Manchester Ward 10,State Representative,19,D,Beaulieu,1425
+Hillsborough,Manchester Ward 10,State Representative,19,,Scatter,10
+Hillsborough,Manchester Ward 9,State Representative,20,R,Kliskey,1150
+Hillsborough,Manchester Ward 9,State Representative,20,R,Dupont,1160
+Hillsborough,Manchester Ward 9,State Representative,20,D,Murray,1398
+Hillsborough,Manchester Ward 9,State Representative,20,D,Moulton,1376
+Hillsborough,Manchester Ward 9,State Representative,20,,Scatter,2
+Hillsborough,Manchester Ward 1,State Representative,21,"GUS, R",Fromuth,1676
+Hillsborough,Manchester Ward 1,State Representative,21,"A., R",Fromuth,1612
+Hillsborough,Manchester Ward 1,State Representative,21,D,Seibert,2459
+Hillsborough,Manchester Ward 1,State Representative,21,D,Goley,2527
+Hillsborough,Manchester Ward 1,State Representative,21,,Scatter,5
+Hillsborough,Manchester Ward 11,State Representative,22,R,Ping,897
+Hillsborough,Manchester Ward 11,State Representative,22,R,Gericke,966
+Hillsborough,Manchester Ward 11,State Representative,22,D,Leapley,1196
+Hillsborough,Manchester Ward 11,State Representative,22,D,Cornell,1225
+Hillsborough,Manchester Ward 3,State Representative,23,D,Long,1490
+Hillsborough,Manchester Ward 3,State Representative,23,D,Jeudy,1356
+Hillsborough,Manchester Ward 3,State Representative,23,,Scatter,19
+Hillsborough,Manchester Ward 4,State Representative,24,R,Mathieu,982
+Hillsborough,Manchester Ward 4,State Representative,24,R,Hagala,824
+Hillsborough,Manchester Ward 4,State Representative,24,D,Herbert,1290
+Hillsborough,Manchester Ward 4,State Representative,24,D,Bouchard,1229
+Hillsborough,Manchester Ward 4,State Representative,24,,Scatter,1
+Hillsborough,Manchester Ward 5,State Representative,25,R,Paquette,676
+Hillsborough,Manchester Ward 5,State Representative,25,R,Mattiello,581
+Hillsborough,Manchester Ward 5,State Representative,25,D,Staub,853
+Hillsborough,Manchester Ward 5,State Representative,25,D,Bouldin,899
+Hillsborough,Manchester Ward 5,State Representative,25,,Scatter,1
+Hillsborough,Manchester Ward 7,State Representative,26,R,Cole,1159
+Hillsborough,Manchester Ward 7,State Representative,26,D,Freitas,1408
+Hillsborough,Manchester Ward 7,State Representative,26,D,Forsing,1085
+Hillsborough,Manchester Ward 7,State Representative,26,,Scatter,5
+Hillsborough,Deering,State Representative,27,R,Reid,567
+Hillsborough,Deering,State Representative,27,D,Kane,343
+Hillsborough,Deering,State Representative,27,,Scatter,2
+Hillsborough,Francestown,State Representative,27,R,Reid,465
+Hillsborough,Francestown,State Representative,27,D,Kane,484
+Hillsborough,Weare,State Representative,28,R,Erf,2342
+Hillsborough,Weare,State Representative,28,R,Cushman,2297
+Hillsborough,Weare,State Representative,28,D,Politt,1553
+Hillsborough,Weare,State Representative,28,D,Erikson,1512
+Hillsborough,Goffstown,State Representative,29,R,Plett,3531
+Hillsborough,Goffstown,State Representative,29,R,Pounds,3435
+Hillsborough,Goffstown,State Representative,29,R,Seidel,3510
+Hillsborough,Goffstown,State Representative,29,R,Alexander,3589
+Hillsborough,Recount,State Representative,29,R,Plett,3536
+Hillsborough,Recount,State Representative,29,R,Pounds,3436
+Hillsborough,Recount,State Representative,29,R,Seidel,3515
+Hillsborough,Recount,State Representative,29,R,Alexander,3591
+Hillsborough,Goffstown,State Representative,29,D,Lanza,3443
+Hillsborough,Goffstown,State Representative,29,D,McCarthy,3357
+Hillsborough,Goffstown,State Representative,29,D,Renfrew-Hebert,3273
+Hillsborough,Goffstown,State Representative,29,D,DeVetter,3010
+Hillsborough,Goffstown,State Representative,29,,Scatter,9
+Hillsborough,Recount,State Representative,29,D,Lanza,3443
+Hillsborough,Recount,State Representative,29,D,McCarthy,3358
+Hillsborough,Recount,State Representative,29,D,Renfrew-Hebert,3275
+Hillsborough,Recount,State Representative,29,D,DeVetter,3009
+Hillsborough,Antrim,State Representative,30,R,Colcombe,582
+Hillsborough,Antrim,State Representative,30,R,Creighton,622
+Hillsborough,Antrim,State Representative,30,R,Fedolfi,517
+Hillsborough,Antrim,State Representative,30,D,Koutroubas,608
+Hillsborough,Antrim,State Representative,30,D,Manley,592
+Hillsborough,Antrim,State Representative,30,D,Wallenstein,550
+Hillsborough,Antrim,State Representative,30,,Scatter,1
+Hillsborough,Bennington,State Representative,30,R,Colcombe,324
+Hillsborough,Bennington,State Representative,30,R,Creighton,341
+Hillsborough,Bennington,State Representative,30,R,Fedolfi,274
+Hillsborough,Bennington,State Representative,30,D,Koutroubas,298
+Hillsborough,Bennington,State Representative,30,D,Manley,328
+Hillsborough,Bennington,State Representative,30,D,Wallenstein,283
+Hillsborough,Bennington,State Representative,30,,Scatter,1
+Hillsborough,Hillsborough,State Representative,30,R,Colcombe,1299
+Hillsborough,Hillsborough,State Representative,30,R,Creighton,1250
+Hillsborough,Hillsborough,State Representative,30,R,Fedolfi,1213
+Hillsborough,Hillsborough,State Representative,30,D,Koutroubas,1020
+Hillsborough,Hillsborough,State Representative,30,D,Manley,992
+Hillsborough,Hillsborough,State Representative,30,D,Wallenstein,955
+Hillsborough,Windsor,State Representative,30,R,Colcombe,63
+Hillsborough,Windsor,State Representative,30,R,Creighton,64
+Hillsborough,Windsor,State Representative,30,R,Fedolfi,60
+Hillsborough,Windsor,State Representative,30,D,Koutroubas,18
+Hillsborough,Windsor,State Representative,30,D,Manley,18
+Hillsborough,Windsor,State Representative,30,D,Wallenstein,21
+Hillsborough,Greenfield,State Representative,31,"IV, R",Adams,452
+Hillsborough,Greenfield,State Representative,31,D,Howard,372
+Hillsborough,Hancock,State Representative,31,"IV, R",Adams,400
+Hillsborough,Hancock,State Representative,31,D,Howard,721
+Hillsborough,New Ipswich,State Representative,32,R,Kelley,1567
+Hillsborough,New Ipswich,State Representative,32,R,Kofalt,1612
+Hillsborough,New Ipswich,State Representative,32,R,Sirois,1619
+Hillsborough,New Ipswich,State Representative,32,D,DeLoria,605
+Hillsborough,New Ipswich,State Representative,32,D,Swanson,588
+Hillsborough,New Ipswich,State Representative,32,D,Williams,573
+Hillsborough,New Ipswich,State Representative,32,I,Page,251
+Hillsborough,Temple,State Representative,32,R,Kelley,322
+Hillsborough,Temple,State Representative,32,R,Kofalt,325
+Hillsborough,Temple,State Representative,32,R,Sirois,303
+Hillsborough,Temple,State Representative,32,D,DeLoria,399
+Hillsborough,Temple,State Representative,32,D,Swanson,372
+Hillsborough,Temple,State Representative,32,D,Williams,367
+Hillsborough,Temple,State Representative,32,I,Page,61
+Hillsborough,Temple,State Representative,32,,Scatter,1
+Hillsborough,Wilton,State Representative,32,R,Kelley,805
+Hillsborough,Wilton,State Representative,32,R,Kofalt,822
+Hillsborough,Wilton,State Representative,32,R,Sirois,721
+Hillsborough,Wilton,State Representative,32,D,DeLoria,928
+Hillsborough,Wilton,State Representative,32,D,Swanson,909
+Hillsborough,Wilton,State Representative,32,D,Williams,958
+Hillsborough,Wilton,State Representative,32,I,Page,125
+Hillsborough,Wilton,State Representative,32,,Scatter,1
+Hillsborough,Peterborough,State Representative,33,R,Pilcher,918
+Hillsborough,Peterborough,State Representative,33,R,Maidment,955
+Hillsborough,Peterborough,State Representative,33,D,Wheeler,2422
+Hillsborough,Peterborough,State Representative,33,D,Leishman,2316
+Hillsborough,Peterborough,State Representative,33,,Scatter,2
+Hillsborough,Sharon,State Representative,33,R,Pilcher,102
+Hillsborough,Sharon,State Representative,33,R,Maidment,99
+Hillsborough,Sharon,State Representative,33,D,Wheeler,116
+Hillsborough,Sharon,State Representative,33,D,Leishman,117
+Hillsborough,Sharon,State Representative,33,,Scatter,1
+Hillsborough,Amherst,State Representative,34,R,Coughlin,2757
+Hillsborough,Amherst,State Representative,34,R,Hodgkins,2502
+Hillsborough,Amherst,State Representative,34,"JR., R",O'Mara,2831
+Hillsborough,Amherst,State Representative,34,D,LeClerc,3353
+Hillsborough,Amherst,State Representative,34,D,Morton,3550
+Hillsborough,Amherst,State Representative,34,D,Veilleux,3418
+Hillsborough,Amherst,State Representative,34,,Scatter,3
+Hillsborough,Hollis,State Representative,35,R,Homola,2127
+Hillsborough,Hollis,State Representative,35,R,Barbour,2206
+Hillsborough,Hollis,State Representative,35,D,Ming,2337
+Hillsborough,Hollis,State Representative,35,D,McGhee,2359
+Hillsborough,Hollis,State Representative,35,,Scatter,1
+Hillsborough,Recount,State Representative,35,R,Homola,2129
+Hillsborough,Recount,State Representative,35,R,Barbour,2208
+Hillsborough,Recount,State Representative,35,D,Ming,2337
+Hillsborough,Recount,State Representative,35,D,McGhee,2361
+Hillsborough,Brookline,State Representative,36,R,Pauer,1401
+Hillsborough,Brookline,State Representative,36,R,Lewicke,1335
+Hillsborough,Brookline,State Representative,36,D,Rater,1371
+Hillsborough,Brookline,State Representative,36,D,Denehy,1395
+Hillsborough,Brookline,State Representative,36,,Scatter,2
+Hillsborough,Greenville,State Representative,36,R,Pauer,395
+Hillsborough,Greenville,State Representative,36,R,Lewicke,356
+Hillsborough,Greenville,State Representative,36,D,Rater,267
+Hillsborough,Greenville,State Representative,36,D,Denehy,285
+Hillsborough,Mason,State Representative,36,R,Pauer,414
+Hillsborough,Mason,State Representative,36,R,Lewicke,450
+Hillsborough,Mason,State Representative,36,D,Rater,257
+Hillsborough,Mason,State Representative,36,D,Denehy,258
+Hillsborough,Amherst,State Representative,37F,R,Facques,2803
+Hillsborough,Amherst,State Representative,37F,D,Murray,3734
+Hillsborough,Amherst,State Representative,37F,,Scatter,9
+Hillsborough,Milford,State Representative,37F,R,Facques,3329
+Hillsborough,Milford,State Representative,37F,D,Murray,3428
+Hillsborough,Hudson,State Representative,38F,"T., R",Lekas,5485
+Hillsborough,Hudson,State Representative,38F,"A., R",Lekas,5377
+Hillsborough,Hudson,State Representative,38F,D,Wyatt,3875
+Hillsborough,Hudson,State Representative,38F,D,Koutroubas,4060
+Hillsborough,Hudson,State Representative,38F,,Scatter,51
+Hillsborough,Litchfield,State Representative,38F,"T., R",Lekas,2092
+Hillsborough,Litchfield,State Representative,38F,"A., R",Lekas,2093
+Hillsborough,Litchfield,State Representative,38F,D,Wyatt,1605
+Hillsborough,Litchfield,State Representative,38F,D,Koutroubas,1618
+Hillsborough,Litchfield,State Representative,38F,,Scatter,2
+Hillsborough,Manchester Ward 6,State Representative,39F,R,McConville,1757
+Hillsborough,Manchester Ward 6,State Representative,39F,R,Berry,1749
+Hillsborough,Manchester Ward 6,State Representative,39F,D,Query,1661
+Hillsborough,Manchester Ward 6,State Representative,39F,D,Baroody,1824
+Hillsborough,Manchester Ward 6,State Representative,39F,,Scatter,3
+Hillsborough,Manchester Ward 8,State Representative,39F,R,McConville,1867
+Hillsborough,Manchester Ward 8,State Representative,39F,R,Berry,1948
+Hillsborough,Manchester Ward 8,State Representative,39F,D,Query,1589
+Hillsborough,Manchester Ward 8,State Representative,39F,D,Baroody,1705
+Hillsborough,Manchester Ward 8,State Representative,39F,,Scatter,7
+Hillsborough,Manchester Ward 9,State Representative,39F,R,McConville,1105
+Hillsborough,Manchester Ward 9,State Representative,39F,R,Berry,1225
+Hillsborough,Manchester Ward 9,State Representative,39F,D,Query,1348
+Hillsborough,Manchester Ward 9,State Representative,39F,D,Baroody,1370
+Hillsborough,Manchester Ward 1,State Representative,40F,R,Fraser,1646
+Hillsborough,Manchester Ward 1,State Representative,40F,R,Gonzalez,1708
+Hillsborough,Manchester Ward 1,State Representative,40F,R,Yaakov,1454
+Hillsborough,Manchester Ward 1,State Representative,40F,R,Brasill,1540
+Hillsborough,Manchester Ward 3,State Representative,40F,R,Fraser,730
+Hillsborough,Manchester Ward 3,State Representative,40F,R,Gonzalez,720
+Hillsborough,Manchester Ward 3,State Representative,40F,R,Yaakov,611
+Hillsborough,Manchester Ward 3,State Representative,40F,R,Brasill,657
+Hillsborough,Manchester Ward 10,State Representative,40F,R,Fraser,1243
+Hillsborough,Manchester Ward 10,State Representative,40F,R,Gonzalez,1286
+Hillsborough,Manchester Ward 10,State Representative,40F,R,Yaakov,1068
+Hillsborough,Manchester Ward 10,State Representative,40F,R,Brasill,1183
+Hillsborough,Manchester Ward 11,State Representative,40F,R,Fraser,888
+Hillsborough,Manchester Ward 11,State Representative,40F,R,Gonzalez,951
+Hillsborough,Manchester Ward 11,State Representative,40F,R,Yaakov,774
+Hillsborough,Manchester Ward 11,State Representative,40F,R,Brasill,840
+Hillsborough,Manchester Ward 12,State Representative,40F,R,Fraser,1299
+Hillsborough,Manchester Ward 12,State Representative,40F,R,Gonzalez,1471
+Hillsborough,Manchester Ward 12,State Representative,40F,R,Yaakov,1166
+Hillsborough,Manchester Ward 12,State Representative,40F,R,Brasill,1255
+Hillsborough,Manchester Ward 1,State Representative,40F,D,Mackenzie,2371
+Hillsborough,Manchester Ward 1,State Representative,40F,D,Tellez,2221
+Hillsborough,Manchester Ward 1,State Representative,40F,D,Wilhelm,2262
+Hillsborough,Manchester Ward 1,State Representative,40F,D,Ford,2119
+Hillsborough,Manchester Ward 1,State Representative,40F,,Scatter,4
+Hillsborough,Manchester Ward 3,State Representative,40F,D,Mackenzie,1274
+Hillsborough,Manchester Ward 3,State Representative,40F,D,Tellez,1181
+Hillsborough,Manchester Ward 3,State Representative,40F,D,Wilhelm,1211
+Hillsborough,Manchester Ward 3,State Representative,40F,D,Ford,1173
+Hillsborough,Manchester Ward 3,State Representative,40F,,Scatter,2
+Hillsborough,Manchester Ward 10,State Representative,40F,D,Mackenzie,1436
+Hillsborough,Manchester Ward 10,State Representative,40F,D,Tellez,1242
+Hillsborough,Manchester Ward 10,State Representative,40F,D,Wilhelm,1274
+Hillsborough,Manchester Ward 10,State Representative,40F,D,Ford,1243
+Hillsborough,Manchester Ward 10,State Representative,40F,,Scatter,11
+Hillsborough,Manchester Ward 11,State Representative,40F,D,Mackenzie,1218
+Hillsborough,Manchester Ward 11,State Representative,40F,D,Tellez,1100
+Hillsborough,Manchester Ward 11,State Representative,40F,D,Wilhelm,1089
+Hillsborough,Manchester Ward 11,State Representative,40F,D,Ford,1064
+Hillsborough,Manchester Ward 11,State Representative,40F,,Scatter,1
+Hillsborough,Manchester Ward 12,State Representative,40F,D,Mackenzie,1685
+Hillsborough,Manchester Ward 12,State Representative,40F,D,Tellez,1542
+Hillsborough,Manchester Ward 12,State Representative,40F,D,Wilhelm,1574
+Hillsborough,Manchester Ward 12,State Representative,40F,D,Ford,1508
+Hillsborough,Manchester Ward 12,State Representative,40F,,Scatter,15
+Hillsborough,Manchester Ward 2,State Representative,41F,R,Lachance,1405
+Hillsborough,Manchester Ward 2,State Representative,41F,R,Levasseur,1464
+Hillsborough,Manchester Ward 2,State Representative,41F,R,Mathieu,1288
+Hillsborough,Manchester Ward 2,State Representative,41F,D,Bradley,2017
+Hillsborough,Manchester Ward 2,State Representative,41F,D,Chretien,1955
+Hillsborough,Manchester Ward 2,State Representative,41F,D,Heath,1964
+Hillsborough,Manchester Ward 2,State Representative,41F,,Scatter,8
+Hillsborough,Manchester Ward 4,State Representative,41F,R,Lachance,866
+Hillsborough,Manchester Ward 4,State Representative,41F,R,Levasseur,932
+Hillsborough,Manchester Ward 4,State Representative,41F,R,Mathieu,854
+Hillsborough,Manchester Ward 4,State Representative,41F,D,Bradley,1214
+Hillsborough,Manchester Ward 4,State Representative,41F,D,Chretien,1134
+Hillsborough,Manchester Ward 4,State Representative,41F,D,Heath,1169
+Hillsborough,Manchester Ward 4,State Representative,41F,,Scatter,6
+Hillsborough,Manchester Ward 5,State Representative,41F,R,Lachance,585
+Hillsborough,Manchester Ward 5,State Representative,41F,R,Levasseur,674
+Hillsborough,Manchester Ward 5,State Representative,41F,R,Mathieu,538
+Hillsborough,Manchester Ward 5,State Representative,41F,D,Bradley,850
+Hillsborough,Manchester Ward 5,State Representative,41F,D,Chretien,799
+Hillsborough,Manchester Ward 5,State Representative,41F,D,Heath,816
+Hillsborough,Manchester Ward 5,State Representative,41F,,Scatter,2
+Hillsborough,Manchester Ward 7,State Representative,41F,R,Lachance,905
+Hillsborough,Manchester Ward 7,State Representative,41F,R,Levasseur,1028
+Hillsborough,Manchester Ward 7,State Representative,41F,R,Mathieu,813
+Hillsborough,Manchester Ward 7,State Representative,41F,D,Bradley,1136
+Hillsborough,Manchester Ward 7,State Representative,41F,D,Chretien,1091
+Hillsborough,Manchester Ward 7,State Representative,41F,D,Heath,1230
+Hillsborough,Manchester Ward 7,State Representative,41F,,Scatter,3
+Hillsborough,Lyndeborough,State Representative,42,R,Ammon,443
+Hillsborough,Lyndeborough,State Representative,42,R,Griffin,425
+Hillsborough,Lyndeborough,State Representative,42,R,Post,503
+Hillsborough,Mont Vernon,State Representative,42,R,Ammon,671
+Hillsborough,Mont Vernon,State Representative,42,R,Griffin,673
+Hillsborough,Mont Vernon,State Representative,42,R,Post,653
+Hillsborough,Mont Vernon,State Representative,42,,Scatter,1
+Hillsborough,New Boston,State Representative,42,R,Ammon,1525
+Hillsborough,New Boston,State Representative,42,R,Griffin,1550
+Hillsborough,New Boston,State Representative,42,R,Post,1528
+Hillsborough,New Boston,State Representative,42,,Scatter,6
+Hillsborough,Lyndeborough,State Representative,42,D,Backus,410
+Hillsborough,Lyndeborough,State Representative,42,D,Paquette,409
+Hillsborough,Lyndeborough,State Representative,42,D,Roach,405
+Hillsborough,Mont Vernon,State Representative,42,D,Backus,725
+Hillsborough,Mont Vernon,State Representative,42,D,Paquette,734
+Hillsborough,Mont Vernon,State Representative,42,D,Roach,760
+Hillsborough,New Boston,State Representative,42,D,Backus,1457
+Hillsborough,New Boston,State Representative,42,D,Paquette,1447
+Hillsborough,New Boston,State Representative,42,D,Roach,1471
+Hillsborough,Milford,State Representative,43,R,King,3114
+Hillsborough,Milford,State Representative,43,R,Sheehan,3151
+Hillsborough,Milford,State Representative,43,R,Thornton,2929
+Hillsborough,Milford,State Representative,43,R,Broderick,2783
+Hillsborough,Milford,State Representative,43,D,Perez,3274
+Hillsborough,Milford,State Representative,43,D,Petrigno,3395
+Hillsborough,Milford,State Representative,43,D,Salmon,2895
+Hillsborough,Milford,State Representative,43,D,Lawrence,2999
+Hillsborough,Goffstown,State Representative,44,R,Mazur,3711
+Hillsborough,Goffstown,State Representative,44,R,Corcoran,3412
+Hillsborough,Goffstown,State Representative,44,D,Trumble,3300
+Hillsborough,Goffstown,State Representative,44,D,Johnson,3356
+Hillsborough,Goffstown,State Representative,44,,Scatter,1
+Hillsborough,Weare,State Representative,44,R,Mazur,2295
+Hillsborough,Weare,State Representative,44,R,Corcoran,2247
+Hillsborough,Weare,State Representative,44,D,Trumble,1554
+Hillsborough,Weare,State Representative,44,D,Johnson,1503
+Hillsborough,Brookline,State Representative,45F,R,Skorupan,1433
+Hillsborough,Brookline,State Representative,45F,D,Calabro,1417
+Hillsborough,Greenville,State Representative,45F,R,Skorupan,404
+Hillsborough,Greenville,State Representative,45F,D,Calabro,316
+Hillsborough,Hollis,State Representative,45F,R,Skorupan,2170
+Hillsborough,Hollis,State Representative,45F,D,Calabro,2456
+Hillsborough,Mason,State Representative,45F,R,Skorupan,459
+Hillsborough,Mason,State Representative,45F,D,Calabro,287
+Merrimack,Boscawen,State Representative,1,R,Devoid,729
+Merrimack,Boscawen,State Representative,1,D,Carey,752
+Merrimack,Boscawen,State Representative,1,,Scatter,4
+Merrimack,Recount,State Representative,1,R,Devoid,730
+Merrimack,Recount,State Representative,1,D,Carey,752
+Merrimack,Northfield,State Representative,2,R,Hill,1101
+Merrimack,Northfield,State Representative,2,D,Fulweiler,795
+Merrimack,Northfield,State Representative,2,,Scatter,0
+Merrimack,Franklin Ward 1,State Representative,3,R,Testerman,570
+Merrimack,Franklin Ward 1,State Representative,3,R,Mason,524
+Merrimack,Franklin Ward 1,State Representative,3,D,Kovacs,337
+Merrimack,Franklin Ward 1,State Representative,3,D,Burns,413
+Merrimack,Franklin Ward 1,State Representative,3,,Scatter,3
+Merrimack,Franklin Ward 2,State Representative,3,R,Testerman,392
+Merrimack,Franklin Ward 2,State Representative,3,R,Mason,333
+Merrimack,Franklin Ward 2,State Representative,3,D,Kovacs,244
+Merrimack,Franklin Ward 2,State Representative,3,D,Burns,318
+Merrimack,Franklin Ward 2,State Representative,3,,Scatter,3
+Merrimack,Franklin Ward 3,State Representative,3,R,Testerman,622
+Merrimack,Franklin Ward 3,State Representative,3,R,Mason,573
+Merrimack,Franklin Ward 3,State Representative,3,D,Kovacs,445
+Merrimack,Franklin Ward 3,State Representative,3,D,Burns,522
+Merrimack,Franklin Ward 3,State Representative,3,,Scatter,0
+Merrimack,Canterbury,State Representative,4,R,Moffett,585
+Merrimack,Canterbury,State Representative,4,R,Cambrils,498
+Merrimack,Canterbury,State Representative,4,D,Scarponi,834
+Merrimack,Canterbury,State Representative,4,D,Heath,839
+Merrimack,Canterbury,State Representative,4,,Scatter,0
+Merrimack,Loudon,State Representative,4,R,Moffett,1736
+Merrimack,Loudon,State Representative,4,R,Cambrils,1474
+Merrimack,Loudon,State Representative,4,D,Scarponi,1057
+Merrimack,Loudon,State Representative,4,D,Heath,1085
+Merrimack,Loudon,State Representative,4,,Scatter,1
+Merrimack,Andover,State Representative,5,R,Aylward,434
+Merrimack,Andover,State Representative,5,R,Andrus,531
+Merrimack,Andover,State Representative,5,D,Wells,614
+Merrimack,Andover,State Representative,5,D,Carlisle,581
+Merrimack,Danbury,State Representative,5,R,Aylward,265
+Merrimack,Danbury,State Representative,5,R,Andrus,296
+Merrimack,Danbury,State Representative,5,D,Wells,242
+Merrimack,Danbury,State Representative,5,D,Carlisle,209
+Merrimack,Hill,State Representative,5,R,Aylward,287
+Merrimack,Hill,State Representative,5,R,Andrus,279
+Merrimack,Hill,State Representative,5,D,Wells,169
+Merrimack,Hill,State Representative,5,D,Carlisle,149
+Merrimack,Salisbury,State Representative,5,R,Aylward,347
+Merrimack,Salisbury,State Representative,5,R,Andrus,419
+Merrimack,Salisbury,State Representative,5,D,Wells,297
+Merrimack,Salisbury,State Representative,5,D,Carlisle,295
+Merrimack,Webster,State Representative,5,R,Aylward,445
+Merrimack,Webster,State Representative,5,R,Andrus,464
+Merrimack,Webster,State Representative,5,D,Wells,419
+Merrimack,Webster,State Representative,5,D,Carlisle,425
+Merrimack,Sutton,State Representative,6,R,Stanton,498
+Merrimack,Sutton,State Representative,6,D,Schamberg,625
+Merrimack,Sutton,State Representative,6,,Scatter,2
+Merrimack,Wilmot,State Representative,6,R,Stanton,297
+Merrimack,Wilmot,State Representative,6,D,Schamberg,512
+Merrimack,Wilmot,State Representative,6,,Scatter,2
+Merrimack,New London,State Representative,7,R,Wolf,1196
+Merrimack,New London,State Representative,7,R,Ketteler,781
+Merrimack,New London,State Representative,7,D,Sargent,1374
+Merrimack,New London,State Representative,7,D,Ebel,1673
+Merrimack,New London,State Representative,7,,Scatter,3
+Merrimack,Newbury,State Representative,7,R,Wolf,779
+Merrimack,Newbury,State Representative,7,R,Ketteler,563
+Merrimack,Newbury,State Representative,7,D,Sargent,527
+Merrimack,Newbury,State Representative,7,D,Ebel,619
+Merrimack,Newbury,State Representative,7,,Scatter,5
+Merrimack,Bradford,State Representative,8,R,Kennedy,418
+Merrimack,Bradford,State Representative,8,R,Kirsch,374
+Merrimack,Bradford,State Representative,8,R,Parker,362
+Merrimack,Bradford,State Representative,8,D,Caplan,436
+Merrimack,Bradford,State Representative,8,D,Gould,450
+Merrimack,Bradford,State Representative,8,D,Payeur,429
+Merrimack,Bradford,State Representative,8,,Scatter,1
+Merrimack,Henniker,State Representative,8,R,Kennedy,857
+Merrimack,Henniker,State Representative,8,R,Kirsch,733
+Merrimack,Henniker,State Representative,8,R,Parker,762
+Merrimack,Henniker,State Representative,8,D,Caplan,1111
+Merrimack,Henniker,State Representative,8,D,Gould,1149
+Merrimack,Henniker,State Representative,8,D,Payeur,1132
+Merrimack,Henniker,State Representative,8,,Scatter,3
+Merrimack,Warner,State Representative,8,R,Kennedy,669
+Merrimack,Warner,State Representative,8,R,Kirsch,566
+Merrimack,Warner,State Representative,8,R,Parker,559
+Merrimack,Warner,State Representative,8,D,Caplan,819
+Merrimack,Warner,State Representative,8,D,Gould,849
+Merrimack,Warner,State Representative,8,D,Payeur,804
+Merrimack,Warner,State Representative,8,,Scatter,1
+Merrimack,Bow,State Representative,9,R,Lins,1857
+Merrimack,Bow,State Representative,9,R,Martin,1760
+Merrimack,Bow,State Representative,9,R,Richardson,1703
+Merrimack,Bow,State Representative,9,R,Gildersleeve,1674
+Merrimack,Hopkinton,State Representative,9,R,Lins,1167
+Merrimack,Hopkinton,State Representative,9,R,Martin,1157
+Merrimack,Hopkinton,State Representative,9,R,Richardson,1210
+Merrimack,Hopkinton,State Representative,9,R,Gildersleeve,1158
+Merrimack,Bow,State Representative,9,D,Hall,2612
+Merrimack,Bow,State Representative,9,D,Luneau,2335
+Merrimack,Bow,State Representative,9,D,Myler,2283
+Merrimack,Bow,State Representative,9,D,Brennan,2464
+Merrimack,Bow,State Representative,9,,Scatter,1
+Merrimack,Hopkinton,State Representative,9,D,Hall,2035
+Merrimack,Hopkinton,State Representative,9,D,Luneau,2167
+Merrimack,Hopkinton,State Representative,9,D,Myler,2094
+Merrimack,Hopkinton,State Representative,9,D,Brennan,2062
+Merrimack,Dunbarton,State Representative,10,R,Leavitt,916
+Merrimack,Dunbarton,State Representative,10,R,Polozov,855
+Merrimack,Dunbarton,State Representative,10,R,Walsh,897
+Merrimack,Dunbarton,State Representative,10,R,Boyd,875
+Merrimack,Hooksett,State Representative,10,R,Leavitt,3351
+Merrimack,Hooksett,State Representative,10,R,Polozov,2976
+Merrimack,Hooksett,State Representative,10,R,Walsh,3374
+Merrimack,Hooksett,State Representative,10,R,Boyd,3086
+Merrimack,Dunbarton,State Representative,10,D,Martins,654
+Merrimack,Dunbarton,State Representative,10,D,Ray,613
+Merrimack,Dunbarton,State Representative,10,D,Tahoun,566
+Merrimack,Dunbarton,State Representative,10,D,Gurung,571
+Merrimack,Dunbarton,State Representative,10,,Scatter,0
+Merrimack,Hooksett,State Representative,10,D,Martins,2915
+Merrimack,Hooksett,State Representative,10,D,Ray,2607
+Merrimack,Hooksett,State Representative,10,D,Tahoun,2405
+Merrimack,Hooksett,State Representative,10,D,Gurung,2518
+Merrimack,Hooksett,State Representative,10,,Scatter,4
+Merrimack,Allenstown,State Representative,11,R,Pitaro,848
+Merrimack,Allenstown,State Representative,11,D,Turcotte,864
+Merrimack,Allenstown,State Representative,11,,Scatter,0
+Merrimack,Recount,State Representative,11,R,Pitaro,848
+Merrimack,Recount,State Representative,11,D,Turcotte,864
+Merrimack,Pembroke,State Representative,12,R,White,1372
+Merrimack,Pembroke,State Representative,12,R,Seaworth,1543
+Merrimack,Pembroke,State Representative,12,D,Schuett,1677
+Merrimack,Pembroke,State Representative,12,D,Regan,1498
+Merrimack,Pembroke,State Representative,12,,Scatter,5
+Merrimack,Recount,State Representative,12,R,White,1376
+Merrimack,Recount,State Representative,12,R,Seaworth,1549
+Merrimack,Recount,State Representative,12,D,Schuett,1684
+Merrimack,Recount,State Representative,12,D,Regan,1502
+Merrimack,Chichester,State Representative,13,R,Wood,753
+Merrimack,Chichester,State Representative,13,R,Aures,674
+Merrimack,Chichester,State Representative,13,D,Schroth,407
+Merrimack,Chichester,State Representative,13,D,Kelly,600
+Merrimack,Chichester,State Representative,13,,Allard w-in,113
+Merrimack,Chichester,State Representative,13,,Scatter,0
+Merrimack,Pittsfield,State Representative,13,R,Wood,829
+Merrimack,Pittsfield,State Representative,13,R,Aures,717
+Merrimack,Pittsfield,State Representative,13,D,Schroth,535
+Merrimack,Pittsfield,State Representative,13,D,Kelly,639
+Merrimack,Pittsfield,State Representative,13,,Allard w-in,163
+Merrimack,Pittsfield,State Representative,13,,Scatter,8
+Merrimack,Epsom,State Representative,14,R,McGuire,1368
+Merrimack,Epsom,State Representative,14,D,Rousseau,908
+Merrimack,Epsom,State Representative,14,,Scatter,0
+Merrimack,Concord Ward 1,State Representative,15,D,Shurtleff,1293
+Merrimack,Concord Ward 1,State Representative,15,,Scatter,19
+Merrimack,Concord Ward 2,State Representative,16,D,Lane,1100
+Merrimack,Concord Ward 2,State Representative,16,,Scatter,8
+Merrimack,Concord Ward 3,State Representative,17,D,Richards,713
+Merrimack,Concord Ward 3,State Representative,17,,Scatter,18
+Merrimack,Concord Ward 4,State Representative,18,R,Jackson,498
+Merrimack,Concord Ward 4,State Representative,18,D,MacKay,1308
+Merrimack,Concord Ward 4,State Representative,18,,Scatter,1
+Merrimack,Concord Ward 5,State Representative,19,R,Myers,593
+Merrimack,Concord Ward 5,State Representative,19,D,Wallner,1784
+Merrimack,Concord Ward 5,State Representative,19,,Scatter,0
+Merrimack,Concord Ward 6,State Representative,20,D,Gallager,1085
+Merrimack,Concord Ward 6,State Representative,20,,Scatter,13
+Merrimack,Concord Ward 7,State Representative,21,R,Bertrand,674
+Merrimack,Concord Ward 7,State Representative,21,"T., D",Soucy,1631
+Merrimack,Concord Ward 7,State Representative,21,,Scatter,3
+Merrimack,Concord Ward 8,State Representative,22,"D., R",Soucy,765
+Merrimack,Concord Ward 8,State Representative,22,D,Roesener,954
+Merrimack,Concord Ward 8,State Representative,22,,Scatter,1
+Merrimack,Concord Ward 9,State Representative,23,R,Georgevits,625
+Merrimack,Concord Ward 9,State Representative,23,D,Gibbs,911
+Merrimack,Concord Ward 9,State Representative,23,,Scatter,1
+Merrimack,Concord Ward 10,State Representative,24,R,Cate,871
+Merrimack,Concord Ward 10,State Representative,24,D,Hicks,1545
+Merrimack,Concord Ward 10,State Representative,24,,Scatter,2
+Merrimack,Franklin Ward 1,State Representative,25F,R,Gerhard,601
+Merrimack,Franklin Ward 1,State Representative,25F,D,Wheeler,447
+Merrimack,Franklin Ward 1,State Representative,25F,,Scatter,2
+Merrimack,Franklin Ward 2,State Representative,25F,R,Gerhard,409
+Merrimack,Franklin Ward 2,State Representative,25F,D,Wheeler,321
+Merrimack,Franklin Ward 2,State Representative,25F,,Scatter,2
+Merrimack,Franklin Ward 3,State Representative,25F,R,Gerhard,663
+Merrimack,Franklin Ward 3,State Representative,25F,D,Wheeler,572
+Merrimack,Franklin Ward 3,State Representative,25F,,Scatter,1
+Merrimack,Northfield,State Representative,25F,R,Gerhard,1038
+Merrimack,Northfield,State Representative,25F,D,Wheeler,830
+Merrimack,Northfield,State Representative,25F,,Scatter,6
+Merrimack,Andover,State Representative,26F,R,See,551
+Merrimack,Andover,State Representative,26F,D,Nesbitt,628
+Merrimack,Andover,State Representative,26F,,Scatter,0
+Merrimack,Boscawen,State Representative,26F,R,See,736
+Merrimack,Boscawen,State Representative,26F,D,Nesbitt,711
+Merrimack,Boscawen,State Representative,26F,,Scatter,3
+Merrimack,Canterbury,State Representative,26F,R,See,562
+Merrimack,Canterbury,State Representative,26F,D,Nesbitt,851
+Merrimack,Canterbury,State Representative,26F,,Scatter,1
+Merrimack,Danbury,State Representative,26F,R,See,348
+Merrimack,Danbury,State Representative,26F,D,Nesbitt,226
+Merrimack,Danbury,State Representative,26F,,Scatter,0
+Merrimack,Hill,State Representative,26F,R,See,324
+Merrimack,Hill,State Representative,26F,D,Nesbitt,174
+Merrimack,Hill,State Representative,26F,,Scatter,0
+Merrimack,Loudon,State Representative,26F,R,See,1715
+Merrimack,Loudon,State Representative,26F,D,Nesbitt,1135
+Merrimack,Loudon,State Representative,26F,,Scatter,1
+Merrimack,Salisbury,State Representative,26F,R,See,421
+Merrimack,Salisbury,State Representative,26F,D,Nesbitt,323
+Merrimack,Salisbury,State Representative,26F,,Scatter,0
+Merrimack,Webster,State Representative,26F,R,See,485
+Merrimack,Webster,State Representative,26F,D,Nesbitt,478
+Merrimack,Webster,State Representative,26F,,Scatter,0
+Merrimack,Allenstown,State Representative,27F,R,McGuire,960
+Merrimack,Allenstown,State Representative,27F,R,Hoell,724
+Merrimack,Allenstown,State Representative,27F,D,Frambach,696
+Merrimack,Allenstown,State Representative,27F,D,Davis,605
+Merrimack,Allenstown,State Representative,27F,,Scatter,1
+Merrimack,Dunbarton,State Representative,27F,R,McGuire,919
+Merrimack,Dunbarton,State Representative,27F,R,Hoell,845
+Merrimack,Dunbarton,State Representative,27F,D,Frambach,660
+Merrimack,Dunbarton,State Representative,27F,D,Davis,585
+Merrimack,Dunbarton,State Representative,27F,,Scatter,3
+Merrimack,Epsom,State Representative,27F,R,McGuire,1354
+Merrimack,Epsom,State Representative,27F,R,Hoell,1075
+Merrimack,Epsom,State Representative,27F,D,Frambach,901
+Merrimack,Epsom,State Representative,27F,D,Davis,702
+Merrimack,Epsom,State Representative,27F,,Scatter,1
+Merrimack,Hooksett,State Representative,27F,R,McGuire,3513
+Merrimack,Hooksett,State Representative,27F,R,Hoell,2930
+Merrimack,Hooksett,State Representative,27F,D,Frambach,2786
+Merrimack,Hooksett,State Representative,27F,D,Davis,2563
+Merrimack,Concord Ward 1,State Representative,28F,R,Moore,714
+Merrimack,Concord Ward 1,State Representative,28F,D,Ellison,1060
+Merrimack,Concord Ward 1,State Representative,28F,,Scatter,7
+Merrimack,Concord Ward 2,State Representative,28F,R,Moore,620
+Merrimack,Concord Ward 2,State Representative,28F,D,Ellison,982
+Merrimack,Concord Ward 2,State Representative,28F,,Scatter,2
+Merrimack,Concord Ward 3,State Representative,28F,R,Moore,371
+Merrimack,Concord Ward 3,State Representative,28F,D,Ellison,619
+Merrimack,Concord Ward 3,State Representative,28F,,Scatter,0
+Merrimack,Concord Ward 4,State Representative,29F,R,Georgevits,527
+Merrimack,Concord Ward 4,State Representative,29F,D,Schultz,1269
+Merrimack,Concord Ward 4,State Representative,29F,,Scatter,1
+Merrimack,Concord Ward 9,State Representative,29F,R,Georgevits,590
+Merrimack,Concord Ward 9,State Representative,29F,D,Schultz,932
+Merrimack,Concord Ward 9,State Representative,29F,,Scatter,0
+Merrimack,Concord Ward 10,State Representative,29F,R,Georgevits,1059
+Merrimack,Concord Ward 10,State Representative,29F,D,Schultz,1361
+Merrimack,Concord Ward 10,State Representative,29F,,Scatter,0
+Merrimack,Concord Ward 5,State Representative,30F,R,Wood,598
+Merrimack,Concord Ward 5,State Representative,30F,D,McWilliams,1724
+Merrimack,Concord Ward 5,State Representative,30F,,Scatter,0
+Merrimack,Concord Ward 6,State Representative,30F,R,Wood,451
+Merrimack,Concord Ward 6,State Representative,30F,D,McWilliams,1003
+Merrimack,Concord Ward 6,State Representative,30F,,Scatter,0
+Merrimack,Concord Ward 7,State Representative,30F,R,Wood,701
+Merrimack,Concord Ward 7,State Representative,30F,D,McWilliams,1585
+Merrimack,Concord Ward 7,State Representative,30F,,Scatter,1
+Merrimack,Concord Ward 8,State Representative,30F,R,Wood,701
+Merrimack,Concord Ward 8,State Representative,30F,D,McWilliams,996
+Merrimack,Concord Ward 8,State Representative,30F,,Scatter,1
+Rockingham,Northwood,State Representative,1,D,McGuigan,1005
+Rockingham,Northwood,State Representative,1,D,Rafter,889
+Rockingham,Northwood,State Representative,1,D,Tappan,894
+Rockingham,Nottingham,State Representative,1,D,McGuigan,1317
+Rockingham,Nottingham,State Representative,1,D,Rafter,1419
+Rockingham,Nottingham,State Representative,1,D,Tappan,1324
+Rockingham,Auburn,State Representative,2,R,Osborne,1810
+Rockingham,Auburn,State Representative,2,R,Spillane,1659
+Rockingham,Auburn,State Representative,2,R,Verville,1624
+Rockingham,Auburn,State Representative,2,D,Messier,1130
+Rockingham,Auburn,State Representative,2,D,Power,1026
+Rockingham,Auburn,State Representative,2,D,Wood,1138
+Rockingham,Auburn,State Representative,2,,Scatter,5
+Rockingham,Candia,State Representative,2,R,Osborne,1309
+Rockingham,Candia,State Representative,2,R,Spillane,1295
+Rockingham,Candia,State Representative,2,R,Verville,1283
+Rockingham,Candia,State Representative,2,D,Messier,772
+Rockingham,Candia,State Representative,2,D,Power,688
+Rockingham,Candia,State Representative,2,D,Wood,734
+Rockingham,Deerfield,State Representative,2,R,Osborne,1306
+Rockingham,Deerfield,State Representative,2,R,Spillane,1239
+Rockingham,Deerfield,State Representative,2,R,Verville,1344
+Rockingham,Deerfield,State Representative,2,D,Messier,1162
+Rockingham,Deerfield,State Representative,2,D,Power,1018
+Rockingham,Deerfield,State Representative,2,D,Wood,1052
+Rockingham,Chester,State Representative,3,R,Ford,1591
+Rockingham,Chester,State Representative,3,D,Van Zandt,1097
+Rockingham,Chester,State Representative,3,,Scatter,1
+Rockingham,Raymond,State Representative,4,R,Cahill,2508
+Rockingham,Raymond,State Representative,4,R,Drago,2353
+Rockingham,Raymond,State Representative,4,R,Pratt,2748
+Rockingham,Raymond,State Representative,4,D,Couture,1593
+Rockingham,Raymond,State Representative,4,D,DiTommaso,1513
+Rockingham,Raymond,State Representative,4,D,Garnham,1423
+Rockingham,Epping,State Representative,5,R,Vose,1896
+Rockingham,Epping,State Representative,5,R,Belanger,1685
+Rockingham,Epping,State Representative,5,D,Vallone,1692
+Rockingham,Epping,State Representative,5,D,Perry,1281
+Rockingham,Recount,State Representative,5,R,Vose,1894
+Rockingham,Recount,State Representative,5,R,Belanger,1685
+Rockingham,Recount,State Representative,5,D,Vallone,1690
+Rockingham,Recount,State Representative,5,D,Perry,1280
+Rockingham,Brentwood,State Representative,6,R,Litchfield,1198
+Rockingham,Brentwood,State Representative,6,D,Turer,1214
+Rockingham,Fremont,State Representative,7,R,Phillips,1416
+Rockingham,Fremont,State Representative,7,D,Douglas,914
+Rockingham,Fremont,State Representative,7,,Scatter,7
+Rockingham,Danville,State Representative,8,R,Wallace,1348
+Rockingham,Danville,State Representative,8,D,West,744
+Rockingham,Sandown,State Representative,9,R,True,1831
+Rockingham,Sandown,State Representative,9,R,Piemonte,1666
+Rockingham,Sandown,State Representative,9,D,Sharpe,1103
+Rockingham,Sandown,State Representative,9,D,Cronyn,992
+Rockingham,Sandown,State Representative,9,,Scatter,2
+Rockingham,Newfields,State Representative,10,R,Chamberland,373
+Rockingham,Newfields,State Representative,10,R,Cooper,464
+Rockingham,Newfields,State Representative,10,R,Sank,346
+Rockingham,Newfields,State Representative,10,D,Cahill,542
+Rockingham,Newfields,State Representative,10,D,DiLorenzo,528
+Rockingham,Newfields,State Representative,10,D,Read,528
+Rockingham,Newfields,State Representative,10,,Scatter,4
+Rockingham,Newmarket,State Representative,10,R,Chamberland,1284
+Rockingham,Newmarket,State Representative,10,R,Cooper,1577
+Rockingham,Newmarket,State Representative,10,R,Sank,1180
+Rockingham,Newmarket,State Representative,10,D,Cahill,2907
+Rockingham,Newmarket,State Representative,10,D,DiLorenzo,2760
+Rockingham,Newmarket,State Representative,10,D,Read,2771
+Rockingham,Newmarket,State Representative,10,,Scatter,11
+Rockingham,Exeter,State Representative,11,R,Griset,2563
+Rockingham,Exeter,State Representative,11,R,Smith,2513
+Rockingham,Exeter,State Representative,11,R,Tyner,2581
+Rockingham,Exeter,State Representative,11,R,Duncan,2476
+Rockingham,Exeter,State Representative,11,D,Grossman,5255
+Rockingham,Exeter,State Representative,11,D,Haskins,5088
+Rockingham,Exeter,State Representative,11,D,Paige,5091
+Rockingham,Exeter,State Representative,11,D,Gilman,5170
+Rockingham,Stratham,State Representative,12,R,Ward,1748
+Rockingham,Stratham,State Representative,12,R,Abrami,2100
+Rockingham,Stratham,State Representative,12,D,Manos,2425
+Rockingham,Stratham,State Representative,12,D,Knab,2503
+Rockingham,Stratham,State Representative,12,,Scatter,2
+Rockingham,Derry,State Representative,13,R,Nelson,5950
+Rockingham,Derry,State Representative,13,R,O'Brien,5586
+Rockingham,Derry,State Representative,13,R,Pearson,5477
+Rockingham,Derry,State Representative,13,R,Potucek,5530
+Rockingham,Derry,State Representative,13,R,Tripp,5537
+Rockingham,Derry,State Representative,13,R,Foote,5592
+Rockingham,Derry,State Representative,13,R,Katsakiores,5626
+Rockingham,Derry,State Representative,13,R,Layon,5364
+Rockingham,Derry,State Representative,13,R,Love,5682
+Rockingham,Derry,State Representative,13,R,Milz,5340
+Rockingham,Derry,State Representative,13,D,Gaskill,4652
+Rockingham,Derry,State Representative,13,D,Greenberg,4868
+Rockingham,Derry,State Representative,13,D,Moge,4614
+Rockingham,Derry,State Representative,13,D,Mogill,4255
+Rockingham,Derry,State Representative,13,D,West,4614
+Rockingham,Derry,State Representative,13,D,Cunningham,4771
+Rockingham,Derry,State Representative,13,D,Dattner-Levy,4503
+Rockingham,Derry,State Representative,13,D,Doolittle,4497
+Rockingham,Derry,State Representative,13,D,Evdokimov,4076
+Rockingham,Derry,State Representative,13,D,Gallo,4851
+Rockingham,East Kingston,State Representative,14,R,Weyler,684
+Rockingham,East Kingston,State Representative,14,R,Hobson,747
+Rockingham,East Kingston,State Representative,14,D,Tidd,531
+Rockingham,East Kingston,State Representative,14,D,Casey,561
+Rockingham,East Kingston,State Representative,14,,Scatter,1
+Rockingham,Kingston,State Representative,14,R,Weyler,1740
+Rockingham,Kingston,State Representative,14,R,Hobson,1652
+Rockingham,Kingston,State Representative,14,D,Tidd,1249
+Rockingham,Kingston,State Representative,14,D,Casey,1103
+Rockingham,Kingston,State Representative,14,,Scatter,2
+Rockingham,Hampstead,State Representative,15,R,Walsh,2422
+Rockingham,Hampstead,State Representative,15,R,Guthrie,2604
+Rockingham,Hampstead,State Representative,15,D,Warnock,1797
+Rockingham,Hampstead,State Representative,15,D,DeMio,1546
+Rockingham,Hampstead,State Representative,15,,Scatter,2
+Rockingham,Londonderry,State Representative,16,R,Thomas,5593
+Rockingham,Londonderry,State Representative,16,R,Dolan,6056
+Rockingham,Londonderry,State Representative,16,R,Dunn,5544
+Rockingham,Londonderry,State Representative,16,R,Lundgren,6083
+Rockingham,Londonderry,State Representative,16,R,MacDonald,5436
+Rockingham,Londonderry,State Representative,16,R,Packard,5700
+Rockingham,Londonderry,State Representative,16,R,Perez,5699
+Rockingham,Windham,State Representative,17,R,Lynn,3700
+Rockingham,Windham,State Representative,17,R,McMahon,3882
+Rockingham,Windham,State Representative,17,R,Popovici-Muller,3591
+Rockingham,Windham,State Representative,17,R,Kuttab,3654
+Rockingham,Windham,State Representative,17,D,Singureanu,1811
+Rockingham,Windham,State Representative,17,D,St. Laurent,3198
+Rockingham,Windham,State Representative,17,D,Yanish,1881
+Rockingham,Windham,State Representative,17,D,Roman,2492
+Rockingham,Windham,State Representative,17,I,Carpenter,1563
+Rockingham,Windham,State Representative,17,I,Rounds,1098
+Rockingham,Windham,State Representative,17,,Scatter,52
+Rockingham,Atkinson,State Representative,18,R,Quaratiello,2157
+Rockingham,Atkinson,State Representative,18,R,DeSimone,2310
+Rockingham,Atkinson,State Representative,18,D,Duerr,1443
+Rockingham,Atkinson,State Representative,18,D,Delfino,1620
+Rockingham,Atkinson,State Representative,18,,Scatter,6
+Rockingham,Hampton Falls,State Representative,19,R,Porcelli,809
+Rockingham,Hampton Falls,State Representative,19,D,Pace,616
+Rockingham,Hampton Falls,State Representative,19,,Scatter,1
+Rockingham,Kensington,State Representative,19,R,Porcelli,604
+Rockingham,Kensington,State Representative,19,D,Pace,635
+Rockingham,Kensington,State Representative,19,,Scatter,1
+Rockingham,Newton,State Representative,20,R,Harb,1043
+Rockingham,Newton,State Representative,20,"SR., R",Melvin,1118
+Rockingham,Newton,State Representative,20,R,Summers,1042
+Rockingham,Newton,State Representative,20,D,Bartlett,797
+Rockingham,Newton,State Representative,20,D,Bishop,840
+Rockingham,Newton,State Representative,20,D,Duncan,737
+Rockingham,Newton,State Representative,20,,Scatter,1
+Rockingham,Plaistow,State Representative,20,R,Harb,1945
+Rockingham,Plaistow,State Representative,20,"SR., R",Melvin,1668
+Rockingham,Plaistow,State Representative,20,R,Summers,1582
+Rockingham,Plaistow,State Representative,20,D,Bartlett,1147
+Rockingham,Plaistow,State Representative,20,D,Bishop,1268
+Rockingham,Plaistow,State Representative,20,D,Duncan,1060
+Rockingham,Plaistow,State Representative,20,,Scatter,7
+Rockingham,South Hampton,State Representative,20,R,Harb,229
+Rockingham,South Hampton,State Representative,20,"SR., R",Melvin,246
+Rockingham,South Hampton,State Representative,20,R,Summers,226
+Rockingham,South Hampton,State Representative,20,D,Bartlett,204
+Rockingham,South Hampton,State Representative,20,D,Bishop,214
+Rockingham,South Hampton,State Representative,20,D,Duncan,199
+Rockingham,Newington,State Representative,21,D,Vogt,257
+Rockingham,Newington,State Representative,21,,Scatter,1
+Rockingham,Portsmouth Ward 1,State Representative,21,D,Vogt,1723
+Rockingham,Portsmouth Ward 1,State Representative,21,,Scatter,10
+Rockingham,New Castle,State Representative,22,D,Murray,513
+Rockingham,New Castle,State Representative,22,,Scatter,7
+Rockingham,Portsmouth Ward 5,State Representative,22,D,Murray,1820
+Rockingham,Portsmouth Ward 5,State Representative,22,,Scatter,22
+Rockingham,North Hampton,State Representative,23,R,Schultz,1218
+Rockingham,North Hampton,State Representative,23,D,Maggiore,1587
+Rockingham,North Hampton,State Representative,23,,Scatter,5
+Rockingham,Greenland,State Representative,24,R,Page,1002
+Rockingham,Greenland,State Representative,24,R,Jones,922
+Rockingham,Greenland,State Representative,24,D,Malloy,1316
+Rockingham,Greenland,State Representative,24,D,Grote,1153
+Rockingham,Greenland,State Representative,24,,Scatter,1
+Rockingham,Rye,State Representative,24,R,Page,1539
+Rockingham,Rye,State Representative,24,R,Jones,1418
+Rockingham,Rye,State Representative,24,D,Malloy,1927
+Rockingham,Rye,State Representative,24,D,Grote,2016
+Rockingham,Rye,State Representative,24,,Scatter,2
+Rockingham,Salem,State Representative,25,R,Donnelly,6668
+Rockingham,Salem,State Representative,25,R,Doucette,6900
+Rockingham,Salem,State Representative,25,R,Janigian,6679
+Rockingham,Salem,State Representative,25,R,Mannion,6032
+Rockingham,Salem,State Representative,25,R,McDonnell,6347
+Rockingham,Salem,State Representative,25,R,Sweeney,6718
+Rockingham,Salem,State Representative,25,R,Sytek,6634
+Rockingham,Salem,State Representative,25,R,Vandecasteele,6307
+Rockingham,Salem,State Representative,25,R,Ball,7105
+Rockingham,Salem,State Representative,25,D,Dillingham,4300
+Rockingham,Salem,State Representative,25,D,Disenhof,3577
+Rockingham,Salem,State Representative,25,D,Garon,3907
+Rockingham,Salem,State Representative,25,D,Karibian,4262
+Rockingham,Salem,State Representative,25,D,Loranger,4326
+Rockingham,Salem,State Representative,25,D,Misra,4101
+Rockingham,Salem,State Representative,25,D,Thibault,4090
+Rockingham,Salem,State Representative,25,D,Wright,4743
+Rockingham,Salem,State Representative,25,D,Davis,3819
+Rockingham,Portsmouth Ward 3,State Representative,26,D,Hamblet,1387
+Rockingham,Portsmouth Ward 3,State Representative,26,SGI,Forte,505
+Rockingham,Portsmouth Ward 4,State Representative,27,R,Forbes,720
+Rockingham,Portsmouth Ward 4,State Representative,27,D,Ward,1230
+Rockingham,Portsmouth Ward 4,State Representative,27,,Scatter,4
+Rockingham,Portsmouth Ward 2,State Representative,28,D,McBeath,2112
+Rockingham,Portsmouth Ward 2,State Representative,28,,Scatter,12
+Rockingham,Hampton,State Representative,29,R,Jackson,3842
+Rockingham,Hampton,State Representative,29,R,Sheffert,3964
+Rockingham,Hampton,State Representative,29,R,Theriault,3881
+Rockingham,Hampton,State Representative,29,R,Emerick,4282
+Rockingham,Hampton,State Representative,29,D,Muns,4512
+Rockingham,Hampton,State Representative,29,D,O'Neil,4463
+Rockingham,Hampton,State Representative,29,D,Saunders,4220
+Rockingham,Hampton,State Representative,29,D,Edgar,4480
+Rockingham,Hampton,State Representative,29,,Scatter,21
+Rockingham,Seabrook,State Representative,30,R,Khan,2069
+Rockingham,Seabrook,State Representative,30,R,Harley,1822
+Rockingham,Seabrook,State Representative,30,D,Daly,1080
+Rockingham,Seabrook,State Representative,30,D,Albright,1165
+Rockingham,Seabrook,State Representative,30,,Scatter,9
+Rockingham,Auburn,State Representative,31F,R,Roy,1693
+Rockingham,Auburn,State Representative,31F,R,Edwards,1848
+Rockingham,Auburn,State Representative,31F,D,Thomas,1053
+Rockingham,Auburn,State Representative,31F,D,Lister,1090
+Rockingham,Auburn,State Representative,31F,,Scatter,1
+Rockingham,Candia,State Representative,31F,R,Roy,1355
+Rockingham,Candia,State Representative,31F,R,Edwards,1319
+Rockingham,Candia,State Representative,31F,D,Thomas,719
+Rockingham,Candia,State Representative,31F,D,Lister,743
+Rockingham,Candia,State Representative,31F,,Scatter,1
+Rockingham,Chester,State Representative,31F,R,Roy,1485
+Rockingham,Chester,State Representative,31F,R,Edwards,1553
+Rockingham,Chester,State Representative,31F,D,Thomas,953
+Rockingham,Chester,State Representative,31F,D,Lister,1022
+Rockingham,Chester,State Representative,31F,,Scatter,2
+Rockingham,Deerfield,State Representative,31F,R,Roy,1366
+Rockingham,Deerfield,State Representative,31F,R,Edwards,1367
+Rockingham,Deerfield,State Representative,31F,D,Thomas,1034
+Rockingham,Deerfield,State Representative,31F,D,Lister,1029
+Rockingham,Brentwood,State Representative,32F,R,Yokela,1069
+Rockingham,Brentwood,State Representative,32F,I,Kelly,1177
+Rockingham,Brentwood,State Representative,32F,,Scatter,2
+Rockingham,Danville,State Representative,32F,R,Yokela,1159
+Rockingham,Danville,State Representative,32F,I,Kelly,844
+Rockingham,Fremont,State Representative,32F,R,Yokela,1245
+Rockingham,Fremont,State Representative,32F,I,Kelly,1002
+Rockingham,Fremont,State Representative,32F,,Scatter,3
+Rockingham,Exeter,State Representative,33F,R,Sacco,2790
+Rockingham,Exeter,State Representative,33F,D,Simpson,5383
+Rockingham,Newfields,State Representative,33F,R,Sacco,456
+Rockingham,Newfields,State Representative,33F,D,Simpson,582
+Rockingham,Newfields,State Representative,33F,,Scatter,1
+Rockingham,Newmarket,State Representative,33F,R,Sacco,1573
+Rockingham,Newmarket,State Representative,33F,D,Simpson,2991
+Rockingham,Newmarket,State Representative,33F,,Scatter,3
+Rockingham,Stratham,State Representative,33F,R,Sacco,1896
+Rockingham,Stratham,State Representative,33F,D,Simpson,2598
+Rockingham,Stratham,State Representative,33F,,Scatter,4
+Rockingham,East Kingston,State Representative,34F,R,Pearson,774
+Rockingham,East Kingston,State Representative,34F,D,Tilton,594
+Rockingham,East Kingston,State Representative,34F,,Scatter,1
+Rockingham,Hampstead,State Representative,34F,R,Pearson,2839
+Rockingham,Hampstead,State Representative,34F,D,Tilton,1678
+Rockingham,Hampstead,State Representative,34F,,Scatter,1
+Rockingham,Kingston,State Representative,34F,R,Pearson,1863
+Rockingham,Kingston,State Representative,34F,D,Tilton,1237
+Rockingham,Kingston,State Representative,34F,,Scatter,1
+Rockingham,Londonderry,State Representative,35F,R,Soti,6109
+Rockingham,Londonderry,State Representative,35F,D,Gehling,5279
+Rockingham,Londonderry,State Representative,35F,,Scatter,6
+Rockingham,Windham,State Representative,35F,R,Soti,4257
+Rockingham,Windham,State Representative,35F,D,Gehling,2987
+Rockingham,Windham,State Representative,35F,,Scatter,10
+Rockingham,Hampton Falls,State Representative,36F,R,Bernardy,785
+Rockingham,Hampton Falls,State Representative,36F,D,Kosta,612
+Rockingham,Kensington,State Representative,36F,R,Bernardy,614
+Rockingham,Kensington,State Representative,36F,D,Kosta,604
+Rockingham,Kensington,State Representative,36F,,Scatter,1
+Rockingham,Newton,State Representative,36F,R,Bernardy,1328
+Rockingham,Newton,State Representative,36F,D,Kosta,898
+Rockingham,Plaistow,State Representative,36F,R,Bernardy,1902
+Rockingham,Plaistow,State Representative,36F,D,Kosta,1393
+Rockingham,Plaistow,State Representative,36F,,Scatter,2
+Rockingham,South Hampton,State Representative,36F,R,Bernardy,291
+Rockingham,South Hampton,State Representative,36F,D,Kosta,216
+Rockingham,New Castle,State Representative,37F,D,Meuse,483
+Rockingham,New Castle,State Representative,37F,,Scatter,5
+Rockingham,Newington,State Representative,37F,D,Meuse,259
+Rockingham,Newington,State Representative,37F,,Scatter,2
+Rockingham,Portsmouth Ward 1,State Representative,37F,D,Meuse,1714
+Rockingham,Portsmouth Ward 1,State Representative,37F,,Scatter,12
+Rockingham,Portsmouth Ward 5,State Representative,37F,D,Meuse,1809
+Rockingham,Portsmouth Ward 5,State Representative,37F,,Scatter,37
+Rockingham,Greenland,State Representative,38F,R,Lincoln,952
+Rockingham,Greenland,State Representative,38F,D,Balboni,1193
+Rockingham,Greenland,State Representative,38F,I,Borne,202
+Rockingham,Greenland,State Representative,38F,,Scatter,1
+Rockingham,North Hampton,State Representative,38F,R,Lincoln,1126
+Rockingham,North Hampton,State Representative,38F,D,Balboni,1426
+Rockingham,North Hampton,State Representative,38F,I,Borne,213
+Rockingham,North Hampton,State Representative,38F,,Scatter,3
+Rockingham,Rye,State Representative,38F,R,Lincoln,1395
+Rockingham,Rye,State Representative,38F,D,Balboni,1867
+Rockingham,Rye,State Representative,38F,I,Borne,407
+Rockingham,Rye,State Representative,38F,,Scatter,1
+Rockingham,Portsmouth Ward 2,State Representative,39F,R,Polidura,590
+Rockingham,Portsmouth Ward 2,State Representative,39F,D,Raynolds,1992
+Rockingham,Portsmouth Ward 2,State Representative,39F,,Scatter,1
+Rockingham,Portsmouth Ward 3,State Representative,39F,R,Polidura,717
+Rockingham,Portsmouth Ward 3,State Representative,39F,D,Raynolds,1453
+Rockingham,Portsmouth Ward 3,State Representative,39F,,Scatter,4
+Rockingham,Portsmouth Ward 4,State Representative,39F,R,Polidura,723
+Rockingham,Portsmouth Ward 4,State Representative,39F,D,Raynolds,1215
+Rockingham,Portsmouth Ward 4,State Representative,39F,,Scatter,4
+Rockingham,Hampton,State Representative,40F,R,Janvrin,4360
+Rockingham,Hampton,State Representative,40F,D,de Vries,4628
+Rockingham,Hampton,State Representative,40F,,Scatter,6
+Rockingham,Seabrook,State Representative,40F,R,Janvrin,2112
+Rockingham,Seabrook,State Representative,40F,D,de Vries,1317
+Rockingham,Seabrook,State Representative,40F,,Scatter,8
+Strafford,Farmington,State Representative,1,R,Pitre,1253
+Strafford,Farmington,State Representative,1,R,Horgan,1259
+Strafford,Farmington,State Representative,1,D,Krasner,1142
+Strafford,Farmington,State Representative,1,D,Howard,925
+Strafford,Farmington,State Representative,1,,Scatter,2
+Strafford,Milton,State Representative,2,R,Bailey,1093
+Strafford,Milton,State Representative,2,R,Burnham,1061
+Strafford,Milton,State Representative,2,R,Granger,1010
+Strafford,Milton,State Representative,2,D,Brown,678
+Strafford,Milton,State Representative,2,D,Foster,615
+Strafford,Milton,State Representative,2,D,Hubbard,637
+Strafford,Rochester Ward 5,State Representative,2,R,Bailey,1023
+Strafford,Rochester Ward 5,State Representative,2,R,Burnham,996
+Strafford,Rochester Ward 5,State Representative,2,R,Granger,1031
+Strafford,Rochester Ward 5,State Representative,2,D,Brown,846
+Strafford,Rochester Ward 5,State Representative,2,D,Foster,873
+Strafford,Rochester Ward 5,State Representative,2,D,Hubbard,927
+Strafford,Rochester Ward 5,State Representative,2,,Scatter,10
+Strafford,Middleton,State Representative,3,R,Bickford,557
+Strafford,Middleton,State Representative,3,D,Wessel,234
+Strafford,Middleton,State Representative,3,,Scatter,1
+Strafford,New Durham,State Representative,3,R,Bickford,912
+Strafford,New Durham,State Representative,3,D,Wessel,580
+Strafford,New Durham,State Representative,3,,Scatter,6
+Strafford,Barrington,State Representative,4,R,Miller,2007
+Strafford,Barrington,State Representative,4,R,Turcotte,2204
+Strafford,Barrington,State Representative,4,R,Wuelper,1966
+Strafford,Barrington,State Representative,4,,Scatter,3
+Strafford,Strafford,State Representative,4,R,Miller,1047
+Strafford,Strafford,State Representative,4,R,Turcotte,1077
+Strafford,Strafford,State Representative,4,R,Wuelper,1161
+Strafford,Strafford,State Representative,4,,Scatter,2
+Strafford,Barrington,State Representative,4,D,Howard,2229
+Strafford,Barrington,State Representative,4,D,Levesque,2356
+Strafford,Barrington,State Representative,4,D,Towne,2277
+Strafford,Strafford,State Representative,4,D,Howard,1011
+Strafford,Strafford,State Representative,4,D,Levesque,1006
+Strafford,Strafford,State Representative,4,D,Towne,958
+Strafford,Rochester Ward 1,State Representative,5,"JR., R",Kaczynski,1197
+Strafford,Rochester Ward 1,State Representative,5,D,Turner,1123
+Strafford,Rochester Ward 1,State Representative,5,,Scatter,2
+Strafford,Rochester Ward 2,State Representative,6,R,Newton,1111
+Strafford,Rochester Ward 2,State Representative,6,D,Cavalaro,1033
+Strafford,Rochester Ward 2,State Representative,6,,Scatter,2
+Strafford,Rochester Ward 3,State Representative,7,R,Ankarberg,1131
+Strafford,Rochester Ward 3,State Representative,7,D,Sorenson,896
+Strafford,Rochester Ward 3,State Representative,7,,Scatter,1
+Strafford,Rochester Ward 4,State Representative,8,R,Walker,971
+Strafford,Rochester Ward 4,State Representative,8,D,Grassie,970
+Strafford,Recount,State Representative,8,R,Walker,970
+Strafford,Recount,State Representative,8,D,Grassie,970
+Strafford,Rochester Ward 6,State Representative,9,R,Phinney,887
+Strafford,Rochester Ward 6,State Representative,9,D,Dexter,871
+Strafford,Rochester Ward 6,State Representative,9,,Scatter,1
+Strafford,Recount,State Representative,9,R,Phinney,887
+Strafford,Recount,State Representative,9,D,Dexter,872
+Strafford,Durham,State Representative,10,R,Olszewski,1088
+Strafford,Durham,State Representative,10,R,Sylvestre,993
+Strafford,Durham,State Representative,10,R,Zetterstrom,1032
+Strafford,Durham,State Representative,10,R,McDermott,1101
+Strafford,Durham,State Representative,10,D,Kenney,4332
+Strafford,Durham,State Representative,10,D,Selig,4373
+Strafford,Durham,State Representative,10,D,Smith,4321
+Strafford,Durham,State Representative,10,D,Horrigan,4215
+Strafford,Durham,State Representative,10,,Scatter,16
+Strafford,Dover Ward 4,State Representative,11,R,Lehman,936
+Strafford,Dover Ward 4,State Representative,11,D,Menear,1488
+Strafford,Dover Ward 4,State Representative,11,D,Southworth,1589
+Strafford,Dover Ward 4,State Representative,11,D,Wall,1624
+Strafford,Dover Ward 4,State Representative,11,,Scatter,12
+Strafford,Lee,State Representative,11,R,Lehman,858
+Strafford,Lee,State Representative,11,D,Menear,1313
+Strafford,Lee,State Representative,11,D,Southworth,1350
+Strafford,Lee,State Representative,11,D,Wall,1502
+Strafford,Lee,State Representative,11,,Scatter,1
+Strafford,Madbury,State Representative,11,R,Lehman,400
+Strafford,Madbury,State Representative,11,D,Menear,538
+Strafford,Madbury,State Representative,11,D,Southworth,574
+Strafford,Madbury,State Representative,11,D,Wall,667
+Strafford,Rollinsford,State Representative,12,R,Hilton,570
+Strafford,Rollinsford,State Representative,12,R,McMahon,535
+Strafford,Rollinsford,State Representative,12,R,Spencer,550
+Strafford,Rollinsford,State Representative,12,R,Boyle,569
+Strafford,Rollinsford,State Representative,12,"C., D",Rich,728
+Strafford,Rollinsford,State Representative,12,"J., D",Rich,666
+Strafford,Rollinsford,State Representative,12,D,Vincent,697
+Strafford,Rollinsford,State Representative,12,D,Cannon,681
+Strafford,Somersworth Ward 1,State Representative,12,R,Hilton,507
+Strafford,Somersworth Ward 1,State Representative,12,R,McMahon,426
+Strafford,Somersworth Ward 1,State Representative,12,R,Spencer,472
+Strafford,Somersworth Ward 1,State Representative,12,R,Boyle,432
+Strafford,Somersworth Ward 1,State Representative,12,"C., D",Rich,578
+Strafford,Somersworth Ward 1,State Representative,12,"J., D",Rich,539
+Strafford,Somersworth Ward 1,State Representative,12,D,Vincent,618
+Strafford,Somersworth Ward 1,State Representative,12,D,Cannon,588
+Strafford,Somersworth Ward 2,State Representative,12,R,Hilton,386
+Strafford,Somersworth Ward 2,State Representative,12,R,McMahon,343
+Strafford,Somersworth Ward 2,State Representative,12,R,Spencer,335
+Strafford,Somersworth Ward 2,State Representative,12,R,Boyle,338
+Strafford,Somersworth Ward 2,State Representative,12,"C., D",Rich,412
+Strafford,Somersworth Ward 2,State Representative,12,"J., D",Rich,377
+Strafford,Somersworth Ward 2,State Representative,12,D,Vincent,442
+Strafford,Somersworth Ward 2,State Representative,12,D,Cannon,398
+Strafford,Somersworth Ward 3,State Representative,12,R,Hilton,367
+Strafford,Somersworth Ward 3,State Representative,12,R,McMahon,347
+Strafford,Somersworth Ward 3,State Representative,12,R,Spencer,362
+Strafford,Somersworth Ward 3,State Representative,12,R,Boyle,350
+Strafford,Somersworth Ward 3,State Representative,12,"C., D",Rich,408
+Strafford,Somersworth Ward 3,State Representative,12,"J., D",Rich,377
+Strafford,Somersworth Ward 3,State Representative,12,D,Vincent,404
+Strafford,Somersworth Ward 3,State Representative,12,D,Cannon,408
+Strafford,Somersworth Ward 4,State Representative,12,R,Hilton,407
+Strafford,Somersworth Ward 4,State Representative,12,R,McMahon,338
+Strafford,Somersworth Ward 4,State Representative,12,R,Spencer,387
+Strafford,Somersworth Ward 4,State Representative,12,R,Boyle,351
+Strafford,Somersworth Ward 4,State Representative,12,"C., D",Rich,618
+Strafford,Somersworth Ward 4,State Representative,12,"J., D",Rich,569
+Strafford,Somersworth Ward 4,State Representative,12,D,Vincent,630
+Strafford,Somersworth Ward 4,State Representative,12,D,Cannon,612
+Strafford,Somersworth Ward 5,State Representative,12,R,Hilton,233
+Strafford,Somersworth Ward 5,State Representative,12,R,McMahon,201
+Strafford,Somersworth Ward 5,State Representative,12,R,Spencer,203
+Strafford,Somersworth Ward 5,State Representative,12,R,Boyle,205
+Strafford,Somersworth Ward 5,State Representative,12,"C., D",Rich,351
+Strafford,Somersworth Ward 5,State Representative,12,"J., D",Rich,332
+Strafford,Somersworth Ward 5,State Representative,12,D,Vincent,362
+Strafford,Somersworth Ward 5,State Representative,12,D,Cannon,356
+Strafford,Dover Ward 6,State Representative,13,R,Blaisdell,964
+Strafford,Dover Ward 6,State Representative,13,D,Bixby,1321
+Strafford,Dover Ward 6,State Representative,13,,Scatter,3
+Strafford,Dover Ward 1,State Representative,14,D,Schmidt,1894
+Strafford,Dover Ward 1,State Representative,14,,Scatter,16
+Strafford,Dover Ward 2,State Representative,15,D,Conlin,1791
+Strafford,Dover Ward 2,State Representative,15,,Scatter,21
+Strafford,Dover Ward 3,State Representative,15,D,Conlin,1123
+Strafford,Dover Ward 3,State Representative,15,,Scatter,1766
+Strafford,Dover Ward 5,State Representative,17,D,LaMontagne,1547
+Strafford,Dover Ward 5,State Representative,17,,Scatter,24
+Strafford,Barrington,State Representative,18,R,Harrington,2172
+Strafford,Barrington,State Representative,18,D,Cilley,2453
+Strafford,Middleton,State Representative,18,R,Harrington,529
+Strafford,Middleton,State Representative,18,D,Cilley,264
+Strafford,New Durham,State Representative,18,R,Harrington,969
+Strafford,New Durham,State Representative,18,D,Cilley,545
+Strafford,New Durham,State Representative,18,,Scatter,2
+Strafford,Strafford,State Representative,18,R,Harrington,1255
+Strafford,Strafford,State Representative,18,D,Cilley,1027
+Strafford,Rochester Ward 1,State Representative,19F,R,Connor,1084
+Strafford,Rochester Ward 1,State Representative,19F,R,Groen,1019
+Strafford,Rochester Ward 1,State Representative,19F,R,Potenza,1039
+Strafford,Rochester Ward 1,State Representative,19F,D,Fitzpatrick,1103
+Strafford,Rochester Ward 1,State Representative,19F,D,Herman,1001
+Strafford,Rochester Ward 1,State Representative,19F,D,Minihan,971
+Strafford,Rochester Ward 1,State Representative,19F,,Scatter,3
+Strafford,Rochester Ward 2,State Representative,19F,R,Connor,987
+Strafford,Rochester Ward 2,State Representative,19F,R,Groen,987
+Strafford,Rochester Ward 2,State Representative,19F,R,Potenza,963
+Strafford,Rochester Ward 2,State Representative,19F,D,Fitzpatrick,1020
+Strafford,Rochester Ward 2,State Representative,19F,D,Herman,921
+Strafford,Rochester Ward 2,State Representative,19F,D,Minihan,911
+Strafford,Rochester Ward 2,State Representative,19F,,Scatter,4
+Strafford,Rochester Ward 3,State Representative,19F,R,Connor,1046
+Strafford,Rochester Ward 3,State Representative,19F,R,Groen,1020
+Strafford,Rochester Ward 3,State Representative,19F,R,Potenza,1044
+Strafford,Rochester Ward 3,State Representative,19F,D,Fitzpatrick,850
+Strafford,Rochester Ward 3,State Representative,19F,D,Herman,812
+Strafford,Rochester Ward 3,State Representative,19F,D,Minihan,765
+Strafford,Rochester Ward 4,State Representative,19F,R,Connor,880
+Strafford,Rochester Ward 4,State Representative,19F,R,Groen,869
+Strafford,Rochester Ward 4,State Representative,19F,R,Potenza,869
+Strafford,Rochester Ward 4,State Representative,19F,D,Fitzpatrick,923
+Strafford,Rochester Ward 4,State Representative,19F,D,Herman,871
+Strafford,Rochester Ward 4,State Representative,19F,D,Minihan,872
+Strafford,Rochester Ward 6,State Representative,19F,R,Connor,794
+Strafford,Rochester Ward 6,State Representative,19F,R,Groen,744
+Strafford,Rochester Ward 6,State Representative,19F,R,Potenza,786
+Strafford,Rochester Ward 6,State Representative,19F,D,Fitzpatrick,864
+Strafford,Rochester Ward 6,State Representative,19F,D,Herman,797
+Strafford,Rochester Ward 6,State Representative,19F,D,Minihan,779
+Strafford,Rochester Ward 6,State Representative,19F,,Scatter,6
+Strafford,Dover Ward 4,State Representative,20F,R,Racic,921
+Strafford,Dover Ward 4,State Representative,20F,D,Howland,1637
+Strafford,Dover Ward 4,State Representative,20F,,Scatter,1
+Strafford,Durham,State Representative,20F,R,Racic,1146
+Strafford,Durham,State Representative,20F,D,Howland,4499
+Strafford,Durham,State Representative,20F,,Scatter,1
+Strafford,Lee,State Representative,20F,R,Racic,825
+Strafford,Lee,State Representative,20F,D,Howland,1489
+Strafford,Lee,State Representative,20F,,Scatter,1
+Strafford,Madbury,State Representative,20F,R,Racic,391
+Strafford,Madbury,State Representative,20F,D,Howland,618
+Strafford,Dover Ward 1,State Representative,21F,R,Caggiano,479
+Strafford,Dover Ward 1,State Representative,21F,R,Castaldo,497
+Strafford,Dover Ward 1,State Representative,21F,R,Hastings,529
+Strafford,Dover Ward 1,State Representative,21F,D,Bay,1709
+Strafford,Dover Ward 1,State Representative,21F,D,Smith,1552
+Strafford,Dover Ward 1,State Representative,21F,D,Treleaven,1607
+Strafford,Dover Ward 1,State Representative,21F,,Scatter,1
+Strafford,Dover Ward 2,State Representative,21F,R,Caggiano,554
+Strafford,Dover Ward 2,State Representative,21F,R,Castaldo,564
+Strafford,Dover Ward 2,State Representative,21F,R,Hastings,560
+Strafford,Dover Ward 2,State Representative,21F,D,Bay,1628
+Strafford,Dover Ward 2,State Representative,21F,D,Smith,1506
+Strafford,Dover Ward 2,State Representative,21F,D,Treleaven,1555
+Strafford,Dover Ward 2,State Representative,21F,,Scatter,2
+Strafford,Dover Ward 3,State Representative,21F,R,Caggiano,1012
+Strafford,Dover Ward 3,State Representative,21F,R,Castaldo,1024
+Strafford,Dover Ward 3,State Representative,21F,R,Hastings,1049
+Strafford,Dover Ward 3,State Representative,21F,D,Bay,1729
+Strafford,Dover Ward 3,State Representative,21F,D,Smith,1584
+Strafford,Dover Ward 3,State Representative,21F,D,Treleaven,1616
+Strafford,Dover Ward 3,State Representative,21F,,Scatter,2
+Strafford,Dover Ward 5,State Representative,21F,R,Caggiano,650
+Strafford,Dover Ward 5,State Representative,21F,R,Castaldo,681
+Strafford,Dover Ward 5,State Representative,21F,R,Hastings,727
+Strafford,Dover Ward 5,State Representative,21F,D,Bay,1292
+Strafford,Dover Ward 5,State Representative,21F,D,Smith,1183
+Strafford,Dover Ward 5,State Representative,21F,D,Treleaven,1241
+Strafford,Dover Ward 5,State Representative,21F,,Scatter,1
+Strafford,Dover Ward 6,State Representative,21F,R,Caggiano,831
+Strafford,Dover Ward 6,State Representative,21F,R,Castaldo,876
+Strafford,Dover Ward 6,State Representative,21F,R,Hastings,888
+Strafford,Dover Ward 6,State Representative,21F,D,Bay,1316
+Strafford,Dover Ward 6,State Representative,21F,D,Smith,1151
+Strafford,Dover Ward 6,State Representative,21F,D,Treleaven,1222
+Strafford,Dover Ward 6,State Representative,21F,,Scatter,3
+Sullivan,Grantham,State Representative,1,R,McIntire,647
+Sullivan,Grantham,State Representative,1,D,Sullivan,1417
+Sullivan,Grantham,State Representative,1,,Scatter,1
+Sullivan,Cornish,State Representative,2,R,Drye,414
+Sullivan,Cornish,State Representative,2,D,Palmer,523
+Sullivan,Cornish,State Representative,2,,Scatter,1
+Sullivan,Plainfield,State Representative,2,R,Drye,489
+Sullivan,Plainfield,State Representative,2,D,Palmer,857
+Sullivan,Plainfield,State Representative,2,,Scatter,0
+Sullivan,Charlestown,State Representative,3,R,Rollins,854
+Sullivan,Charlestown,State Representative,3,R,Smith,979
+Sullivan,Charlestown,State Representative,3,R,Spilsbury,897
+Sullivan,Charlestown,State Representative,3,D,Irwin,688
+Sullivan,Charlestown,State Representative,3,D,Streeter,716
+Sullivan,Charlestown,State Representative,3,D,Wadensten,592
+Sullivan,Newport,State Representative,3,R,Rollins,1421
+Sullivan,Newport,State Representative,3,R,Smith,1211
+Sullivan,Newport,State Representative,3,R,Spilsbury,997
+Sullivan,Newport,State Representative,3,D,Irwin,973
+Sullivan,Newport,State Representative,3,D,Streeter,726
+Sullivan,Newport,State Representative,3,D,Wadensten,739
+Sullivan,Newport,State Representative,3,,Scatter,2
+Sullivan,Unity,State Representative,3,R,Rollins,409
+Sullivan,Unity,State Representative,3,R,Smith,342
+Sullivan,Unity,State Representative,3,R,Spilsbury,305
+Sullivan,Unity,State Representative,3,D,Irwin,213
+Sullivan,Unity,State Representative,3,D,Streeter,186
+Sullivan,Unity,State Representative,3,D,Wadensten,181
+Sullivan,Unity,State Representative,3,,Scatter,1
+Sullivan,Acworth,State Representative,4,R,Aron,260
+Sullivan,Acworth,State Representative,4,D,Cragin,212
+Sullivan,Acworth,State Representative,4,,Scatter,0
+Sullivan,Goshen,State Representative,4,R,Aron,251
+Sullivan,Goshen,State Representative,4,D,Cragin,106
+Sullivan,Goshen,State Representative,4,,Scatter,3
+Sullivan,Langdon,State Representative,4,R,Aron,185
+Sullivan,Langdon,State Representative,4,D,Cragin,134
+Sullivan,Langdon,State Representative,4,,Scatter,0
+Sullivan,Lempster,State Representative,4,R,Aron,367
+Sullivan,Lempster,State Representative,4,D,Cragin,199
+Sullivan,Lempster,State Representative,4,,Scatter,0
+Sullivan,Washington,State Representative,4,R,Aron,420
+Sullivan,Washington,State Representative,4,D,Cragin,243
+Sullivan,Springfield,State Representative,5,R,Grant,369
+Sullivan,Springfield,State Representative,5,D,Tanner,371
+Sullivan,Sunapee,State Representative,5,R,Grant,993
+Sullivan,Sunapee,State Representative,5,D,Tanner,1021
+Sullivan,Claremont Ward 1,State Representative,6,R,Herrell,451
+Sullivan,Claremont Ward 1,State Representative,6,R,McCarthy,436
+Sullivan,Claremont Ward 1,State Representative,6,R,Stapleton,454
+Sullivan,Claremont Ward 1,State Representative,6,,Scatter,0
+Sullivan,Claremont Ward 2,State Representative,6,R,Herrell,684
+Sullivan,Claremont Ward 2,State Representative,6,R,McCarthy,665
+Sullivan,Claremont Ward 2,State Representative,6,R,Stapleton,714
+Sullivan,Claremont Ward 2,State Representative,6,,Scatter,0
+Sullivan,Claremont Ward 3,State Representative,6,R,Herrell,579
+Sullivan,Claremont Ward 3,State Representative,6,R,McCarthy,597
+Sullivan,Claremont Ward 3,State Representative,6,R,Stapleton,661
+Sullivan,Claremont Ward 3,State Representative,6,,Scatter,1
+Sullivan,Croydon,State Representative,6,R,Herrell,225
+Sullivan,Croydon,State Representative,6,R,McCarthy,256
+Sullivan,Croydon,State Representative,6,R,Stapleton,252
+Sullivan,Croydon,State Representative,6,,Scatter,0
+Sullivan,Claremont Ward 1,State Representative,6,D,Cloutier,590
+Sullivan,Claremont Ward 1,State Representative,6,D,Merchant,548
+Sullivan,Claremont Ward 1,State Representative,6,D,O'Hearne,538
+Sullivan,Claremont Ward 2,State Representative,6,D,Cloutier,835
+Sullivan,Claremont Ward 2,State Representative,6,D,Merchant,805
+Sullivan,Claremont Ward 2,State Representative,6,D,O'Hearne,762
+Sullivan,Claremont Ward 3,State Representative,6,D,Cloutier,674
+Sullivan,Claremont Ward 3,State Representative,6,D,Merchant,623
+Sullivan,Claremont Ward 3,State Representative,6,D,O'Hearne,604
+Sullivan,Croydon,State Representative,6,D,Cloutier,141
+Sullivan,Croydon,State Representative,6,D,Merchant,132
+Sullivan,Croydon,State Representative,6,D,O'Hearne,128
+Sullivan,Charlestown,State Representative,7F,R,Drye,985
+Sullivan,Charlestown,State Representative,7F,D,Bourne,815
+Sullivan,Charlestown,State Representative,7F,,Scatter,1
+Sullivan,Cornish,State Representative,7F,R,Drye,404
+Sullivan,Cornish,State Representative,7F,D,Bourne,543
+Sullivan,Cornish,State Representative,7F,,Scatter,1
+Sullivan,Newport,State Representative,7F,R,Drye,1341
+Sullivan,Newport,State Representative,7F,D,Bourne,949
+Sullivan,Newport,State Representative,7F,,Scatter,2
+Sullivan,Plainfield,State Representative,7F,R,Drye,472
+Sullivan,Plainfield,State Representative,7F,D,Bourne,899
+Sullivan,Plainfield,State Representative,7F,,Scatter,0
+Sullivan,Unity,State Representative,7F,R,Drye,401
+Sullivan,Unity,State Representative,7F,D,Bourne,232
+Sullivan,Unity,State Representative,7F,,Scatter,0
+Sullivan,Acworth,State Representative,8F,R,Stone,207
+Sullivan,Acworth,State Representative,8F,R,Bettencourt,197
+Sullivan,Acworth,State Representative,8F,,Scatter,0
+Sullivan,Claremont Ward 1,State Representative,8F,R,Stone,470
+Sullivan,Claremont Ward 1,State Representative,8F,R,Bettencourt,441
+Sullivan,Claremont Ward 1,State Representative,8F,,Scatter,0
+Sullivan,Claremont Ward 2,State Representative,8F,R,Stone,731
+Sullivan,Claremont Ward 2,State Representative,8F,R,Bettencourt,693
+Sullivan,Claremont Ward 2,State Representative,8F,,Scatter,0
+Sullivan,Claremont Ward 3,State Representative,8F,R,Stone,662
+Sullivan,Claremont Ward 3,State Representative,8F,R,Bettencourt,606
+Sullivan,Claremont Ward 3,State Representative,8F,,Scatter,3
+Sullivan,Croydon,State Representative,8F,R,Stone,225
+Sullivan,Croydon,State Representative,8F,R,Bettencourt,235
+Sullivan,Croydon,State Representative,8F,,Scatter,0
+Sullivan,Goshen,State Representative,8F,R,Stone,198
+Sullivan,Goshen,State Representative,8F,R,Bettencourt,209
+Sullivan,Goshen,State Representative,8F,,Scatter,1
+Sullivan,Langdon,State Representative,8F,R,Stone,156
+Sullivan,Langdon,State Representative,8F,R,Bettencourt,148
+Sullivan,Langdon,State Representative,8F,,Scatter,0
+Sullivan,Lempster,State Representative,8F,R,Stone,310
+Sullivan,Lempster,State Representative,8F,R,Bettencourt,296
+Sullivan,Lempster,State Representative,8F,,Scatter,0
+Sullivan,Springfield,State Representative,8F,R,Stone,327
+Sullivan,Springfield,State Representative,8F,R,Bettencourt,350
+Sullivan,Springfield,State Representative,8F,,Scatter,0
+Sullivan,Sunapee,State Representative,8F,R,Stone,831
+Sullivan,Sunapee,State Representative,8F,R,Bettencourt,906
+Sullivan,Sunapee,State Representative,8F,,Scatter,2
+Sullivan,Washington,State Representative,8F,R,Stone,319
+Sullivan,Washington,State Representative,8F,R,Bettencourt,352
+Sullivan,Washington,State Representative,8F,,Scatter,0
+Sullivan,Acworth,State Representative,8F,"JR., D",Lovett,204
+Sullivan,Acworth,State Representative,8F,D,Damon,218
+Sullivan,Claremont Ward 1,State Representative,8F,"JR., D",Lovett,550
+Sullivan,Claremont Ward 1,State Representative,8F,D,Damon,573
+Sullivan,Claremont Ward 2,State Representative,8F,"JR., D",Lovett,801
+Sullivan,Claremont Ward 2,State Representative,8F,D,Damon,783
+Sullivan,Claremont Ward 3,State Representative,8F,"JR., D",Lovett,620
+Sullivan,Claremont Ward 3,State Representative,8F,D,Damon,628
+Sullivan,Croydon,State Representative,8F,"JR., D",Lovett,137
+Sullivan,Croydon,State Representative,8F,D,Damon,172
+Sullivan,Goshen,State Representative,8F,"JR., D",Lovett,102
+Sullivan,Goshen,State Representative,8F,D,Damon,117
+Sullivan,Langdon,State Representative,8F,"JR., D",Lovett,129
+Sullivan,Langdon,State Representative,8F,D,Damon,126
+Sullivan,Lempster,State Representative,8F,"JR., D",Lovett,172
+Sullivan,Lempster,State Representative,8F,D,Damon,199
+Sullivan,Springfield,State Representative,8F,"JR., D",Lovett,324
+Sullivan,Springfield,State Representative,8F,D,Damon,370
+Sullivan,Sunapee,State Representative,8F,"JR., D",Lovett,899
+Sullivan,Sunapee,State Representative,8F,D,Damon,1031
+Sullivan,Washington,State Representative,8F,"JR., D",Lovett,241
+Sullivan,Washington,State Representative,8F,D,Damon,237

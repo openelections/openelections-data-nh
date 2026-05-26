@@ -19,8 +19,8 @@ _SAFE_CHAR = st.characters(
     whitelist_characters=" .'-",
     blacklist_characters="\x00\r\n\t",
 )
-# Exclude values that ParserConfig.skip_town_values defaults to, so the
-# strategy doesn't generate "towns" that the parser would correctly skip.
+# Exclude values that CongressionalConfig.skip_town_values defaults to, so
+# the strategy doesn't generate "towns" that the parser would correctly skip.
 _RESERVED_TOWN_NAMES = {"TOTALS", "Totals", "Total"}
 
 safe_text = (
